@@ -1,0 +1,1400 @@
+title :  Temple Run 2
+appId :  com.imangi.templerun2
+score :  4.457132
+installs : 500,000,000+
+ratings :  10017025
+reviews :  391452
+
+title :  Free Fire
+appId :  com.dts.freefireth
+score :  4.0355687
+installs : 1,000,000,000+
+ratings :  114340881
+reviews :  586297
+
+title :  PUBG MOBILE
+appId :  com.tencent.ig
+score :  4.0776806
+installs : 500,000,000+
+ratings :  44114759
+reviews :  828870
+
+title :  Hunter Assassin
+appId :  com.rubygames.assassin
+score :  4.3175325
+installs : 100,000,000+
+ratings :  2956646
+reviews :  30443
+
+title :  Snow Race!!
+appId :  jp.co.goodroid.hyper.snow
+score :  3.290909
+installs : 50,000,000+
+ratings :  37087
+reviews :  951
+
+title :  My Mini Mart
+appId :  com.KisekiGames.smart
+score :  4.2926044
+installs : 50,000,000+
+ratings :  541346
+reviews :  5429
+
+title :  Snake.io - Fun Snake .io Games
+appId :  com.amelosinteractive.snake
+score :  4.3866687
+installs : 100,000,000+
+ratings :  889440
+reviews :  25770
+
+title :  Rope Hero: Vice Town
+appId :  com.mgc.RopeHero.ViceTown
+score :  4.131286
+installs : 100,000,000+
+ratings :  1480158
+reviews :  8656
+
+title :  Count Masters: Stickman Games
+appId :  freeplay.crowdrun.com
+score :  4.0874643
+installs : 100,000,000+
+ratings :  441940
+reviews :  15842
+
+title :  Stacky Dash
+appId :  com.Born2Play.StackyDash
+score :  3.639519
+installs : 100,000,000+
+ratings :  261189
+reviews :  9882
+
+title :  Robot Car Transformation Game
+appId :  com.jura.robot.battle.transformation
+score :  4.11
+installs : 5,000,000+
+ratings :  3965
+reviews :  63
+
+title :  Pure Sniper: Gun Shooter Games
+appId :  com.miniclip.realsniper
+score :  4.5632267
+installs : 10,000,000+
+ratings :  925263
+reviews :  12156
+
+title :  Talking Tom Hero Dash
+appId :  com.outfit7.herodash
+score :  4.1783457
+installs : 100,000,000+
+ratings :  1633510
+reviews :  10911
+
+title :  Bazooka Boy
+appId :  com.Lightneer.BazookaBoy
+score :  4.345365
+installs : 50,000,000+
+ratings :  716640
+reviews :  14402
+
+title :  Sniper Fury: Shooting Game
+appId :  com.gameloft.android.ANMP.GloftFWHM
+score :  4.293815
+installs : 100,000,000+
+ratings :  1046404
+reviews :  20560
+
+title :  Hit Master 3D - Knife Assassin
+appId :  com.hit.master
+score :  4.6544566
+installs : 100,000,000+
+ratings :  277895
+reviews :  6306
+
+title :  Talking Tom Gold Run
+appId :  com.outfit7.talkingtomgoldrun
+score :  4.2735543
+installs : 500,000,000+
+ratings :  5742396
+reviews :  51775
+
+title :  Sandwich Runner
+appId :  jp.co.dwango.HcgDW007SandwichRun
+score :  4.235474
+installs : 50,000,000+
+ratings :  48511
+reviews :  752
+
+title :  Kick The Buddy: Second Kick
+appId :  com.playgendary.ktbremaster
+score :  4.750667
+installs : 50,000,000+
+ratings :  880872
+reviews :  62689
+
+title :  Real Gangster Crime
+appId :  com.gta.real.gangster.crime
+score :  4.131579
+installs : 100,000,000+
+ratings :  1348433
+reviews :  9236
+
+title :  Free Fire MAX
+appId :  com.dts.freefiremax
+score :  4.1639686
+installs : 100,000,000+
+ratings :  16761987
+reviews :  43808
+
+title :  World War: Fight For Freedom
+appId :  com.horus.beach.head
+score :  4.410499
+installs : 10,000,000+
+ratings :  189201
+reviews :  3623
+
+title :  Payback 2 - The Battle Sandbox
+appId :  net.apex_designs.payback2
+score :  4.4434285
+installs : 100,000,000+
+ratings :  1803830
+reviews :  25032
+
+title :  Kung Fu karate: Fighting Games
+appId :  com.gzl.superhero.karatefighting.game
+score :  4.2327046
+installs : 50,000,000+
+ratings :  116700
+reviews :  649
+
+title :  Hide 'N Seek!
+appId :  com.seenax.HideAndSeek
+score :  3.665739
+installs : 100,000,000+
+ratings :  449225
+reviews :  10344
+
+title :  Snake Lite-Snake .io Game
+appId :  com.snake.io.slither.worms
+score :  4.6527777
+installs : 50,000,000+
+ratings :  185489
+reviews :  288
+
+title :  Steering Wheel Evolution
+appId :  com.hepagames.wheelevolution
+score :  4.7372265
+installs : 10,000,000+
+ratings :  47965
+reviews :  579
+
+title :  DEAD TARGET: Zombie Games 3D
+appId :  com.vng.g6.a.zombie
+score :  4.578199
+installs : 100,000,000+
+ratings :  2324981
+reviews :  55793
+
+title :  Bulldozer Race
+appId :  jp.co.goodroid.hyper.bulldozerrace
+score :  2.2673268
+installs : 10,000,000+
+ratings :  3254
+reviews :  318
+
+title :  Mashup Hero: Superhero Games
+appId :  com.bulkybrains.mashuphero
+score :  4.0466104
+installs : 10,000,000+
+ratings :  34761
+reviews :  504
+
+title :  Worms Zone .io - Hungry Snake
+appId :  com.wildspike.wormszone
+score :  4.3494983
+installs : 100,000,000+
+ratings :  2815799
+reviews :  6593
+
+title :  Sniper Mission Games Offline
+appId :  com.lf.sniper.gun.shooter.free.apps
+score :  4.5536585
+installs : 50,000,000+
+ratings :  161747
+reviews :  4082
+
+title :  PUBG MOBILE LITE
+appId :  com.tencent.iglite
+score :  4.0373864
+installs : 100,000,000+
+ratings :  8313944
+reviews :  13827
+
+title :  Snake Battle: Color Mode
+appId :  com.mikehill.tanchishelaizhan
+score :  4.12
+installs : 10,000,000+
+ratings :  19465
+reviews :  170
+
+title :  Number Master: Run and merge
+appId :  com.kayac.level_up_number
+score :  4.3309355
+installs : 10,000,000+
+ratings :  51794
+reviews :  349
+
+title :  FPS Gun Shooting Games offline
+appId :  com.fun.games.commando.black.shadow
+score :  4.2121687
+installs : 100,000,000+
+ratings :  618669
+reviews :  2639
+
+title :  War Machines：Tanks Battle Game
+appId :  com.fungames.battletanksbeta
+score :  4.3503923
+installs : 100,000,000+
+ratings :  1411466
+reviews :  47288
+
+title :  Archer Attack 3D: Shooter War
+appId :  com.mg.bowman.attack3d.archer
+score :  4.8259125
+installs : 10,000,000+
+ratings :  309459
+reviews :  1424
+
+title :  I, The One - Fun Fighting Game
+appId :  vh.one
+score :  4.575258
+installs : 50,000,000+
+ratings :  242757
+reviews :  4815
+
+title :  Ps1 Epsxe Emulator Arcade MAME
+appId :  ps1.epsxe.emulator.arcade.mame
+score :  4.3396225
+installs : 1,000,000+
+ratings :  6961
+reviews :  20
+
+title :  Kick the Buddy
+appId :  com.playgendary.kickthebuddy
+score :  4.281279
+installs : 100,000,000+
+ratings :  3529029
+reviews :  194684
+
+title :  Last Hope - Zombie Sniper 3D
+appId :  com.JESoftware.ZombieDefence
+score :  4.507407
+installs : 10,000,000+
+ratings :  125149
+reviews :  9847
+
+title :  MaskGun: FPS Shooting Gun Game
+appId :  com.junesoftware.maskgun
+score :  4.1060996
+installs : 50,000,000+
+ratings :  594440
+reviews :  12977
+
+title :  Talking Tom Time Rush
+appId :  com.outfit7.talkingtomtimerush
+score :  4.1049385
+installs : 10,000,000+
+ratings :  66061
+reviews :  292
+
+title :  Hide in The Backroom: Noclip
+appId :  hide.seek.room
+score :  4.1969695
+installs : 1,000,000+
+ratings :  1279
+reviews :  31
+
+title :  FPS Online Strike:PVP Shooter
+appId :  com.ta.online.strike.fps
+score :  4.566092
+installs : 10,000,000+
+ratings :  65461
+reviews :  968
+
+title :  Superhero Car Monster Color
+appId :  com.fc.tt.pl.superhero.car.merge.master
+score :  4.25
+installs : 1,000,000+
+ratings :  1371
+reviews :  5
+
+title :  Dude Theft Wars: Offline games
+appId :  com.PoxelStudios.DudeTheftAuto
+score :  4.2821274
+installs : 100,000,000+
+ratings :  1163001
+reviews :  18087
+
+title :  Chaos Road: Combat Car Racing
+appId :  com.Zeeppo.ChaosRoad
+score :  4.5412087
+installs : 10,000,000+
+ratings :  69082
+reviews :  1922
+
+title :  War Robots Multiplayer Battles
+appId :  com.pixonic.wwr
+score :  4.3003426
+installs : 100,000,000+
+ratings :  4728732
+reviews :  261928
+
+title :  Mad Skills BMX 2
+appId :  com.turborilla.bmx2
+score :  4.227603
+installs : 10,000,000+
+ratings :  149446
+reviews :  6761
+
+title :  Rope Hero: Mafia City Wars
+appId :  com.naxeex.ropehero.mafia.city.wars
+score :  4.06
+installs : 1,000,000+
+ratings :  14724
+reviews :  27
+
+title :  Supreme Duelist Stickman
+appId :  com.Neurononfire.SupremeDuelist
+score :  4.577424
+installs : 100,000,000+
+ratings :  1645903
+reviews :  31099
+
+title :  Shadow Fight 2
+appId :  com.nekki.shadowfight
+score :  4.628708
+installs : 100,000,000+
+ratings :  15931524
+reviews :  279918
+
+title :  Epsxe Ps1 Emulator MAME Arcade
+appId :  epsxe.ps1.emulator.mame.arcade
+score :  4.4363637
+installs : 100,000+
+ratings :  3433
+reviews :  21
+
+title :  Sky Warriors: Airplane Games
+appId :  com.wildlifestudios.jet.airplane.games.sky.warriors
+score :  4.2057614
+installs : 10,000,000+
+ratings :  94434
+reviews :  2665
+
+title :  Pet Run - Puppy Dog Game
+appId :  com.aceviral.petrun
+score :  4.588983
+installs : 50,000,000+
+ratings :  63405
+reviews :  2028
+
+title :  Endless Run: Jungle Escape 2
+appId :  com.cct.endlessrun.jungleescape
+score :  4.28
+installs : 10,000,000+
+ratings :  14969
+reviews :  96
+
+title :  420: Prison Survival
+appId :  com.yolostudio.squidsurvival
+score :  4.5
+installs : 50,000,000+
+ratings :  132822
+reviews :  808
+
+title :  Rio crime city: mafia gangster
+appId :  com.gta.truck.driver.city.crush
+score :  4.319783
+installs : 100,000,000+
+ratings :  290503
+reviews :  1346
+
+title :  FRAG Pro Shooter
+appId :  com.ohbibi.fps
+score :  4.2816877
+installs : 100,000,000+
+ratings :  1752562
+reviews :  30547
+
+title :  Traffic Run!: Driving Game
+appId :  com.geishatokyo.trafficrun
+score :  3.9366398
+installs : 100,000,000+
+ratings :  285540
+reviews :  17399
+
+title :  Robbery Bob - King of Sneak
+appId :  com.chillingo.robberybobfree.android.row
+score :  4.5306892
+installs : 100,000,000+
+ratings :  1618072
+reviews :  9824
+
+title :  Sniper Zombies: Offline Games
+appId :  sniper.gun.zombie.shooting
+score :  4.4585776
+installs : 10,000,000+
+ratings :  106942
+reviews :  3199
+
+title :  Bowmasters
+appId :  com.playgendary.bowmasters
+score :  4.603178
+installs : 50,000,000+
+ratings :  437478
+reviews :  20205
+
+title :  Superhero: Battle for Justice
+appId :  com.nllc.superhero
+score :  4.1074076
+installs : 50,000,000+
+ratings :  189474
+reviews :  1116
+
+title :  Indian Bikes And Cars Game 3D
+appId :  com.ShivajiGames.IndianBikeAndCarGame
+score :  4.56
+installs : 1,000,000+
+ratings :  140279
+reviews :  51
+
+title :  Zombie Frontier 3: Sniper FPS
+appId :  com.feelingtouch.zf3d
+score :  4.076368
+installs : 50,000,000+
+ratings :  487722
+reviews :  15556
+
+title :  Kiss Kiss: Spin the Bottle
+appId :  com.topface.kisskiss
+score :  4.7114496
+installs : 50,000,000+
+ratings :  1032251
+reviews :  16239
+
+title :  Modern Combat 5: mobile FPS
+appId :  com.gameloft.android.ANMP.GloftM5HM
+score :  4.539147
+installs : 100,000,000+
+ratings :  3944987
+reviews :  107515
+
+title :  Zombie Hunter: Sniper Games
+appId :  com.generamobile.zhunter.gp
+score :  4.402487
+installs : 50,000,000+
+ratings :  606509
+reviews :  10920
+
+title :  Among Us
+appId :  com.innersloth.spacemafia
+score :  3.7485743
+installs : 500,000,000+
+ratings :  13431792
+reviews :  528802
+
+title :  Sword Play! Ninja Slice Runner
+appId :  com.barsstudios.swordplay
+score :  4.5894737
+installs : 50,000,000+
+ratings :  105891
+reviews :  4930
+
+title :  Giant Rush!
+appId :  com.hypercarrot.giantrush
+score :  4.1942286
+installs : 100,000,000+
+ratings :  310681
+reviews :  5019
+
+title :  Monsters Gang 3D: beast fights
+appId :  com.alfaondo.monstersgang
+score :  4.5082173
+installs : 10,000,000+
+ratings :  107508
+reviews :  6165
+
+title :  Ninja’s Creed:3D Shooting Game
+appId :  ninja.creed.sniper.real3d.action.free.android
+score :  4.554564
+installs : 10,000,000+
+ratings :  535970
+reviews :  7614
+
+title :  Action Balls: Gyrosphere Race
+appId :  com.atesgamestudio.actionballs
+score :  4.09
+installs : 5,000,000+
+ratings :  5440
+reviews :  89
+
+title :  Mini Militia - War.io
+appId :  com.appsomniacs.da2
+score :  4.1957874
+installs : 100,000,000+
+ratings :  3685135
+reviews :  13669
+
+title :  Number.io
+appId :  com.xgame.number.io.stickman.tower
+score :  4.3069305
+installs : 5,000,000+
+ratings :  7308
+reviews :  77
+
+title :  Best Sniper Legacy: Shooter 3D
+appId :  com.tbegames.and.best_sniper_shooting
+score :  4.4663024
+installs : 10,000,000+
+ratings :  77507
+reviews :  2044
+
+title :  Cover Fire: Offline Shooting
+appId :  com.generagames.resistance
+score :  4.669889
+installs : 100,000,000+
+ratings :  2452960
+reviews :  46815
+
+title :  Sky Fighters 3D
+appId :  com.Bingo.Fighter
+score :  4.370853
+installs : 100,000,000+
+ratings :  468864
+reviews :  3145
+
+title :  Miraculous Ladybug & Cat Noir
+appId :  com.crazylabs.lady.bug
+score :  4.3452463
+installs : 100,000,000+
+ratings :  1015026
+reviews :  19935
+
+title :  Massive Warfare: Tanks Battle
+appId :  com.tinybytes.massivewarfare2
+score :  4.6203856
+installs : 10,000,000+
+ratings :  207717
+reviews :  5366
+
+title :  Critical Strike CS: Online FPS
+appId :  com.critical.strike2
+score :  4.522222
+installs : 50,000,000+
+ratings :  798365
+reviews :  8260
+
+title :  Basant The Kite Fight Game
+appId :  com.DaharTechnologies.BasantTheKiteFight
+score :  4.2
+installs : 1,000,000+
+ratings :  4066
+reviews :  6
+
+title :  Rainbow Craftsman Survivor 3D
+appId :  com.xd.rainbow.craftsman
+score :  4.4411764
+installs : 10,000,000+
+ratings :  12532
+reviews :  43
+
+title :  Metal Soldiers 2
+appId :  com.playappking.ametalsoldiers2
+score :  4.5546494
+installs : 50,000,000+
+ratings :  355662
+reviews :  2211
+
+title :  Blocky Cars tank games, online
+appId :  com.blockycars.online
+score :  4.310564
+installs : 10,000,000+
+ratings :  449711
+reviews :  16478
+
+title :  Zooba: Fun Battle Royale Games
+appId :  com.wildlife.games.battle.royale.free.zooba
+score :  4.20377
+installs : 50,000,000+
+ratings :  1276732
+reviews :  24627
+
+title :  Sniper 3D：Gun Shooting Games
+appId :  com.fungames.sniper3d
+score :  4.4244447
+installs : 500,000,000+
+ratings :  15910437
+reviews :  433476
+
+title :  Stickman Warriors
+appId :  com.stickman.warriors.stickwarriors.dragon.shadow.fight
+score :  4.725794
+installs : 50,000,000+
+ratings :  763590
+reviews :  22074
+
+title :  Offline Gun Shooting Games 3D
+appId :  com.babloo.commando.adventure.shooting
+score :  4.025
+installs : 10,000,000+
+ratings :  194698
+reviews :  2925
+
+title :  Stumble Guys
+appId :  com.kitkagames.fallbuddies
+score :  4.3060637
+installs : 100,000,000+
+ratings :  4884102
+reviews :  49137
+
+title :  Gun Force: Action Shooting
+appId :  com.os.falcon.gunforce
+score :  4.2555556
+installs : 500,000+
+ratings :  978
+reviews :  18
+
+title :  Vegas Crime Simulator 2
+appId :  com.vegas.crime.sim.two
+score :  4.207254
+installs : 10,000,000+
+ratings :  169946
+reviews :  974
+
+title :  Hero Rope: City Battle
+appId :  com.dino.spider.ropehero.herogames
+score :  4.395349
+installs : 10,000,000+
+ratings :  64514
+reviews :  1126
+
+title :  Blue Hero Rope Game
+appId :  com.jura.blue.monster.rope
+score :  4.12
+installs : 10,000,000+
+ratings :  15009
+reviews :  240
+
+title :  SNIPER ZOMBIE 3D Game
+appId :  vng.sniper.shooting3d.zombie
+score :  4.766234
+installs : 5,000,000+
+ratings :  21508
+reviews :  747
+
+title :  Slash Royal
+appId :  com.YsoCorp.SlashRoyal
+score :  3.8
+installs : 10,000,000+
+ratings :  9779
+reviews :  110
+
+title :  Counter Terrorist Strike : CS
+appId :  com.tfgame.criticalstrike
+score :  4.4401116
+installs : 50,000,000+
+ratings :  217103
+reviews :  1299
+
+title :  Sniper Strike FPS 3D Shooting
+appId :  com.mgs.sniper1
+score :  4.4764943
+installs : 50,000,000+
+ratings :  615745
+reviews :  17163
+
+title :  Western Sniper: Wild West FPS
+appId :  wild.west.sniper
+score :  4.600073
+installs : 10,000,000+
+ratings :  111706
+reviews :  8401
+
+title :  Helicopter Escape 3D
+appId :  com.rescue.agent
+score :  4.458639
+installs : 10,000,000+
+ratings :  134327
+reviews :  10310
+
+title :  Stickman vs Zombies
+appId :  com.aurecas.stickmanzombieshooter
+score :  4.3706
+installs : 10,000,000+
+ratings :  110653
+reviews :  1844
+
+title :  Gangster & Mafia Grand City
+appId :  com.gangster.mafia.miami.tps.auto.driving.city.steal.robbery.grand.crime.theft.simulator.criminal
+score :  3.94
+installs : 5,000,000+
+ratings :  23810
+reviews :  113
+
+title :  Garten of Rainbow Monsters
+appId :  com.garten.monster.impostor
+score :  3.5384614
+installs : 1,000,000+
+ratings :  333
+reviews :  4
+
+title :  ZOMBIE HUNTER: Offline Games
+appId :  zombie.survival.dead.shooting
+score :  4.5648856
+installs : 10,000,000+
+ratings :  158300
+reviews :  5276
+
+title :  Spider Fighter 2
+appId :  com.starplay.spider.fighter3d
+score :  4.524418
+installs : 5,000,000+
+ratings :  89627
+reviews :  1702
+
+title :  Marvel Contest of Champions
+appId :  com.kabam.marvelbattle
+score :  4.28016
+installs : 100,000,000+
+ratings :  3213076
+reviews :  184008
+
+title :  Journeys: Romance Stories
+appId :  com.otherguys.journeys
+score :  4.322908
+installs : 10,000,000+
+ratings :  422483
+reviews :  4393
+
+title :  Worm Hunt - Snake game iO zone
+appId :  com.wildspike.wormhunt
+score :  4.52
+installs : 10,000,000+
+ratings :  28588
+reviews :  229
+
+title :  WWE Mayhem
+appId :  com.reliancegames.wwemayhem
+score :  4.3637333
+installs : 10,000,000+
+ratings :  773332
+reviews :  21851
+
+title :  Hair Challenge
+appId :  com.Upperpik.HairChallenge
+score :  4.178158
+installs : 100,000,000+
+ratings :  1069230
+reviews :  13480
+
+title :  Rope Frog Ninja Hero Car Vegas
+appId :  com.assassingames.ninjafrogrope
+score :  4.155242
+installs : 50,000,000+
+ratings :  432224
+reviews :  4462
+
+title :  Gun War: Shooting Games
+appId :  com.atomgame.gunwar
+score :  4.5360794
+installs : 10,000,000+
+ratings :  422897
+reviews :  12942
+
+title :  West Gunfighter
+appId :  com.cg.cowboy
+score :  4.398424
+installs : 100,000,000+
+ratings :  622621
+reviews :  6716
+
+title :  Tomb of the Mask
+appId :  com.playgendary.tom
+score :  4.513019
+installs : 100,000,000+
+ratings :  2111681
+reviews :  72789
+
+title :  WORLD of SUBMARINES: Navy PvP
+appId :  com.gdcompany.submarines
+score :  4.0121655
+installs : 10,000,000+
+ratings :  68652
+reviews :  1609
+
+title :  Gangstar Vegas: World of Crime
+appId :  com.gameloft.android.ANMP.GloftGGHM
+score :  4.3317556
+installs : 100,000,000+
+ratings :  6728657
+reviews :  175684
+
+title :  Commando War Army Game Offline
+appId :  com.spirit.commando.war.action.apps
+score :  4.4790697
+installs : 10,000,000+
+ratings :  180418
+reviews :  761
+
+title :  Gangster Mafia City
+appId :  com.jura.gangster.crime
+score :  4.4324327
+installs : 10,000,000+
+ratings :  92408
+reviews :  1165
+
+title :  World War Heroes — WW2 PvP FPS
+appId :  com.gamedevltd.wwh
+score :  4.523079
+installs : 100,000,000+
+ratings :  3064756
+reviews :  66687
+
+title :  Hills of Steel
+appId :  com.superplusgames.hosandroid
+score :  4.3336315
+installs : 50,000,000+
+ratings :  353381
+reviews :  4340
+
+title :  Modern War Choppers: Shooter
+appId :  com.gdcompany.worldofhelicopters
+score :  4.03
+installs : 5,000,000+
+ratings :  19000
+reviews :  257
+
+title :  Robbery Bob 2: Double Trouble
+appId :  com.chillingo.robberybob2.android.gplay
+score :  4.51865
+installs : 100,000,000+
+ratings :  957326
+reviews :  4774
+
+title :  Basket Battle
+appId :  com.noorgames.basketbattle
+score :  4.5755773
+installs : 10,000,000+
+ratings :  165221
+reviews :  2106
+
+title :  Classic Dino Cadillacs Lite
+appId :  com.classic.dinoemulator.neschip
+score :  3.950495
+installs : 5,000,000+
+ratings :  19380
+reviews :  172
+
+title :  Johnny Trigger: Action Shooter
+appId :  com.time.trigger
+score :  4.524253
+installs : 100,000,000+
+ratings :  1635106
+reviews :  71646
+
+title :  Blow Them Up
+appId :  com.fun.blowup
+score :  4.3073854
+installs : 5,000,000+
+ratings :  30211
+reviews :  338
+
+title :  Grand Gangster City Auto Theft
+appId :  com.grandgangster.crimecity.prisonescape
+score :  3.3992805
+installs : 10,000,000+
+ratings :  82884
+reviews :  1070
+
+title :  indian bike driving cheat code
+appId :  shahfaiz.codes2
+score :  3.7692308
+installs : 500,000+
+ratings :  1899
+reviews :  5
+
+title :  Sniper Arena: PvP Army Shooter
+appId :  com.nordcurrent.sniperarena
+score :  4.372016
+installs : 50,000,000+
+ratings :  503846
+reviews :  27956
+
+title :  Gun Games FPS Shooting Offline
+appId :  dreamgamez.helicopter.gunship.commando.strike
+score :  4.08
+installs : 1,000,000+
+ratings :  21948
+reviews :  275
+
+title :  MAD ZOMBIES : Offline Games
+appId :  fps.zombie.shooting.fun.to.dead
+score :  4.0948906
+installs : 10,000,000+
+ratings :  146061
+reviews :  2508
+
+title :  Draw Action: Freestyle Fight
+appId :  com.kayac.DrawFight
+score :  4.311787
+installs : 10,000,000+
+ratings :  28492
+reviews :  459
+
+title :  Cyber Gun: Battle Royale Games
+appId :  com.firstanvilgames.Cyberpunk.Battleground
+score :  4.125
+installs : 10,000,000+
+ratings :  92022
+reviews :  618
+
+title :  The King of Fighters ALLSTAR
+appId :  com.netmarble.kofg
+score :  4.1054606
+installs : 10,000,000+
+ratings :  306649
+reviews :  10264
+
+title :  Terra Fighter 2 Fighting Games
+appId :  com.motionartgames.terrafighter2
+score :  3.93
+installs : 10,000,000+
+ratings :  36514
+reviews :  98
+
+title :  Call of Duty Mobile Season 3
+appId :  com.activision.callofduty.shooter
+score :  4.330959
+installs : 100,000,000+
+ratings :  15574364
+reviews :  769680
+
+title :  Gun Shooting Games Offline FPS
+appId :  mobi.byss.gun3
+score :  4.644694
+installs : 10,000,000+
+ratings :  108388
+reviews :  1743
+
+title :  DEAD WARFARE: RPG Gun Games
+appId :  com.vng.android.mps.dead.zombie2
+score :  4.5529747
+installs : 10,000,000+
+ratings :  264201
+reviews :  6571
+
+title :  Zombie Fire
+appId :  com.mobirix.zombiefire
+score :  4.364486
+installs : 10,000,000+
+ratings :  118011
+reviews :  1381
+
+title :  Safari Hunting 4x4
+appId :  com.OppanaGames.SafariHunting4x4
+score :  3.87
+installs : 10,000,000+
+ratings :  72308
+reviews :  178
+
+title :  Stickman Legends Offline Games
+appId :  com.zitga.ninja.stickman.legends
+score :  4.3934503
+installs : 10,000,000+
+ratings :  458579
+reviews :  8746
+
+title :  Iron Super Hero City War Fight
+appId :  com.bigcity.superhero.robot.fighting.game
+score :  4.8333335
+installs : 100,000+
+ratings :  373
+reviews :  6
+
+title :  Modern Ops: Gun Shooting Games
+appId :  com.edkongames.mobs
+score :  4.6308184
+installs : 50,000,000+
+ratings :  1227472
+reviews :  35600
+
+title :  Survival: Fire Battlegrounds
+appId :  com.c17h21no4.freesurvival.firebattlegrounds
+score :  4.234375
+installs : 10,000,000+
+ratings :  319207
+reviews :  1502
+
+title :  Gun Games 3D - Shooting Games
+appId :  com.lf.frontline.elite.war.free.apps
+score :  4.2777777
+installs : 50,000,000+
+ratings :  143072
+reviews :  760
+
+title :  Grand Wars: Mafia City
+appId :  com.gdcompany.grandwars.mafiacity
+score :  4.038835
+installs : 1,000,000+
+ratings :  13400
+reviews :  306
+
+title :  Stick Fight-Battle Of Warriors
+appId :  com.stickman.fight.battle.warriors.shadow.dragon
+score :  4.544554
+installs : 1,000,000+
+ratings :  15726
+reviews :  252
+
+title :  I Want Pizza
+appId :  com.bytetyper.iwantpizza
+score :  4.645614
+installs : 10,000,000+
+ratings :  23834
+reviews :  798
+
+title :  RACE THE SUN CHALLENGE EDITION
+appId :  com.flippfly.racethesun
+score :  4.5940595
+installs : 5,000,000+
+ratings :  30187
+reviews :  609
+
+title :  Ace Fighter: Modern Air Combat
+appId :  com.ParsisGames.AirCombatEn
+score :  4.3568964
+installs : 10,000,000+
+ratings :  200055
+reviews :  5350
+
+title :  Mafia Sniper — Wars of Clans
+appId :  sniper.mafia.contract
+score :  4.756024
+installs : 5,000,000+
+ratings :  23893
+reviews :  1669
+
+title :  Zombie Hunter D-Day : 10Mil +
+appId :  com.cle.dday
+score :  4.620944
+installs : 10,000,000+
+ratings :  63732
+reviews :  1700
+
+title :  Blue Survival: Hide N Seek
+appId :  com.ht2.rain.bow.fps
+score :  4.57
+installs : 1,000,000+
+ratings :  1298
+reviews :  6
+
+title :  Johnny Trigger - Sniper Game
+appId :  com.jtsniper.game
+score :  4.4382086
+installs : 10,000,000+
+ratings :  195672
+reviews :  10348
+
+title :  Super Mario Run
+appId :  com.nintendo.zara
+score :  3.9581828
+installs : 100,000,000+
+ratings :  1659804
+reviews :  91765
+
+title :  Survival Play: Daddy Chasing
+appId :  com.unicorn.momy.fps
+score :  4.54
+installs : 1,000,000+
+ratings :  5552
+reviews :  71
+
+title :  Modern Warplanes: PvP Warfare
+appId :  com.EvilChaotic.ModernWarplanes
+score :  4.344953
+installs : 50,000,000+
+ratings :  379894
+reviews :  7616
+
+title :  FoxOne Special Missions +
+appId :  com.skyfox.foxoneSMFree
+score :  4.5985036
+installs : 10,000,000+
+ratings :  94756
+reviews :  2328
+
+title :  Merge Animals 3D - Mutant race
+appId :  com.merge.animals
+score :  4.2968636
+installs : 50,000,000+
+ratings :  171243
+reviews :  1559
+
+title :  FPS Task Force: Shooting Games
+appId :  com.mag.offline.fps.shooter.missiongame
+score :  4.25
+installs : 10,000,000+
+ratings :  51025
+reviews :  115
+
+title :  Slap Kings
+appId :  mobi.gameguru.slapkings
+score :  4.5471153
+installs : 100,000,000+
+ratings :  905153
+reviews :  36063
+
+title :  Rainbow Impostor Survival 3D
+appId :  com.xd.rainbow.survivor
+score :  4.6509433
+installs : 10,000,000+
+ratings :  10137
+reviews :  73
+
+title :  Mr. Meat 2: Prison Break
+appId :  com.keplerians.mrmeat2
+score :  3.81
+installs : 1,000,000+
+ratings :  25965
+reviews :  469
+
+title :  Imposter in Doors: Survival
+appId :  com.imposter.doors.survival
+score :  4.32
+installs : 1,000,000+
+ratings :  6310
+reviews :  218
+
+title :  Balloon Crusher: Shoot’em all
+appId :  com.kayac.balloon_crusher
+score :  4.147982
+installs : 10,000,000+
+ratings :  31635
+reviews :  257
+
+title :  Hide and Go Seek: Monster Hunt
+appId :  com.wolf.objecthunt
+score :  4.266667
+installs : 100,000+
+ratings :  75
+reviews :  2
+
+title :  World War 2: Shooting Games
+appId :  com.edkongames.ww2
+score :  4.40677
+installs : 10,000,000+
+ratings :  394342
+reviews :  5988
+
+title :  Sniper Attack 3D: Shooting War
+appId :  com.matchingham.sniperattack
+score :  4.811546
+installs : 10,000,000+
+ratings :  461898
+reviews :  3081
+
+title :  Super Thief Auto
+appId :  com.YsoCorp.SuperThiefAuto
+score :  2.96
+installs : 10,000,000+
+ratings :  5846
+reviews :  33
+
+title :  Bus Rush
+appId :  com.playappking.busrush
+score :  4.1554523
+installs : 100,000,000+
+ratings :  808016
+reviews :  6865
+
+title :  Iron Blade: Medieval Legends
+appId :  com.gameloft.android.ANMP.GloftHFHM
+score :  4.2646685
+installs : 10,000,000+
+ratings :  353919
+reviews :  9875
+
+title :  Hide Online - Hunters vs Props
+appId :  com.hitrock.hideonline
+score :  4.5179143
+installs : 100,000,000+
+ratings :  2041029
+reviews :  31473
+
+title :  ZOMBIE FIRE 3D: Offline Game
+appId :  com.cover.zombie.fire.shooter
+score :  4.6504855
+installs : 500,000+
+ratings :  1687
+reviews :  58
+
+title :  Dino Domination
+appId :  com.YsoCorp.DinoDomination
+score :  3.1894736
+installs : 5,000,000+
+ratings :  2660
+reviews :  31
+
+title :  Snake Arena: Snake Game 3D
+appId :  com.trymygames.snake.arena
+score :  4.4259257
+installs : 10,000,000+
+ratings :  43627
+reviews :  691
+
+title :  Pet Runner
+appId :  com.ivy.garfield.run
+score :  3.7893836
+installs : 10,000,000+
+ratings :  75208
+reviews :  2146
+
+title :  Pixel Gun 3D - FPS Shooter
+appId :  com.pixel.gun3d
+score :  4.154618
+installs : 100,000,000+
+ratings :  5799297
+reviews :  606248
+
+title :  Dinosaur Rampage
+appId :  com.geishatokyo.dinosaur
+score :  4.4265094
+installs : 50,000,000+
+ratings :  102839
+reviews :  6183
+
+title :  Elemental Master
+appId :  com.feofun.elementalmaster
+score :  3.9951692
+installs : 10,000,000+
+ratings :  23418
+reviews :  518
+
+title :  Rope Hero 3
+appId :  com.mgc.rope.hero.three
+score :  4.078358
+installs : 10,000,000+
+ratings :  113119
+reviews :  1030
+
+title :  Mech Arena
+appId :  com.plarium.mechlegion
+score :  4.3154883
+installs : 10,000,000+
+ratings :  408755
+reviews :  15353
+
+title :  Sling Drift
+appId :  com.rubygames.slingdrift
+score :  3.7814314
+installs : 50,000,000+
+ratings :  196958
+reviews :  6663
+
+title :  PPSSPP - PSP emulator
+appId :  org.ppsspp.ppsspp
+score :  4.4432497
+installs : 100,000,000+
+ratings :  1610071
+reviews :  30016
+
+title :  ABC Lore: Alphabet Color Story
+appId :  com.abclore.color.story
+score :  4.59
+installs : 500,000+
+ratings :  1273
+reviews :  11
+
+title :  Nextbots In Backrooms: Obunga
+appId :  com.CreaTeamMobile.NextbotsinBackrooms
+score :  4.3728156
+installs : 10,000,000+
+ratings :  118692
+reviews :  2188
+
+title :  Blob Shooter 3D - Assassin Hit
+appId :  com.blob.shooter
+score :  4.459854
+installs : 10,000,000+
+ratings :  9567
+reviews :  382
+
+title :  Archery bird hunter
+appId :  com.kohistani.Hunter
+score :  4.1
+installs : 10,000,000+
+ratings :  67382
+reviews :  209
+
+title :  GUNSHIP BATTLE: Helicopter 3D
+appId :  com.theonegames.gunshipbattle
+score :  4.345602
+installs : 100,000,000+
+ratings :  2433632
+reviews :  62585
+
+title :  Gunship Strike 3D
+appId :  com.wordsmobile.gunship
+score :  4.437664
+installs : 100,000,000+
+ratings :  823660
+reviews :  8133
+
+title :  Uboat Attack
+appId :  com.TrofyGames.UboatAttack
+score :  4.526372
+installs : 5,000,000+
+ratings :  49622
+reviews :  5619
+
+title :  Rollance : Adventure Balls
+appId :  com.atesgamestudio.rollance
+score :  4.28
+installs : 5,000,000+
+ratings :  4140
+reviews :  107
+
+title :  Bed Wars
+appId :  com.sandboxol.indiegame.bedwar
+score :  4.146602
+installs : 50,000,000+
+ratings :  1027408
+reviews :  26786
+
+title :  Street Fighter IV CE
+appId :  jp.co.capcom.sf4ce
+score :  4.232373
+installs : 10,000,000+
+ratings :  82611
+reviews :  4782
+
+title :  Gun Games 3D - Shooter Games
+appId :  com.mag.counterattack.shootinggames
+score :  4.01
+installs : 5,000,000+
+ratings :  18992
+reviews :  93
+
+title :  Battle Playground Simulator
+appId :  com.cdtg.ragdoll.battle
+score :  3.9449542
+installs : 1,000,000+
+ratings :  2198
+reviews :  66
+
+title :  Left to Survive: zombie games
+appId :  com.glu.zbs
+score :  4.434754
+installs : 10,000,000+
+ratings :  525193
+reviews :  14582
+

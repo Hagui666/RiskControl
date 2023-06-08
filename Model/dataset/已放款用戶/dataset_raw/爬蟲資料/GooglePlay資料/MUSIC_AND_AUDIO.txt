@@ -1,0 +1,1400 @@
+title :  Spotify: Music and Podcasts
+appId :  com.spotify.music
+score :  4.3762174
+installs : 1,000,000,000+
+ratings :  28431513
+reviews :  1645914
+
+title :  Music Player -MP3 Audio Player
+appId :  music.download.free.muiscplayer.offline.mp3player
+score :  4.746479
+installs : 500,000+
+ratings :  1864
+reviews :  34
+
+title :  Music player
+appId :  com.media.music.mp3.musicplayer
+score :  4.7551603
+installs : 50,000,000+
+ratings :  1706229
+reviews :  18303
+
+title :  WM Business
+appId :  com.musicconcert.s
+score :  3.6666667
+installs : 10,000+
+ratings :  121
+reviews :  3
+
+title :  SoundCloud: Play Music & Songs
+appId :  com.soundcloud.android
+score :  4.688015
+installs : 100,000,000+
+ratings :  6307344
+reviews :  377269
+
+title :  Music Player &MP3- Lark Player
+appId :  com.dywx.larkplayer
+score :  4.5245686
+installs : 100,000,000+
+ratings :  3195966
+reviews :  23621
+
+title :  Beat Maker Pro - DJ Drum Pad
+appId :  com.mwm.sampler
+score :  4.6429644
+installs : 10,000,000+
+ratings :  233699
+reviews :  3593
+
+title :  Music player
+appId :  com.search.music.mp3.musicplayer
+score :  4.674107
+installs : 50,000,000+
+ratings :  469848
+reviews :  2956
+
+title :  Shazam: Music Discovery
+appId :  com.shazam.android
+score :  4.818892
+installs : 500,000,000+
+ratings :  8562250
+reviews :  151354
+
+title :  Default Music Player
+appId :  com.musicplayer.music
+score :  4.420623
+installs : 100,000,000+
+ratings :  707695
+reviews :  13752
+
+title :  Offline Music Mp3 Player- Muso
+appId :  com.muso.musicplayer
+score :  4.7291665
+installs : 1,000,000+
+ratings :  3107
+reviews :  15
+
+title :  MP3 Downloader, YouTube Player
+appId :  com.atpc
+score :  4.471308
+installs : 100,000,000+
+ratings :  565281
+reviews :  17329
+
+title :  Phone Ringtones
+appId :  com.bestringtonesapps.bestringtonesfree
+score :  4.482788
+installs : 10,000,000+
+ratings :  175950
+reviews :  2956
+
+title :  Volume Booster for Android
+appId :  com.abrar.volumeboost
+score :  4.52449
+installs : 1,000,000+
+ratings :  35391
+reviews :  959
+
+title :  YouTube Music
+appId :  com.google.android.apps.youtube.music
+score :  4.4972534
+installs : 1,000,000,000+
+ratings :  4645972
+reviews :  361950
+
+title :  ORG 24: Your Music
+appId :  com.sofeh.android.musicstudio3
+score :  4.3230996
+installs : 100,000,000+
+ratings :  674883
+reviews :  5705
+
+title :  Music Player & MP3 Player
+appId :  musicplayer.musicapps.music.mp3player
+score :  4.8232703
+installs : 100,000,000+
+ratings :  2902891
+reviews :  35619
+
+title :  Voice Changer - Audio Effects
+appId :  com.supereffect.voicechanger
+score :  4.3792453
+installs : 10,000,000+
+ratings :  167125
+reviews :  2416
+
+title :  Volume Booster - Sound Booster
+appId :  com.volumebooster.bassboster.sound.eq.equalizer.virtualizer.speaker
+score :  4.64486
+installs : 500,000+
+ratings :  1004
+reviews :  49
+
+title :  StarMaker: Sing Karaoke Songs
+appId :  com.starmakerinteractive.starmaker
+score :  4.566858
+installs : 100,000,000+
+ratings :  3432893
+reviews :  35379
+
+title :  Video to Mp3 Converter
+appId :  mp3converter.videotomp3.ringtonemaker
+score :  4.24
+installs : 1,000,000+
+ratings :  19665
+reviews :  98
+
+title :  Voice Recorder Pro
+appId :  com.splendapps.voicerec
+score :  4.7489614
+installs : 50,000,000+
+ratings :  732789
+reviews :  5959
+
+title :  MP3 Video Converter
+appId :  com.springwalk.mediaconverter
+score :  4.542213
+installs : 100,000,000+
+ratings :  2033943
+reviews :  25671
+
+title :  BandLab – Music Making Studio
+appId :  com.bandlab.bandlab
+score :  4.611681
+installs : 50,000,000+
+ratings :  332079
+reviews :  34509
+
+title :  Music Player - Audio Player
+appId :  media.music.musicplayer
+score :  4.4719524
+installs : 100,000,000+
+ratings :  1463104
+reviews :  36801
+
+title :  Music Downloader - Mp3 Songs
+appId :  com.down.music.for.world
+score :  3.7941177
+installs : 1,000,000+
+ratings :  26864
+reviews :  125
+
+title :  Gaana Hindi Song Music App
+appId :  com.gaana
+score :  4.408735
+installs : 100,000,000+
+ratings :  5109204
+reviews :  23045
+
+title :  Garage Ringtones
+appId :  ringtone.maker.mp3.audio
+score :  3.9411764
+installs : 100,000+
+ratings :  636
+reviews :  9
+
+title :  WMG AMP
+appId :  com.wmg.amp
+score :  5
+installs : 5,000+
+ratings :  18
+reviews :  1
+
+title :  MTube Music & Video Downloader
+appId :  com.downloadervideos.snapapp
+score :  4.43
+installs : 5,000,000+
+ratings :  8287
+reviews :  42
+
+title :  Tabla: India's mystical drums
+appId :  br.com.rodrigokolb.tabla
+score :  3.850991
+installs : 10,000,000+
+ratings :  120346
+reviews :  2309
+
+title :  Pi Music Player - MP3 Player
+appId :  com.Project100Pi.themusicplayer
+score :  4.697652
+installs : 50,000,000+
+ratings :  1202910
+reviews :  46240
+
+title :  Perfect Piano
+appId :  com.gamestar.perfectpiano
+score :  4.2233057
+installs : 100,000,000+
+ratings :  1017773
+reviews :  25901
+
+title :  Photo to Video Maker
+appId :  com.funkapps.phototovideo
+score :  4.090909
+installs : 5,000,000+
+ratings :  11532
+reviews :  21
+
+title :  Boomplay: music & live stream
+appId :  com.afmobi.boomplayer
+score :  4.27224
+installs : 100,000,000+
+ratings :  814844
+reviews :  4021
+
+title :  Music player
+appId :  com.amapps.media.music
+score :  4.6488123
+installs : 10,000,000+
+ratings :  447627
+reviews :  7959
+
+title :  Piano Keyboard :My Piano Music
+appId :  com.easy.piano.keyboard.free
+score :  4.61
+installs : 1,000,000+
+ratings :  5528
+reviews :  73
+
+title :  Music Player - MP3 Player & EQ
+appId :  sound.effect.equalizer.musicplayer
+score :  4.5054946
+installs : 10,000,000+
+ratings :  196508
+reviews :  2699
+
+title :  Music Player with Equalizer
+appId :  audioplayer.musicplayer.bassboost
+score :  4.6407185
+installs : 10,000,000+
+ratings :  58051
+reviews :  591
+
+title :  Echo
+appId :  uk.co.projectneon.echo
+score :  4.28
+installs : 5,000,000+
+ratings :  21939
+reviews :  257
+
+title :  Voice Recorder: Audio Recorder
+appId :  voice.recorder.soundrecorder
+score :  4.7091503
+installs : 5,000,000+
+ratings :  57292
+reviews :  1279
+
+title :  Mili nagma-Pakistan azadi song
+appId :  com.milli.nagmay.songs.free
+score :  4.25
+installs : 500,000+
+ratings :  1893
+reviews :  0
+
+title :  Video to Mp3 Audio Converter
+appId :  com.outthinking.AudioExtractor
+score :  3.8514853
+installs : 5,000,000+
+ratings :  15472
+reviews :  261
+
+title :  MP3 Cutter and Ringtone Maker
+appId :  com.th.ringtone.maker
+score :  4.734375
+installs : 10,000,000+
+ratings :  395096
+reviews :  5569
+
+title :  Audio Cutter, Joiner And Mixer
+appId :  com.meberty.mp3cutter
+score :  4.25
+installs : 500,000+
+ratings :  3665
+reviews :  12
+
+title :  Music Audio Editor, MP3 Cutter
+appId :  com.tianxingjian.supersound
+score :  4.8118563
+installs : 10,000,000+
+ratings :  754970
+reviews :  10848
+
+title :  Voice Changer - Voice Effects
+appId :  voicechanger.voiceeffects.soundeffects.voiceavatar
+score :  4.477858
+installs : 10,000,000+
+ratings :  157721
+reviews :  3233
+
+title :  Video MP3 Converter
+appId :  com.fundevs.app.mediaconverter
+score :  4.341392
+installs : 100,000,000+
+ratings :  698716
+reviews :  4223
+
+title :  AudioLab Audio Editor Recorder
+appId :  com.hitrolab.audioeditor
+score :  4.6788754
+installs : 10,000,000+
+ratings :  246322
+reviews :  4537
+
+title :  MP3 Cutter and Ringtone Maker
+appId :  ringtone.maker.mp3.cutter.audio
+score :  4.774173
+installs : 50,000,000+
+ratings :  539097
+reviews :  5546
+
+title :  SUPER PADS DJ - Drum Launchpad
+appId :  com.opalastudios.pads
+score :  4.135693
+installs : 10,000,000+
+ratings :  271263
+reviews :  3540
+
+title :  My Piano - Record & Play
+appId :  com.bti.myPiano
+score :  3.918552
+installs : 50,000,000+
+ratings :  319207
+reviews :  7638
+
+title :  Bajao: Music & Audiobooks
+appId :  bajao.music
+score :  4.5434785
+installs : 5,000,000+
+ratings :  8990
+reviews :  11
+
+title :  Audio & Music Player
+appId :  music.musicplayer
+score :  4.6212926
+installs : 50,000,000+
+ratings :  439029
+reviews :  2907
+
+title :  Audiomack: Music Downloader
+appId :  com.audiomack
+score :  4.756631
+installs : 50,000,000+
+ratings :  3347822
+reviews :  178531
+
+title :  Learn Piano - Real Keyboard
+appId :  com.pianokeyboard.learnpiano.playmusic.instrument
+score :  4.1754384
+installs : 1,000,000+
+ratings :  1566
+reviews :  17
+
+title :  Video To Audio & Mp3 Cutter
+appId :  mp3converter.videomp4tomp3.mp3videoconverter
+score :  4.6732674
+installs : 1,000,000+
+ratings :  31834
+reviews :  341
+
+title :  Mp3 Downloader Download Music
+appId :  mp3.downloader.free.dance.music.download
+score :  4.63
+installs : 1,000,000+
+ratings :  50630
+reviews :  162
+
+title :  Loud Phone Ringtones
+appId :  com.bestringtonesapps.newringtones
+score :  4.3273273
+installs : 5,000,000+
+ratings :  36611
+reviews :  829
+
+title :  Music Player
+appId :  com.musicplayer.player.mp3player.white
+score :  4.6291056
+installs : 50,000,000+
+ratings :  1430769
+reviews :  31198
+
+title :  Spotify Lite
+appId :  com.spotify.lite
+score :  4.28
+installs : 10,000,000+
+ratings :  432176
+reviews :  248
+
+title :  Voice Recorder
+appId :  com.media.bestrecorder.audiorecorder
+score :  4.83985
+installs : 10,000,000+
+ratings :  1097389
+reviews :  107658
+
+title :  Al Quran with Urdu Translation
+appId :  com.ImaginaryTech.AlQuranUrdu
+score :  4.65
+installs : 500,000+
+ratings :  8874
+reviews :  42
+
+title :  Bass Equalizer & Pod Music
+appId :  podmusic.player.equalizer.bassbooster
+score :  4.55618
+installs : 10,000,000+
+ratings :  108200
+reviews :  1195
+
+title :  Moises: The Musician's App
+appId :  ai.moises
+score :  4.601704
+installs : 10,000,000+
+ratings :  198890
+reviews :  4382
+
+title :  Bass Booster & Equalizer
+appId :  audio.sound.effect.bass.virtrualizer.equalizer
+score :  4.5037904
+installs : 10,000,000+
+ratings :  364941
+reviews :  12453
+
+title :  Music Player
+appId :  media.audioplayer.musicplayer
+score :  4.504684
+installs : 100,000,000+
+ratings :  1409728
+reviews :  18383
+
+title :  Samsung Music
+appId :  com.sec.android.app.music
+score :  3.7796533
+installs : 1,000,000,000+
+ratings :  757480
+reviews :  20489
+
+title :  Dub Music Player – MP3 Player
+appId :  hr.palamida
+score :  4.6847544
+installs : 10,000,000+
+ratings :  610191
+reviews :  10266
+
+title :  Islamic Ringtones and Songs
+appId :  com.appmabro.topislamicringtone
+score :  4.3
+installs : 5,000,000+
+ratings :  12609
+reviews :  40
+
+title :  Voice Changer - Sound Effects
+appId :  com.amazingmusiceffects.musicrecorder.voicechanger
+score :  4.05
+installs : 5,000,000+
+ratings :  18897
+reviews :  265
+
+title :  Real Piano: electric keyboard
+appId :  br.com.rodrigokolb.realpiano
+score :  4.0635304
+installs : 10,000,000+
+ratings :  120396
+reviews :  4342
+
+title :  Equalizer: Volume Bass Booster
+appId :  com.itg.tools.volumebooster
+score :  4.6666665
+installs : 50,000+
+ratings :  58
+reviews :  3
+
+title :  Offline Podcast App: Player FM
+appId :  fm.player
+score :  4.483333
+installs : 5,000,000+
+ratings :  102319
+reviews :  9924
+
+title :  Piano - Play Unlimited songs
+appId :  com.famousbluemedia.piano
+score :  4.3233633
+installs : 10,000,000+
+ratings :  220997
+reviews :  11151
+
+title :  Speaker Volume - Sound Booster
+appId :  mobi.omegacentauri.SpeakerBoost
+score :  4.3571944
+installs : 10,000,000+
+ratings :  313353
+reviews :  22181
+
+title :  Music Player - MP3 Player
+appId :  com.shaiban.audioplayer.mplayer
+score :  4.6984005
+installs : 50,000,000+
+ratings :  1911173
+reviews :  42151
+
+title :  voice recorder
+appId :  vr.audio.voicerecorder
+score :  4.790184
+installs : 10,000,000+
+ratings :  511424
+reviews :  22729
+
+title :  Radio Pakistan All Stations
+appId :  radio.pakistan.all.stations.am.live.fm.online
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Music Cutter - Ringtone maker
+appId :  com.fragileheart.musiccutter
+score :  4.53719
+installs : 1,000,000+
+ratings :  90488
+reviews :  305
+
+title :  Dj it! - Music Mixer
+appId :  dj.mixer.music.pro.sound.effects
+score :  4.1660376
+installs : 10,000,000+
+ratings :  71406
+reviews :  1245
+
+title :  CD music player
+appId :  com.musicplayer.cdmusicplayer
+score :  4.763158
+installs : 100,000+
+ratings :  1921
+reviews :  22
+
+title :  Volume Booster - Sound Booster
+appId :  volumebooster.sound.loud.speaker.booster
+score :  4.8572536
+installs : 1,000,000+
+ratings :  150626
+reviews :  7950
+
+title :  Video to Audio Mp3 Cutter
+appId :  com.tt.music.player.mp3converter.videoplayer.videotoaudio
+score :  3.7
+installs : 1,000,000+
+ratings :  1862
+reviews :  11
+
+title :  Romantic Ringtones
+appId :  com.iApp.romantictone
+score :  4.0897436
+installs : 5,000,000+
+ratings :  9500
+reviews :  23
+
+title :  Joker Ringtone: Offline
+appId :  com.jokerringtoneapp.jokerringtone
+score :  3.9230769
+installs : 100,000+
+ratings :  998
+reviews :  5
+
+title :  Audio Video Player: Music Play
+appId :  com.mp3player.musicplayer.musicapps.music
+score :  4.2380953
+installs : 1,000,000+
+ratings :  2005
+reviews :  19
+
+title :  RevHeadz Engine Sounds
+appId :  au.com.revheadz.revheadz
+score :  4.336299
+installs : 10,000,000+
+ratings :  96603
+reviews :  2250
+
+title :  Music Player - Audio Player
+appId :  media.player.video.musicplayer
+score :  4.64574
+installs : 5,000,000+
+ratings :  70084
+reviews :  785
+
+title :  Islamic Ringtones: Caller Tune
+appId :  com.walrustech.best.islamic.ringtones
+score :  4.5454545
+installs : 100,000+
+ratings :  2465
+reviews :  2
+
+title :  Saarey Music
+appId :  com.release.saarey
+score :  4.0833335
+installs : 100,000+
+ratings :  376
+reviews :  5
+
+title :  Voloco: Auto Vocal Tune Studio
+appId :  com.jazarimusic.voloco
+score :  4.4944386
+installs : 10,000,000+
+ratings :  351810
+reviews :  18647
+
+title :  Spotify - Music and Podcasts
+appId :  com.spotify.tv.android
+score :  3.69
+installs : 10,000,000+
+ratings :  2879
+reviews :  69
+
+title :  Mp3Juices Mp3 Music Downloader
+appId :  com.mp3juice.mp3juices.music.downloader.download.lagu.mp3.gratis.free.app
+score :  4.714286
+installs : 50,000+
+ratings :  4397
+reviews :  38
+
+title :  Music Player-Echo Audio Player
+appId :  musicplayer.equalizer.bassbooster.theme
+score :  4.4310346
+installs : 5,000,000+
+ratings :  45834
+reviews :  774
+
+title :  Volume Booster - Loud Speaker
+appId :  volume.booster.sound.enhance
+score :  4.5882354
+installs : 1,000,000+
+ratings :  52310
+reviews :  1308
+
+title :  Volume booster - Sound Booster
+appId :  volume.boost.sound.effect.equalizer
+score :  4.5787673
+installs : 5,000,000+
+ratings :  63156
+reviews :  1020
+
+title :  Sound Meter
+appId :  com.splendapps.decibel
+score :  4.776804
+installs : 10,000,000+
+ratings :  282951
+reviews :  4224
+
+title :  FM Synthesizer [SynprezFM II]
+appId :  com.synprez.fm
+score :  4.5555553
+installs : 5,000,000+
+ratings :  12104
+reviews :  441
+
+title :  Add Music to Voice
+appId :  com.inglesdivino.addmusictovoice
+score :  4.291391
+installs : 10,000,000+
+ratings :  37993
+reviews :  662
+
+title :  Music Player - Play Music MP3
+appId :  play.music.mp3.music.player
+score :  4.673333
+installs : 5,000,000+
+ratings :  31269
+reviews :  407
+
+title :  Music player- bass boost,music
+appId :  audio.virtualizer.equalizer.bassbooster.musicplayer
+score :  4.5755167
+installs : 10,000,000+
+ratings :  179070
+reviews :  2004
+
+title :  Music Player&Video Downloader
+appId :  com.kmusic
+score :  4.69
+installs : 100,000+
+ratings :  2453
+reviews :  22
+
+title :  Naat Ringtones: Islamic Tunes
+appId :  com.naat.ringtones
+score :  4.230769
+installs : 500,000+
+ratings :  5050
+reviews :  0
+
+title :  Smule: Karaoke Songs & Videos
+appId :  com.smule.singandroid
+score :  3.8402207
+installs : 100,000,000+
+ratings :  4112627
+reviews :  130414
+
+title :  Music Player - Audio Player
+appId :  audio.effect.music.equalizer.musicplayer
+score :  4.6408668
+installs : 10,000,000+
+ratings :  76937
+reviews :  1190
+
+title :  AndroPods - Airpods on Android
+appId :  pro.vitalii.andropods
+score :  4.208642
+installs : 5,000,000+
+ratings :  51104
+reviews :  2926
+
+title :  Music Player - MP3 Player
+appId :  com.tohsoft.music.mp3.mp3player
+score :  4.619697
+installs : 10,000,000+
+ratings :  366431
+reviews :  2891
+
+title :  Voice Changer - Fast Tuner
+appId :  com.ponicamedia.voicechanger
+score :  4.095238
+installs : 10,000,000+
+ratings :  68071
+reviews :  1227
+
+title :  Music Downloader Mp3 Download
+appId :  music.downloader.free.download.music.mp3.song.app
+score :  4.735119
+installs : 1,000,000+
+ratings :  51608
+reviews :  955
+
+title :  Download Music Mp3
+appId :  com.music.ops.retroappdownload2
+score :  3.925926
+installs : 50,000,000+
+ratings :  326683
+reviews :  1183
+
+title :  Free Music - music downloader
+appId :  com.freemusic.offline.usa
+score :  4.5736995
+installs : 5,000,000+
+ratings :  51915
+reviews :  2950
+
+title :  Equalizer Sound & Bass Booster
+appId :  com.kalay.equalizer
+score :  4.519038
+installs : 1,000,000+
+ratings :  45484
+reviews :  5337
+
+title :  Voice Changer, Voice Effects
+appId :  com.voicechanger.audioeffect.voiceeffect.texttovoice
+score :  3.8235295
+installs : 100,000+
+ratings :  846
+reviews :  47
+
+title :  Voice Changer - Audio Editor
+appId :  com.voicechanger.soundeffect.soundchanger
+score :  3.3203883
+installs : 100,000+
+ratings :  799
+reviews :  72
+
+title :  Real Guitar: be a guitarist
+appId :  br.com.rodrigokolb.realguitar
+score :  4.3268166
+installs : 50,000,000+
+ratings :  312525
+reviews :  7324
+
+title :  Extra Volume Booster Equalizer
+appId :  com.music.sound.speaker.volume.booster.equalizer
+score :  4.7121644
+installs : 10,000,000+
+ratings :  596850
+reviews :  26395
+
+title :  Bird Calls, Sounds & Ringtones
+appId :  com.bestringtonesapps.birdcallssoundsandringtones
+score :  4.5941277
+installs : 10,000,000+
+ratings :  90864
+reviews :  2228
+
+title :  Piano Solo HD
+appId :  batalsoft.piano.solo.hd
+score :  4.37
+installs : 5,000,000+
+ratings :  9973
+reviews :  91
+
+title :  Volume Booster, Bass Amplifier
+appId :  volume.booster.sound.louder.speaker.bass.equalizer.audio.amplifier
+score :  4.792079
+installs : 500,000+
+ratings :  6334
+reviews :  104
+
+title :  Drum Pad Machine - beat maker
+appId :  com.agminstruments.drumpadmachine
+score :  4.4507236
+installs : 100,000,000+
+ratings :  1029211
+reviews :  58645
+
+title :  DJ Music Mixer Studio DJ Remix
+appId :  com.bassbooster.musicmixplayer.virtual.djmixer.musicmaker
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Music player- Play MP3 Music
+appId :  music.musicplayer.mp3player.musicapps.musicdownloader
+score :  4.563107
+installs : 5,000,000+
+ratings :  69980
+reviews :  96
+
+title :  Sad Ringtones
+appId :  com.gizmo.sad.ringtones
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Video to MP3 Converter
+appId :  videoeditor.mp3videoconverter.videotomp3converter.videotomp3
+score :  4.19
+installs : 5,000,000+
+ratings :  20839
+reviews :  200
+
+title :  Band Live Rock
+appId :  batalsoft.band.live.rock
+score :  4.2
+installs : 10,000,000+
+ratings :  21220
+reviews :  275
+
+title :  Music Player App
+appId :  personalstickermaker.whatsapp.stickers.wastikerapps
+score :  undefined
+installs : 1,000,000+
+ratings :  undefined
+reviews :  undefined
+
+title :  bestsongs.pk
+appId :  pk.bestsongs.android
+score :  3.1818182
+installs : 1,000,000+
+ratings :  24133
+reviews :  4
+
+title :  Poweramp Music Player (Trial)
+appId :  com.maxmpz.audioplayer
+score :  4.343271
+installs : 50,000,000+
+ratings :  1409901
+reviews :  74331
+
+title :  DJ Mixer Studio - DJ Music Mix
+appId :  dj.mixer
+score :  4.451923
+installs : 500,000+
+ratings :  3577
+reviews :  32
+
+title :  Mi Music
+appId :  com.miui.player
+score :  4.365262
+installs : 1,000,000,000+
+ratings :  2322256
+reviews :  8251
+
+title :  Assistive Volume Button
+appId :  com.nitin.volumnbutton
+score :  3.94
+installs : 1,000,000+
+ratings :  9218
+reviews :  139
+
+title :  Simple Radio: Live AM FM Radio
+appId :  com.streema.simpleradio
+score :  4.622405
+installs : 50,000,000+
+ratings :  508889
+reviews :  30740
+
+title :  Equalizer- Bass Booster&Volume
+appId :  tool.audio.bassbooster.equalizer
+score :  4.821782
+installs : 1,000,000+
+ratings :  13152
+reviews :  211
+
+title :  Lakdi Ki Kathi Children Songs
+appId :  com.ninni.baby.hindivideos
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Kuku FM - Audiobooks & Stories
+appId :  com.vlv.aravali
+score :  4.231405
+installs : 10,000,000+
+ratings :  539543
+reviews :  218
+
+title :  Piano - music & songs games
+appId :  com.mwm.piano
+score :  4.5784984
+installs : 5,000,000+
+ratings :  30981
+reviews :  1367
+
+title :  Offline Music Player: Play MP3
+appId :  mymusic.offlinemusicplayer.mp3player.playmusic
+score :  4.559406
+installs : 5,000,000+
+ratings :  96795
+reviews :  1176
+
+title :  Music Player - MP3 Player
+appId :  com.music.player.simple
+score :  4.753479
+installs : 10,000,000+
+ratings :  280299
+reviews :  1993
+
+title :  Music Player: MP3 Player App
+appId :  com.musicplayer.mp3playerfree.audioplayerapp
+score :  4.009901
+installs : 10,000,000+
+ratings :  10634
+reviews :  129
+
+title :  Lullabo: Lullaby for Babies
+appId :  net.relaxio.lullabo
+score :  4.392157
+installs : 500,000+
+ratings :  5041
+reviews :  63
+
+title :  Music Player 2023
+appId :  com.musicplayer.mp3player.media.musicplayer2020
+score :  4.670412
+installs : 10,000,000+
+ratings :  90703
+reviews :  760
+
+title :  Music Player: Mp3 Player
+appId :  com.tt.real.music.player.audio.play.music.library
+score :  4.03125
+installs : 1,000,000+
+ratings :  1333
+reviews :  2
+
+title :  Mili nagma - Pakistan song
+appId :  com.national.songs
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Walk Band - Multitracks Music
+appId :  com.gamestar.pianoperfect
+score :  4.126753
+installs : 100,000,000+
+ratings :  641587
+reviews :  26642
+
+title :  Dhol - The Indian Drum
+appId :  com.dreamgirl.dholak
+score :  3.4
+installs : 1,000,000+
+ratings :  1743
+reviews :  2
+
+title :  Radio FM
+appId :  com.radio.fmradio
+score :  4.6075892
+installs : 50,000,000+
+ratings :  889883
+reviews :  33134
+
+title :  Equalizer & Bass Boost
+appId :  bassbooster.equalizer.bass
+score :  4.5317917
+installs : 1,000,000+
+ratings :  37083
+reviews :  646
+
+title :  Volume Booster, Extra Sound
+appId :  uk.co.highapp.volumebooster.equalizersoundbooster
+score :  4.371069
+installs : 1,000,000+
+ratings :  8009
+reviews :  389
+
+title :  Poweramp Equalizer
+appId :  com.maxmpz.equalizer
+score :  4.380368
+installs : 1,000,000+
+ratings :  9676
+reviews :  635
+
+title :  Voice Recorder & Voice Memos
+appId :  voicerecorder.audiorecorder.voice
+score :  4.9101944
+installs : 1,000,000+
+ratings :  38430
+reviews :  2586
+
+title :  Call Voice Changer
+appId :  voice.changer.app.celebrities.for.phone.calls
+score :  2.6875
+installs : 100,000+
+ratings :  862
+reviews :  7
+
+title :  Free Music - music & songs,mp3
+appId :  com.freemusic.offline.bus
+score :  4.5353804
+installs : 1,000,000+
+ratings :  46218
+reviews :  3503
+
+title :  Voice Recorder
+appId :  com.first75.voicerecorder2
+score :  4.7080746
+installs : 10,000,000+
+ratings :  44060
+reviews :  1161
+
+title :  JioSaavn - Music & Podcasts
+appId :  com.jio.media.jiobeats
+score :  4.0498686
+installs : 100,000,000+
+ratings :  5291100
+reviews :  1818
+
+title :  Piano +
+appId :  com.rubycell.pianisthd
+score :  4.358639
+installs : 50,000,000+
+ratings :  777544
+reviews :  37685
+
+title :  BTS Song Lyrics Offline
+appId :  com.ramadhan.BTSSongLyricsOffline
+score :  4.6831684
+installs : 1,000,000+
+ratings :  12942
+reviews :  81
+
+title :  Old Telephone Ringtones
+appId :  com.bestringtonesapps.oldphoneringtones
+score :  4.530488
+installs : 10,000,000+
+ratings :  121284
+reviews :  6586
+
+title :  Music Downloader -  Mp3 Music
+appId :  com.freemp3download.lamusic
+score :  3.8333333
+installs : 1,000,000+
+ratings :  33868
+reviews :  15
+
+title :  Accordion Piano
+appId :  com.androidaccordion.free
+score :  4.395425
+installs : 5,000,000+
+ratings :  28146
+reviews :  580
+
+title :  Music Player - MP3 Play Music
+appId :  musicplayer.hdvideoplayer.backgroundmusic
+score :  4.6718507
+installs : 10,000,000+
+ratings :  235463
+reviews :  2178
+
+title :  Cherish Music
+appId :  cherish.androidgpmusic.free
+score :  4.33
+installs : 1,000,000+
+ratings :  10141
+reviews :  125
+
+title :  Music Equalizer & Bass Booster
+appId :  com.equalizer.android
+score :  4.7
+installs : 100,000+
+ratings :  435
+reviews :  3
+
+title :  Speaker Cleaner - Water Eject
+appId :  com.speaker.cleaner
+score :  4.37931
+installs : 10,000+
+ratings :  458
+reviews :  10
+
+title :  Lata Old Hindi Songs
+appId :  com.lesli.lataoldhindisongs
+score :  4.357143
+installs : 500,000+
+ratings :  2145
+reviews :  4
+
+title :  Music player
+appId :  media.music.mp3player.musicplayer
+score :  4.69465
+installs : 10,000,000+
+ratings :  527458
+reviews :  5015
+
+title :  Opus Player - WhatsApp Audio
+appId :  com.littlepako.opusplayer3
+score :  3.9
+installs : 10,000,000+
+ratings :  26198
+reviews :  257
+
+title :  Mishary Rashid Full Quran MP3
+appId :  rooh.apps.naaz.com.quran.mishary.rashid.offline
+score :  4.7623763
+installs : 1,000,000+
+ratings :  114896
+reviews :  424
+
+title :  Karaoke - Sing Songs
+appId :  com.gismart.karaoke
+score :  4.251076
+installs : 10,000,000+
+ratings :  85299
+reviews :  1783
+
+title :  Video to Audio - Mp3 Converter
+appId :  com.tricore.video.audio.converter
+score :  4.105263
+installs : 5,000,000+
+ratings :  8590
+reviews :  23
+
+title :  Voice Recorder
+appId :  com.splendapps.vox
+score :  4.6872287
+installs : 10,000,000+
+ratings :  342770
+reviews :  4343
+
+title :  BTS - Blackpink Songs
+appId :  com.bts.blackpink.songs.kpop
+score :  4.6
+installs : 100,000+
+ratings :  1074
+reviews :  7
+
+title :  Rap Fame - Rap Music Studio
+appId :  com.komspek.battleme
+score :  4.6550326
+installs : 10,000,000+
+ratings :  134289
+reviews :  13339
+
+title :  Voice Recorder Audio Sound MP3
+appId :  com.tianxingjian.superrecorder
+score :  4.7306275
+installs : 5,000,000+
+ratings :  73359
+reviews :  2847
+
+title :  8D Music Studio
+appId :  com.xssmusic.audio.video.mixer
+score :  3
+installs : 50,000+
+ratings :  268
+reviews :  7
+
+title :  Studio Microphone/Recorder
+appId :  net.hamandmore.mic
+score :  3.5411766
+installs : 500,000+
+ratings :  2339
+reviews :  30
+
+title :  Equalizer- Bass Booster&Volume
+appId :  music.basss.booster.effect.equalizer
+score :  4.6777134
+installs : 10,000,000+
+ratings :  172333
+reviews :  4762
+
+title :  Free Music-Listen to mp3 songs
+appId :  com.yy.musicfm.global
+score :  4.5203924
+installs : 10,000,000+
+ratings :  249991
+reviews :  29688
+
+title :  Extra Mic
+appId :  extra.chan.audio.extramic
+score :  3.6
+installs : 1,000,000+
+ratings :  7743
+reviews :  99
+
+title :  Magic Voice Changer
+appId :  com.qingot.voice.overseas1
+score :  1.2790698
+installs : 100,000+
+ratings :  1989
+reviews :  29
+
+title :  Video Per Urdu Shayari Likhe
+appId :  com.malinadeniela.videoparurdutextlikhe
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Hola Music
+appId :  holamusic.smartmusic.musicplayer
+score :  4.27
+installs : 5,000,000+
+ratings :  23360
+reviews :  365
+
+title :  Real Pads: Music Sampler
+appId :  br.com.rodrigokolb.electropads
+score :  4.328125
+installs : 10,000,000+
+ratings :  148963
+reviews :  1285
+
+title :  Ringtones for iphone
+appId :  com.iphoneringtones.roars
+score :  4.46
+installs : 1,000,000+
+ratings :  7747
+reviews :  71
+
+title :  Muslim Baby Names Islamic Name
+appId :  com.glowingapps.junaidjamshedlast
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  DJ Music Mixer - Dj Remix Pro
+appId :  djmixer.djmixerplayer.remixsong.bassbooster
+score :  4.422619
+installs : 10,000,000+
+ratings :  35407
+reviews :  352
+
+title :  FM Radio - Local Radio, AM, FM
+appId :  radio.fmradio.podcast.liveradio.radiostation
+score :  4.652174
+installs : 100,000+
+ratings :  1734
+reviews :  18
+
+title :  Add Music To Video & Editor
+appId :  kgs.com.addmusictovideos
+score :  4.390558
+installs : 5,000,000+
+ratings :  93522
+reviews :  441
+
+title :  RecForge II - Audio Recorder
+appId :  dje073.android.modernrecforge
+score :  3.1551723
+installs : 1,000,000+
+ratings :  17097
+reviews :  553
+
+title :  Sidhu Moose Wala Offline
+appId :  com.JASWATI.SidhuMooseWala
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Audio Editor & Music Editor
+appId :  audioeditor.musiceditor.soundeditor.songeditor
+score :  4.6583967
+installs : 10,000,000+
+ratings :  191875
+reviews :  1350
+
+title :  Karaoke - Sing Unlimited Songs
+appId :  com.famousbluemedia.yokee
+score :  3.9819603
+installs : 50,000,000+
+ratings :  915722
+reviews :  31515
+
+title :  Google Podcasts
+appId :  com.google.android.apps.podcasts
+score :  4.6210227
+installs : 500,000,000+
+ratings :  695868
+reviews :  62027
+
+title :  Music Ringtones and Sounds
+appId :  com.bestringtonesapps.popularringtones
+score :  4.2219386
+installs : 10,000,000+
+ratings :  96169
+reviews :  3734
+
+title :  Rain Sounds - Sleep & Relax
+appId :  net.metapps.watersounds
+score :  4.4007373
+installs : 5,000,000+
+ratings :  144134
+reviews :  14129
+
+title :  Gujarati Bible Radio (ગુજરાતી)
+appId :  com.fcbh.bibleradio.gujarati.guj
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Mini Piano Lite
+appId :  umito.android.minipiano
+score :  4.529851
+installs : 5,000,000+
+ratings :  20335
+reviews :  614
+
+title :  Piano Master Pink: Keyboards
+appId :  com.JoyMusic.PianoPinkMaster
+score :  4.7104073
+installs : 10,000,000+
+ratings :  64820
+reviews :  600
+
+title :  All Video Downloader - Vmate
+appId :  com.tubemp3player.tubemusic.downloader
+score :  3.6666667
+installs : 10,000+
+ratings :  1245
+reviews :  1
+
+title :  Hindi Video Song - Songs
+appId :  com.kmsohab.mobile
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+

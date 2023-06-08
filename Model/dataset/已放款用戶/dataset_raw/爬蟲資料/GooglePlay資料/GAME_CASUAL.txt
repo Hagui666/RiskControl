@@ -1,0 +1,1400 @@
+title :  Shape Shifting: Transform Race
+appId :  com.bravestars.shape.shifting
+score :  4.5247526
+installs : 10,000,000+
+ratings :  6097
+reviews :  47
+
+title :  Gardenscapes
+appId :  com.playrix.gardenscapes
+score :  4.479673
+installs : 100,000,000+
+ratings :  11817288
+reviews :  338616
+
+title :  Candy Crush Saga
+appId :  com.king.candycrushsaga
+score :  4.6073656
+installs : 1,000,000,000+
+ratings :  36209047
+reviews :  2059157
+
+title :  Going Balls
+appId :  com.pronetis.ironball2
+score :  4.1551933
+installs : 100,000,000+
+ratings :  502079
+reviews :  6202
+
+title :  Bridge Race
+appId :  com.Garawell.BridgeRace
+score :  4.279194
+installs : 100,000,000+
+ratings :  1546783
+reviews :  20634
+
+title :  Crazy Balls
+appId :  com.fire.crazy.balls
+score :  undefined
+installs : 1,000,000+
+ratings :  undefined
+reviews :  undefined
+
+title :  My Talking Tom
+appId :  com.outfit7.mytalkingtomfree
+score :  4.4969883
+installs : 1,000,000,000+
+ratings :  17603818
+reviews :  416422
+
+title :  My Talking Tom Friends
+appId :  com.outfit7.mytalkingtomfriends
+score :  4.2306895
+installs : 100,000,000+
+ratings :  3295800
+reviews :  23388
+
+title :  My Talking Tom 2
+appId :  com.outfit7.mytalkingtom2
+score :  4.1592326
+installs : 500,000,000+
+ratings :  5198352
+reviews :  49372
+
+title :  My Talking Angela
+appId :  com.outfit7.mytalkingangelafree
+score :  3.9064271
+installs : 500,000,000+
+ratings :  13931798
+reviews :  253634
+
+title :  Bubble Shooter Relaxing
+appId :  com.soulcompany.bubbleshooter.relaxing
+score :  4.158416
+installs : 10,000,000+
+ratings :  2923
+reviews :  27
+
+title :  Candy Manor - Home Design
+appId :  candymanor.homedesign.match3
+score :  4.4158025
+installs : 50,000,000+
+ratings :  696891
+reviews :  15024
+
+title :  Talking Tom Cat
+appId :  com.outfit7.talkingtom
+score :  3.9787009
+installs : 500,000,000+
+ratings :  2581318
+reviews :  74872
+
+title :  Ball Run 2048
+appId :  com.kayac.ball_run
+score :  4.076351
+installs : 100,000,000+
+ratings :  197825
+reviews :  2430
+
+title :  Tall Man Run
+appId :  com.VectorUpGames.TallManRun
+score :  4.1836104
+installs : 50,000,000+
+ratings :  355506
+reviews :  4094
+
+title :  Bubble Shooter
+appId :  bubbleshooter.orig
+score :  4.430299
+installs : 100,000,000+
+ratings :  2073679
+reviews :  31630
+
+title :  Homescapes
+appId :  com.playrix.homescapes
+score :  4.6785607
+installs : 100,000,000+
+ratings :  12045165
+reviews :  353520
+
+title :  Teacher Simulator
+appId :  com.syubestgames.teachersimulator
+score :  4.4284625
+installs : 50,000,000+
+ratings :  289539
+reviews :  7692
+
+title :  My Talking Angela 2
+appId :  com.outfit7.mytalkingangela2
+score :  4.25787
+installs : 100,000,000+
+ratings :  1726918
+reviews :  15003
+
+title :  Bullet Stack
+appId :  com.funzilla.bullet.stack
+score :  4.2216215
+installs : 5,000,000+
+ratings :  17493
+reviews :  241
+
+title :  Rolling Balls 3D
+appId :  com.dino.rolling.skyball.balance
+score :  3.4509804
+installs : 10,000,000+
+ratings :  21164
+reviews :  229
+
+title :  Vape 'N Pod Trick Simulator
+appId :  com.htt.vape.simulator.tn
+score :  3.9345794
+installs : 1,000,000+
+ratings :  8419
+reviews :  50
+
+title :  Pool Billiards offline
+appId :  com.andregal.android.poolbilliard
+score :  4.4656487
+installs : 50,000,000+
+ratings :  291684
+reviews :  2078
+
+title :  Line Color 3D
+appId :  com.hambastudio.linecolor
+score :  3.9841938
+installs : 100,000,000+
+ratings :  250626
+reviews :  3457
+
+title :  Wasteland Billionaire
+appId :  com.land.clean.billionaire
+score :  4.6299767
+installs : 5,000,000+
+ratings :  71437
+reviews :  326
+
+title :  Township
+appId :  com.playrix.township
+score :  4.607253
+installs : 100,000,000+
+ratings :  10067526
+reviews :  329159
+
+title :  Match Masters
+appId :  com.funtomic.matchmasters
+score :  4.4742517
+installs : 10,000,000+
+ratings :  1685022
+reviews :  106558
+
+title :  Candy Crush Soda Saga
+appId :  com.king.candycrushsodasaga
+score :  4.6187196
+installs : 500,000,000+
+ratings :  8750701
+reviews :  381369
+
+title :  Helix Stack Jump: Smash Ball
+appId :  com.hiroba.helix
+score :  4.256637
+installs : 10,000,000+
+ratings :  33153
+reviews :  377
+
+title :  Ice Cream Inc.
+appId :  com.RedLineGames.Game49
+score :  4.4006176
+installs : 100,000,000+
+ratings :  297826
+reviews :  17177
+
+title :  Iron Suit: Superhero Simulator
+appId :  battle.iron.suit
+score :  4.0283017
+installs : 10,000,000+
+ratings :  13762
+reviews :  204
+
+title :  Cat Escape
+appId :  gg.sunday.catescape
+score :  4.3300686
+installs : 50,000,000+
+ratings :  763272
+reviews :  5335
+
+title :  Stick Hero: Mighty Tower Wars
+appId :  com.mgif.stickman.tower
+score :  4.3796444
+installs : 10,000,000+
+ratings :  68115
+reviews :  1434
+
+title :  Muscle Rush - Smash Running
+appId :  com.muscle.rush
+score :  4.304945
+installs : 50,000,000+
+ratings :  90742
+reviews :  819
+
+title :  Hunt & Seek
+appId :  com.kwalee.transformhunt
+score :  4.382464
+installs : 10,000,000+
+ratings :  107200
+reviews :  1414
+
+title :  Car Cops
+appId :  com.IceCubeGame.CarCops
+score :  4.4141874
+installs : 10,000,000+
+ratings :  84955
+reviews :  731
+
+title :  Pick Me Up 3D
+appId :  com.tp.pmu3d
+score :  4.2726007
+installs : 50,000,000+
+ratings :  71342
+reviews :  2097
+
+title :  Blend It 3D
+appId :  com.blendergame.smash
+score :  4.42664
+installs : 100,000,000+
+ratings :  223901
+reviews :  7005
+
+title :  Traffic Jam Fever
+appId :  com.MoodGames.TrafficJamFever
+score :  3.489796
+installs : 5,000,000+
+ratings :  44408
+reviews :  640
+
+title :  Angry Birds 2
+appId :  com.rovio.baba
+score :  4.264625
+installs : 100,000,000+
+ratings :  6170580
+reviews :  263424
+
+title :  Dress Up Fashion Challenge
+appId :  com.dress.up.fashion.challenge
+score :  4.629082
+installs : 10,000,000+
+ratings :  195023
+reviews :  1448
+
+title :  Slow Mo Run
+appId :  com.paurau.SlowMoRun
+score :  3.36
+installs : 1,000,000+
+ratings :  817
+reviews :  46
+
+title :  Find the Alien
+appId :  net.wyvernware.whosthealien
+score :  4.632629
+installs : 50,000,000+
+ratings :  92528
+reviews :  2340
+
+title :  Couple Life 3D
+appId :  com.millecrepestudios.couplelife
+score :  4.106545
+installs : 10,000,000+
+ratings :  224986
+reviews :  717
+
+title :  I Love Pizza
+appId :  com.suup.games.ilove.pizza
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Hello Kitty Nail Salon
+appId :  com.budgestudios.HelloKittyNailSalon
+score :  3.789359
+installs : 100,000,000+
+ratings :  690984
+reviews :  12762
+
+title :  Wedding Race - Wedding Games
+appId :  com.dream.bride.wedding.makoever
+score :  4.12
+installs : 1,000,000+
+ratings :  2030
+reviews :  36
+
+title :  Big Farm: Mobile Harvest
+appId :  com.goodgamestudios.bigfarmmobileharvest
+score :  4.0930095
+installs : 10,000,000+
+ratings :  426829
+reviews :  20139
+
+title :  Bubble Shooter 202 2 Pro
+appId :  miao.bubble.shooter.pop.shoot
+score :  4.731707
+installs : 1,000,000+
+ratings :  15180
+reviews :  442
+
+title :  Minion Rush: Running Game
+appId :  com.gameloft.android.ANMP.GloftDMHM
+score :  4.589394
+installs : 500,000,000+
+ratings :  10747225
+reviews :  608364
+
+title :  Bubble Shooter
+appId :  game.bubble.shooter.dragon.pop
+score :  4.5096784
+installs : 100,000,000+
+ratings :  1105589
+reviews :  28887
+
+title :  Fashion Game Makeup & Dress up
+appId :  com.royal.princess.fashion
+score :  4.34
+installs : 1,000,000+
+ratings :  13253
+reviews :  182
+
+title :  Bubble Shooter
+appId :  com.bubble.shooter.bear.puzzle
+score :  4.702381
+installs : 10,000,000+
+ratings :  29750
+reviews :  1056
+
+title :  Bubble Shooter
+appId :  com.bubbleshooter.popbubbles.collectcards
+score :  4.777228
+installs : 10,000,000+
+ratings :  66473
+reviews :  512
+
+title :  Deep Clean Inc. 3D Fun Cleanup
+appId :  com.smo.deepcleaninc3d
+score :  4.293103
+installs : 10,000,000+
+ratings :  63828
+reviews :  3830
+
+title :  Bottle Flip 3D
+appId :  pampam.ibf2
+score :  3.9921763
+installs : 100,000,000+
+ratings :  414565
+reviews :  9598
+
+title :  Yoga Workout
+appId :  com.yogaworkout.flexrun3d
+score :  4.523427
+installs : 10,000,000+
+ratings :  70418
+reviews :  375
+
+title :  Pencil Rush 3D
+appId :  com.pencil.madness
+score :  4.323267
+installs : 10,000,000+
+ratings :  195899
+reviews :  1548
+
+title :  Fashion Stylist: Dress Up Game
+appId :  com.gofive.fashion.stylist.dress.up
+score :  4.7384305
+installs : 10,000,000+
+ratings :  137355
+reviews :  2661
+
+title :  Princess Dress up Games
+appId :  girlsgames.princess.fashionsalon.makeup
+score :  4.04
+installs : 10,000,000+
+ratings :  64457
+reviews :  452
+
+title :  Hair saloon - Spa salon
+appId :  com.YovoGames.hair
+score :  3.9508064
+installs : 100,000,000+
+ratings :  220436
+reviews :  5265
+
+title :  Block Puzzle-Sudoku Mode
+appId :  com.topfreegame.blockpuzzle.sudoku.classic.puzzlegame.offline
+score :  4.181818
+installs : 100,000+
+ratings :  454
+reviews :  1
+
+title :  Mini Block Craft
+appId :  mini.block.craft.free.mc
+score :  4.190855
+installs : 100,000,000+
+ratings :  771233
+reviews :  10138
+
+title :  Project Makeover
+appId :  com.bgg.jump
+score :  4.40577
+installs : 100,000,000+
+ratings :  724726
+reviews :  38152
+
+title :  Rescue Mary: Manor Renovation
+appId :  com.candylegend.manordesign
+score :  4.5831156
+installs : 10,000,000+
+ratings :  104188
+reviews :  3289
+
+title :  Monster Makeover: Mix Monsters
+appId :  com.monstermakeover.mix.monster.asmr
+score :  4.1538463
+installs : 100,000+
+ratings :  215
+reviews :  0
+
+title :  Mr Bean - Special Delivery
+appId :  com.goodcatchgames.mrbeanhillclimb
+score :  4.376384
+installs : 10,000,000+
+ratings :  126642
+reviews :  1152
+
+title :  2 Player Games - Party Battle
+appId :  com.cdt.game234.player
+score :  3.8
+installs : 10,000,000+
+ratings :  6668
+reviews :  62
+
+title :  Draw Weapon 3D
+appId :  com.satbox.drawweapon3d
+score :  4.196211
+installs : 10,000,000+
+ratings :  137774
+reviews :  1055
+
+title :  Boba DIY: Tasty Bubble Tea
+appId :  com.higame.par.bubble.tea
+score :  4.550413
+installs : 10,000,000+
+ratings :  72948
+reviews :  308
+
+title :  Happy Clinic: Hospital Game
+appId :  com.nordcurrent.happyclinicf2p
+score :  4.232156
+installs : 1,000,000+
+ratings :  44202
+reviews :  4630
+
+title :  Fashion Battle - Catwalk Queen
+appId :  com.md.fashion.battle.catwalk.queen
+score :  4.15
+installs : 10,000,000+
+ratings :  23843
+reviews :  335
+
+title :  Farm City: Farming & Building
+appId :  com.citybay.farming.citybuilding
+score :  4.4634633
+installs : 10,000,000+
+ratings :  358834
+reviews :  3237
+
+title :  Fashion Doll Cake Games
+appId :  com.kidshouse.doll.cake.doll.makeup.and.dressup.gmaes2020
+score :  3.7142856
+installs : 1,000,000+
+ratings :  3034
+reviews :  9
+
+title :  My Talking Hank: Islands
+appId :  com.outfit7.mytalkinghank
+score :  4.1280556
+installs : 100,000,000+
+ratings :  1209071
+reviews :  15606
+
+title :  Get the Supercar 3D
+appId :  com.AiiACo.Ltd.GettheSupercar3D
+score :  4.36747
+installs : 5,000,000+
+ratings :  43293
+reviews :  357
+
+title :  Gun Sprint
+appId :  com.kayac.rungun
+score :  3.9006102
+installs : 10,000,000+
+ratings :  67866
+reviews :  3101
+
+title :  Lifting Hero
+appId :  com.my.lifting
+score :  4.6363635
+installs : 10,000,000+
+ratings :  45493
+reviews :  869
+
+title :  Hair Salon - Spa
+appId :  com.kyomi.hairsalon.game
+score :  4.14
+installs : 5,000,000+
+ratings :  7470
+reviews :  16
+
+title :  Fashion Show: Dress Up Games
+appId :  com.fashion.doll.makeupgames.covetfashion.superstylist
+score :  3.9777777
+installs : 1,000,000+
+ratings :  3102
+reviews :  14
+
+title :  Love Paradise - Merge Makeover
+appId :  com.love.paradise.makeover.story.merge
+score :  4.6375
+installs : 5,000,000+
+ratings :  68561
+reviews :  579
+
+title :  Collect Cubes - ASMR Puzzle
+appId :  com.cinna.collectcubes
+score :  4.0833335
+installs : 10,000,000+
+ratings :  31035
+reviews :  4224
+
+title :  Kitty Pet Friend: My Cat House
+appId :  com.higame.pet.spa
+score :  4.5247526
+installs : 1,000,000+
+ratings :  2491
+reviews :  17
+
+title :  Bubbu – My Virtual Pet Cat
+appId :  com.bubadu.bubbu
+score :  4.202224
+installs : 100,000,000+
+ratings :  1057891
+reviews :  6007
+
+title :  Take Them Off
+appId :  com.zyy.TakeThemOff
+score :  4.310508
+installs : 10,000,000+
+ratings :  128335
+reviews :  567
+
+title :  Mad Dogs
+appId :  com.muhammedeminaksoy.maddogs
+score :  4.5708957
+installs : 10,000,000+
+ratings :  18077
+reviews :  565
+
+title :  Like a Pizza
+appId :  com.mondayoff.pizza
+score :  3.6833334
+installs : 10,000,000+
+ratings :  35535
+reviews :  515
+
+title :  Giant Wanted
+appId :  com.megatouch.giantwanted
+score :  3.7936604
+installs : 10,000,000+
+ratings :  289256
+reviews :  4676
+
+title :  Chat Master!
+appId :  com.RBSSOFT.HyperMobile
+score :  4.324413
+installs : 50,000,000+
+ratings :  298708
+reviews :  17827
+
+title :  Going Balls 3D:Offline
+appId :  com.supersonic.pronetis.ironball2
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Animals Crazy Lab
+appId :  com.animals.crazy.lab
+score :  4.4125
+installs : 5,000,000+
+ratings :  4808
+reviews :  18
+
+title :  Papers Grade Please!
+appId :  com.hyperdivestudio.papersgradeplease
+score :  4.649362
+installs : 100,000,000+
+ratings :  446803
+reviews :  9799
+
+title :  Jelly Shift - Obstacle Course
+appId :  com.shape.change
+score :  4.2799373
+installs : 100,000,000+
+ratings :  330170
+reviews :  13727
+
+title :  Outfit Makeover
+appId :  com.BasicGames.FashionTrends
+score :  4.2958198
+installs : 10,000,000+
+ratings :  109580
+reviews :  963
+
+title :  Goods Sort - Sorting Games
+appId :  closet.match.pair.matching.games
+score :  4.6512456
+installs : 1,000,000+
+ratings :  12748
+reviews :  307
+
+title :  The Cook - 3D Cooking Game
+appId :  com.pd.thecook
+score :  4.189585
+installs : 10,000,000+
+ratings :  353564
+reviews :  10246
+
+title :  Move Your Arm: Fun Simulator
+appId :  com.uc.arm.simulator
+score :  4.5825243
+installs : 1,000,000+
+ratings :  2416
+reviews :  39
+
+title :  Biker Challenge 3D
+appId :  com.Muffinastic.BikeAction3D
+score :  3.7567568
+installs : 5,000,000+
+ratings :  1202
+reviews :  11
+
+title :  Pull Him Up: Pull The Pin Out
+appId :  com.onegame.pullhimup
+score :  4.49
+installs : 5,000,000+
+ratings :  28980
+reviews :  273
+
+title :  Sand Paint: Spray Coloring
+appId :  com.higame.par.sand.draw
+score :  5
+installs : 100,000+
+ratings :  181
+reviews :  1
+
+title :  Candy Makeup Beauty Game
+appId :  com.tabtale.candyblash
+score :  3.7743192
+installs : 50,000,000+
+ratings :  183088
+reviews :  5907
+
+title :  Doll Makeover - DIY 3D Dolly
+appId :  com.altplay.dollmakeover
+score :  4.361111
+installs : 10,000,000+
+ratings :  19808
+reviews :  318
+
+title :  Dig Deep
+appId :  com.dig.deep
+score :  4.558213
+installs : 10,000,000+
+ratings :  109176
+reviews :  2063
+
+title :  City Defense - Police Games!
+appId :  com.SLOWMO.CrowdDefense
+score :  3.1014493
+installs : 10,000,000+
+ratings :  16653
+reviews :  493
+
+title :  Meta World: My City
+appId :  com.netmarble.metaworld
+score :  4.0396824
+installs : 1,000,000+
+ratings :  27169
+reviews :  153
+
+title :  Home Restore - Block Puzzle
+appId :  com.block.puzzle.more
+score :  4.523077
+installs : 10,000,000+
+ratings :  51203
+reviews :  417
+
+title :  Marble Puzzle Shoot
+appId :  com.marbleblast.zuma.marblegame
+score :  4.5715303
+installs : 10,000,000+
+ratings :  207161
+reviews :  3141
+
+title :  Hide N' Seek 3D
+appId :  com.YsoCorp.HideNSeek3D
+score :  3.72
+installs : 10,000,000+
+ratings :  8269
+reviews :  67
+
+title :  Bubble Shooter - Buster & Pop
+appId :  com.tohsoft.games.bubble.shooter
+score :  4.460993
+installs : 5,000,000+
+ratings :  47219
+reviews :  1291
+
+title :  Dino Evolution: Dinosaur Merge
+appId :  com.higame.par.merge.dino
+score :  4.728155
+installs : 1,000,000+
+ratings :  2020
+reviews :  8
+
+title :  Angle Fight 3D - Sword Game
+appId :  com.step.fight
+score :  4.2763157
+installs : 10,000,000+
+ratings :  183145
+reviews :  1212
+
+title :  Good Pizza, Great Pizza
+appId :  com.tapblaze.pizzabusiness
+score :  4.596964
+installs : 100,000,000+
+ratings :  1328096
+reviews :  25334
+
+title :  Snow Ball: Ice Race
+appId :  com.wefun.snowball.icerace
+score :  3.75
+installs : 100,000+
+ratings :  206
+reviews :  2
+
+title :  Hook Master：Mafia City
+appId :  com.tara.agentmrgrapple
+score :  3.8333333
+installs : 100,000+
+ratings :  69
+reviews :  1
+
+title :  Hair Salon: Beauty Salon Game
+appId :  com.bravestars.hair.salon.beauty
+score :  4.098039
+installs : 1,000,000+
+ratings :  596
+reviews :  11
+
+title :  Merge Truck: Monster Truck
+appId :  com.noxgames.merge.truck
+score :  4.485222
+installs : 10,000,000+
+ratings :  39291
+reviews :  1646
+
+title :  Shopping Mall Girl: Style Game
+appId :  com.cocoplay.shoppinggirl
+score :  4.031355
+installs : 50,000,000+
+ratings :  684945
+reviews :  8838
+
+title :  PlayZap - Games, PvP & Rewards
+appId :  com.pzp.playzap
+score :  4.41
+installs : 100,000+
+ratings :  1379
+reviews :  51
+
+title :  Fashion Merge Nova: Dress Up
+appId :  com.surfgames.fmsm
+score :  3.8666666
+installs : 100,000+
+ratings :  523
+reviews :  7
+
+title :  Punchy Race: Run & Fight Game
+appId :  com.dopamine.punchyrace3d
+score :  3.89
+installs : 10,000,000+
+ratings :  10983
+reviews :  114
+
+title :  Makeup Game Fashion Challenge
+appId :  com.ho.fashionshow.competition.games
+score :  3.8076923
+installs : 100,000+
+ratings :  2149
+reviews :  16
+
+title :  Girl Squad: BFF Dress Up Games
+appId :  com.gamesforgirlsfree.girlssquad
+score :  4.225564
+installs : 10,000,000+
+ratings :  97441
+reviews :  1198
+
+title :  Royal Girls - Princess Salon
+appId :  net.promediastudio.royalgirlsprincesssalon
+score :  4.130435
+installs : 50,000,000+
+ratings :  118985
+reviews :  815
+
+title :  Bubble Shooter
+appId :  linkdesks.pop.bubblegames.bubbleshooter
+score :  4.8001337
+installs : 10,000,000+
+ratings :  306452
+reviews :  7158
+
+title :  Perfect Lie
+appId :  com.funcell.perfectlie
+score :  4.3775864
+installs : 10,000,000+
+ratings :  94603
+reviews :  2279
+
+title :  Dress Up Game- Makeup Games
+appId :  com.ws.indian.girl2.makeup.dressup.game
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Stick Battle: Mighty Tower War
+appId :  com.stick.battle.mighty.tower.clash
+score :  4.25
+installs : 500,000+
+ratings :  452
+reviews :  3
+
+title :  Makeup Kit- Games for Girls
+appId :  com.kidshouse.cosmetic.makeup.kit.factory
+score :  4.4356437
+installs : 10,000,000+
+ratings :  31587
+reviews :  405
+
+title :  Supermarket Game
+appId :  com.bubadu.supermarket
+score :  4.084507
+installs : 50,000,000+
+ratings :  256628
+reviews :  836
+
+title :  Gun Head Run
+appId :  com.mondayoff.gunheadrun
+score :  3.624685
+installs : 10,000,000+
+ratings :  33147
+reviews :  688
+
+title :  Laser Hand: Magic Power
+appId :  com.higame.par.magic.prison
+score :  4.485437
+installs : 1,000,000+
+ratings :  2964
+reviews :  4
+
+title :  Kaiju Run - Dzilla Enemies
+appId :  com.nagastudio.giant.monster.run
+score :  4.3464565
+installs : 10,000,000+
+ratings :  101807
+reviews :  768
+
+title :  Little Singham Cycle Race
+appId :  com.zapak.little.singham.cycle.game
+score :  4.3235292
+installs : 10,000,000+
+ratings :  27208
+reviews :  6
+
+title :  Which Wheel?
+appId :  com.tp.WhichWheel
+score :  3.857143
+installs : 5,000,000+
+ratings :  1654
+reviews :  7
+
+title :  Destiny Run: Rich Race Money
+appId :  com.unicorn.survival.money.run
+score :  4.601504
+installs : 1,000,000+
+ratings :  10742
+reviews :  88
+
+title :  Makeup Battle
+appId :  com.makeup.battle.global
+score :  4.180851
+installs : 10,000,000+
+ratings :  60044
+reviews :  298
+
+title :  Rainbow Friends Survivors
+appId :  com.bravestars.rainbow.friend.survivor
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Pou
+appId :  me.pou.app
+score :  4.3843846
+installs : 500,000,000+
+ratings :  11994241
+reviews :  399975
+
+title :  Ambulance Doctor Hospital Game
+appId :  com.hts.ambulance.doctor.rescue.games
+score :  3.55
+installs : 5,000,000+
+ratings :  11553
+reviews :  97
+
+title :  Perfect Avenger
+appId :  com.kb.perfect.avenger
+score :  4.8111887
+installs : 100,000+
+ratings :  3547
+reviews :  96
+
+title :  Hell's Cooking: Kitchen Games
+appId :  hells.cooking.crazy.chef.burger.kitchen.fever.food
+score :  4.706767
+installs : 5,000,000+
+ratings :  57502
+reviews :  3166
+
+title :  Tailor Fashion Games for Girls
+appId :  com.tadkagame.princesstailor
+score :  3.9729729
+installs : 1,000,000+
+ratings :  5614
+reviews :  10
+
+title :  Challenge Your Friends 2Player
+appId :  jj.app.cyf
+score :  4.2815847
+installs : 10,000,000+
+ratings :  90417
+reviews :  1818
+
+title :  Hyper Hostess
+appId :  com.funcell.hyperhostess
+score :  4.347722
+installs : 1,000,000+
+ratings :  14819
+reviews :  301
+
+title :  Model Wedding - Girls Games
+appId :  com.gamesforgirlsfree.modelwedding
+score :  4.2941175
+installs : 10,000,000+
+ratings :  127814
+reviews :  1803
+
+title :  Cooking Dream
+appId :  com.cooking.games.fever.food.city.craze.dream
+score :  4.805195
+installs : 10,000,000+
+ratings :  114503
+reviews :  2758
+
+title :  Money Race 3D
+appId :  com.game.love.race3d
+score :  4.29
+installs : 5,000,000+
+ratings :  12045
+reviews :  31
+
+title :  Stick Battle: Endless War
+appId :  com.higame.par.stick.fight
+score :  4.2038836
+installs : 1,000,000+
+ratings :  7341
+reviews :  94
+
+title :  Farm Heroes Saga
+appId :  com.king.farmheroessaga
+score :  4.658102
+installs : 100,000,000+
+ratings :  9805480
+reviews :  434679
+
+title :  Match Star
+appId :  com.game.match.star
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Jungle Marble Blast 2
+appId :  com.cooyostudio.marble.blast2
+score :  4.5678296
+installs : 10,000,000+
+ratings :  84201
+reviews :  1304
+
+title :  Become a Queen
+appId :  com.UnlockGames.BecomeaQueennn
+score :  2.9146342
+installs : 5,000,000+
+ratings :  18439
+reviews :  1781
+
+title :  College Girls Team Makeover
+appId :  com.gamesforgirlsfree.collegegirlsteam
+score :  4.208861
+installs : 50,000,000+
+ratings :  311450
+reviews :  4888
+
+title :  Figurine Art
+appId :  com.hcg.figurineart
+score :  4.1538463
+installs : 10,000,000+
+ratings :  12159
+reviews :  730
+
+title :  Hay Day
+appId :  com.supercell.hayday
+score :  4.4526534
+installs : 100,000,000+
+ratings :  12986837
+reviews :  421658
+
+title :  Collect Em All! Clear the Dots
+appId :  com.tarboosh.collectemall
+score :  4.6429515
+installs : 10,000,000+
+ratings :  84359
+reviews :  7546
+
+title :  Feeling Arrow
+appId :  com.YsoCorp.Feelingarrow
+score :  3.8118813
+installs : 10,000,000+
+ratings :  4140
+reviews :  97
+
+title :  Prankster 3D
+appId :  com.zatg.scaryteacher.prankme
+score :  4.1574802
+installs : 10,000,000+
+ratings :  21839
+reviews :  341
+
+title :  The President
+appId :  com.BeautifullyMadeGames.ThePresident
+score :  4.4122286
+installs : 5,000,000+
+ratings :  88195
+reviews :  4268
+
+title :  Pix123: Color by Number Games
+appId :  com.pixel.art.no.color.by.number.paint.draw
+score :  4.6115704
+installs : 10,000,000+
+ratings :  28715
+reviews :  408
+
+title :  Dragon Evolution Run
+appId :  com.draevo.draevo
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Cooking in the Kitchen game
+appId :  com.tgg.kidscooking
+score :  4.2098503
+installs : 50,000,000+
+ratings :  362015
+reviews :  3699
+
+title :  Bubble Shooter
+appId :  puzzle.pop.bubblegames.bubbleshooter
+score :  4.770393
+installs : 10,000,000+
+ratings :  49078
+reviews :  415
+
+title :  Supermarket Game 2
+appId :  com.bubadu.supermarket2
+score :  4.23
+installs : 10,000,000+
+ratings :  57659
+reviews :  152
+
+title :  Tic Tac Toe Glow
+appId :  com.arcsys.tictactoe
+score :  4.263974
+installs : 100,000,000+
+ratings :  909116
+reviews :  20605
+
+title :  Cash Empire
+appId :  online.cashempire.app
+score :  4.3839135
+installs : 5,000,000+
+ratings :  455948
+reviews :  6977
+
+title :  Homematch Home Design Games
+appId :  com.tapblaze.homecraft
+score :  4.4557123
+installs : 10,000,000+
+ratings :  68313
+reviews :  2230
+
+title :  Chibi Doll - Avatar Creator
+appId :  com.animedressupgames.chibi
+score :  4.367436
+installs : 100,000,000+
+ratings :  354059
+reviews :  6153
+
+title :  Royal Doll Games: Makeup Games
+appId :  com.fashiondollmakeupgames.royalgirlsalon
+score :  4
+installs : 5,000,000+
+ratings :  10646
+reviews :  17
+
+title :  Vlinder Princess Dress up game
+appId :  com.dressup.avatar.vlinder.doll.princess
+score :  4.831406
+installs : 10,000,000+
+ratings :  643806
+reviews :  43319
+
+title :  Jeeto Pakistan - Win Prizes!
+appId :  com.aryservices.jeetopakistanpro
+score :  4.607143
+installs : 1,000,000+
+ratings :  15192
+reviews :  12
+
+title :  Doll Dress Up: Sweet Girl
+appId :  com.bravestars.doll.dressup.princess.coloringgame
+score :  4.3925233
+installs : 10,000,000+
+ratings :  11050
+reviews :  156
+
+title :  Arm Simulator
+appId :  com.GameLemo.ArmSimulator
+score :  3.3639345
+installs : 10,000,000+
+ratings :  14029
+reviews :  397
+
+title :  Incubator
+appId :  com.YsoCorp.Incubator
+score :  3.7
+installs : 1,000,000+
+ratings :  1965
+reviews :  35
+
+title :  Crayola Nail Party: Nail Salon
+appId :  com.budgestudios.CrayolaNailParty
+score :  3.7631416
+installs : 10,000,000+
+ratings :  92616
+reviews :  5661
+
+title :  Dress Up Game-Make Up games
+appId :  com.ws.wedding.fashion.designer.stylist
+score :  3.5454545
+installs : 1,000,000+
+ratings :  1968
+reviews :  10
+
+title :  Fish Go.io - Be the fish king
+appId :  com.whitedot.bfg
+score :  4.2406015
+installs : 10,000,000+
+ratings :  131792
+reviews :  2930
+
+title :  Retro Battle
+appId :  com.YsoCorp.RetroBattle
+score :  3.07
+installs : 5,000,000+
+ratings :  6107
+reviews :  151
+
+title :  Bricks Ball Puzzle
+appId :  com.iposedon.lite.bbricksball
+score :  3.47
+installs : 10,000,000+
+ratings :  17629
+reviews :  73
+
+title :  Park Marks
+appId :  com.PxMx.ParkMarks
+score :  4.306233
+installs : 5,000,000+
+ratings :  28508
+reviews :  403
+
+title :  Dream Wedding
+appId :  com.wedding.run
+score :  4.42125
+installs : 10,000,000+
+ratings :  132939
+reviews :  636
+
+title :  Stacky Bird: Fun Egg Dash Game
+appId :  com.kooapps.stackybirdandroid
+score :  4.402
+installs : 10,000,000+
+ratings :  107017
+reviews :  2288
+
+title :  Furniture Test
+appId :  com.pixytap.furnituretest
+score :  4.5686274
+installs : 1,000,000+
+ratings :  3629
+reviews :  91
+
+title :  Draw N' Fight
+appId :  com.lg.draw.n.fight.saber
+score :  4.016667
+installs : 500,000+
+ratings :  665
+reviews :  21
+
+title :  Beauty salon: Hairdressers
+appId :  com.t25.salon.hair.game
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Love Archer: Romance Story
+appId :  com.bravestars.love.archer
+score :  3.1764705
+installs : 500,000+
+ratings :  196
+reviews :  5
+
+title :  Airport Security
+appId :  com.sunsetgames.bordersecurity
+score :  4.432
+installs : 50,000,000+
+ratings :  235582
+reviews :  5169
+
+title :  Duddu - My Virtual Pet Dog
+appId :  com.bubadu.duddu
+score :  4.268786
+installs : 50,000,000+
+ratings :  296868
+reviews :  1506
+
+title :  Cart Crash
+appId :  com.hg.cartcrash
+score :  3.8
+installs : 5,000,000+
+ratings :  1402
+reviews :  30
+
+title :  All Girl Games Girls Game 2022
+appId :  com.inonestudio.gamesforgirl
+score :  3.9818182
+installs : 1,000,000+
+ratings :  3042
+reviews :  23
+
+title :  All Games: all in one game, ne
+appId :  com.freegame.allgamesapp
+score :  4.29
+installs : 5,000,000+
+ratings :  17257
+reviews :  435
+
+title :  Driving Honda Civic Car
+appId :  com.honda.civic.driving.car.stunt.game
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Makeover Studio 3D
+appId :  com.kwalee.makeoverstudio
+score :  3.9653795
+installs : 10,000,000+
+ratings :  71594
+reviews :  2308
+
+title :  Block Puzzle-Jigsaw puzzles
+appId :  puzzle.game2020.tetris.new1010blockpuzzlewood
+score :  4.696751
+installs : 1,000,000+
+ratings :  21562
+reviews :  990
+
+title :  Flight Simulator 3d:Plane Game
+appId :  com.streetlightgamesco.falconfly
+score :  4.28
+installs : 500,000+
+ratings :  1971
+reviews :  11
+
+title :  PAW Patrol Rescue World
+appId :  com.budgestudios.googleplay.PawPatrolRescueWorld
+score :  3.9204545
+installs : 10,000,000+
+ratings :  69776
+reviews :  792
+
+title :  Dress Up Games
+appId :  com.gamesforgirlsfree.dressupgames
+score :  4.0684934
+installs : 100,000,000+
+ratings :  177937
+reviews :  1760
+
+title :  Coke Factory!
+appId :  com.maveragames.CokeFactory
+score :  4.4210525
+installs : 500,000+
+ratings :  1040
+reviews :  16
+
+title :  Fashion Beauty Catwalk
+appId :  com.md.fashion.beauty.catwalk
+score :  4.571429
+installs : 1,000,000+
+ratings :  1252
+reviews :  2
+
+title :  Doll Makeup Games for Girls
+appId :  fashion.doll.makeover
+score :  4.571429
+installs : 5,000,000+
+ratings :  78419
+reviews :  263
+

@@ -1,0 +1,1393 @@
+title :  Pooking - Billiards City
+appId :  com.billiards.city.pool.nation.club
+score :  4.5071683
+installs : 100,000,000+
+ratings :  3387893
+reviews :  44282
+
+title :  8 Ball Pool
+appId :  com.miniclip.eightballpool
+score :  4.5273833
+installs : 500,000,000+
+ratings :  25601792
+reviews :  942724
+
+title :  Carrom Pool: Disc Game
+appId :  com.miniclip.carrom
+score :  4.1020026
+installs : 100,000,000+
+ratings :  5126555
+reviews :  5338
+
+title :  Cricket League
+appId :  com.miniclip.cricketleague
+score :  4.0309277
+installs : 10,000,000+
+ratings :  640744
+reviews :  730
+
+title :  Real Cricket™ GO
+appId :  com.nautilus.RealCricket3DLite
+score :  3.940594
+installs : 10,000,000+
+ratings :  276826
+reviews :  250
+
+title :  Pipa Combate 3D - Kite Flying
+appId :  br.pipacombate3d.maiworm
+score :  4.13
+installs : 10,000,000+
+ratings :  113138
+reviews :  205
+
+title :  Real Snooker 3D
+appId :  com.eivaagames.RealSnooker3D
+score :  4.3195267
+installs : 10,000,000+
+ratings :  51265
+reviews :  613
+
+title :  Real T20 Cricket Games 2023
+appId :  com.real.cricket.games.world.cup
+score :  3.909091
+installs : 500,000+
+ratings :  1734
+reviews :  7
+
+title :  Real Cricket™ 22
+appId :  com.nautilus.realcricket
+score :  3.67
+installs : 5,000,000+
+ratings :  86777
+reviews :  178
+
+title :  Tennis Clash: Multiplayer Game
+appId :  com.tfgco.games.sports.free.tennis.clash
+score :  4.4220347
+installs : 100,000,000+
+ratings :  1608199
+reviews :  30477
+
+title :  World Cricket Championship  Lt
+appId :  com.nextwave.wcc_lt
+score :  4.200499
+installs : 50,000,000+
+ratings :  905955
+reviews :  8835
+
+title :  Real Cricket™ 20
+appId :  com.nautilus.RealCricket3D
+score :  4.008547
+installs : 50,000,000+
+ratings :  1494057
+reviews :  2039
+
+title :  Wrestling Trivia Run
+appId :  com.wrestling.trivia.run
+score :  4.3448277
+installs : 500,000+
+ratings :  4601
+reviews :  146
+
+title :  World Cricket Championship 2
+appId :  com.nextwave.wcc2
+score :  3.9962964
+installs : 50,000,000+
+ratings :  3216920
+reviews :  3401
+
+title :  Real World Cricket Games
+appId :  com.aqua.real.world.cricket.league.games
+score :  4.0625
+installs : 1,000,000+
+ratings :  5660
+reviews :  28
+
+title :  Archery Battle 3D
+appId :  com.cg.archery
+score :  4.6623673
+installs : 10,000,000+
+ratings :  217495
+reviews :  17896
+
+title :  T20 Cricket Champions 3D
+appId :  com.zapak.worldcup.t20.cricket
+score :  4.04
+installs : 10,000,000+
+ratings :  141037
+reviews :  78
+
+title :  Cricket Fly - Sports Game
+appId :  com.alabs.cricket.scifi.league
+score :  4
+installs : 500,000+
+ratings :  1441
+reviews :  13
+
+title :  8 Ball Clash - Pool Billiard
+appId :  com.fc.pool.live.billiards
+score :  4.3396225
+installs : 1,000,000+
+ratings :  10749
+reviews :  732
+
+title :  Pakistan Cricket League
+appId :  com.bg.pakistan.cricket.league
+score :  3.6216216
+installs : 1,000,000+
+ratings :  8779
+reviews :  12
+
+title :  Shooting Ball
+appId :  com.billiards.shooting.ball.pool
+score :  4.508614
+installs : 50,000,000+
+ratings :  738345
+reviews :  21237
+
+title :  Soccer Super Star
+appId :  com.soccer.score.star
+score :  4.5250483
+installs : 100,000,000+
+ratings :  1943796
+reviews :  15572
+
+title :  Kite Flying - Layang Layang
+appId :  br.pipacombate.maiworm
+score :  4
+installs : 50,000,000+
+ratings :  816344
+reviews :  640
+
+title :  Shooting Battle
+appId :  com.dd.shootingbattle
+score :  4.7446723
+installs : 10,000,000+
+ratings :  136258
+reviews :  17363
+
+title :  Football Strike: Online Soccer
+appId :  com.miniclip.footballstrike
+score :  4.5369854
+installs : 100,000,000+
+ratings :  2944898
+reviews :  30810
+
+title :  FIFA Soccer
+appId :  com.ea.gp.fifamobile
+score :  4.4434357
+installs : 100,000,000+
+ratings :  12973786
+reviews :  164956
+
+title :  Carrom King™
+appId :  com.git.carromking
+score :  4.17
+installs : 50,000,000+
+ratings :  213718
+reviews :  219
+
+title :  Badminton League
+appId :  badminton.king.sportsgame.smash
+score :  3.5962315
+installs : 50,000,000+
+ratings :  598495
+reviews :  3180
+
+title :  World Cricket Championship 3
+appId :  com.nextwave.wcc3
+score :  3.9039547
+installs : 10,000,000+
+ratings :  342042
+reviews :  712
+
+title :  Superhero Kite Flying Games
+appId :  com.gst.kite.flying.pipa.basant.combat
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Golf Rival
+appId :  com.sports.real.golf.rival.online
+score :  4.3066554
+installs : 10,000,000+
+ratings :  475522
+reviews :  84798
+
+title :  Special Ops: PvP Gun Games 3d
+appId :  com.freeshooting.specialforces.war3d
+score :  4.06015
+installs : 50,000,000+
+ratings :  108517
+reviews :  451
+
+title :  Real World Cricket T20 Games
+appId :  com.real.worldcricket.t20.game
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Football League 2023
+appId :  com.football.soccer.league
+score :  4.2724137
+installs : 50,000,000+
+ratings :  243533
+reviews :  1302
+
+title :  Wrestling Revolution 3D
+appId :  air.WR3DFree
+score :  4.0640182
+installs : 100,000,000+
+ratings :  1339214
+reviews :  31867
+
+title :  Pro Snooker 2023
+appId :  com.iwaredesigns.prosnooker2012
+score :  4.1736364
+installs : 10,000,000+
+ratings :  196787
+reviews :  1607
+
+title :  3D Pool Ball
+appId :  com.xs.pooltd
+score :  4.3938193
+installs : 50,000,000+
+ratings :  396415
+reviews :  15548
+
+title :  Shooting Archery
+appId :  com.allenmm.archery
+score :  4.6397243
+installs : 50,000,000+
+ratings :  769393
+reviews :  11266
+
+title :  Classic Pool 3D: 8 Ball
+appId :  com.pool3d.eightball.classic.billiards
+score :  4.6296296
+installs : 1,000,000+
+ratings :  13492
+reviews :  373
+
+title :  Flip Skater
+appId :  com.miniclip.topskater
+score :  4.3683047
+installs : 10,000,000+
+ratings :  152229
+reviews :  9780
+
+title :  8 Ball Live - Billiards Games
+appId :  eightball.pool.live.eightballpool.billiards
+score :  4.41116
+installs : 10,000,000+
+ratings :  111069
+reviews :  4470
+
+title :  Stick Cricket Super League
+appId :  com.sticksports.spl2
+score :  4.1413045
+installs : 10,000,000+
+ratings :  233063
+reviews :  477
+
+title :  Golf Battle
+appId :  games.onebutton.golfbattle
+score :  4.454769
+installs : 50,000,000+
+ratings :  955272
+reviews :  29669
+
+title :  Dream League Soccer 2023
+appId :  com.firsttouchgames.dls7
+score :  4.287151
+installs : 100,000,000+
+ratings :  8362636
+reviews :  58139
+
+title :  Air Hockey Challenge
+appId :  com.mobirix.airhockey
+score :  4.3097596
+installs : 50,000,000+
+ratings :  203203
+reviews :  2790
+
+title :  Tag Boxing Games: Punch Fight
+appId :  com.fa.tag.boxing.fighting
+score :  4.587786
+installs : 10,000,000+
+ratings :  29494
+reviews :  310
+
+title :  World Champions Cricket Games
+appId :  com.gameest.world.champions.real.cricket.league
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  World Soccer League
+appId :  com.touchtao.soccerkinggoogle
+score :  4.3055553
+installs : 100,000,000+
+ratings :  2546707
+reviews :  9874
+
+title :  NBA LIVE Mobile Basketball
+appId :  com.ea.gp.nbamobile
+score :  4.3277445
+installs : 100,000,000+
+ratings :  2545420
+reviews :  255403
+
+title :  Run Race 3D
+appId :  com.mgc.runnergame
+score :  4.3985972
+installs : 100,000,000+
+ratings :  1402941
+reviews :  34222
+
+title :  CPL T20 Game
+appId :  com.cplt20.cplt20game
+score :  4.5555553
+installs : 100,000+
+ratings :  1725
+reviews :  5
+
+title :  Gym Bodybuilder Fighting Game
+appId :  com.metastorm.bodybuilder.fighting.games
+score :  4.018868
+installs : 500,000+
+ratings :  1575
+reviews :  18
+
+title :  Snooker Stars - 3D Online Spor
+appId :  com.giraffegames.ggpool
+score :  3.8294573
+installs : 10,000,000+
+ratings :  147957
+reviews :  870
+
+title :  World Cricket Games :T20 Cup
+appId :  games.mini.sports.play.real.cricket
+score :  3.857143
+installs : 5,000,000+
+ratings :  21577
+reviews :  13
+
+title :  Play Cricket Games
+appId :  game.ws.play.world.cricket.league
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Basketball Stars: Multiplayer
+appId :  com.miniclip.basketballstars
+score :  4.6380343
+installs : 100,000,000+
+ratings :  1498258
+reviews :  109986
+
+title :  Kite Game 3D – Kite Flying
+appId :  com.ZKGames.KiteGameKiteFlying3D
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Carrom Meta-Board Disc Game
+appId :  com.carromgame.friends.boardvoicelive
+score :  4.22
+installs : 10,000,000+
+ratings :  26244
+reviews :  25
+
+title :  Sachin Saga Cricket Champions
+appId :  com.jetplay.sachinsagacc
+score :  3.71
+installs : 10,000,000+
+ratings :  470152
+reviews :  384
+
+title :  Cricket Cup
+appId :  de.rki.coronawarnap
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Stick Cricket Live
+appId :  com.sticksports.stickcricketlive
+score :  4.36747
+installs : 5,000,000+
+ratings :  150046
+reviews :  389
+
+title :  Play PSL Cricket Game 2023
+appId :  com.psl.cricket.game2020
+score :  3
+installs : 100,000+
+ratings :  1164
+reviews :  2
+
+title :  Bad Girls Wrestling Game
+appId :  com.fa.bad.girls.wrestling.fighting.mania
+score :  4.513721
+installs : 10,000,000+
+ratings :  181088
+reviews :  2368
+
+title :  Pro League Soccer
+appId :  com.rasugames.pls
+score :  4.1348686
+installs : 10,000,000+
+ratings :  253250
+reviews :  1463
+
+title :  Basant Mela
+appId :  com.EffaceStudios.BasantMela
+score :  4.3333335
+installs : 100,000+
+ratings :  1453
+reviews :  3
+
+title :  Motu Patlu Cricket Game
+appId :  com.tangiappsit.motupatlu.cricket.game
+score :  0
+installs : 5,000,000+
+ratings :  0
+reviews :  0
+
+title :  World Cricket Premier League
+appId :  com.zapak.world.cricket.premier.league.real.t20.champions
+score :  3.6296296
+installs : 1,000,000+
+ratings :  5217
+reviews :  10
+
+title :  Carrom Star - 3D Carrom Game
+appId :  com.cellgames.carromstar
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  World Cricket Championship
+appId :  com.nextwave.wcclite
+score :  4.09
+installs : 10,000,000+
+ratings :  85721
+reviews :  64
+
+title :  Cricket Manager - Super League
+appId :  com.playwicketcricket.superleague
+score :  4.2222223
+installs : 100,000+
+ratings :  5500
+reviews :  37
+
+title :  Smashing Cricket: cricket game
+appId :  com.athanggames.smashingcricket
+score :  3.8043478
+installs : 5,000,000+
+ratings :  20468
+reviews :  31
+
+title :  Infinity 8 Ball™ Pool King
+appId :  com.sports.eightball.pool.rival
+score :  4.4948373
+installs : 5,000,000+
+ratings :  103697
+reviews :  15106
+
+title :  Tractor Farming Game Harvester
+appId :  com.mm.real.combine.harvester
+score :  3.8
+installs : 1,000,000+
+ratings :  4114
+reviews :  16
+
+title :  Real Cricket™ Premier League
+appId :  com.nautilus.RealCricketPremierLeague
+score :  3.95
+installs : 10,000,000+
+ratings :  148376
+reviews :  61
+
+title :  Carrom Superstar
+appId :  com.blacklight.carrom.multiplayer
+score :  4.29
+installs : 10,000,000+
+ratings :  77574
+reviews :  36
+
+title :  World of Cricket :Championship
+appId :  com.appon.worldofcricket
+score :  3.85
+installs : 10,000,000+
+ratings :  144003
+reviews :  52
+
+title :  Score! Hero 2023
+appId :  com.firsttouchgames.hero2
+score :  4.4086766
+installs : 50,000,000+
+ratings :  1260233
+reviews :  5253
+
+title :  Score! Match - PvP Soccer
+appId :  com.firsttouchgames.smp
+score :  4.0877275
+installs : 50,000,000+
+ratings :  1103415
+reviews :  8729
+
+title :  Baseball: Home Run Sports Game
+appId :  com.miniclip.baseballhomerun
+score :  4.267857
+installs : 100,000+
+ratings :  2537
+reviews :  131
+
+title :  Snooker Online
+appId :  com.mastobaev.snooker
+score :  4.18
+installs : 1,000,000+
+ratings :  19197
+reviews :  90
+
+title :  Pipa Combate-Kite Flying Game
+appId :  com.pipa.combate.kite.basant.game
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Indian Cricket Premiere League
+appId :  com.bg.indian.cricket.league
+score :  3.86
+installs : 5,000,000+
+ratings :  29216
+reviews :  16
+
+title :  Darts of Fury
+appId :  uk.co.yakuto.DartsOfFury
+score :  4.690486
+installs : 10,000,000+
+ratings :  286588
+reviews :  36165
+
+title :  Gadi Wala Game Racing Kar 3D
+appId :  com.Nitxgames.BikeDriveandStuntportarea3dgameNitx
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Soccer Cup 2023: Football Game
+appId :  eu.inlogic.footballcup2018.gplay
+score :  4.056877
+installs : 50,000,000+
+ratings :  718998
+reviews :  4504
+
+title :  Archery Master 3D
+appId :  com.junerking.archery
+score :  4.468067
+installs : 100,000,000+
+ratings :  967809
+reviews :  11693
+
+title :  Indian Cricket Game Champions
+appId :  com.real.cricket.cup.ipl.cricket.games
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Bike Clash
+appId :  com.tbegames.and.bike_mtb_unchained_cycling
+score :  4.539007
+installs : 5,000,000+
+ratings :  54537
+reviews :  293
+
+title :  Guns Master
+appId :  com.shooting.master
+score :  4.324159
+installs : 10,000,000+
+ratings :  59662
+reviews :  3774
+
+title :  Pakistan Cricket Super League 
+appId :  com.tnf.pakistan.cricket.league.games
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Real Football
+appId :  com.gameloft.android.ANMP.GloftR7HM
+score :  3.740905
+installs : 50,000,000+
+ratings :  1017844
+reviews :  4958
+
+title :  Billiards Club - Pool Snooker
+appId :  com.billiards.club.pool
+score :  4.5
+installs : 1,000,000+
+ratings :  5477
+reviews :  56
+
+title :  Shiva Cricket Game
+appId :  com.tangiappsit.shiva.cricketgame
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Golf Master 3D
+appId :  com.sm.golfmaster
+score :  4.353027
+installs : 5,000,000+
+ratings :  139919
+reviews :  23573
+
+title :  Touchdown Glory 2022
+appId :  com.rugby.swiperugby
+score :  4.337082
+installs : 1,000,000+
+ratings :  50739
+reviews :  2979
+
+title :  Football World: Online Soccer
+appId :  com.audify.football
+score :  4
+installs : 1,000,000+
+ratings :  943
+reviews :  6
+
+title :  World Of Carrom :3D Board Game
+appId :  com.appon.carrom
+score :  4.3152175
+installs : 10,000,000+
+ratings :  58893
+reviews :  32
+
+title :  RVG Real World Cricket Game 3D
+appId :  com.rockvillegames.real.cricket.game
+score :  4.025641
+installs : 500,000+
+ratings :  5827
+reviews :  20
+
+title :  WWE SuperCard - Battle Cards
+appId :  com.catdaddy.cat22
+score :  4.377354
+installs : 10,000,000+
+ratings :  633951
+reviews :  44711
+
+title :  ICC Cricket Mobile
+appId :  com.ncoregames.css
+score :  3.9107144
+installs : 1,000,000+
+ratings :  9479
+reviews :  33
+
+title :  Cricket World Champions
+appId :  com.zapak.cricket.t20.test.oneday.worldcup83
+score :  1.4285715
+installs : 500,000+
+ratings :  2242
+reviews :  4
+
+title :  Hitwicket Superstars: Cricket
+appId :  cricketgames.hitwicket.strategy
+score :  4.36
+installs : 1,000,000+
+ratings :  88031
+reviews :  180
+
+title :  World T20 Cricket League
+appId :  com.creativemonkeygames.playcricket.worldt20league
+score :  3.6666667
+installs : 1,000,000+
+ratings :  5158
+reviews :  8
+
+title :  real world T20 cricket 2022
+appId :  com.real.cricket.world.cup
+score :  4.6363635
+installs : 100,000+
+ratings :  1463
+reviews :  6
+
+title :  8 Ball Blitz - Billiards Games
+appId :  eight.ball.blitz.pool.billiards.free.android
+score :  4.393277
+installs : 5,000,000+
+ratings :  36299
+reviews :  1191
+
+title :  Basant The Kite Fight 3D
+appId :  com.ZKGames.BasantTheKiteFightTwo
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Toon Cup - Football Game
+appId :  com.turner.tooncup
+score :  4.0970874
+installs : 50,000,000+
+ratings :  536553
+reviews :  549
+
+title :  Car Games 3d 2022: Car Racing
+appId :  com.mgames.crazyspeed.carreacing.stuntgames
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  WCC Rivals Cricket Multiplayer
+appId :  com.nextwave.wccrivals
+score :  3.7
+installs : 1,000,000+
+ratings :  1202
+reviews :  4
+
+title :  Soccer Star 22 Top Leagues
+appId :  com.generagames.soccerstarleaguesfootball
+score :  4.405272
+installs : 50,000,000+
+ratings :  1048348
+reviews :  7870
+
+title :  World Cricket Games Offline
+appId :  com.ds.worldcricket.games.offline.wwc.hit.wicket.realcricket.odi.bpl.icc.ipl.free.cricketgames
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  SuperHero Mega Ramp: Car Games
+appId :  com.crsh.carstunts.megaramp
+score :  3.75
+installs : 5,000,000+
+ratings :  5348
+reviews :  135
+
+title :  Kick Boxing Games: Fight Game
+appId :  com.fs.shoot.boxing.fighting
+score :  4.461157
+installs : 10,000,000+
+ratings :  48841
+reviews :  837
+
+title :  Tractor Pull
+appId :  com.anddgn.tp.main
+score :  4.087542
+installs : 5,000,000+
+ratings :  29889
+reviews :  4768
+
+title :  Gully Cricket Game
+appId :  com.games2win.gullycricket
+score :  3.76
+installs : 5,000,000+
+ratings :  118173
+reviews :  49
+
+title :  Doodle Cricket - Cricket Game
+appId :  in.pmi.doodlecricket
+score :  4.125
+installs : 100,000+
+ratings :  1385
+reviews :  14
+
+title :  Wrestling Revolution
+appId :  air.WRCareer
+score :  4.0922213
+installs : 10,000,000+
+ratings :  389759
+reviews :  25698
+
+title :  World Cricket Battle 2 (WCB2) 
+appId :  com.creativemonkeygames.worldcricketbattle
+score :  3.5
+installs : 10,000,000+
+ratings :  144332
+reviews :  168
+
+title :  Tennis World Open 2023 - Sport
+appId :  eu.inlogic.tennis.open.tournament2019
+score :  4.5636363
+installs : 10,000,000+
+ratings :  65099
+reviews :  649
+
+title :  Bowling Crew — 3D bowling game
+appId :  com.tetrox.bowl
+score :  4.5663
+installs : 10,000,000+
+ratings :  359225
+reviews :  33698
+
+title :  3D Foosball
+appId :  com.BreynartStudios.Futbolin3D
+score :  3.55
+installs : 500,000+
+ratings :  1260
+reviews :  9
+
+title :  Pool Trickshots Billiard
+appId :  net.ilyon.pooltrickshots
+score :  4.5425
+installs : 1,000,000+
+ratings :  37127
+reviews :  1247
+
+title :  eFootball™ 2023
+appId :  jp.konami.pesam
+score :  3.8488228
+installs : 100,000,000+
+ratings :  11458770
+reviews :  129116
+
+title :  3D Tennis
+appId :  com.cg.tennis
+score :  4.1804724
+installs : 50,000,000+
+ratings :  1114412
+reviews :  16664
+
+title :  Total Snooker Classic
+appId :  eu.friendlymonster.totalsnookerclassic
+score :  3.877551
+installs : 1,000,000+
+ratings :  9849
+reviews :  14
+
+title :  Flip Diving
+appId :  com.motionvolt.flipdiving
+score :  4.3726096
+installs : 100,000,000+
+ratings :  946594
+reviews :  50194
+
+title :  Pipa Combate: Real Kite Games
+appId :  com.doo.pipa.combate.kite.game.real.fly
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Pool Pocket - Billiard Puzzle
+appId :  com.blackout.pool
+score :  4.7530365
+installs : 100,000+
+ratings :  4233
+reviews :  351
+
+title :  Soccer Battle -  PvP Football
+appId :  com.doubletapsoftware.soccer.realtime.sports
+score :  4.099071
+installs : 10,000,000+
+ratings :  64206
+reviews :  1345
+
+title :  Stick Cricket Premier League
+appId :  com.sticksports.spl
+score :  4.368994
+installs : 10,000,000+
+ratings :  353213
+reviews :  14573
+
+title :  Epic Cricket - Real 3D Game
+appId :  com.moonglabs.epiccricket
+score :  4.02
+installs : 10,000,000+
+ratings :  187427
+reviews :  87
+
+title :  Real Pool 3D Online 8Ball Game
+appId :  com.feamber.realpool
+score :  4.396789
+installs : 5,000,000+
+ratings :  41178
+reviews :  1491
+
+title :  BASEBALL 9
+appId :  us.kr.baseballnine
+score :  4.470721
+installs : 10,000,000+
+ratings :  373356
+reviews :  28463
+
+title :  BMX Bike Racing: Bicycle Games
+appId :  com.cg.bmxstunts.freestyle.racing
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Touchgrind BMX 2
+appId :  se.illusionlabs.touchgrindbmx2
+score :  4.3819356
+installs : 10,000,000+
+ratings :  268283
+reviews :  4373
+
+title :  Soccer Master Shoot Star
+appId :  com.soccerstar.supershot.super
+score :  4.5841584
+installs : 1,000,000+
+ratings :  5725
+reviews :  85
+
+title :  Real World T20 Cricket 2023
+appId :  com.gmc.realworld.cricket.psl.realcricket.superleague
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  EA SPORTS™ UFC® Mobile 2
+appId :  com.ea.gp.easportsufc2
+score :  4.417941
+installs : 10,000,000+
+ratings :  115746
+reviews :  3159
+
+title :  Flip Rider - BMX Tricks
+appId :  com.miniclip.flipbmx
+score :  4.37
+installs : 1,000,000+
+ratings :  2707
+reviews :  98
+
+title :  Archery Games: Bow and Arrow
+appId :  com.ags.archery.shooting.game
+score :  4.4117646
+installs : 100,000+
+ratings :  344
+reviews :  6
+
+title :  Head Ball 2 - Online Soccer
+appId :  com.masomo.headball2
+score :  4.143437
+installs : 100,000,000+
+ratings :  2125233
+reviews :  29408
+
+title :  Ind Vs China Multiplayer Kite 
+appId :  com.ind.chinakite
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  8 Ball Tournaments: Pool Game
+appId :  eightball.tournaments.magiplay.billiard.city.pool.eightball.tournaments
+score :  3.93
+installs : 1,000,000+
+ratings :  3880
+reviews :  53
+
+title :  Play Cricket PSL 2023 Game
+appId :  com.t20.cricket.worldcupgame
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Mini Football - Mobile Soccer
+appId :  com.miniclip.minifootball
+score :  4.1876674
+installs : 10,000,000+
+ratings :  579571
+reviews :  8667
+
+title :  BIG WIN Racing
+appId :  com.hotheadgames.google.free.bigwinstockcar
+score :  4.111817
+installs : 10,000,000+
+ratings :  146034
+reviews :  6183
+
+title :  Wicket Cricket Manager
+appId :  com.playt20manager
+score :  4.42
+installs : 100,000+
+ratings :  7177
+reviews :  28
+
+title :  8 Ball Billiards Offline Pool
+appId :  com.SNG.Pool.Billiard
+score :  4.414634
+installs : 5,000,000+
+ratings :  24518
+reviews :  450
+
+title :  8 Ball Offline - Billiard Pool
+appId :  com.falcon.p.ball8.offline.billiard.pool
+score :  3.878788
+installs : 100,000+
+ratings :  594
+reviews :  8
+
+title :  Police Dog Subway Crime Shoot
+appId :  com.yhi.us.police.dog.gangster.chase.game
+score :  3.3174603
+installs : 1,000,000+
+ratings :  2899
+reviews :  31
+
+title :  Real World Cricket Champions
+appId :  com.astrotech.worldcup.t20.real.cricket.league
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Goal Party - World Cup
+appId :  com.hyper.freekick
+score :  4.31
+installs : 5,000,000+
+ratings :  13386
+reviews :  145
+
+title :  Flip Runner
+appId :  com.motionvolt.fliprunner
+score :  4.2153225
+installs : 10,000,000+
+ratings :  52072
+reviews :  4728
+
+title :  Archery 2023 - King of arrow
+appId :  com.Nexelon.RealArchery
+score :  4.287129
+installs : 100,000+
+ratings :  1832
+reviews :  51
+
+title :  Tournament Pool
+appId :  com.matchplaygames.pool.android
+score :  4.0877194
+installs : 100,000+
+ratings :  857
+reviews :  21
+
+title :  Cricket - World Champions
+appId :  com.cricket.world.champions.league.cup
+score :  4.2
+installs : 500,000+
+ratings :  1191
+reviews :  4
+
+title :  Cricket World Domination
+appId :  com.athanggames.cricketworlddomination
+score :  4.1666665
+installs : 1,000,000+
+ratings :  4336
+reviews :  5
+
+title :  Foosball  PvP - Table Football
+appId :  com.shockwavegames.foosball.champions
+score :  3.142857
+installs : 100,000+
+ratings :  350
+reviews :  5
+
+title :  Ping Pong Fury
+appId :  uk.co.yakuto.PingPongKing
+score :  4.528825
+installs : 10,000,000+
+ratings :  121950
+reviews :  1709
+
+title :  WCC Cricket Blitz
+appId :  com.nextwave.cricket.wccblitz
+score :  4.3333335
+installs : 100,000+
+ratings :  704
+reviews :  3
+
+title :  Hockey All Stars
+appId :  com.distinctivegames.hockey2019
+score :  4.4802184
+installs : 10,000,000+
+ratings :  79862
+reviews :  2819
+
+title :  Top Eleven Be a Soccer Manager
+appId :  eu.nordeus.topeleven.android
+score :  4.5680213
+installs : 100,000,000+
+ratings :  6251181
+reviews :  58597
+
+title :  Real Wrestling Fighting Game
+appId :  com.rt.wrestling.games.realboxing.offline.fightinggames.wrestling.revolution.lucha
+score :  4.2647057
+installs : 100,000+
+ratings :  1011
+reviews :  14
+
+title :  World Cricket Cup Tournament
+appId :  games.wsa.world.cricket.cup
+score :  3.6923077
+installs : 1,000,000+
+ratings :  2363
+reviews :  9
+
+title :  Cricket Captain 2022
+appId :  uk.co.childishthings.cricketcaptain2022
+score :  3.3333333
+installs : 100,000+
+ratings :  931
+reviews :  5
+
+title :  Horse Riding Rivals Horse Race
+appId :  com.horseriding.horse.racing.game
+score :  2.3333333
+installs : 100,000+
+ratings :  195
+reviews :  3
+
+title :  Fishing Life
+appId :  com.nexelon.fishinglife
+score :  4.2535133
+installs : 10,000,000+
+ratings :  310238
+reviews :  6443
+
+title :  Ronaldo: Kick'n'Run Football
+appId :  com.hugogames.daybrook
+score :  4.5290456
+installs : 10,000,000+
+ratings :  205316
+reviews :  1899
+
+title :  Rival Stars Horse Racing
+appId :  com.pikpok.hrc.play
+score :  4.3980227
+installs : 10,000,000+
+ratings :  229163
+reviews :  11876
+
+title :  Rocket League Sideswipe
+appId :  com.Psyonix.RL2D
+score :  4.0202065
+installs : 10,000,000+
+ratings :  463938
+reviews :  20847
+
+title :  Archery Go- Archery games & Ar
+appId :  com.archery.go.bow.arrow.king.sports.game
+score :  4.275036
+installs : 10,000,000+
+ratings :  106544
+reviews :  19816
+
+title :  Sachin Saga Pro Cricket
+appId :  sachin.cricket.game
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Street Soccer Kick Games
+appId :  games.mini.sports.street.soccer.league
+score :  4.49
+installs : 5,000,000+
+ratings :  27414
+reviews :  135
+
+title :  MMA Manager 2: Ultimate Fight
+appId :  com.funrock.mma.manager
+score :  4.3461537
+installs : 1,000,000+
+ratings :  21428
+reviews :  1000
+
+title :  IPL Cricket Game: T20 Cricket
+appId :  com.ipl.cricket.league.game.t.cricket.games
+score :  4.590909
+installs : 1,000,000+
+ratings :  3438
+reviews :  19
+
+title :  Rocket Car Ball
+appId :  com.icarus.carball
+score :  4.1255813
+installs : 50,000,000+
+ratings :  214910
+reviews :  2513
+
+title :  Smash Cricket
+appId :  com.moonfrog.cricket
+score :  4.33
+installs : 5,000,000+
+ratings :  69079
+reviews :  116
+
+title :  Volleyball Game - Volley Beans
+appId :  com.tummygames.volleybeans
+score :  4.372549
+installs : 1,000,000+
+ratings :  14023
+reviews :  938
+
+title :  Pool Stars - 3D Online Multipl
+appId :  com.giraffegames.pool
+score :  4.3973126
+installs : 5,000,000+
+ratings :  67908
+reviews :  3632
+
+title :  Doodle Cricket - Cricket Game
+appId :  com.cricket.snail
+score :  4.107143
+installs : 100,000+
+ratings :  1374
+reviews :  7
+
+title :  Archery Club: PvP Multiplayer
+appId :  com.boombitgames.ArcheryClubTournament
+score :  4.613941
+installs : 5,000,000+
+ratings :  34547
+reviews :  1915
+
+title :  Carrom Master - Online Carrom
+appId :  in.codehound.carrom
+score :  4.4444447
+installs : 1,000,000+
+ratings :  4075
+reviews :  10
+
+title :  Sniper Shooting : 3D Gun Game
+appId :  com.free.gun.shooter.snipershooting
+score :  4.7830234
+installs : 10,000,000+
+ratings :  169669
+reviews :  5050
+
+title :  Soccer Stars: Football Kick
+appId :  com.miniclip.soccerstars
+score :  4.2253876
+installs : 50,000,000+
+ratings :  2394935
+reviews :  49221
+
+title :  Play IPL Cricket Cup Game
+appId :  com.smash.cricket.real.cricket.game
+score :  3.6666667
+installs : 1,000,000+
+ratings :  1823
+reviews :  2
+
+title :  Stick Cricket Classic
+appId :  com.sticksports.stickcricket
+score :  4.225343
+installs : 10,000,000+
+ratings :  239607
+reviews :  10405
+
+title :  Pipa Layang Kite Flying Game
+appId :  com.protechgames.kite.flying.pipacombat.layanglayang.festival.game
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Table Football, Soccer 3D
+appId :  com.galaticdroids.tableFootball
+score :  3.895288
+installs : 10,000,000+
+ratings :  62324
+reviews :  865
+
+title :  MLB 9 Innings 23
+appId :  com.com2us.ninepb3d.normal.freefull.google.global.android.common
+score :  4.397633
+installs : 10,000,000+
+ratings :  215044
+reviews :  32270
+
+title :  Badminton Clash 3D
+appId :  games.onebutton.badminton
+score :  undefined
+installs : null
+ratings :  undefined
+reviews :  undefined
+
+title :  Basketball Battle
+appId :  com.doubletapsoftware.basketballbattle
+score :  4.5456214
+installs : 10,000,000+
+ratings :  467344
+reviews :  52907
+
+title :  Sniper Champions: 3D shooting
+appId :  com.gameloft.anmp.sniper.champions
+score :  4.562221
+installs : 5,000,000+
+ratings :  269847
+reviews :  4814
+
+title :  Punch Boxing Game: Ninja Fight
+appId :  com.fa.real.punch.boxing.warrior
+score :  4.226537
+installs : 10,000,000+
+ratings :  85649
+reviews :  1211
+
+title :  Pro Darts 2023
+appId :  com.iwaredesigns.prodarts
+score :  4.4844723
+installs : 5,000,000+
+ratings :  82884
+reviews :  1494
+
+title :  Ultimate Soccer - Football
+appId :  com.cg.football
+score :  3.8448844
+installs : 50,000,000+
+ratings :  761045
+reviews :  4251
+
+title :  Pool 2022 : Play offline game
+appId :  com.andromedagames.pool2018free
+score :  4.183844
+installs : 1,000,000+
+ratings :  19373
+reviews :  1150
+
+title :  REAL FOOTBALL CHAMPIONS LEAGUE
+appId :  com.realgames.real_football_champion_league
+score :  3.57
+installs : 10,000,000+
+ratings :  29836
+reviews :  129
+
+title :  Soccer Star 22: World Football
+appId :  com.generamobile.soccerlegend
+score :  4.381069
+installs : 10,000,000+
+ratings :  620164
+reviews :  7144
+
+title :  Flip Jump Stack!
+appId :  com.crazylabs.flip.jump.stack
+score :  4.3632073
+installs : 10,000,000+
+ratings :  34330
+reviews :  2133
+

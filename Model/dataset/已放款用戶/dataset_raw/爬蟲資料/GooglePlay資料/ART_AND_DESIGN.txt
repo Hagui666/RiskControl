@@ -1,0 +1,1400 @@
+title :  Mehndi Design 2023
+appId :  com.studio.zm.mehndidesign2021offline
+score :  4.3846154
+installs : 1,000,000+
+ratings :  2399
+reviews :  2
+
+title :  Mehndi Designs
+appId :  com.vihas.mehndi.ka.design.latest.mehndidesigns
+score :  4.3846154
+installs : 500,000+
+ratings :  326
+reviews :  1
+
+title :  Canva: Design, Photo & Video
+appId :  com.canva.editor
+score :  4.775292
+installs : 100,000,000+
+ratings :  11887880
+reviews :  71870
+
+title :  Urdu Poetry on Photo Editor
+appId :  com.andprogram.textonphoto.urduonphoto.poetryonphoto
+score :  4.6666665
+installs : 1,000,000+
+ratings :  1021
+reviews :  3
+
+title :  Sketchbook
+appId :  com.adsk.sketchbook
+score :  3.893167
+installs : 100,000,000+
+ratings :  614667
+reviews :  28768
+
+title :  Urdu Designer Photo Post Maker
+appId :  fida.pk.urduonpicturepro
+score :  4.4761906
+installs : 1,000,000+
+ratings :  24567
+reviews :  95
+
+title :  Mehndi Design – Mehndi Designs
+appId :  com.mehndi.design.eidmehndidesign.weddingmehndidesignapp
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  AI Art Generator
+appId :  com.aigeneratedart.animeaiart
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Glitter dress coloring and dra
+appId :  com.redberry.glitterdressa2
+score :  3.8247864
+installs : 50,000,000+
+ratings :  40443
+reviews :  663
+
+title :  Imagitor - Urdu Design
+appId :  com.booleanbites.imagitor
+score :  4.4938273
+installs : 500,000+
+ratings :  9822
+reviews :  37
+
+title :  Mehndi Design 2023
+appId :  simple.mehndi.design.digital
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Imagine : AI Art Generator
+appId :  com.vyroai.aiart
+score :  4.0813007
+installs : 1,000,000+
+ratings :  32250
+reviews :  2483
+
+title :  Mehndi Design - Easy Simple
+appId :  mehndi.ka.design
+score :  3.9
+installs : 1,000,000+
+ratings :  1895
+reviews :  1
+
+title :  Mehndi Design 2023
+appId :  com.studio.junkylogic.mehndidesigns
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Photoleap: Photo Editor/AI Art
+appId :  com.lightricks.photoleap
+score :  4.4206347
+installs : 1,000,000+
+ratings :  17538
+reviews :  286
+
+title :  Pana Flex Maker In Urdu
+appId :  com.newsoftechsol.panaflex.banner.maker
+score :  3.8
+installs : 100,000+
+ratings :  587
+reviews :  0
+
+title :  Thumbnail Maker - Channel art
+appId :  com.covermaker.thumbnail.maker
+score :  4.435205
+installs : 10,000,000+
+ratings :  175599
+reviews :  4846
+
+title :  Poster Maker - Flyer Creator
+appId :  com.appxstudio.postro
+score :  4.65
+installs : 1,000,000+
+ratings :  19067
+reviews :  58
+
+title :  Drawing Apps: Draw, Sketch Pad
+appId :  com.drawing.pad.desk.app.coloring.book.paint.sketch
+score :  4.29
+installs : 1,000,000+
+ratings :  2260
+reviews :  40
+
+title :  Mehndi Design : Henna Designs
+appId :  mehandi.mehndi.design.henna.tattoo
+score :  3.8
+installs : 500,000+
+ratings :  448
+reviews :  0
+
+title :  Banner Flex Maker with Photo
+appId :  com.za.bannermaker.flexmaker.postermaker
+score :  4.8
+installs : 100,000+
+ratings :  317
+reviews :  1
+
+title :  FF Logo Maker | Gaming Esports
+appId :  com.SpartanApps.AutoGamingLogoMaker
+score :  4.8958335
+installs : 500,000+
+ratings :  1449
+reviews :  44
+
+title :  Adobe Express: Graphic Design
+appId :  com.adobe.spark.post
+score :  4.671111
+installs : 10,000,000+
+ratings :  186752
+reviews :  5847
+
+title :  Animated Sticker Maker (FSM)
+appId :  alpha.sticker.maker
+score :  4.476378
+installs : 10,000,000+
+ratings :  118797
+reviews :  684
+
+title :  Magic Cross Stitch: Pixel Art
+appId :  com.zimad.mpixel
+score :  4.722857
+installs : 5,000,000+
+ratings :  36503
+reviews :  2840
+
+title :  Logo Maker : 3D Logo Designer
+appId :  com.JassAppx.LogoMaker_LogoCreator_LogoDesign
+score :  4.484375
+installs : 100,000+
+ratings :  1936
+reviews :  24
+
+title :  Sweet Camera Plus Face Filters
+appId :  com.lockerroom.beautysnap.camera.photoeditor
+score :  4.25
+installs : 1,000,000+
+ratings :  1830
+reviews :  3
+
+title :  Mehndi Design 2023
+appId :  com.nm.mehndi
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Urdu Stylish Text Name Maker
+appId :  com.kanwalsoft.urdustylishnamemaker
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  X Launcher: With OS13 Theme
+appId :  com.ioslauncher.free2
+score :  4.6150627
+installs : 10,000,000+
+ratings :  112800
+reviews :  849
+
+title :  Mehndi Design 2023
+appId :  com.stylestudio.mehndidesign.best
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Mehndi Designs 2022
+appId :  com.kevalamitgohel.mehnditattoospro
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Name Art Maker & Text Editor
+appId :  com.shadow.shadownamemaker
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Urdu On Picture - Urdu Status
+appId :  com.ionicframework.urduonpicture524687
+score :  4.3055553
+installs : 1,000,000+
+ratings :  9508
+reviews :  4
+
+title :  Sticker Maker for WhatsApp
+appId :  wastickerapps.imagetosticker.stickermaker.sticker.maker.stickerapp.stickersforwhatsapp.imagicker.wastickerapps
+score :  4.44
+installs : 1,000,000+
+ratings :  13024
+reviews :  67
+
+title :  Name Shadow Art Text Art Maker
+appId :  com.artname.fontshadow.namemaker.font.nameart.textart.artmaker.wallpaper
+score :  3.857143
+installs : 100,000+
+ratings :  197
+reviews :  4
+
+title :  Urdu Post Maker Photext Master
+appId :  com.kk.UrduPostMaker.urdu.poster.urdu.writing.poster_maker
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  PaperColor
+appId :  com.eyewind.paperone
+score :  4.355842
+installs : 10,000,000+
+ratings :  201035
+reviews :  12895
+
+title :  Glitter Number and letters col
+appId :  com.redberry.glitter123Abc
+score :  4.069307
+installs : 10,000,000+
+ratings :  4923
+reviews :  55
+
+title :  Sad Poetry Photo Frames 2020
+appId :  com.sad.poetry.photo.frames.latest
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Fun Coloring games for kids
+appId :  com.baramfze.funcoloring
+score :  4.4
+installs : 500,000+
+ratings :  355
+reviews :  0
+
+title :  Wonder - AI Art Generator
+appId :  com.codeway.wonder
+score :  3.487946
+installs : 10,000,000+
+ratings :  88033
+reviews :  10225
+
+title :  Mehndi Design: Easy & Simple
+appId :  com.ssstudio.mehndi_design
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Simple Mehndi Designs 2023
+appId :  com.islamicsofthub.hinadesign.mehndidesign
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  aesthetic background
+appId :  aesthetic.wallpaper
+score :  4.079208
+installs : 1,000,000+
+ratings :  4350
+reviews :  175
+
+title :  FlipaClip: Create 2D Animation
+appId :  com.vblast.flipaclip
+score :  4.26132
+installs : 10,000,000+
+ratings :  605032
+reviews :  44680
+
+title :  Sketch - Draw & Paint
+appId :  com.paint.drawing.sketchbook
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Traditional Mehndi Designs 202
+appId :  com.littleapp.mehndidesigns
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  How to draw weapons by steps
+appId :  udenity.draw.weapons
+score :  4.67
+installs : 10,000,000+
+ratings :  53576
+reviews :  499
+
+title :  Online Poster Maker & Designer
+appId :  com.charismaapps.custompostermakerappdesign
+score :  4.857143
+installs : 500,000+
+ratings :  785
+reviews :  3
+
+title :  Drawing Desk: Draw, Paint Art
+appId :  com.axis.drawingdesk.v3
+score :  4.187992
+installs : 10,000,000+
+ratings :  104758
+reviews :  8086
+
+title :  Mehndi Designs Offline
+appId :  com.wikitech.offlinemehndidesigns
+score :  4.986111
+installs : 50,000+
+ratings :  645
+reviews :  71
+
+title :  Anime Chibi Doll Girl Games
+appId :  air.com.glammyclub.animechibidollgirlgames
+score :  3.4705882
+installs : 1,000,000+
+ratings :  1346
+reviews :  3
+
+title :  Pana Urdu Flex Maker
+appId :  com.dappx.panaflex.urdu.banner.maker
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Mehndi Design 2023
+appId :  mehndi.ke.design.easy.simple.mehandi.design
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Logo Maker : Graphic Design
+appId :  com.createlogo.logomaker
+score :  4.691489
+installs : 10,000,000+
+ratings :  188402
+reviews :  3056
+
+title :  Mehndi Design 2023
+appId :  mehndi.design
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Gaming Esports Logo Maker FFML
+appId :  com.tera.esport.logo.maker.gaming.creator
+score :  4.714286
+installs : 10,000+
+ratings :  537
+reviews :  25
+
+title :  Bridal Henna Mehndi Designs
+appId :  com.henna.mehndi.bridal.hennadesigns.mehndidesign2022
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Eden Ai artist
+appId :  com.iyousoft.eden
+score :  3.8166666
+installs : 10,000+
+ratings :  421
+reviews :  21
+
+title :  Smoke Name Art Maker
+appId :  com.appxstudio.smokearteffect
+score :  4.6476626
+installs : 10,000,000+
+ratings :  84553
+reviews :  2155
+
+title :  PTI Banner Maker & Photo Frame
+appId :  com.lc.banner.flex.maker.photo.frame
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Video Downloader
+appId :  video.downloader.videodownloader.tube
+score :  4.5
+installs : 5,000,000+
+ratings :  39311
+reviews :  621
+
+title :  Poster Maker & flyer maker app
+appId :  splendid.postermaker.designer
+score :  4.740413
+installs : 10,000,000+
+ratings :  208261
+reviews :  1562
+
+title :  Islamic Stickers - WASticker
+appId :  com.aymanalayan.islamicstickers
+score :  4.6875
+installs : 500,000+
+ratings :  3329
+reviews :  20
+
+title :  Urdu Poetry On Photo
+appId :  com.skyapps.urdu.poetry.on.photo
+score :  4.1
+installs : 500,000+
+ratings :  4242
+reviews :  2
+
+title :  Mehndi Design 2023 (HD)
+appId :  com.mimiapps.mehndi
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  ibis Paint X
+appId :  jp.ne.ibis.ibispaintx.app
+score :  4.4364614
+installs : 100,000,000+
+ratings :  2304848
+reviews :  105975
+
+title :  Light Photo Effect Editor
+appId :  com.light.photoeditor.new
+score :  2.8888888
+installs : 1,000,000+
+ratings :  1090
+reviews :  2
+
+title :  Floor Plan Creator
+appId :  pl.planmieszkania.android
+score :  4.1334357
+installs : 10,000,000+
+ratings :  113215
+reviews :  4912
+
+title :  Hair Styles 2020 & Hair Style 
+appId :  com.khan.hairstyles
+score :  2.75
+installs : 100,000+
+ratings :  374
+reviews :  2
+
+title :  Text: add text to photo. Fonts
+appId :  com.cosmoshark.text
+score :  4.36
+installs : 1,000,000+
+ratings :  11132
+reviews :  47
+
+title :  Fruits Coloring Book & Drawing
+appId :  com.fruitscoloringbookfromuv.android
+score :  4.4166665
+installs : 5,000,000+
+ratings :  6911
+reviews :  18
+
+title :  Urdu Art :Urdu text on picture
+appId :  com.redcliffapps.urdutextonphoto
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Tattoo My Name On Photo Editor
+appId :  com.tattoo.body.name.girls.boys.photo.editor
+score :  4.0735292
+installs : 5,000,000+
+ratings :  46854
+reviews :  237
+
+title :  Logo Maker : Logo Creator
+appId :  org.contentarcade.apps.logomaker
+score :  4.3693857
+installs : 10,000,000+
+ratings :  273126
+reviews :  4043
+
+title :  Esports Gaming Logo Maker
+appId :  com.QuantumAppx.LogoMaker
+score :  4.516667
+installs : 5,000,000+
+ratings :  58273
+reviews :  787
+
+title :  Muslim Cards: Eid & Ramadan
+appId :  tools.AFSouDroid.muslimcards
+score :  4.4
+installs : 100,000+
+ratings :  6906
+reviews :  14
+
+title :  Mehndi Designs (Offline)
+appId :  com.uidevelopers.mehndidesign
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Girls Name dpz  Maker: Boys dp
+appId :  com.abc.stylish.name.dp.maker
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  iLauncher for OS - Theme, Icon
+appId :  com.webgenie.ioslauncher
+score :  4.642857
+installs : 5,000,000+
+ratings :  137466
+reviews :  971
+
+title :  Blend Photo Editor & Effect
+appId :  com.appxstudio.blenderdoubleexposure
+score :  4.6059113
+installs : 1,000,000+
+ratings :  15200
+reviews :  463
+
+title :  Photo Jodne wala App - Editor
+appId :  com.gpinfo.photojodnewalaapp
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Sand Draw Creative Art Drawing
+appId :  air.com.KalromSystems.SandDrawLite
+score :  4.5762157
+installs : 10,000,000+
+ratings :  142112
+reviews :  11131
+
+title :  Name Art Wallpaper Maker
+appId :  com.kidselearn.mynamewallpaper
+score :  3.2380953
+installs : 100,000+
+ratings :  389
+reviews :  3
+
+title :  Castle - Make and Pla‪y
+appId :  xyz.castle
+score :  4.5742574
+installs : 1,000,000+
+ratings :  11418
+reviews :  342
+
+title :  Bus Simulator Indonesia MOD
+appId :  com.sengkunidev_bussid.modbussid2023
+score :  3.860465
+installs : 100,000+
+ratings :  8598
+reviews :  2
+
+title :  Name Video Maker - Name Art
+appId :  com.galaxylauncher.name.video.maker.neon.name.art.videoart
+score :  4.6666665
+installs : 100,000+
+ratings :  503
+reviews :  1
+
+title :  Invitation Card Maker - Design
+appId :  com.invitation.maker.greetingcard.design.creator
+score :  3.4285715
+installs : 1,000,000+
+ratings :  676
+reviews :  9
+
+title :  Name DP Maker 2023
+appId :  com.DpMaker_NameDpMaker
+score :  3.857143
+installs : 100,000+
+ratings :  562
+reviews :  2
+
+title :  Poster Maker, Flyer Maker
+appId :  com.nra.flyermaker
+score :  4.6448865
+installs : 1,000,000+
+ratings :  79643
+reviews :  1318
+
+title :  Mehndi Designs 2023 HD
+appId :  com.mehendi.mehendidesigns
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  AR Tattoo: Fantasy & Fun
+appId :  com.ar.tattoo
+score :  4.2475247
+installs : 1,000,000+
+ratings :  7324
+reviews :  113
+
+title :  Brand Mantra - Festival Poster
+appId :  com.brandmantra.brandmantra
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Coloring Pages for Kids
+appId :  com.amaxsoftware.coloringpages.animals
+score :  3.3888888
+installs : 500,000+
+ratings :  422
+reviews :  6
+
+title :  AI Image - AI Art Generator
+appId :  com.aiimage.aiart.generator
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Heic Image Viewer
+appId :  henry.heic.image.viewer
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Name Art Photo Editor
+appId :  ma.nameart.nameshadow.fancyname
+score :  4.44
+installs : 1,000,000+
+ratings :  9018
+reviews :  44
+
+title :  Name Letter Dp Maker
+appId :  com.khaniitech.DpMaker_NameLetterDpMaker.stylishnamemaker_dpmaker
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Eid Mubarak Name DP Maker 2022
+appId :  com.aurappx.eidmubarakdps
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Invitation maker & Card Design
+appId :  com.invitation.maker.birthday.card
+score :  4.523077
+installs : 5,000,000+
+ratings :  65749
+reviews :  387
+
+title :  Mehndi: Simple Best Mehndi Des
+appId :  com.videoplaymehndidesign
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Pixelcut AI Photo Editor
+appId :  com.circular.pixels
+score :  4.542222
+installs : 1,000,000+
+ratings :  53219
+reviews :  727
+
+title :  PDF Reader: Read All PDF App
+appId :  com.mta.allpdf.pdfreader.pdfviewer.readpdf
+score :  4.2
+installs : 100,000+
+ratings :  999
+reviews :  8
+
+title :  Mehndi Designs Offline
+appId :  com.onlytools.mehndidesign.newmahendi.design.hennamehndiapp.hennamehndidesignbook
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Love Name Letter DP Maker 2023
+appId :  com.DpMaker_LoveNameLetterDpMaker
+score :  3.4545455
+installs : 1,000,000+
+ratings :  2163
+reviews :  5
+
+title :  GB WA Delta Transparan
+appId :  com.piyeiki.angeltenan
+score :  4.0208335
+installs : 1,000,000+
+ratings :  5740
+reviews :  13
+
+title :  Logo Maker - Graphic Design & 
+appId :  com.artech.logomakerfreepro
+score :  3.66
+installs : 5,000,000+
+ratings :  20233
+reviews :  312
+
+title :  Name Art Photo Editor
+appId :  fusion.stylishnamecreator.fontish
+score :  4.818182
+installs : 10,000+
+ratings :  234
+reviews :  8
+
+title :  Easy Mehndi Design Henna App
+appId :  com.as.mehndi.design.bridal.henna.fashion
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Draw : Trace & Sketch
+appId :  com.world.globle.tracesketch.rp
+score :  3.4851484
+installs : 1,000,000+
+ratings :  6025
+reviews :  81
+
+title :  Coloring
+appId :  com.teazel.coloring
+score :  4.467547
+installs : 1,000,000+
+ratings :  34420
+reviews :  3281
+
+title :  Lightx Photo Editor App
+appId :  com.lr.presets.lightx.photo.editor.app
+score :  4.3333335
+installs : 50,000+
+ratings :  200
+reviews :  2
+
+title :  Esports Gaming Logo Maker
+appId :  megaappx.esportlogomaker
+score :  5
+installs : 100,000+
+ratings :  346
+reviews :  6
+
+title :  Baalveer Returns Wallpapers HD
+appId :  com.kalmandoo02.wallpaper02.BaalveerReturns
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Emoji Letter Maker
+appId :  com.eladfinish.emojilettermaker
+score :  4.66
+installs : 1,000,000+
+ratings :  24259
+reviews :  178
+
+title :  Apowersoft Background Eraser
+appId :  com.apowersoft.backgrounderaser
+score :  3.13
+installs : 1,000,000+
+ratings :  6400
+reviews :  259
+
+title :  stylish Finger mehndi designs
+appId :  com.hafizg.simplemehndidesigns2021
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Picshiner - AI Photo Editor
+appId :  com.adoreapps.photo.editor
+score :  4.857143
+installs : 50,000+
+ratings :  286
+reviews :  1
+
+title :  U Launcher Lite-Hide apps
+appId :  com.phone.launcher.lite
+score :  4.355705
+installs : 10,000,000+
+ratings :  316729
+reviews :  2650
+
+title :  Doodle Art for kids-Draw
+appId :  com.TechLabFZE.DoodleArtforKidsDraw
+score :  3.9
+installs : 1,000,000+
+ratings :  1228
+reviews :  48
+
+title :  Bus Simulator Indonesia : MOD
+appId :  com.truckcanter.modbussid
+score :  3.75
+installs : 1,000,000+
+ratings :  5630
+reviews :  6
+
+title :  Name Art Photo Editor-DP Maker
+appId :  com.QuantumAppx.NameArt_TextArt
+score :  4.1666665
+installs : 10,000+
+ratings :  223
+reviews :  2
+
+title :  Poster Maker , Flyer Design
+appId :  com.postermaker.posterapp.designer
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  FF Logo Maker - Gaming Esport
+appId :  com.qualitylogomaker.fflogomakernew
+score :  3.5833333
+installs : 500,000+
+ratings :  1772
+reviews :  6
+
+title :  WeDraw - How to Draw Anime
+appId :  com.articoapps.wedraw
+score :  4.5263157
+installs : 10,000,000+
+ratings :  42522
+reviews :  689
+
+title :  Pollotno Studio Design Hints
+appId :  com.polotno.studio.app.indonaswa
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  King Godzilla Wallpaper HD
+appId :  com.wallpaper4you.king_monsters_kaiju_godzilla_kingkong_ghirodah__wallpaper
+score :  4.5555553
+installs : 10,000+
+ratings :  94
+reviews :  2
+
+title :  BLENDIN - Design News Inshort
+appId :  com.mfy.archdiarymfy
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Gol Tikki Mehndi Designs
+appId :  com.hzk.goltikkimehndidesigns
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Pottery Master: Ceramic Art
+appId :  com.create.pottery.paint.by.color
+score :  4.109215
+installs : 10,000,000+
+ratings :  50320
+reviews :  2993
+
+title :  Mehndi Designs 2022 (offline)
+appId :  com.livql.newmehndidesigns
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Cute Parrot Wallpaper
+appId :  com.devloperana.parrotwallpaper.offline
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Behance - Creative Portfolios
+appId :  com.behance.behance
+score :  4.5142207
+installs : 5,000,000+
+ratings :  168382
+reviews :  1860
+
+title :  Eid Mubarak Photo Frames 2023
+appId :  com.newsofttechia.eid.photo.frames.piceditor
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  How To Draw Flowers
+appId :  com.creative.Learn.to.draw.flowers
+score :  4.403226
+installs : 10,000,000+
+ratings :  24185
+reviews :  766
+
+title :  Gol Tikki Mehndi Designs 2020 
+appId :  com.fashbell966.hasan.fashbellpro206
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Logo Maker: Logo Designer
+appId :  com.logo.maker.creator.generator.graphic.designer
+score :  4.24
+installs : 1,000,000+
+ratings :  5668
+reviews :  100
+
+title :  TCF ARTS : Gaming Logo Maker
+appId :  com.tcfgameyt.tcfarts
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  AI Art Generator: Avatar Maker
+appId :  com.ai.art.generator.avatar.maker.image.drawing.filter.anime
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Urdu Text on Photo Editor
+appId :  com.rctappsstudio.urduonphoto.urduonpicture.poetryonphoto
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Mehndi Design - 2023 Offline
+appId :  com.kaziatiq.mehedidesign
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  DIY Easy Crafts ideas
+appId :  diy.crafts.free
+score :  4.367647
+installs : 100,000+
+ratings :  1239
+reviews :  18
+
+title :  Urdu on Photo - Urdu Design
+appId :  com.urdustylishname.urdutextonphoto.malps
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  FF Logo Maker | Gaming Esports
+appId :  com.spartan.apps.esportlogomaker
+score :  5
+installs : 100,000+
+ratings :  502
+reviews :  30
+
+title :  Gol Tikki Mehndi Design Latest
+appId :  com.OpinionMatters.GolTikki.MehndiDesign2019
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Mehndi Design & Videos
+appId :  com.hd.mehndi.design.videos
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Business Poster Maker
+appId :  com.postermaker.businessposter
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Watermark Cloud
+appId :  com.shuiyinyun.app
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  AI Avatar maker, Profile Pic
+appId :  toon.photo.cartoon.editor
+score :  3.7029703
+installs : 1,000,000+
+ratings :  8546
+reviews :  75
+
+title :  Love Stickers : WAStickersApp
+appId :  com.whitesquads.romanticlovestickers
+score :  4.388889
+installs : 1,000,000+
+ratings :  2365
+reviews :  21
+
+title :  Anime AI
+appId :  ai.art.generated.drawing.anime.photo.dream
+score :  4.3560605
+installs : 1,000,000+
+ratings :  12652
+reviews :  548
+
+title :  Tattoo Maker - Tattoo On Photo
+appId :  tattooz.tattoo.maker.name.on.my.photo
+score :  3.71
+installs : 5,000,000+
+ratings :  10966
+reviews :  263
+
+title :  Quotes Creator - Quote Writer
+appId :  com.vikrams.quotescreator
+score :  4.75
+installs : 500,000+
+ratings :  7017
+reviews :  68
+
+title :  Mehndi Design offline latest
+appId :  com.rkkhan.mehndi.design.offline
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Mehndi Design 2023 - Trending
+appId :  com.apps.horizon.mehndi.design
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Learn to Draw Anime by Steps
+appId :  learn.all.anime.drawing
+score :  4.1287127
+installs : 1,000,000+
+ratings :  16179
+reviews :  231
+
+title :  Arta・AI Art & Avatar Generator
+appId :  ai.generated.art.maker.image.picture.photo.generator.painting
+score :  3.5389907
+installs : 1,000,000+
+ratings :  11746
+reviews :  1414
+
+title :  Learn Drawing
+appId :  com.rstream.learndrawing
+score :  4.2475247
+installs : 500,000+
+ratings :  4984
+reviews :  201
+
+title :  Mehndi Design: Easy & Offline
+appId :  com.sajib.mehndidesign
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Name Art - Creative Shadow Tex
+appId :  nameart.shadow.namemaker.text.stylish.calligraphy
+score :  4.05
+installs : 500,000+
+ratings :  1923
+reviews :  9
+
+title :  Adobe Capture: Illustrator,Ps
+appId :  com.adobe.creativeapps.gather
+score :  4.5695267
+installs : 5,000,000+
+ratings :  40805
+reviews :  1768
+
+title :  3D Names
+appId :  com.threednames
+score :  3.2142856
+installs : 100,000+
+ratings :  455
+reviews :  8
+
+title :  Wedding Invitation Card Maker
+appId :  com.weddingcard.maker.creator
+score :  2.857143
+installs : 1,000,000+
+ratings :  1013
+reviews :  4
+
+title :  Piczy
+appId :  com.smarthub.greetings
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Stickers for WhatsApp - WAStic
+appId :  stickersforwhatsapp.wastickerapps
+score :  4.8
+installs : 1,000,000+
+ratings :  7409
+reviews :  9
+
+title :  Urdu Typer 2022
+appId :  com.vikisoft.muhammadwaqarafzal.urdutyper
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Drewon - AI Art Brain
+appId :  com.mdais.generate
+score :  2.8333333
+installs : 5,000+
+ratings :  53
+reviews :  8
+
+title :  Mehndi Design 2023
+appId :  com.mehndi.design2023.simple.best.latest
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  3D Modeling App: Sculpt & Draw
+appId :  com.inforcegames.app3dmodelling
+score :  undefined
+installs : 5,000,000+
+ratings :  undefined
+reviews :  undefined
+
+title :  Benime-Whiteboard Video Maker
+appId :  com.benzveen.doodlify
+score :  4.37
+installs : 1,000,000+
+ratings :  38106
+reviews :  260
+
+title :  My Face Sticker: Custom WhatsA
+appId :  com.myface.custom.sticker.maker
+score :  4.0588236
+installs : 100,000+
+ratings :  2189
+reviews :  7
+
+title :  Eid Mubarak Profile Maker 2023
+appId :  com.newsoftechia.eidprofile.picdpmaker2022
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  OpenSea: NFT marketplace
+appId :  io.opensea
+score :  3.8777175
+installs : 1,000,000+
+ratings :  23988
+reviews :  527
+
+title :  Urdu Text & Shayari on Photo
+appId :  com.zl.urdupoetry.photoeditor
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Logo Maker : Graphic Design
+appId :  com.wildDevLab.LogoMakerFreePro
+score :  4.36
+installs : 1,000,000+
+ratings :  24633
+reviews :  443
+
+title :  Graphionica: ig story maker
+appId :  com.graphionica.app
+score :  4.3431373
+installs : 10,000,000+
+ratings :  26717
+reviews :  141
+
+title :  Pose Max
+appId :  com.bagestudio.posemax
+score :  3.13
+installs : 500,000+
+ratings :  2149
+reviews :  73
+
+title :  Calca app
+appId :  com.apliarte.calcaapp
+score :  3.75
+installs : 1,000,000+
+ratings :  6898
+reviews :  42
+
+title :  Glitter lips coloring game
+appId :  com.redberry.glitterlips
+score :  4.22
+installs : 5,000,000+
+ratings :  4134
+reviews :  112
+
+title :  Scribbl - Photo & Video Effect
+appId :  com.axndx.ig
+score :  4.2018347
+installs : 5,000,000+
+ratings :  40672
+reviews :  526
+
+title :  Doodle Master - Glow Art
+appId :  com.doodle.master.draw.glow.art
+score :  4.576711
+installs : 10,000,000+
+ratings :  89561
+reviews :  5245
+
+title :  Infinite Painter
+appId :  com.brakefield.painter
+score :  4.46981
+installs : 10,000,000+
+ratings :  128725
+reviews :  8137
+
+title :  Tayasui Sketches
+appId :  com.tayasui.sketches
+score :  4.3188405
+installs : 5,000,000+
+ratings :  43508
+reviews :  955
+
+title :  Foot Mehndi Designs
+appId :  com.hzk.footmehndidesigns
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  FF Stickers para whatsapp
+appId :  com.kapp.ff
+score :  4.6164384
+installs : 500,000+
+ratings :  4108
+reviews :  41
+
+title :  Stylish Name Maker Namestyle
+appId :  viva.vivaexplorer.Stylish.name.maker
+score :  3.8333333
+installs : 500,000+
+ratings :  1737
+reviews :  4
+
+title :  Crafty Art: Flyers, Logo Maker
+appId :  com.crafty.art
+score :  4.1666665
+installs : 100,000+
+ratings :  1509
+reviews :  4
+
+title :  Glitter Unicorn Wallpaper HD
+appId :  com.wallpaper4you.glitter_rainbow_unicorn_wallpaper_parallax_sparkling
+score :  5
+installs : 10,000+
+ratings :  70
+reviews :  1
+
+title :  Desygner: Graphic Design Maker
+appId :  com.delgeo.desygner
+score :  4.76
+installs : 5,000,000+
+ratings :  80077
+reviews :  1484
+
+title :  Freepik
+appId :  com.freepikcompany.freepik
+score :  3.5454545
+installs : 100,000+
+ratings :  431
+reviews :  13
+
+title :  Stickman: draw animation maker
+appId :  com.appolo13.stickmandrawanimation
+score :  3.8146596
+installs : 10,000,000+
+ratings :  190704
+reviews :  5475
+
+title :  AI Art Generator
+appId :  com.tapuniverse.aiartgenerator
+score :  4.0851064
+installs : 100,000+
+ratings :  13690
+reviews :  433
+
+title :  Tracing Paper - Light Box
+appId :  com.advancedweb.tracing_paper_sketching
+score :  4.48
+installs : 500,000+
+ratings :  2060
+reviews :  102
+
+title :  Tattoo On Photo, Create Tattoo
+appId :  com.ezp.tattoo
+score :  4.869565
+installs : 50,000+
+ratings :  137
+reviews :  7
+
+title :  Remove Background by Pixlr
+appId :  com.pixlr.removebg
+score :  4.3846154
+installs : 100,000+
+ratings :  4817
+reviews :  107
+
+title :  Game Avatar: Custom Mascot Log
+appId :  com.ved.pubg_avatar
+score :  4.31
+installs : 1,000,000+
+ratings :  18356
+reviews :  179
+
+title :  Eid al-Fitr Frames 2023
+appId :  com.redsnapper8.rayaframes
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Lightroom Classic Photo Editor
+appId :  com.lr.lightroom.classic.photo.editor.professional.dng.presets.filters
+score :  2.5714285
+installs : 100,000+
+ratings :  818
+reviews :  6
+
+title :  Stylish Name Maker Urdu Post
+appId :  com.urdupostmaker.urdustylishname.art.maker.addtextonphoto
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+

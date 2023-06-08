@@ -1,0 +1,1400 @@
+title :  File Cleanup Expert
+appId :  net.filerecover.cleankit
+score :  4.3495145
+installs : 10,000,000+
+ratings :  14583
+reviews :  102
+
+title :  Gear Proxy
+appId :  com.gear.android.proxy
+score :  3.4411764
+installs : 1,000,000+
+ratings :  2630
+reviews :  60
+
+title :  Secret Proxy Pro
+appId :  com.oproxy.intool
+score :  4.5930142
+installs : 10,000,000+
+ratings :  70885
+reviews :  6992
+
+title :  Easy Urdu Keyboard اردو Editor
+appId :  com.pakdata.easyurdu
+score :  4.3137255
+installs : 10,000,000+
+ratings :  89915
+reviews :  207
+
+title :  Vpn proxy master unlimited app
+appId :  com.speedfiymax.app
+score :  4.6536098
+installs : 50,000,000+
+ratings :  194145
+reviews :  10878
+
+title :  B-Love Network
+appId :  biz.innovationfactory.bnetwork
+score :  4.117647
+installs : 5,000,000+
+ratings :  58646
+reviews :  192
+
+title :  Microsoft OneDrive
+appId :  com.microsoft.skydrive
+score :  4.631537
+installs : 1,000,000,000+
+ratings :  4380532
+reviews :  94984
+
+title :  All Net - Private proxy
+appId :  com.verynice.vpnone
+score :  4.6540213
+installs : 5,000,000+
+ratings :  20373
+reviews :  1889
+
+title :  Applock Pro - App Lock & Guard
+appId :  com.ibragunduz.applockpro
+score :  4.701897
+installs : 50,000,000+
+ratings :  736600
+reviews :  2394
+
+title :  WiFi Passwords Map Instabridge
+appId :  com.instabridge.android
+score :  4.240415
+installs : 100,000,000+
+ratings :  2157646
+reviews :  17506
+
+title :  SHAREit Lite - Fast File Share
+appId :  shareit.lite
+score :  4.3899083
+installs : 100,000,000+
+ratings :  405397
+reviews :  1641
+
+title :  Urdu English Keyboard - اردو
+appId :  com.urdu_keyboard
+score :  3.9764705
+installs : 5,000,000+
+ratings :  15436
+reviews :  24
+
+title :  Chat AI - Chat With GPT AI Bot
+appId :  com.ai.chat.bot.aichat
+score :  4.560606
+installs : 1,000,000+
+ratings :  30930
+reviews :  923
+
+title :  CamScanner - PDF Scanner App
+appId :  com.intsig.camscanner
+score :  4.8559966
+installs : 100,000,000+
+ratings :  4391182
+reviews :  140050
+
+title :  VPN Pro - Fast & Secure VPN
+appId :  com.beanstudiohq.vpn
+score :  3.2857144
+installs : 100,000+
+ratings :  183
+reviews :  7
+
+title :  Urdu Keyboard- اردو کی بورڈ
+appId :  com.appscourt.urdu.english.roman.keyboard.offline
+score :  4.2325583
+installs : 1,000,000+
+ratings :  9082
+reviews :  9
+
+title :  Word Office - PDF, Docx, XLSX
+appId :  com.officedocument.word.docx.document.viewer
+score :  4.010526
+installs : 10,000,000+
+ratings :  89700
+reviews :  877
+
+title :  Flash Notification On Call
+appId :  com.flashalerts3.oncallsmsforall
+score :  4.5959163
+installs : 10,000,000+
+ratings :  714401
+reviews :  6525
+
+title :  Pak Sim Owner Details 2023
+appId :  com.pakeservices.simownerdetails
+score :  5
+installs : 50,000+
+ratings :  846
+reviews :  3
+
+title :  Sim Owner Checker Details 2023
+appId :  com.moktiapps.simownercheckerdetails2023
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Status Saver - Download Status
+appId :  com.downloadwhatsappstatus.statussaver.videodownloader
+score :  4.6842103
+installs : 10,000,000+
+ratings :  103879
+reviews :  574
+
+title :  Sim owner detail & Sim On CNIC
+appId :  com.newandromo.dev153867.app2197881
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  App Lock - Applock Fingerprint
+appId :  applock.lockapps.fingerprint.password.lockit
+score :  4.769231
+installs : 1,000,000+
+ratings :  40303
+reviews :  380
+
+title :  Status Saver - WA Story Saver
+appId :  saveit.whatsappstatussaver.whatsappsaver
+score :  4.713467
+installs : 10,000,000+
+ratings :  187508
+reviews :  1326
+
+title :  Status Saver - Video Download
+appId :  com.downlood.sav.whmedia
+score :  4.562691
+installs : 100,000,000+
+ratings :  1047308
+reviews :  852
+
+title :  Pak E-Services
+appId :  pk.solesolution.pak_eservices
+score :  4.169014
+installs : 500,000+
+ratings :  2421
+reviews :  44
+
+title :  VPN Proxy Speed - Super VPN
+appId :  com.supervpn.vpn.free.proxy
+score :  4.3650126
+installs : 10,000,000+
+ratings :  299549
+reviews :  10162
+
+title :  File Manager
+appId :  com.alphainventor.filemanager
+score :  4.6619787
+installs : 100,000,000+
+ratings :  1364321
+reviews :  16890
+
+title :  Grammarly - Grammar Keyboard
+appId :  com.grammarly.android.keyboard
+score :  4.413524
+installs : 10,000,000+
+ratings :  187990
+reviews :  20453
+
+title :  Live Tracker Pakistan
+appId :  com.albert_sim.datafinersim_livetracker
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  SuperVPN Pro
+appId :  com.jrzheng.supervpnpayment
+score :  4.4354067
+installs : 10,000,000+
+ratings :  71220
+reviews :  749
+
+title :  MChat - ChatGPT ask AI Chatbot
+appId :  com.enjoy.aichat.chatbot.mindchat
+score :  4.2
+installs : 50,000+
+ratings :  347
+reviews :  3
+
+title :  Ask AI - Chat with GPT Chatbot
+appId :  com.codeway.chatapp
+score :  4.592381
+installs : 5,000,000+
+ratings :  167124
+reviews :  2721
+
+title :  Grass Proxy - Secure& Fast
+appId :  com.icecream.android.grassproxy
+score :  3.8421052
+installs : 500,000+
+ratings :  503
+reviews :  11
+
+title :  QR & Barcode Reader
+appId :  com.teacapps.barcodescanner
+score :  4.6137524
+installs : 100,000,000+
+ratings :  2142892
+reviews :  8558
+
+title :  Wifi Hack Password
+appId :  com.newbie.wifiscanpassword
+score :  3.1627908
+installs : 500,000+
+ratings :  1040
+reviews :  17
+
+title :  Zapya WebShare - File Sharing 
+appId :  com.dewmobile.kuaiya.web
+score :  3.89
+installs : 5,000,000+
+ratings :  20249
+reviews :  74
+
+title :  WPS Office-PDF,Word,Excel,PPT
+appId :  cn.wps.moffice_eng
+score :  4.444596
+installs : 100,000,000+
+ratings :  4526466
+reviews :  57806
+
+title :  farmGhar (آن لائن مویشی منڈی)
+appId :  com.farmghar.app
+score :  2.8333333
+installs : 500,000+
+ratings :  611
+reviews :  1
+
+title :  Aloha Browser + Private VPN
+appId :  com.aloha.browser
+score :  4.4685483
+installs : 10,000,000+
+ratings :  175932
+reviews :  3043
+
+title :  PDF Reader – PDF Viewer
+appId :  com.ezt.pdfreader.pdfviewer
+score :  4.215569
+installs : 10,000,000+
+ratings :  31647
+reviews :  533
+
+title :  Photo Recovery: Data Recovery
+appId :  recover.deleted.data.mobile.data.recovery.app.diskdigger
+score :  4.1065574
+installs : 10,000,000+
+ratings :  56173
+reviews :  313
+
+title :  Easy Sindhi Keyboard - سنڌي
+appId :  com.pakdata.easysindhi
+score :  4.2
+installs : 1,000,000+
+ratings :  6693
+reviews :  11
+
+title :  Easy Sindhi Keyboard 2022 سنڌي
+appId :  com.sindhi.urdu.english.keybad
+score :  4.35
+installs : 1,000,000+
+ratings :  3055
+reviews :  6
+
+title :  MEGA
+appId :  mega.privacy.android.app
+score :  4.5278516
+installs : 100,000,000+
+ratings :  1294817
+reviews :  14247
+
+title :  Nova AI - ChatGPT powered Chat
+appId :  com.scaleup.chatai
+score :  4.5979843
+installs : 1,000,000+
+ratings :  182470
+reviews :  8050
+
+title :  8171 Ehsaas Program 25000 BISP
+appId :  com.masterappsinc.ehsaas25000program
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Microsoft Word: Edit Documents
+appId :  com.microsoft.office.word
+score :  4.7655044
+installs : 1,000,000,000+
+ratings :  7844277
+reviews :  106703
+
+title :  NET SECURE
+appId :  com.smart.net.secure
+score :  4.447619
+installs : 500,000+
+ratings :  1138
+reviews :  52
+
+title :  Fast Urdu Voice Keyboard App
+appId :  com.voicekeyboard.phonetictyping.easyurduenglish
+score :  4.576923
+installs : 1,000,000+
+ratings :  11361
+reviews :  18
+
+title :  Mobile Security Antivirus
+appId :  asecurity.phone.junk.cleaner.antivirus
+score :  4.4471545
+installs : 10,000,000+
+ratings :  126852
+reviews :  455
+
+title :  Adobe Acrobat Reader: Edit PDF
+appId :  com.adobe.reader
+score :  4.5664587
+installs : 500,000,000+
+ratings :  5399607
+reviews :  135237
+
+title :  Google Drive
+appId :  com.google.android.apps.docs
+score :  4.356979
+installs : 5,000,000,000+
+ratings :  9767023
+reviews :  171846
+
+title :  CNIC Information With Photo
+appId :  com.smartbrainapps.cnicinformationwithphoto
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Leo Chat & Keyboard Translator
+appId :  com.leolegaltechapps.mailbox
+score :  4.62
+installs : 1,000,000+
+ratings :  12849
+reviews :  165
+
+title :  Google One
+appId :  com.google.android.apps.subscriptions.red
+score :  4.289986
+installs : 1,000,000,000+
+ratings :  455442
+reviews :  33479
+
+title :  Chrome Beta
+appId :  com.chrome.beta
+score :  4.41802
+installs : 10,000,000+
+ratings :  467307
+reviews :  18001
+
+title :  PDF Reader - PDF Viewer 2023
+appId :  pdf.reader.pdfviewer.pdfeditor
+score :  4.859813
+installs : 5,000,000+
+ratings :  90052
+reviews :  1322
+
+title :  QR Scanner - Barcode Scanner
+appId :  com.appswing.qr.barcodescanner.barcodereader
+score :  4.1504855
+installs : 10,000,000+
+ratings :  90861
+reviews :  3462
+
+title :  Microsoft 365 (Office)
+appId :  com.microsoft.office.officehubrow
+score :  4.6989603
+installs : 500,000,000+
+ratings :  2301037
+reviews :  29780
+
+title :  2ndBrain AI Powered by ChatGPT
+appId :  chat.secondbrain.ai
+score :  5
+installs : 5,000+
+ratings :  380
+reviews :  6
+
+title :  GB Whats Version 2023
+appId :  com.tmwhatplus.tmchatforwa
+score :  4.56
+installs : 500,000+
+ratings :  1555
+reviews :  12
+
+title :  Urdu translator voice keyboard
+appId :  com.voicetyping.translate.keyboard.urdu
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Applock - Lock for Apps
+appId :  me.ibrahimsn.applock
+score :  4.5247526
+installs : 1,000,000+
+ratings :  28133
+reviews :  97
+
+title :  WiFi Map®: Internet, eSIM, VPN
+appId :  io.wifimap.wifimap
+score :  4.5327883
+installs : 100,000,000+
+ratings :  2241557
+reviews :  16040
+
+title :  Status Saver-Status Downloader
+appId :  com.wa.status.app.downloader.photo.video.status
+score :  4.5555553
+installs : 500,000+
+ratings :  2081
+reviews :  4
+
+title :  Antitheft Phone Alarm
+appId :  com.antitheftalarm.donttouchmyphone.phonesecurity
+score :  4.3627453
+installs : 5,000,000+
+ratings :  34464
+reviews :  87
+
+title :  ChatAI-AIopen Chatbot
+appId :  com.writingtool.smartchat
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Google Docs
+appId :  com.google.android.apps.docs.editors.docs
+score :  4.1398153
+installs : 1,000,000,000+
+ratings :  1763904
+reviews :  71558
+
+title :  Microsoft SwiftKey Keyboard
+appId :  com.touchtype.swiftkey
+score :  4.028991
+installs : 1,000,000,000+
+ratings :  3870929
+reviews :  210246
+
+title :  Getlike: Earn and promotion
+appId :  com.getlikeio.getlike
+score :  4.5
+installs : 500,000+
+ratings :  6827
+reviews :  180
+
+title :  Google Assistant
+appId :  com.google.android.apps.googleassistant
+score :  4.055128
+installs : 1,000,000,000+
+ratings :  793949
+reviews :  33144
+
+title :  ClevCalc - Calculator
+appId :  com.dencreak.dlcalculator
+score :  4.7486644
+installs : 100,000,000+
+ratings :  797897
+reviews :  18686
+
+title :  SurveyHeart: Form, Poll & Quiz
+appId :  com.surveyheart
+score :  4.11
+installs : 5,000,000+
+ratings :  19840
+reviews :  106
+
+title :  Google Sheets
+appId :  com.google.android.apps.docs.editors.sheets
+score :  4.076233
+installs : 1,000,000,000+
+ratings :  1089261
+reviews :  21686
+
+title :  Notepad notes, memo, checklist
+appId :  org.whiteglow.keepmynotes
+score :  4.3335667
+installs : 10,000,000+
+ratings :  514158
+reviews :  19933
+
+title :  Phone Clean Expert
+appId :  com.cleandoridx.expercts.phone
+score :  3.875
+installs : 500,000+
+ratings :  1782
+reviews :  11
+
+title :  Microsoft Excel: Spreadsheets
+appId :  com.microsoft.office.excel
+score :  4.784508
+installs : 1,000,000,000+
+ratings :  4155865
+reviews :  44007
+
+title :  Chatbot AI - Ask me anything
+appId :  newway.open.chatgpt.ai.chat.bot.free
+score :  4.490196
+installs : 1,000,000+
+ratings :  10487
+reviews :  144
+
+title :  QR Scanner: Barcode Scanner
+appId :  qrcodereader.barcodescanner.scan.qrscanner
+score :  4.813105
+installs : 50,000,000+
+ratings :  387902
+reviews :  15411
+
+title :  HD Video Player All Formats
+appId :  com.downloadstatus.trimingvideos
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  FM Whats Chatting Tool
+appId :  com.fmchat.directchatforwa
+score :  4.6153846
+installs : 500,000+
+ratings :  1068
+reviews :  4
+
+title :  All Document Reader and Viewer
+appId :  com.documentreader.documentapp.filereader
+score :  4.262121
+installs : 50,000,000+
+ratings :  733969
+reviews :  1091
+
+title :  PDF Reader: Read all PDF files
+appId :  com.utilitiesandtool.pdfreader
+score :  4.6138616
+installs : 10,000,000+
+ratings :  36771
+reviews :  113
+
+title :  Smart Dash Cam
+appId :  ipcamsoft.com.smartdashcam
+score :  3.56
+installs : 1,000,000+
+ratings :  2650
+reviews :  140
+
+title :  Image to PDF - PDF Maker
+appId :  imagetopdf.pdfconverter.jpgtopdf.pdfeditor
+score :  4.9009647
+installs : 10,000,000+
+ratings :  837576
+reviews :  6011
+
+title :  Mobizen Screen Recorder
+appId :  com.rsupport.mvagent
+score :  4.194082
+installs : 100,000,000+
+ratings :  3343193
+reviews :  76362
+
+title :  Pashto Keyboard - کیبورد پشتو
+appId :  com.hinam.pashto.keyboard
+score :  4.4594593
+installs : 100,000+
+ratings :  257
+reviews :  9
+
+title :  All Recovery
+appId :  com.recoverall.filedata.device
+score :  4.6
+installs : 100,000+
+ratings :  57
+reviews :  1
+
+title :  VPN Secure Touch Master
+appId :  free_vpn_master_unblock_super.proxy_secure_vpn_new_best_vpn
+score :  4.1
+installs : 1,000,000+
+ratings :  8061
+reviews :  47
+
+title :  SpeedVPN Secure VPN Proxy
+appId :  us.gospeed.speedvpn
+score :  4.346657
+installs : 10,000,000+
+ratings :  194634
+reviews :  6579
+
+title :  Gallery Lock
+appId :  com.whatsapplock.gallerylock.ninexsoftech
+score :  4.019802
+installs : 5,000,000+
+ratings :  20271
+reviews :  150
+
+title :  To Do List & Tasks app
+appId :  co.kitetech.todo
+score :  4.28
+installs : 1,000,000+
+ratings :  19878
+reviews :  62
+
+title :  Easy Urdu Keyboard Urdu Keypad
+appId :  com.easyurdukeyboard.fastkeypad
+score :  4.6
+installs : 100,000+
+ratings :  913
+reviews :  2
+
+title :  PAKISTAN Online E-Services
+appId :  com.appscourt.eservices.pakistan.registration.simcheck.bills
+score :  3.7777777
+installs : 1,000,000+
+ratings :  5468
+reviews :  16
+
+title :  Microsoft SwiftKey Beta
+appId :  com.touchtype.swiftkey.beta
+score :  3.732478
+installs : 5,000,000+
+ratings :  99884
+reviews :  5036
+
+title :  BlockSite: Block Apps & Focus
+appId :  co.blocksite
+score :  3.713643
+installs : 5,000,000+
+ratings :  41221
+reviews :  2750
+
+title :  Alarm Clock for me, Loud Alarm
+appId :  com.alarmclock.reminder.alarm.clock.simplealarm
+score :  4.2
+installs : 100,000+
+ratings :  573
+reviews :  5
+
+title :  WhatsDeleted: Recover Messages
+appId :  com.q4u.vewdeletedmessage
+score :  4.077295
+installs : 10,000,000+
+ratings :  65141
+reviews :  509
+
+title :  Rexdl: Mod Games & Apps
+appId :  rexdl.mods.apk
+score :  2.8349514
+installs : 1,000,000+
+ratings :  14648
+reviews :  206
+
+title :  Chat AI Bot: Chatbot Assistant
+appId :  com.chatbotai.chatwithai
+score :  4.6513762
+installs : 1,000,000+
+ratings :  31048
+reviews :  222
+
+title :  Easy Status Saver Quick Repost
+appId :  com.max.statussaverwhatsapp.gbstatussaverwhatsapp2022
+score :  4.428571
+installs : 100,000+
+ratings :  356
+reviews :  0
+
+title :  Microsoft Outlook
+appId :  com.microsoft.office.outlook
+score :  4.5017962
+installs : 500,000,000+
+ratings :  8639296
+reviews :  302911
+
+title :  To Do List
+appId :  com.splendapps.splendo
+score :  4.7853007
+installs : 10,000,000+
+ratings :  654039
+reviews :  21144
+
+title :  TPL Life Muavin
+appId :  com.tplcorp.muavin
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  PDF Scanner App - AltaScanner
+appId :  pdf.scanner.pdfscanner.scannerapp.scantopdf
+score :  4.78
+installs : 1,000,000+
+ratings :  4676
+reviews :  42
+
+title :  Easy Pashto Keyboard -پښتو
+appId :  com.pakdata.easypashto
+score :  4.15
+installs : 1,000,000+
+ratings :  6494
+reviews :  56
+
+title :  Duff Translate, Cam Translator
+appId :  com.dufftranslate.cameratranslatorapp21
+score :  3.9433963
+installs : 10,000,000+
+ratings :  16431
+reviews :  384
+
+title :  PDF Scanner - Scanner App
+appId :  com.cutestudio.pdf.camera.scanner
+score :  4.48
+installs : 10,000,000+
+ratings :  59770
+reviews :  59
+
+title :  Pakistan Citizen Portal
+appId :  com.govpk.citizensportal
+score :  3.56
+installs : 5,000,000+
+ratings :  123682
+reviews :  468
+
+title :  Hearing Clear: Sound Amplifier
+appId :  herclr.frmdist.bstsnd
+score :  4.474632
+installs : 1,000,000+
+ratings :  14278
+reviews :  1312
+
+title :  Super Max Browser -Safe & Fast
+appId :  com.socialnetwork.network.allinone.inoneapp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Easy Pashto & Urdu Keyboard
+appId :  com.pashto.english.keyboard
+score :  5
+installs : 100,000+
+ratings :  510
+reviews :  4
+
+title :  ColorNote Notepad Notes
+appId :  com.socialnmobile.dictapps.notepad.color.note
+score :  4.8573103
+installs : 100,000,000+
+ratings :  3616369
+reviews :  241034
+
+title :  Ask Me Anything - AI Chatbot
+appId :  evolly.ai.chatbot.chatgpt
+score :  3.9047618
+installs : 100,000+
+ratings :  2885
+reviews :  75
+
+title :  Mars Proxy-Fast and secure VPN
+appId :  com.logan.marsproxy
+score :  5
+installs : 100,000+
+ratings :  173
+reviews :  1
+
+title :  SIM Owner details
+appId :  com.simowner.pun
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Live Tracker
+appId :  com.datafindersimpaak.livetracker
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  3D Call Screen & Caller theme
+appId :  calling.themes.screens
+score :  4.9166665
+installs : 50,000+
+ratings :  271
+reviews :  3
+
+title :  File Manager - File Explorer
+appId :  filemanager.files.fileexplorer
+score :  4.6363635
+installs : 100,000+
+ratings :  580
+reviews :  4
+
+title :  PDF Editor: PDF Fill & Sign
+appId :  com.xsdev.pdfreader.pdfeditor.pdf.document
+score :  4.2647057
+installs : 5,000,000+
+ratings :  41473
+reviews :  228
+
+title :  Automatic Call Recorder Pro
+appId :  com.smsrobot.callu
+score :  4.0676827
+installs : 10,000,000+
+ratings :  401348
+reviews :  8043
+
+title :  Solo VPN - One Tap Proxy
+appId :  co.solovpn
+score :  4.1994905
+installs : 10,000,000+
+ratings :  250372
+reviews :  4678
+
+title :  Microsoft PowerPoint
+appId :  com.microsoft.office.powerpoint
+score :  4.5915246
+installs : 1,000,000,000+
+ratings :  2266373
+reviews :  17378
+
+title :  All Document Reader & Editor
+appId :  com.docxreader.documentreader.wordoffice
+score :  3.9705882
+installs : 1,000,000+
+ratings :  8252
+reviews :  196
+
+title :  Google Calendar
+appId :  com.google.android.calendar
+score :  4.206577
+installs : 1,000,000,000+
+ratings :  2285977
+reviews :  81502
+
+title :  Video Maker for Tik-Tok,Maker 
+appId :  com.makervideoimage.fortiktok
+score :  3.4761906
+installs : 1,000,000+
+ratings :  2404
+reviews :  15
+
+title :  All Deleted Messages Recovered
+appId :  com.peek.all.deleted.messages.recover
+score :  3.6285715
+installs : 100,000+
+ratings :  583
+reviews :  8
+
+title :  Link to Windows
+appId :  com.microsoft.appmanager
+score :  3.7080896
+installs : 500,000,000+
+ratings :  729143
+reviews :  39660
+
+title :  E2PDF SMS Call Backup Restore
+appId :  com.tekxperiastudios.pdfexporter
+score :  4.277228
+installs : 10,000,000+
+ratings :  33535
+reviews :  352
+
+title :  AI Chat: Apo Assistant Chatbot
+appId :  com.smartwidgetlabs.chatgpt
+score :  4.443114
+installs : 1,000,000+
+ratings :  46548
+reviews :  1424
+
+title :  XLSX Viewer: Excel Reader
+appId :  com.xsdev.xls.xlsx.excelviwer.excelreader.spread.sheets
+score :  3.78
+installs : 5,000,000+
+ratings :  29400
+reviews :  198
+
+title :  TV Cast & HD Projector Guide
+appId :  videoprojector.phoneprojector.screenmirroring
+score :  3.48
+installs : 1,000,000+
+ratings :  3538
+reviews :  86
+
+title :  BT Weighing Scale Terminal 2.0
+appId :  com.beeeyescales.advancedweighingbt
+score :  3.3448277
+installs : 100,000+
+ratings :  471
+reviews :  8
+
+title :  Notisave
+appId :  com.tenqube.notisave
+score :  3.8108108
+installs : 10,000,000+
+ratings :  70527
+reviews :  374
+
+title :  PDF Converter App - PDF Viewer
+appId :  com.pdf.viewer.document.pdfreader
+score :  3.5833333
+installs : 1,000,000+
+ratings :  1783
+reviews :  11
+
+title :  Gallery - Photo Gallery
+appId :  gallery.photos.video.gallerylock
+score :  3.984127
+installs : 100,000+
+ratings :  1684
+reviews :  39
+
+title :  Urdu Fonts
+appId :  com.rockyfonts.urdufonts
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  VPN Lumos
+appId :  private.internet.access.vpn.lumos
+score :  3.821782
+installs : 100,000+
+ratings :  1729
+reviews :  47
+
+title :  Tawakkalna Services
+appId :  sa.gov.nic.twkhayat
+score :  3.87
+installs : 5,000,000+
+ratings :  17577
+reviews :  66
+
+title :  Simple Alarm Clock
+appId :  ar.com.basejuegos.simplealarm
+score :  4.499824
+installs : 10,000,000+
+ratings :  245766
+reviews :  8931
+
+title :  Person Tracker
+appId :  com.albert_sim.personn_tracker
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  TeamViewer Remote Control
+appId :  com.teamviewer.teamviewer.market.mobile
+score :  4.709552
+installs : 50,000,000+
+ratings :  917809
+reviews :  18851
+
+title :  PDF Maker
+appId :  opofficial.pdfmaker
+score :  3.8
+installs : 5,000,000+
+ratings :  28163
+reviews :  48
+
+title :  CV Maker & Resume PDF Convert
+appId :  com.resume.maker.template.cvbuilder.pdfconverter
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Image & Video Overlay
+appId :  com.bongasoft.overlayvideoimage
+score :  4.48
+installs : 1,000,000+
+ratings :  18823
+reviews :  346
+
+title :  NETON: Secure, Privacy Network
+appId :  com.neton.secure
+score :  4.4
+installs : 100,000+
+ratings :  1463
+reviews :  1
+
+title :  File Miner
+appId :  net.fileminer.android
+score :  4.3689322
+installs : 10,000,000+
+ratings :  11651
+reviews :  304
+
+title :  AVG Cleaner – Storage Cleaner
+appId :  com.avg.cleaner
+score :  4.6428857
+installs : 50,000,000+
+ratings :  1622211
+reviews :  58896
+
+title :  English Voice typing keyboard
+appId :  com.english.voice.typing.keyboard.speech.to.text.converter
+score :  4.43
+installs : 1,000,000+
+ratings :  5222
+reviews :  31
+
+title :  Recover Deleted Photos App
+appId :  com.wma.restoreimage.photorecovery.deletedPhotoRecovery.backup.restore
+score :  4.3106794
+installs : 1,000,000+
+ratings :  21692
+reviews :  80
+
+title :  Urdu keyboard
+appId :  com.urdu.keyboard.urdu.language.keyboard.app
+score :  4.2916665
+installs : 1,000,000+
+ratings :  3182
+reviews :  11
+
+title :  MyJio: For Everything Jio
+appId :  com.jio.myjio
+score :  4.3887935
+installs : 500,000,000+
+ratings :  23506447
+reviews :  6310
+
+title :  CNIC Information | With Photo
+appId :  com.cnicdetailwithphoto.cnicinformation
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  SIM Owner Details Pakistan
+appId :  com.smartbrainapps.simownerdetails
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  OPPO Clone Phone
+appId :  com.coloros.backuprestore
+score :  4
+installs : 10,000,000+
+ratings :  8081
+reviews :  28
+
+title :  Image to PDF Converter
+appId :  com.shaker.pdf_converter
+score :  4.3095236
+installs : 1,000,000+
+ratings :  1453
+reviews :  12
+
+title :  Notepad - simple notes
+appId :  com.atomczak.notepat
+score :  4.567425
+installs : 10,000,000+
+ratings :  57443
+reviews :  11841
+
+title :  Ehsas Program Registration app
+appId :  com.kryptonian.ehsasprogram
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  VPN Epple - easy fastest VPN
+appId :  com.alkaalink.vpnapple
+score :  4.4736843
+installs : 100,000+
+ratings :  1851
+reviews :  35
+
+title :  Document Reader PDF, DOC, PPT
+appId :  com.united.office.reader
+score :  4.643564
+installs : 5,000,000+
+ratings :  72681
+reviews :  265
+
+title :  TeamViewer QuickSupport
+appId :  com.teamviewer.quicksupport.market
+score :  2.4360237
+installs : 50,000,000+
+ratings :  109445
+reviews :  3926
+
+title :  Word Office - Docx Viewer
+appId :  word.office.docxviewer.document.docx.reader
+score :  5
+installs : 100,000+
+ratings :  654
+reviews :  3
+
+title :  Wifi QR Code Scanner Password
+appId :  com.unapp.wifiqrcodegenrator.qrcodeforwifi
+score :  4.516129
+installs : 1,000,000+
+ratings :  2610
+reviews :  14
+
+title :  Google Keep - Notes and Lists
+appId :  com.google.android.keep
+score :  4.1500025
+installs : 1,000,000,000+
+ratings :  1480237
+reviews :  49442
+
+title :  Word Office: Office Reader
+appId :  com.documentreader.documentviewer.officeeditor
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  VoiceGPT: AI Voice Assistant
+appId :  gpt.voice.chatgpt
+score :  4.38
+installs : 50,000+
+ratings :  814
+reviews :  66
+
+title :  ChatAI: AI Chatbot App
+appId :  com.chatbot.ai.aichat.openaibot.chat
+score :  2.775
+installs : 1,000,000+
+ratings :  1185
+reviews :  17
+
+title :  GoStream
+appId :  godream.app.gostream
+score :  4.36
+installs : 1,000,000+
+ratings :  46813
+reviews :  249
+
+title :  PDF Reader - Document Reader
+appId :  pdf.pdfreader.pdfviewer.alldocumentreader
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Fancy Text Style for Whatsapp
+appId :  com.aonetech.fancytextstyleforwhatsapp
+score :  4.6896553
+installs : 100,000+
+ratings :  1685
+reviews :  22
+
+title :  Free VPN, Fast & Secure - Flat
+appId :  vpn.flatvpn.proxy.unblock.free.trial
+score :  4.075
+installs : 100,000+
+ratings :  1544
+reviews :  33
+
+title :  Clock Live Wallpaper: Analog
+appId :  com.fga.clocklivewallpaper.analog.style.digiclockwidget
+score :  4.3513513
+installs : 500,000+
+ratings :  1870
+reviews :  12
+
+title :  Calendar
+appId :  com.calendar.hindicalender
+score :  3.8365386
+installs : 1,000,000+
+ratings :  6682
+reviews :  228
+
+title :  Pakistan Calendar 2023
+appId :  com.agus.pakistan.calendar
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Speed Test - Wifi Speed Test
+appId :  com.newgenerationhub.speedtest.meter.wifi.coverage.speed.test
+score :  4.3333335
+installs : 5,000,000+
+ratings :  39442
+reviews :  636
+
+title :  Sim Owner Details 2023
+appId :  com.Arshianiapps.simownerdetailinformationpak
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Astronaut
+appId :  com.space.cosmont
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Black Style Keyboard
+appId :  com.emoji.fonts.keyboard.blackkeyboard
+score :  4.5
+installs : 100,000+
+ratings :  686
+reviews :  9
+
+title :  Hindi TV Serials Full Episodes
+appId :  com.hinditvserialapp.freeserialapp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Benazir Income Support Program
+appId :  com.nextupapps.benazirincomesupport
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Prayer times, Quran and azan &
+appId :  com.vmuslimpro
+score :  4.84
+installs : 1,000,000+
+ratings :  33941
+reviews :  253
+
+title :  My Etisalat UAE
+appId :  com.Etisalat.ETIDA
+score :  4.6666665
+installs : 5,000,000+
+ratings :  229910
+reviews :  546
+
+title :  Dropbox: Secure Cloud Storage
+appId :  com.dropbox.android
+score :  4.4003263
+installs : 1,000,000,000+
+ratings :  2242516
+reviews :  84810
+
+title :  Driving Licence Verification
+appId :  com.teamoxorbit.drivinglicenceverificationpakistan
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Deleted Photo Recovery App
+appId :  com.easydatarecovery.photorecover
+score :  3.7333333
+installs : 500,000+
+ratings :  3199
+reviews :  58
+
+title :  2Captcha Bot
+appId :  com.rucaptcha.bot
+score :  3.5466666
+installs : 500,000+
+ratings :  2592
+reviews :  44
+
+title :  Google Slides
+appId :  com.google.android.apps.docs.editors.slides
+score :  4.052465
+installs : 1,000,000,000+
+ratings :  590132
+reviews :  22962
+
+title :  Wifi Password Hacker, Real App
+appId :  com.wifi.password.hacker.wps.wpa.instabridge.app.real
+score :  3.8297873
+installs : 100,000+
+ratings :  410
+reviews :  20
+
+title :  Urdu Keyboard Fast English & U
+appId :  urdu.keyboard
+score :  3.75
+installs : 100,000+
+ratings :  1591
+reviews :  8
+
+title :  Sindhi Keyboard
+appId :  com.ashapps.sindhi.keyboard
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  HD Screen Cast to TV
+appId :  screenmirroring.videoprojector.phoneprojector
+score :  3.7755103
+installs : 1,000,000+
+ratings :  2303
+reviews :  37
+
+title :  All Document Reader - PDF, DOC
+appId :  alldocumentreader.filereader.office.pdf.word
+score :  4.1538463
+installs : 100,000+
+ratings :  855
+reviews :  2
+
+title :  Pashto keyboard - پشتو کیبورد
+appId :  com.pashto.keybaord.newvoicetyping
+score :  4
+installs : 100,000+
+ratings :  184
+reviews :  3
+
+title :  VPN Proxy Master - Secure VPN
+appId :  com.eco.vpn.supervpn
+score :  4.58
+installs : 500,000+
+ratings :  6652
+reviews :  80
+
+title :  QR code reader
+appId :  com.apple.qrcode.reader
+score :  4.5750604
+installs : 10,000,000+
+ratings :  289096
+reviews :  3449
+
+title :  Save video Status: Story saver
+appId :  savestatus.images.videosaver.statusdownloadapp.storysaver
+score :  4.4545455
+installs : 500,000+
+ratings :  4119
+reviews :  0
+
+title :  VPN -super unlimited proxy vpn
+appId :  com.vpn.super.unlimited.proxy.open.free
+score :  3.99
+installs : 1,000,000+
+ratings :  8809
+reviews :  227
+
+title :  Snapdrop for Android
+appId :  com.fmsys.snapdrop
+score :  3.2574258
+installs : 1,000,000+
+ratings :  2677
+reviews :  114
+
+title :  Absher | أبشر
+appId :  sa.gov.moi
+score :  4.3828382
+installs : 10,000,000+
+ratings :  234328
+reviews :  1391
+

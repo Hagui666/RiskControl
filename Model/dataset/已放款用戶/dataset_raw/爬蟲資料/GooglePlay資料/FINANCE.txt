@@ -1,0 +1,1365 @@
+title :  JazzCash - Your Mobile Account
+appId :  com.techlogix.mobilinkcustomer
+score :  3.4956522
+installs : 10,000,000+
+ratings :  308377
+reviews :  1146
+
+title :  Barwaqt - Loan Money Cash
+appId :  com.loan.cash.credit.barwaqt.tez.paisa.jazz.financial.ready.easy
+score :  4.17
+installs : 10,000,000+
+ratings :  367100
+reviews :  144
+
+title :  Zindigi
+appId :  com.wallet.zindigi
+score :  3.26
+installs : 1,000,000+
+ratings :  12593
+reviews :  103
+
+title :  ExpertOption - Mobile Trading
+appId :  com.expertoption
+score :  4.34
+installs : 50,000,000+
+ratings :  210681
+reviews :  221
+
+title :  PayMax
+appId :  com.paymax.mfs.subscriber
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Binance: BTC, Crypto and NFTS
+appId :  com.binance.dev
+score :  4.4142857
+installs : 50,000,000+
+ratings :  1320300
+reviews :  9449
+
+title :  UPaisa – Digital Wallet
+appId :  pk.upaisa.com
+score :  3.8163266
+installs : 1,000,000+
+ratings :  12560
+reviews :  17
+
+title :  Zaroorat Cash-Safe Loan Money
+appId :  com.instant.easy.credit.barwaqt.loan.rapidpaisa
+score :  4.4
+installs : 1,000,000+
+ratings :  15484
+reviews :  0
+
+title :  Moon Loan
+appId :  com.pakistan.moonlan
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  SadaPay: Goodbye bank fees
+appId :  com.sadapay.app
+score :  4.77
+installs : 1,000,000+
+ratings :  38127
+reviews :  206
+
+title :  UdharPaisa-Safe&Reliable loan
+appId :  com.pakistan.udharpaisa.fast.lending
+score :  5
+installs : 1,000,000+
+ratings :  28219
+reviews :  0
+
+title :  Trust: Crypto & Bitcoin Wallet
+appId :  com.wallet.crypto.trustapp
+score :  4.5580845
+installs : 10,000,000+
+ratings :  1490734
+reviews :  13994
+
+title :  OctaFX Trading App
+appId :  com.octafx
+score :  4.28
+installs : 10,000,000+
+ratings :  196265
+reviews :  54
+
+title :  Today Loan
+appId :  com.todayloan.dswwq.aast
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  HBL Mobile
+appId :  com.hbl.android.hblmobilebanking
+score :  3.7350993
+installs : 5,000,000+
+ratings :  226266
+reviews :  593
+
+title :  NayaPay
+appId :  com.nayapay.app
+score :  4.33
+installs : 1,000,000+
+ratings :  10844
+reviews :  101
+
+title :  FirstPay
+appId :  com.fmfb.firstwallet
+score :  4.2777777
+installs : 1,000,000+
+ratings :  6776
+reviews :  4
+
+title :  Money View
+appId :  com.moneyview.cwwe.asd
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Exness Trade: Online Trading
+appId :  com.exness.android.pa
+score :  4.26
+installs : 10,000,000+
+ratings :  86783
+reviews :  52
+
+title :  FinMore – Online Credit Loans
+appId :  com.pk.finmore
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  FBS – Trading Broker
+appId :  com.fbs.pa
+score :  4.47
+installs : 10,000,000+
+ratings :  91135
+reviews :  58
+
+title :  money bee
+appId :  com.kaka.kuka
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  SmartQarza-Safe easy cash loan
+appId :  com.creditcat.tech.app
+score :  4.1666665
+installs : 1,000,000+
+ratings :  9061
+reviews :  1
+
+title :  Coin Bee
+appId :  com.guide.loper
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  poker- loan platforms
+appId :  com.poker.naiveloan.fluent.cash
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Golootlo
+appId :  com.menuspring.eet.golootlo
+score :  4.1132073
+installs : 1,000,000+
+ratings :  36269
+reviews :  44
+
+title :  LendingMart-Online loan
+appId :  com.quicklending.mart
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Meezan Mobile Banking
+appId :  invo8.meezan.mb
+score :  4.7689075
+installs : 1,000,000+
+ratings :  216124
+reviews :  766
+
+title :  CashPro – Immediate Approval
+appId :  com.pk.cashpro
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Binomo - Mobile Trading Online
+appId :  com.marketly.trading
+score :  4.785124
+installs : 10,000,000+
+ratings :  183918
+reviews :  425
+
+title :  OKX: Buy Bitcoin, ETH, Crypto
+appId :  com.okinc.okex.gp
+score :  4.5560346
+installs : 5,000,000+
+ratings :  291418
+reviews :  1053
+
+title :  Galaxy Loan
+appId :  com.natd.snoa
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  How to Create PayPal account
+appId :  com.si_apps.unlock.device_method_free
+score :  4.74
+installs : 1,000,000+
+ratings :  3958
+reviews :  87
+
+title :  QisstPay - آن لائ ،قرض
+appId :  com.qisst.pay.pk
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  JazzCash Business
+appId :  com.ibm.jazzcashmerchant
+score :  3.4545455
+installs : 1,000,000+
+ratings :  8845
+reviews :  12
+
+title :  UBL Digital
+appId :  app.com.brd
+score :  4.5840707
+installs : 1,000,000+
+ratings :  308600
+reviews :  458
+
+title :  NBP Digital
+appId :  com.paysys.nbpdigital
+score :  2.72
+installs : 1,000,000+
+ratings :  19190
+reviews :  63
+
+title :  XM - Trading Point
+appId :  com.xm.webapp
+score :  3.9298246
+installs : 5,000,000+
+ratings :  17439
+reviews :  20
+
+title :  myABL
+appId :  com.ofss.digx.mobile.android.allied
+score :  3.38
+installs : 1,000,000+
+ratings :  45737
+reviews :  152
+
+title :  CashBazaar
+appId :  com.loan.cash.baraaz
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Paidwork: Make Money
+appId :  com.zareklamy
+score :  3.26
+installs : 5,000,000+
+ratings :  16231
+reviews :  259
+
+title :  How to create PayPal Account
+appId :  com.Lucky_Apps.howtocreatepaypa_accountguide
+score :  4.862069
+installs : 100,000+
+ratings :  1796
+reviews :  19
+
+title :  Superman Loan
+appId :  com.supeman.loan.ffvop.idfgpp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Qpass
+appId :  com.qcash.loan.cash.money.credit.easypaisa.barwaqt
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  UBL Funds Smart Savings
+appId :  com.ublfm.smartsavings
+score :  1.2222222
+installs : 100,000+
+ratings :  550
+reviews :  7
+
+title :  AsaanQarza-credit loan
+appId :  com.instantloan.easy.fast.credit.mobile.cash.loan.forimoney
+score :  3.2857144
+installs : 1,000,000+
+ratings :  5393
+reviews :  1
+
+title :  Payoneer
+appId :  com.payoneer.android
+score :  4.0585775
+installs : 5,000,000+
+ratings :  71621
+reviews :  1700
+
+title :  MetaMask - Blockchain Wallet
+appId :  io.metamask
+score :  4.4968314
+installs : 10,000,000+
+ratings :  213719
+reviews :  3538
+
+title :  AL Habib Mobile
+appId :  com.ofss.digx.mobile.obdx.bahl
+score :  3.01
+installs : 1,000,000+
+ratings :  45940
+reviews :  162
+
+title :  Olymp Trade - trading online
+appId :  com.ticno.olymptrade
+score :  4.345946
+installs : 50,000,000+
+ratings :  932531
+reviews :  1326
+
+title :  LendHome
+appId :  app.lendhome.com
+score :  4.5
+installs : 1,000,000+
+ratings :  9076
+reviews :  1
+
+title :  تیز آسان محفوظ - CashRun
+appId :  com.cash.sh.run
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Alfa by Bank Alfalah
+appId :  com.base.bankalfalah
+score :  3.764706
+installs : 1,000,000+
+ratings :  122376
+reviews :  476
+
+title :  GetMinutes
+appId :  get.minutes.credit.cash
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Paisa Option
+appId :  com.batietd.paisat
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  MetaTrader 5 — Forex, Stocks
+appId :  net.metaquotes.metatrader5
+score :  4.6184683
+installs : 10,000,000+
+ratings :  457465
+reviews :  5175
+
+title :  TPL Insurance
+appId :  com.tpl.insuranceapp
+score :  4.5
+installs : 100,000+
+ratings :  2372
+reviews :  1
+
+title :  Konnect by HBL
+appId :  com.hbl.bbcustomerapp
+score :  4.04
+installs : 1,000,000+
+ratings :  27090
+reviews :  74
+
+title :  Mango Credit - Online Loan
+appId :  com.mango.onlycreditfast
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  DiDiLoans
+appId :  com.didiloans.android
+score :  4.3333335
+installs : 500,000+
+ratings :  1653
+reviews :  0
+
+title :  Easy Trade7-Trade for all time
+appId :  com.lali.trading
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  MCB Islamic Mobile Application
+appId :  com.mcbislamicbank.mobileapp
+score :  3.9230769
+installs : 100,000+
+ratings :  1643
+reviews :  2
+
+title :  Forsage.io : MetaFORCE Polygon
+appId :  com.topinvestors.forsagesmartcontractguide
+score :  4.0555553
+installs : 100,000+
+ratings :  1392
+reviews :  6
+
+title :  How to Create PayPal Account
+appId :  com.metalabsinc.howtocreatepaypalaccount
+score :  4.243243
+installs : 100,000+
+ratings :  2711
+reviews :  27
+
+title :  CashCredit - Online loan
+appId :  com.credit.pk.cash
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Bee Cash
+appId :  com.pkst.gdtdkaa
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  NBP Funds Digital
+appId :  com.nbpfunds.android
+score :  5
+installs : 100,000+
+ratings :  558
+reviews :  0
+
+title :  ZetaLoan - Easy Credit Wallet
+appId :  com.pakist.loan.aicash
+score :  4
+installs : 1,000,000+
+ratings :  15074
+reviews :  6
+
+title :  RazCash - Instant Cash Loan
+appId :  com.din.karaz.loan.cash.qarza.credit.jazz.paisa.barwaqt.easy
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  MetaTrader 4 Forex Trading
+appId :  net.metaquotes.metatrader4
+score :  4.4656324
+installs : 10,000,000+
+ratings :  876382
+reviews :  13323
+
+title :  TokenPocket Wallet Crypto DeFi
+appId :  vip.mytokenpocket
+score :  4.4955754
+installs : 1,000,000+
+ratings :  19962
+reviews :  504
+
+title :  ExpertOption Lite
+appId :  com.expertoption.twa
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Mitt Telenor
+appId :  no.telenor.faktura
+score :  3.1382978
+installs : 1,000,000+
+ratings :  6538
+reviews :  42
+
+title :  Bitget - Buy & Sell Crypto
+appId :  com.bitget.exchange
+score :  3.950495
+installs : 1,000,000+
+ratings :  12799
+reviews :  267
+
+title :  TradingView: Track All Markets
+appId :  com.tradingview.tradingviewapp
+score :  4.7580357
+installs : 10,000,000+
+ratings :  351223
+reviews :  6405
+
+title :  Punjab Ehsaas Rashan Riayat
+appId :  com.ehsaasapp
+score :  4.25
+installs : 500,000+
+ratings :  7342
+reviews :  19
+
+title :  KuCoin: BTC, Crypto Exchange
+appId :  com.kubi.kucoin
+score :  4.289659
+installs : 10,000,000+
+ratings :  129499
+reviews :  4180
+
+title :  Galaxy Wallet
+appId :  com.galaxy.wallet.kill.bare.in
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Coinbase Wallet: NFTs & Crypto
+appId :  org.toshi
+score :  4.3395195
+installs : 5,000,000+
+ratings :  63858
+reviews :  10228
+
+title :  WorldRemit: Money Transfer App
+appId :  com.worldremit.android
+score :  4.69203
+installs : 5,000,000+
+ratings :  165951
+reviews :  19488
+
+title :  CashFish - محفوظ مستحکم
+appId :  com.pk.cash.fish
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Student Work - Easy Way Earn
+appId :  com.studentwork.pk
+score :  3.8461537
+installs : 100,000+
+ratings :  1314
+reviews :  8
+
+title :  PAYEER
+appId :  com.payeer
+score :  4.32
+installs : 5,000,000+
+ratings :  46277
+reviews :  157
+
+title :  Metric: Financial Intelligence
+appId :  com.metric
+score :  4.2
+installs : 100,000+
+ratings :  246
+reviews :  2
+
+title :  Freecash: Earn Crypto & Prizes
+appId :  com.freecash.app2
+score :  4.6349206
+installs : 1,000,000+
+ratings :  10625
+reviews :  626
+
+title :  Paytm: Secure UPI Payments
+appId :  net.one97.paytm
+score :  4.588708
+installs : 100,000,000+
+ratings :  16631595
+reviews :  35843
+
+title :  Alipay
+appId :  com.eg.android.AlipayGphone
+score :  2.6339915
+installs : 10,000,000+
+ratings :  73562
+reviews :  6301
+
+title :  Pk Online Woman-Earn Money
+appId :  com.woman_earn_money.PK_Easy_Earn
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Askari Mobile App
+appId :  com.askari
+score :  3.66
+installs : 500,000+
+ratings :  16623
+reviews :  41
+
+title :  CashMaal
+appId :  com.cashmaal
+score :  4
+installs : 100,000+
+ratings :  576
+reviews :  2
+
+title :  Prize Bond Scanner - Pakbond
+appId :  com.saqibsoftwares.pakbond
+score :  4.5148516
+installs : 500,000+
+ratings :  28641
+reviews :  22
+
+title :  MrLoan
+appId :  com.user.vay.pakistan
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Coinbase: Buy Bitcoin & Ether
+appId :  com.coinbase.android
+score :  4.1024413
+installs : 10,000,000+
+ratings :  752638
+reviews :  87190
+
+title :  faysal digibank
+appId :  com.avanza.ambitwizfbl
+score :  2.71
+installs : 500,000+
+ratings :  16862
+reviews :  111
+
+title :  How to Set Up a Paypal Account
+appId :  com.howtosetupapaypalaccount.howtocreatepaypalaccount
+score :  4.3061223
+installs : 50,000+
+ratings :  4025
+reviews :  8
+
+title :  Ping Up
+appId :  com.idenfo.pingup
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Meezan Digital
+appId :  com.roshandigital
+score :  3.74
+installs : 100,000+
+ratings :  7338
+reviews :  43
+
+title :  How to Create PayPal Account
+appId :  com.pixelaxio.howtocreatepaypalaccount
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  ePay Punjab
+appId :  com.pitb.ePayGateway
+score :  3.7777777
+installs : 1,000,000+
+ratings :  8463
+reviews :  33
+
+title :  Skrill - Fast, secure payments
+appId :  com.moneybookers.skrillpayments
+score :  4.3907037
+installs : 10,000,000+
+ratings :  175614
+reviews :  2859
+
+title :  IQ Option – Trading Platform
+appId :  com.iqoption
+score :  4.451807
+installs : 100,000,000+
+ratings :  697193
+reviews :  958
+
+title :  JazzCash Retailer
+appId :  com.retailerapp.mobilink
+score :  3.857143
+installs : 1,000,000+
+ratings :  3961
+reviews :  2
+
+title :  Wise
+appId :  com.transferwise.android
+score :  4.805996
+installs : 10,000,000+
+ratings :  337583
+reviews :  8062
+
+title :  STZee
+appId :  com.stz.stzuser
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Musaffa: Find Halal Stocks
+appId :  com.axonlogic.stocktrade
+score :  4.724138
+installs : 100,000+
+ratings :  1473
+reviews :  9
+
+title :  Sohni Dharti
+appId :  com.onelink.sohnidharti.app
+score :  3.2875
+installs : 100,000+
+ratings :  6961
+reviews :  38
+
+title :  Easy Loan - Instant Cash Loan
+appId :  com.instantcashloan.fastloanmaker.easy.loanapp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Raast
+appId :  raast.id.app
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  How to Create PayPal Account
+appId :  com.trust_apps.samsung.secret_codes
+score :  4.747253
+installs : 500,000+
+ratings :  2777
+reviews :  62
+
+title :  EasyLoan Lite - Cash Credit
+appId :  com.game.rupee.dhan.borrow.credit.kredit.daily.jaldi.easy.play.udhaar.cash
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Prize Bond 2023 (Bond Checker)
+appId :  com.salam.prizebond
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  SC Mobile Pakistan
+appId :  com.scb.pk.bmw
+score :  4.338798
+installs : 500,000+
+ratings :  49804
+reviews :  347
+
+title :  Quick Prize Bond Checker
+appId :  mmm.gill.muazzam.quickprizebondchecker
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  BkLoan
+appId :  com.bk.cash.loan
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  CoinMarketCap: Crypto Tracker
+appId :  com.coinmarketcap.android
+score :  4.6485105
+installs : 5,000,000+
+ratings :  147335
+reviews :  2733
+
+title :  LoanArrive-Loan Money Cash
+appId :  com.pk.cashwin
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Passport Fee Asaan
+appId :  com.dgip.epayment
+score :  4
+installs : 100,000+
+ratings :  444
+reviews :  5
+
+title :  FxPro: Trade MT4/5 Accounts
+appId :  com.fxpro.direct.application
+score :  4.5526314
+installs : 5,000,000+
+ratings :  23092
+reviews :  13
+
+title :  Instant Loan Mobile Advisor
+appId :  com.cashloan.payday.instantloanmobileadvisor
+score :  4
+installs : 50,000+
+ratings :  109
+reviews :  1
+
+title :  Credit Corner-Online  Loan
+appId :  com.fori.ready.naqd.paisa.jazz.foriqarz
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  MiniLoan - Personal OnlineLoan
+appId :  com.lend.play.paisa.credit.kredit.game.dhan.easy.loan.miniloan.jaldi
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Monii Pro - Quick Funds
+appId :  com.apdlym.wsnnwrjlu
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  myABL Wallet
+appId :  com.finja.abl.wallet
+score :  3.125
+installs : 100,000+
+ratings :  1528
+reviews :  11
+
+title :  Perfect Money
+appId :  com.touchin.perfectmoney
+score :  3.36
+installs : 1,000,000+
+ratings :  9666
+reviews :  193
+
+title :  Befiler
+appId :  arittek.com.befiler
+score :  4.6666665
+installs : 1,000,000+
+ratings :  15517
+reviews :  9
+
+title :  Bybit:Buy Bitcoin,Trade Crypto
+appId :  com.bybit.app
+score :  4.165605
+installs : 5,000,000+
+ratings :  62019
+reviews :  624
+
+title :  Income Chain
+appId :  com.incomechaintips.app
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  JS Mobile
+appId :  com.JSBL.bank
+score :  3.5833333
+installs : 100,000+
+ratings :  5710
+reviews :  32
+
+title :  CreditCash
+appId :  com.moneybox.pkbox
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  KASB KTrade-Abhi Invest Karain
+appId :  com.softech.trading
+score :  3.5
+installs : 1,000,000+
+ratings :  4319
+reviews :  20
+
+title :  HABIBMETRO Insta Mobile App
+appId :  com.avanza.ambitwizhmb
+score :  4.6237626
+installs : 500,000+
+ratings :  40063
+reviews :  128
+
+title :  FMCPAY
+appId :  com.bitcoinexc
+score :  3.8
+installs : 100,000+
+ratings :  799
+reviews :  10
+
+title :  BFIC Network
+appId :  com.demo.bfic
+score :  3.4647887
+installs : 500,000+
+ratings :  12903
+reviews :  45
+
+title :  Bitcoin Wallet
+appId :  de.schildbach.wallet
+score :  4.0359936
+installs : 5,000,000+
+ratings :  31342
+reviews :  1857
+
+title :  Hela Credit Loans
+appId :  com.helacreditloans
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  BetPro Wallet
+appId :  com.techsam.betprowallet
+score :  4.2
+installs : 10,000+
+ratings :  1743
+reviews :  4
+
+title :  mBankIslami
+appId :  com.avanza.ambitwiz
+score :  3.6404495
+installs : 500,000+
+ratings :  11759
+reviews :  44
+
+title :  Airtm
+appId :  com.airtm.android
+score :  3.75
+installs : 1,000,000+
+ratings :  2210
+reviews :  66
+
+title :  How to Create PayPal Account
+appId :  com.inter_active_apps.paypalaccountguide
+score :  3.8333333
+installs : 10,000+
+ratings :  491
+reviews :  3
+
+title :  Investing.com: Stock Market
+appId :  com.fusionmedia.investing
+score :  4.453142
+installs : 10,000,000+
+ratings :  555687
+reviews :  10179
+
+title :  CashNow
+appId :  com.payby.android.cashnow
+score :  2.97
+installs : 1,000,000+
+ratings :  24095
+reviews :  367
+
+title :  LoanClub
+appId :  com.loanclub.lcapp
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  ePay - Instant Personal Loan
+appId :  epay.instant.personalloan
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Taptap Send: Send money abroad
+appId :  com.taptapsend
+score :  4.568548
+installs : 1,000,000+
+ratings :  28748
+reviews :  970
+
+title :  Expense Manager Ledger Book
+appId :  finance.spending.money.expensemanager
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Single Click Pe Loan
+appId :  com.singleclick.loanpe.trading.colourloan.b2l
+score :  4.57
+installs : 100,000+
+ratings :  3672
+reviews :  22
+
+title :  TronLink Pro
+appId :  com.tronlinkpro.wallet
+score :  3.7005649
+installs : 5,000,000+
+ratings :  34363
+reviews :  978
+
+title :  Focus Loan
+appId :  com.fintech.quick.cash.focusloan
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Loan View Guide
+appId :  com.criclivescore.team
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Quick Loan - Easy EMI Advice
+appId :  quick.loan.smallloan.instant.cash
+score :  5
+installs : 10,000+
+ratings :  37
+reviews :  2
+
+title :  Tax Asaan
+appId :  com.pral.fbr_varification_system
+score :  3.142857
+installs : 500,000+
+ratings :  2962
+reviews :  17
+
+title :  SwagBucks Tips - Earn Money
+appId :  com.gogolive.swagbuckstips.earnmoney
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  SurveyKing - Earn from surveys
+appId :  com.surveyking.earn.money.from.surveys
+score :  4.297539
+installs : 100,000+
+ratings :  49561
+reviews :  2068
+
+title :  Pan Card to Aadhar Link Tips
+appId :  com.aadhar.aadharpanscanner.adharpanlink.homeloan.insurance
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Online Jobs - Make Money
+appId :  com.release1.onlinejobs
+score :  4.68
+installs : 50,000+
+ratings :  8929
+reviews :  267
+
+title :  PM Youth Programme
+appId :  com.nitb.gov.kamyabnojawan
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Spin Earn Pk - Pak Earn Money
+appId :  com.spinearnpk.pk
+score :  3.7419355
+installs : 100,000+
+ratings :  2120
+reviews :  10
+
+title :  MEXC Global-Buy & Sell Bitcoin
+appId :  com.mexcpro.client
+score :  4.147059
+installs : 1,000,000+
+ratings :  25530
+reviews :  441
+
+title :  Abhi - Your Salary Now!
+appId :  com.abhifinance
+score :  4
+installs : 50,000+
+ratings :  800
+reviews :  4
+
+title :  5 Minute Me Aadhar Loan Guide
+appId :  com.aadharloan.alltypeloan.fiveminaadharloanguide
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  IQ Robot - Auto Trading Bot
+appId :  com.iqrobot.mobile
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Agent - Konnect
+appId :  com.hbl.agentapp
+score :  3.8333333
+installs : 100,000+
+ratings :  1898
+reviews :  4
+
+title :  LoanPay - Get Loan Guide
+appId :  com.loanpay.getinstantloan
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Huobi: Buy Crypto & Bitcoin
+appId :  pro.huobi
+score :  3.9454546
+installs : 10,000,000+
+ratings :  41567
+reviews :  436
+
+title :  LOBSTR Wallet. Buy Stellar XLM
+appId :  com.lobstr.client
+score :  4.6792455
+installs : 1,000,000+
+ratings :  17889
+reviews :  1696
+
+title :  StormGain: Bitcoin Wallet App
+appId :  com.stormgain.mobile
+score :  4.46
+installs : 5,000,000+
+ratings :  97999
+reviews :  122
+
+title :  Remitly: Send Money & Transfer
+appId :  com.remitly.androidapp
+score :  4.8217554
+installs : 10,000,000+
+ratings :  595992
+reviews :  36146
+
+title :  Fast Cash Loans
+appId :  com.fast.cash.loans.easyloans
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  IDA APP
+appId :  com.IDA.ANDROID_app
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  TrueMoney Wallet
+appId :  th.co.truemoney.wallet
+score :  3.9402986
+installs : 10,000,000+
+ratings :  906277
+reviews :  380
+
+title :  5 Minutes Quick Loan
+appId :  com.loans.instantpay.moneyloan.creditsscore
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  UBL Omni Mobile App
+appId :  ubl.smschannel
+score :  4.48
+installs : 500,000+
+ratings :  5132
+reviews :  35
+
+title :  BTC Mining Bitcoin Cloud Mine
+appId :  vaz.bitcoin.mining
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Battle Steed AI App
+appId :  com.battle.street.trading.investment
+score :  4.233333
+installs : 10,000+
+ratings :  351
+reviews :  18
+
+title :  Hysab Kytab: Track Expenses, B
+appId :  com.jbs.hk.c
+score :  4.189873
+installs : 100,000+
+ratings :  7380
+reviews :  48
+
+title :  Saj Loan
+appId :  com.sajloan.app
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  International loans
+appId :  com.internationalloanspk
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  stc pay
+appId :  sa.com.stcpay
+score :  3.3972602
+installs : 5,000,000+
+ratings :  117783
+reviews :  633
+
+title :  SafePal-Crypto wallet BTC NFTs
+appId :  io.safepal.wallet
+score :  4.7979274
+installs : 1,000,000+
+ratings :  26829
+reviews :  585
+
+title :  Vibrant - A Stellar Wallet
+appId :  io.sunship.app
+score :  4.12
+installs : 1,000,000+
+ratings :  806
+reviews :  45
+
+title :  FBS Trader — Trading Platform
+appId :  com.fbs.tpand
+score :  4.66
+installs : 5,000,000+
+ratings :  151625
+reviews :  104
+
+title :  HBL MfB BVS
+appId :  com.hblmfb.bvs
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  BitMart: Buy Bitcoin & Crypto
+appId :  com.bitmart.bitmarket
+score :  3.3147411
+installs : 1,000,000+
+ratings :  40899
+reviews :  3436
+
+title :  CreditBook - Digital Khata
+appId :  com.creditbookpk.creditbook
+score :  4.75
+installs : 1,000,000+
+ratings :  24305
+reviews :  13
+
+title :  OctaFX Copytrading
+appId :  com.octafx.copytrade
+score :  3.9729729
+installs : 5,000,000+
+ratings :  53586
+reviews :  9
+
+title :  Quick loan - Instant guide
+appId :  com.quicklninstant.loanadvisorapps
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Al Meezan Investments
+appId :  co.ibex.almeezan
+score :  2.75
+installs : 100,000+
+ratings :  1130
+reviews :  7
+
+title :  HamdardLoan
+appId :  com.hamdardloan.android
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  True cash Instant Loan Advise
+appId :  com.emicalculator.cashloan
+score :  4.326923
+installs : 100,000+
+ratings :  14052
+reviews :  3
+
+title :  Go Kash - Electronic Wallet
+appId :  com.timproject.pakistantw
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Quotex - Investing Platform
+appId :  io.quotex
+score :  4.27
+installs : 1,000,000+
+ratings :  14738
+reviews :  278
+
+title :  BTC Miner & Bitcoin Mining
+appId :  btc.bitcoin.mining.crypto.miner.wallet.cash
+score :  3.2857144
+installs : 10,000+
+ratings :  58
+reviews :  4
+
+title :  WebMoney Keeper
+appId :  com.webmoney.my
+score :  4.14
+installs : 5,000,000+
+ratings :  111863
+reviews :  264
+
+title :  JS Zindigi BVS
+appId :  com.jsbl.bvs
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  HB Money Transfer
+appId :  com.hafizbros
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+

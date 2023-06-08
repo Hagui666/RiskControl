@@ -1,0 +1,1400 @@
+title :  Snapchat
+appId :  com.snapchat.android
+score :  4.1554885
+installs : 1,000,000,000+
+ratings :  32484136
+reviews :  1744539
+
+title :  WhatsApp Messenger
+appId :  com.whatsapp
+score :  4.2822223
+installs : 5,000,000,000+
+ratings :  175825298
+reviews :  1881773
+
+title :  WhatsApp Business
+appId :  com.whatsapp.w4b
+score :  4.282858
+installs : 500,000,000+
+ratings :  10920106
+reviews :  33541
+
+title :  Messenger
+appId :  com.facebook.orca
+score :  4.060715
+installs : 5,000,000,000+
+ratings :  86849303
+reviews :  2396456
+
+title :  My Zong
+appId :  com.zong.customercare
+score :  4.0653152
+installs : 10,000,000+
+ratings :  574876
+reviews :  1045
+
+title :  UC Browser-Safe, Fast, Private
+appId :  com.UCMobile.intl
+score :  4.325399
+installs : 1,000,000,000+
+ratings :  22288232
+reviews :  183820
+
+title :  BiP - Messenger, Video Call
+appId :  com.turkcell.bip
+score :  4.2435703
+installs : 50,000,000+
+ratings :  1292079
+reviews :  2695
+
+title :  imo-International Calls & Chat
+appId :  com.imo.android.imoim
+score :  4.0837927
+installs : 1,000,000,000+
+ratings :  8061815
+reviews :  75774
+
+title :  Opera Mini: Fast Web Browser
+appId :  com.opera.mini.native
+score :  4.3195353
+installs : 500,000,000+
+ratings :  8480670
+reviews :  30268
+
+title :  Eyecon Caller ID & Spam Block
+appId :  com.eyecon.global
+score :  4.3085895
+installs : 50,000,000+
+ratings :  719005
+reviews :  3596
+
+title :  UC Mini-Download Video Status 
+appId :  com.uc.browser.en
+score :  4.3731613
+installs : 100,000,000+
+ratings :  4885743
+reviews :  51479
+
+title :  Telegram
+appId :  org.telegram.messenger
+score :  4.2958245
+installs : 1,000,000,000+
+ratings :  12318692
+reviews :  132070
+
+title :  Opera Browser: Fast & Private
+appId :  com.opera.browser
+score :  4.3107367
+installs : 100,000,000+
+ratings :  4355537
+reviews :  88512
+
+title :  My Ufone – Manage your account
+appId :  com.ufoneselfcare
+score :  2.97
+installs : 5,000,000+
+ratings :  44175
+reviews :  288
+
+title :  UC Turbo- Fast, Safe, Ad Block
+appId :  com.ucturbo
+score :  3.9595203
+installs : 50,000,000+
+ratings :  457263
+reviews :  2962
+
+title :  BOTIM - Video and Voice Call
+appId :  im.thebot.messenger
+score :  4.4135695
+installs : 50,000,000+
+ratings :  1046442
+reviews :  6737
+
+title :  Opera Mini browser beta
+appId :  com.opera.mini.native.beta
+score :  4.2958236
+installs : 50,000,000+
+ratings :  783349
+reviews :  3260
+
+title :  Livetalk - Live Video Chat
+appId :  com.bingo.livetalk
+score :  4.1180124
+installs : 100,000,000+
+ratings :  242050
+reviews :  488
+
+title :  Call & SMS Blocker - Blacklist
+appId :  org.whiteglow.antinuisance
+score :  4.162933
+installs : 5,000,000+
+ratings :  171976
+reviews :  1515
+
+title :  Azar - video chat & livestream
+appId :  com.azarlive.android
+score :  3.9374418
+installs : 100,000,000+
+ratings :  1894730
+reviews :  19594
+
+title :  Personal stickers for WhatsApp
+appId :  com.dstukalov.walocalstoragestickers
+score :  4.3242426
+installs : 100,000,000+
+ratings :  316857
+reviews :  1097
+
+title :  Smart Watch app - BT notifier
+appId :  com.smartwatch.bluetooth.sync.notifications
+score :  4.4245663
+installs : 10,000,000+
+ratings :  129874
+reviews :  1385
+
+title :  Messenger Leo All in One, Chat
+appId :  com.leolegaltechapps.messenger
+score :  4.51
+installs : 5,000,000+
+ratings :  12183
+reviews :  113
+
+title :  XBrowser - Mini & Super fast
+appId :  com.xbrowser.play
+score :  4.17
+installs : 10,000,000+
+ratings :  38347
+reviews :  786
+
+title :  Pi Browser
+appId :  pi.browser
+score :  4.457926
+installs : 10,000,000+
+ratings :  132679
+reviews :  1747
+
+title :  Discord: Talk, Chat & Hang Out
+appId :  com.discord
+score :  4.4317145
+installs : 100,000,000+
+ratings :  5219534
+reviews :  249135
+
+title :  WhatAuto - Reply App
+appId :  com.guibais.whatsauto
+score :  4.536232
+installs : 10,000,000+
+ratings :  132636
+reviews :  597
+
+title :  Contacts
+appId :  com.google.android.contacts
+score :  4.298806
+installs : 1,000,000,000+
+ratings :  1141314
+reviews :  20504
+
+title :  GB Version 2023
+appId :  com.gbstatussaver.latestversion.gbchat
+score :  4.362069
+installs : 1,000,000+
+ratings :  6096
+reviews :  16
+
+title :  Opera browser beta with VPN
+appId :  com.opera.browser.beta
+score :  4.362643
+installs : 10,000,000+
+ratings :  287370
+reviews :  8161
+
+title :  Messenger Kids – The Messaging
+appId :  com.facebook.talk
+score :  3.801287
+installs : 10,000,000+
+ratings :  199882
+reviews :  38375
+
+title :  Truecaller: Caller ID & Block
+appId :  com.truecaller
+score :  4.481641
+installs : 1,000,000,000+
+ratings :  18813473
+reviews :  154509
+
+title :  CallApp: Caller ID & Block
+appId :  com.callapp.contacts
+score :  4.380216
+installs : 100,000,000+
+ratings :  1224999
+reviews :  44330
+
+title :  Whats Web Scanner - Dual WA
+appId :  com.whatsapp.web.dual.app.scanner
+score :  4.73
+installs : 5,000,000+
+ratings :  20275
+reviews :  88
+
+title :  Live Talk - Girls Video Call
+appId :  com.ladkisebaate.videocall.videochat.livetalk
+score :  4.4444447
+installs : 50,000+
+ratings :  189
+reviews :  1
+
+title :  Open Talk | Buddy Talk
+appId :  com.jeetproductions.opentalk
+score :  4.106383
+installs : 500,000+
+ratings :  9366
+reviews :  15
+
+title :  Mobile Number Location App
+appId :  com.mobile.number.locator.phone.gps.map
+score :  4.6123595
+installs : 10,000,000+
+ratings :  285765
+reviews :  2213
+
+title :  Phound Phone
+appId :  app.phound.app
+score :  4.266667
+installs : 100,000+
+ratings :  163
+reviews :  7
+
+title :  Whatscan for Web 2021
+appId :  com.qr.whatscan.whats.web.qrscan
+score :  4.44
+installs : 10,000,000+
+ratings :  118914
+reviews :  153
+
+title :  Urdu to English Translator App
+appId :  com.dictionaryworld.englishurdutranslator
+score :  4.08
+installs : 1,000,000+
+ratings :  16582
+reviews :  60
+
+title :  Phoenix Browser - Fast & Safe
+appId :  com.transsion.phoenix
+score :  4.30021
+installs : 500,000,000+
+ratings :  3671264
+reviews :  12067
+
+title :  Sim Cnic Number Details
+appId :  com.muibsols.simowner
+score :  5
+installs : 100,000+
+ratings :  349
+reviews :  1
+
+title :  Super Browser - Private Web
+appId :  com.bharat.browser
+score :  4.2
+installs : 1,000,000+
+ratings :  7548
+reviews :  38
+
+title :  Google Chrome: Fast & Secure
+appId :  com.android.chrome
+score :  4.111845
+installs : 10,000,000,000+
+ratings :  42418927
+reviews :  952910
+
+title :  Taken Tag Tournament
+appId :  com.arshii.takentwo
+score :  3.6
+installs : 100,000+
+ratings :  942
+reviews :  6
+
+title :  My Photo Keyboard themes, Font
+appId :  my.photo.picture.keyboard.keyboard.theme
+score :  4.285246
+installs : 10,000,000+
+ratings :  231353
+reviews :  598
+
+title :  Brave Private Web Browser
+appId :  com.brave.browser
+score :  4.778786
+installs : 100,000,000+
+ratings :  1267963
+reviews :  63305
+
+title :  Romantic Stickers for WA - Lov
+appId :  us.romanticstickers.lovestickers.couplelovestickers
+score :  4.24
+installs : 1,000,000+
+ratings :  49371
+reviews :  79
+
+title :  Join Girls Whats Group Links
+appId :  com.azhardev.whatsgrouplink.pro
+score :  4.4444447
+installs : 100,000+
+ratings :  393
+reviews :  1
+
+title :  Popa Live - Live video call
+appId :  com.popa.video.status.download
+score :  4.709497
+installs : 5,000,000+
+ratings :  69561
+reviews :  1055
+
+title :  LINE: Calls & Messages
+appId :  jp.naver.line.android
+score :  4.145105
+installs : 500,000,000+
+ratings :  13746526
+reviews :  251079
+
+title :  SparkCall live video call app
+appId :  com.callconnect.live
+score :  2.4
+installs : 50,000+
+ratings :  47
+reviews :  1
+
+title :  Viber - Safe Chats And Calls
+appId :  com.viber.voip
+score :  4.450732
+installs : 1,000,000,000+
+ratings :  16402053
+reviews :  402472
+
+title :  Google Meet
+appId :  com.google.android.apps.tachyon
+score :  4.5433793
+installs : 5,000,000,000+
+ratings :  10082115
+reviews :  656910
+
+title :  WAMR
+appId :  com.drilens.wamr
+score :  4.5830345
+installs : 50,000,000+
+ratings :  924313
+reviews :  5953
+
+title :  Live Video Call - Global Call
+appId :  jessy.drop.call
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Stickers and emoji - WASticker
+appId :  com.wastickerapps.whatsapp.stickers
+score :  4.7834396
+installs : 10,000,000+
+ratings :  53209
+reviews :  501
+
+title :  YallaChat: Voice&Video Calls
+appId :  com.yallatech.yallachat
+score :  4.009901
+installs : 5,000,000+
+ratings :  12334
+reviews :  188
+
+title :  WASticker Islamic Stickers
+appId :  com.stickerswhats.wastickerapps
+score :  4.62
+installs : 1,000,000+
+ratings :  32699
+reviews :  156
+
+title :  WeChat
+appId :  com.tencent.mm
+score :  3.645272
+installs : 100,000,000+
+ratings :  6189511
+reviews :  214118
+
+title :  Live Video Call - Global Call
+appId :  com.realcall.random.callschat
+score :  4.111111
+installs : 100,000+
+ratings :  7366
+reviews :  9
+
+title :  Speak and Translate Languages
+appId :  com.speakandtranslate.voicetranslator.alllanguages
+score :  4.3484163
+installs : 10,000,000+
+ratings :  239680
+reviews :  2296
+
+title :  Firefox Fast & Private Browser
+appId :  org.mozilla.firefox
+score :  4.568939
+installs : 100,000,000+
+ratings :  4925888
+reviews :  224789
+
+title :  GB Version 2022
+appId :  com.newversion.gbstatus
+score :  4.415385
+installs : 1,000,000+
+ratings :  6041
+reviews :  19
+
+title :  Live Video Call - Live Talk
+appId :  com.global.video.vcall
+score :  4.4444447
+installs : 100,000+
+ratings :  420
+reviews :  2
+
+title :  GB Version 2023
+appId :  com.gbversionstatussaver.gbnewversiondirectchat
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Sticker Maker for WhatsApp
+appId :  customstickermaker.whatsappstickers.personalstickersforwhatsapp
+score :  4.83
+installs : 10,000,000+
+ratings :  85143
+reviews :  252
+
+title :  Animated Stickers Maker & GIF
+appId :  com.animatedstickers.maker
+score :  3.9019608
+installs : 10,000,000+
+ratings :  12595
+reviews :  115
+
+title :  Skype
+appId :  com.skype.raider
+score :  4.111077
+installs : 1,000,000,000+
+ratings :  11480121
+reviews :  420026
+
+title :  WiFi AR
+appId :  ua.com.wifisolutions.wifivr
+score :  4.32
+installs : 1,000,000+
+ratings :  12346
+reviews :  207
+
+title :  Phone Call Blocker - Blacklist
+appId :  org.litewhite.callblocker
+score :  4.1037464
+installs : 5,000,000+
+ratings :  170131
+reviews :  1095
+
+title :  Microsoft Edge: Web Browser
+appId :  com.microsoft.emmx
+score :  4.6990333
+installs : 50,000,000+
+ratings :  766950
+reviews :  29676
+
+title :  Random Live Video Call & Chat
+appId :  videocall.randomcall.talk.livevideochat.online.livevideo
+score :  4.736842
+installs : 100,000+
+ratings :  1022
+reviews :  9
+
+title :  KalamTime Instant Messenger
+appId :  com.ogoul.kalamtime
+score :  3.97
+installs : 1,000,000+
+ratings :  7252
+reviews :  59
+
+title :  Romantic Stickers for WA
+appId :  us.romantic.stickers.love.stickers.whatsapp.stickerpack
+score :  4.882353
+installs : 100,000+
+ratings :  1178
+reviews :  2
+
+title :  Hala Video Chat & Voice Call
+appId :  live.hala
+score :  3.97
+installs : 10,000,000+
+ratings :  18066
+reviews :  237
+
+title :  SmartWatch - BT Sync (Wear OS)
+appId :  com.OnSoft.android.BluetoothChat
+score :  3.9501467
+installs : 10,000,000+
+ratings :  84929
+reviews :  1936
+
+title :  Max Browser-Private & Security
+appId :  com.max.browser
+score :  4.27451
+installs : 1,000,000+
+ratings :  9320
+reviews :  17
+
+title :  Ladki se baat karne wala apps
+appId :  com.nns.baat.karnewala.apps
+score :  3.9
+installs : 100,000+
+ratings :  344
+reviews :  2
+
+title :  4G LTE Mode only
+appId :  com.four4glte.only.networkmode
+score :  3.83
+installs : 1,000,000+
+ratings :  3876
+reviews :  37
+
+title :  Live Random Video Call & Chat
+appId :  videocall.randomvideocall.videochat.live.call.talk.online.livevideo
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  RDM: Recover Deleted Messages
+appId :  com.softinit.iquitos.mainapp
+score :  4.1179037
+installs : 10,000,000+
+ratings :  101237
+reviews :  504
+
+title :  Sticker Maker for WhatsApp
+appId :  stickerwhatsapp.com.stickers
+score :  4.3860464
+installs : 10,000,000+
+ratings :  458448
+reviews :  1539
+
+title :  Eid Mubarak Stickers
+appId :  com.Hous.eid
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Psiphon Pro
+appId :  com.psiphon3.subscription
+score :  4.3475447
+installs : 100,000,000+
+ratings :  811327
+reviews :  27243
+
+title :  Chrome Dev
+appId :  com.chrome.dev
+score :  4.3785076
+installs : 10,000,000+
+ratings :  165589
+reviews :  4393
+
+title :  JusTalk - Video Chat & Calls
+appId :  com.juphoon.justalk
+score :  4.4219947
+installs : 10,000,000+
+ratings :  289640
+reviews :  37389
+
+title :  Video Downloader Hd
+appId :  com.videodownler.fastfreedownload
+score :  4.119403
+installs : 1,000,000+
+ratings :  2774
+reviews :  21
+
+title :  ANY CALL
+appId :  any.call.international.phone.wifi.calling
+score :  3.9126985
+installs : 5,000,000+
+ratings :  29571
+reviews :  1031
+
+title :  Live Talk - Live Video Call
+appId :  com.livetalk.onlinevideocall.live.talk
+score :  4.3333335
+installs : 1,000,000+
+ratings :  2060
+reviews :  4
+
+title :  Live Video Call - Global Call
+appId :  com.livevideo.randomtalk.callschat
+score :  3.8947368
+installs : 50,000+
+ratings :  3921
+reviews :  3
+
+title :  Avast SecureLine VPN & Privacy
+appId :  com.avast.android.vpn
+score :  4.2876506
+installs : 10,000,000+
+ratings :  190153
+reviews :  6871
+
+title :  TapVPN - Fast & Secure VPN
+appId :  pm.tap.vpn
+score :  4.245648
+installs : 10,000,000+
+ratings :  136116
+reviews :  1939
+
+title :  Temp Mail - Temporary Email
+appId :  com.tempmail
+score :  4.492243
+installs : 10,000,000+
+ratings :  269941
+reviews :  5130
+
+title :  PM Ehsaas Rashan Riat Register
+appId :  smartapps.ehsaas.benazir.income.support
+score :  4.071429
+installs : 100,000+
+ratings :  1131
+reviews :  4
+
+title :  All Pak Sim Data 2023
+appId :  com.at.tahrim.AllpkData
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Join Active Groups Unlimited
+appId :  com.vidstatus.zalidm
+score :  3.6666667
+installs : 100,000+
+ratings :  640
+reviews :  1
+
+title :  Video Call
+appId :  com.recommended.videocall
+score :  3.797235
+installs : 10,000,000+
+ratings :  25427
+reviews :  747
+
+title :  Speak and Translate Languages
+appId :  com.speaktranslate.englishalllanguaguestranslator.ivoicetranslation
+score :  4.367816
+installs : 10,000,000+
+ratings :  103797
+reviews :  1341
+
+title :  Numero eSIM: Virtual Number
+appId :  com.esim.numero
+score :  4.4743695
+installs : 10,000,000+
+ratings :  101377
+reviews :  8369
+
+title :  Whats Web
+appId :  com.whatsweb.app
+score :  4.2786884
+installs : 10,000,000+
+ratings :  305244
+reviews :  1241
+
+title :  Opera Touch
+appId :  com.opera.touch
+score :  4.2716265
+installs : 10,000,000+
+ratings :  118750
+reviews :  2679
+
+title :  Bobble Keyboard
+appId :  com.touchtalent.bobbleapp
+score :  4.47
+installs : 50,000,000+
+ratings :  411308
+reviews :  348
+
+title :  Email - Fast and Smart Mail
+appId :  com.fastsigninemail.securemail.bestemail
+score :  3.6803653
+installs : 5,000,000+
+ratings :  66861
+reviews :  1489
+
+title :  Video stickers for WhatsApp
+appId :  com.dstukalov.wavideostickers
+score :  4.336842
+installs : 1,000,000+
+ratings :  6130
+reviews :  32
+
+title :  GB Version 2023
+appId :  com.gbverstion2023.whatswebtools
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  videocall - LiveTalk Videocall
+appId :  com.op.videocall
+score :  3.6666667
+installs : 100,000+
+ratings :  961
+reviews :  2
+
+title :  FM WASHAPP GB VERSION 2023
+appId :  com.bruno.wifispeedtest
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  SMS text messaging app
+appId :  co.kitetech.messenger
+score :  4.452083
+installs : 5,000,000+
+ratings :  128506
+reviews :  445
+
+title :  Call Recorder Automatic
+appId :  il.co.smedia.callrecorder.yoni
+score :  3.4578588
+installs : 50,000,000+
+ratings :  491971
+reviews :  6586
+
+title :  Hara:live video call,live talk
+appId :  com.hara.videocall
+score :  4.0307693
+installs : 1,000,000+
+ratings :  7916
+reviews :  13
+
+title :  WA Deleted Messages Recovery
+appId :  com.mensajes.borrados.deleted.messages
+score :  4.233645
+installs : 10,000,000+
+ratings :  118593
+reviews :  770
+
+title :  FD Browser: Fast Money Browser
+appId :  com.fulldive.mobile
+score :  4.665934
+installs : 1,000,000+
+ratings :  120410
+reviews :  4252
+
+title :  Aloha Browser Lite - Fast VPN
+appId :  com.alohamobile.browser.lite
+score :  4.3873873
+installs : 1,000,000+
+ratings :  27339
+reviews :  435
+
+title :  PM Ehsaas 25000 relief
+appId :  com.appskingstudio.pmehsaas25000relief
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Dawateislami Digital Services
+appId :  com.dawateislami.apps
+score :  5
+installs : 100,000+
+ratings :  7023
+reviews :  20
+
+title :  Islamic Sticker: WAStickerApps
+appId :  com.as.islamic.sticker.wastickerapps
+score :  4.714286
+installs : 50,000+
+ratings :  1168
+reviews :  13
+
+title :  Signal Private Messenger
+appId :  org.thoughtcrime.securesms
+score :  4.2826567
+installs : 100,000,000+
+ratings :  2263083
+reviews :  95404
+
+title :  MV Music Video Player EQ 2023
+appId :  com.mvplayernew.audiovideoplayer
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Whats Tracker
+appId :  com.itamazons.whatstracker
+score :  3.89
+installs : 5,000,000+
+ratings :  24857
+reviews :  175
+
+title :  hack.chat
+appId :  chat.hack.hackchat
+score :  4.78
+installs : 1,000,000+
+ratings :  3112
+reviews :  126
+
+title :  Phone calls app
+appId :  co.kitetech.dialer
+score :  4.12
+installs : 1,000,000+
+ratings :  13530
+reviews :  21
+
+title :  More Stickers For WhatsApp
+appId :  wastickerapps.stickersforwhatsapp
+score :  4.583174
+installs : 10,000,000+
+ratings :  218585
+reviews :  1736
+
+title :  Video Chat, Private Messenger
+appId :  com.privatemessenger.securechat.messengerapp
+score :  4.375
+installs : 1,000,000+
+ratings :  8603
+reviews :  107
+
+title :  Yahoo Mail – Organized Email
+appId :  com.yahoo.mobile.client.android.mail
+score :  4.546251
+installs : 100,000,000+
+ratings :  6850329
+reviews :  563795
+
+title :  Portable WiFi - Mobile Hotspot
+appId :  com.ertunga.wifihotspot
+score :  4.279835
+installs : 1,000,000+
+ratings :  22725
+reviews :  727
+
+title :  Messages: SMS & Text Messaging
+appId :  com.messenger.messages.sms.textmessage
+score :  4.07
+installs : 1,000,000+
+ratings :  24739
+reviews :  155
+
+title :  Eid Mubarak stickers 2020 WASt
+appId :  com.Eidmubarakstick.stickers
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Latest GB Version Apk 2023
+appId :  com.gbmashapp.directchat12
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Eid ul Fitr Stickers for WA
+appId :  com.zalmistickers.eidstickers
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  GB Version 2023
+appId :  com.newlastversion.gbmessage.tapnewcreate
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Messages by Google
+appId :  com.google.android.apps.messaging
+score :  4.213642
+installs : 1,000,000,000+
+ratings :  9860922
+reviews :  366369
+
+title :  Spider-Verse Movie Stickers GB
+appId :  com.azhaji.AcrossthespiderVerse
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  FAB Adblocker Browser:Adblock
+appId :  com.hsv.freeadblockerbrowser
+score :  4.041106
+installs : 10,000,000+
+ratings :  815316
+reviews :  35394
+
+title :  Tor Browser
+appId :  org.torproject.torbrowser
+score :  4.409535
+installs : 10,000,000+
+ratings :  189214
+reviews :  5819
+
+title :  Samsung Internet Browser
+appId :  com.sec.android.app.sbrowser
+score :  4.1565475
+installs : 1,000,000,000+
+ratings :  5604534
+reviews :  175940
+
+title :  Dearmet: Video Chat, Live Talk
+appId :  com.dearmet.videocall.chat
+score :  4.6190476
+installs : 1,000,000+
+ratings :  5313
+reviews :  5
+
+title :  Kiwi Browser - Fast & Quiet
+appId :  com.kiwibrowser.browser
+score :  4.0384617
+installs : 10,000,000+
+ratings :  88376
+reviews :  3803
+
+title :  Hi Browser-Private&Fast web
+appId :  com.talpa.hibrowser
+score :  4.6138616
+installs : 100,000,000+
+ratings :  56105
+reviews :  297
+
+title :  Gmail
+appId :  com.google.android.gm
+score :  4.2079167
+installs : 10,000,000,000+
+ratings :  12293349
+reviews :  388888
+
+title :  Browser Go: Fast Web Browser
+appId :  u.see.browser.for.uc.browser
+score :  4.611111
+installs : 5,000,000+
+ratings :  21852
+reviews :  164
+
+title :  Caller ID & Block: Caller Go
+appId :  callerid.phone.callingapp.spam.call.blocker
+score :  4.06383
+installs : 500,000+
+ratings :  1865
+reviews :  4
+
+title :  Call Translator. Voice Changer
+appId :  com.nordicwise.translator_call
+score :  2.949367
+installs : 1,000,000+
+ratings :  2125
+reviews :  38
+
+title :  AW - video calls and chat
+appId :  com.androidworks.videocalling
+score :  4.0860214
+installs : 10,000,000+
+ratings :  20709
+reviews :  350
+
+title :  Yaja Live Video Chat
+appId :  com.colive.yaja
+score :  3.9
+installs : 1,000,000+
+ratings :  8611
+reviews :  99
+
+title :  GoChat Messenger: Video Calls
+appId :  net.gochat.app
+score :  3.909091
+installs : 1,000,000+
+ratings :  7604
+reviews :  27
+
+title :  Wemoji - WhatsApp Sticker Make
+appId :  com.picmax.wemoji
+score :  4.733549
+installs : 10,000,000+
+ratings :  567004
+reviews :  3010
+
+title :  Comera - Video Calls & Chat
+appId :  com.is.core.app
+score :  4.08
+installs : 1,000,000+
+ratings :  17912
+reviews :  95
+
+title :  desi girls whats group links
+appId :  com.joiee.join_whats_group_live
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Vava VPN
+appId :  app.vava.vpn
+score :  4.422222
+installs : 1,000,000+
+ratings :  121332
+reviews :  240
+
+title :  Islamic Stickers For Whatsapp
+appId :  com.IslamicStickersForWhatsapp.IslamicStickers
+score :  4.61
+installs : 500,000+
+ratings :  9080
+reviews :  36
+
+title :  Zangi Messenger
+appId :  com.beint.zangi
+score :  4.532258
+installs : 10,000,000+
+ratings :  64933
+reviews :  681
+
+title :  Whats Web
+appId :  com.adchanakya.whatscan.whatsweb
+score :  4.5555553
+installs : 100,000+
+ratings :  1651
+reviews :  4
+
+title :  Eid Al Fitr Wishes Stickers
+appId :  com.arabic.wishes_stickers.allwishes
+score :  5
+installs : 100,000+
+ratings :  611
+reviews :  7
+
+title :  Easy Phone: Dialer & Caller ID
+appId :  com.simpler.dialer
+score :  4.3531566
+installs : 10,000,000+
+ratings :  163292
+reviews :  4162
+
+title :  Quick Search Internet Browser
+appId :  com.aospstudio.tvsearch
+score :  3.9512196
+installs : 1,000,000+
+ratings :  1770
+reviews :  11
+
+title :  Live Video Call - Girls Random
+appId :  live.videochat.girlsrandomvideocall
+score :  3.6666667
+installs : 1,000,000+
+ratings :  1914
+reviews :  9
+
+title :  Speak and Translate Languages
+appId :  com.speaktranslate.tts.speechtotext.voicetyping.translator
+score :  4.1920347
+installs : 10,000,000+
+ratings :  223343
+reviews :  10262
+
+title :  PM EHSAAS Program Relief 2023
+appId :  com.ehsaas.ehsaasprogram2023
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Carrier Services
+appId :  com.google.android.ims
+score :  4.17791
+installs : 1,000,000,000+
+ratings :  1365137
+reviews :  27813
+
+title :  FreeCall
+appId :  net.whatscall.freecall
+score :  4.234694
+installs : 5,000,000+
+ratings :  59631
+reviews :  747
+
+title :  Social Messenger All in One
+appId :  com.leolegaltechapps.translate
+score :  4.2376237
+installs : 10,000,000+
+ratings :  20669
+reviews :  315
+
+title :  Whats Web - Whatscan for Web
+appId :  whatsapp.web.whatscan.whatsweb.qrscan
+score :  4.8
+installs : 1,000,000+
+ratings :  17677
+reviews :  122
+
+title :  Love Stickers for WhatsApp :WA
+appId :  com.wastickerapps.lovestickers.stickersforwhatsapp.techo
+score :  3.6818182
+installs : 1,000,000+
+ratings :  1584
+reviews :  5
+
+title :  Rasta
+appId :  com.pitb.rasta
+score :  2.5217392
+installs : 500,000+
+ratings :  2914
+reviews :  12
+
+title :  Cafe - Live video chat
+appId :  com.matchtech.cafe
+score :  4.3458214
+installs : 10,000,000+
+ratings :  104830
+reviews :  2636
+
+title :  Messenger Tips Whats Messenger
+appId :  com.tipsmessenger.whatsmassenger2019
+score :  3.87
+installs : 5,000,000+
+ratings :  17151
+reviews :  78
+
+title :  DEX VPN - Fast and Secure VPN
+appId :  app.dexvpn
+score :  4.7113404
+installs : 500,000+
+ratings :  66614
+reviews :  734
+
+title :  Recover delete messages ChatSv
+appId :  com.save.deleted.messages.status.restoremessages
+score :  4.69
+installs : 1,000,000+
+ratings :  21244
+reviews :  129
+
+title :  Phone + Contacts & Calls
+appId :  v.d.d.answercall
+score :  4.2881074
+installs : 10,000,000+
+ratings :  85977
+reviews :  1651
+
+title :  Gem4me: social network
+appId :  com.gemtechnologies.gem4me
+score :  4.63
+installs : 10,000,000+
+ratings :  61090
+reviews :  259
+
+title :  EHSAAS Program Registry 2023
+appId :  com.rashanprogram.ehsaasprogram2023
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Open for WhatsApp
+appId :  mobi.smartools.openwhatsapp
+score :  4.07
+installs : 1,000,000+
+ratings :  3244
+reviews :  59
+
+title :  Livetalk for Live Video Chat
+appId :  com.livetalk.videocall.live
+score :  3.75
+installs : 50,000+
+ratings :  870
+reviews :  2
+
+title :  Live Mobile Location
+appId :  sparking.mobile.location.lions.llc
+score :  3.63
+installs : 5,000,000+
+ratings :  16331
+reviews :  37
+
+title :  Funny Urdu Stickers for Whatsa
+appId :  com.innovative.expressions.urdustickerswhtsapp.whatsappstickers
+score :  4.428571
+installs : 1,000,000+
+ratings :  1591
+reviews :  4
+
+title :  WASticker - Love Stickers 2022
+appId :  com.wastickerapps.lovestickers.stickerforwhatsapp.romantic.love.sticker.zeentech
+score :  3.95
+installs : 1,000,000+
+ratings :  1399
+reviews :  8
+
+title :  Baby Memes Stickers WASticker
+appId :  com.WAStickerAppsCollections.stickersbaby.WAStickerApps.babymemes
+score :  4.73
+installs : 1,000,000+
+ratings :  16909
+reviews :  104
+
+title :  Benazir Income Support
+appId :  com.nextupapps.benazirincomesupportprograme
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  VPN Vault - Super Proxy VPN
+appId :  com.appsverse.avvpn
+score :  4.107595
+installs : 1,000,000+
+ratings :  12689
+reviews :  654
+
+title :  Caller Number Locator
+appId :  com.tas.phone.number.locator
+score :  3.74
+installs : 1,000,000+
+ratings :  3953
+reviews :  62
+
+title :  Vyke: Second Phone Number/2nd 
+appId :  com.vyke.vtl
+score :  3.72
+installs : 500,000+
+ratings :  7531
+reviews :  231
+
+title :  Opera GX: Gaming Browser
+appId :  com.opera.gx
+score :  4.367263
+installs : 10,000,000+
+ratings :  80027
+reviews :  3316
+
+title :  Telenor for Business
+appId :  com.b2bmobileapp.android
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Second Phone Line - APhone
+appId :  com.app.aphone
+score :  4.25
+installs : 100,000+
+ratings :  904
+reviews :  11
+
+title :  NetShare - no-root-tethering
+appId :  kha.prog.mikrotik
+score :  4.154908
+installs : 5,000,000+
+ratings :  32758
+reviews :  3306
+
+title :  Call Now - Privacy number
+appId :  com.tongsoft.callphone
+score :  4.1694913
+installs : 100,000+
+ratings :  1110
+reviews :  24
+
+title :  Golden Phone Saver | Chat
+appId :  com.chat_rooms.app876885
+score :  4.1386137
+installs : 1,000,000+
+ratings :  37242
+reviews :  175
+
+title :  MeetTalk - Live Video Call
+appId :  com.livevideocall.newvideochat
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Chat and Video Call With BTS -
+appId :  com.devasing.chatwithbts.chat
+score :  4.2941175
+installs : 1,000,000+
+ratings :  30161
+reviews :  35
+
+title :  Practice English Speaking Talk
+appId :  com.app.appoaholic.speakenglish
+score :  4.178218
+installs : 1,000,000+
+ratings :  17250
+reviews :  89
+
+title :  Call Global
+appId :  me.freecall.callglobal
+score :  4.16
+installs : 5,000,000+
+ratings :  43912
+reviews :  394
+
+title :  Dating App: Match, Chat, Meet
+appId :  uk.co.newvideocall.messenger.videochat
+score :  4.2
+installs : 1,000,000+
+ratings :  5945
+reviews :  58
+
+title :  Urdu Sticker Maker
+appId :  urdu.stickermaker.kdtechnotech
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Live Video Call - Video Call
+appId :  com.videochat.live_video_call.online_video_talk
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Phone No Details, Caller Id
+appId :  com.muibsols.phonenumberdetails
+score :  2.6666667
+installs : 10,000+
+ratings :  144
+reviews :  2
+
+title :  Whatscan Web Scanner whats web
+appId :  com.qr.code.reader.scanner.qrscan
+score :  4.65
+installs : 1,000,000+
+ratings :  29111
+reviews :  57
+
+title :  Animated Islamic Stickers 2022
+appId :  com.techirsh.islamicsticker
+score :  4.5555553
+installs : 1,000,000+
+ratings :  15982
+reviews :  26
+
+title :  Boomco: Learn to Earn
+appId :  com.boomco.study
+score :  3.85
+installs : 100,000+
+ratings :  713
+reviews :  9
+
+title :  GB Pro 2023 - GB Version APK
+appId :  com.stech.fmwhatlatest
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+

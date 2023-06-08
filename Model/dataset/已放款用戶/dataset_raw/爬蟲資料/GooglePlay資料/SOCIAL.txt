@@ -1,0 +1,1400 @@
+title :  TikTok
+appId :  com.zhiliaoapp.musically
+score :  4.360817
+installs : 1,000,000,000+
+ratings :  56351309
+reviews :  2061976
+
+title :  Facebook
+appId :  com.facebook.katana
+score :  3.170241
+installs : 5,000,000,000+
+ratings :  133524342
+reviews :  4188017
+
+title :  TikTok Lite
+appId :  com.zhiliaoapp.musically.go
+score :  4.3901896
+installs : 500,000,000+
+ratings :  5826777
+reviews :  3370
+
+title :  Instagram
+appId :  com.instagram.android
+score :  3.9102213
+installs : 1,000,000,000+
+ratings :  145244712
+reviews :  4461370
+
+title :  Facebook Lite
+appId :  com.facebook.lite
+score :  4.012218
+installs : 1,000,000,000+
+ratings :  24259413
+reviews :  106551
+
+title :  Instagram Lite
+appId :  com.instagram.lite
+score :  4.4711537
+installs : 100,000,000+
+ratings :  971595
+reviews :  642
+
+title :  Bigo Live - Live Streaming App
+appId :  sg.bigo.live
+score :  4.3993306
+installs : 500,000,000+
+ratings :  5421817
+reviews :  81456
+
+title :  Likee - Community of Interests
+appId :  video.like
+score :  4.4117026
+installs : 500,000,000+
+ratings :  11601067
+reviews :  155033
+
+title :  CashBird: Watch&Play To Earn
+appId :  com.video.cashbird.tube
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Chamet - Live Video Chat&Meet
+appId :  com.hkfuliao.chamet
+score :  4.037433
+installs : 10,000,000+
+ratings :  215926
+reviews :  908
+
+title :  Twitter
+appId :  com.twitter.android
+score :  4.076641
+installs : 1,000,000,000+
+ratings :  20974561
+reviews :  714705
+
+title :  Pink – chat and call
+appId :  com.pink.chatpink
+score :  4
+installs : 1,000,000+
+ratings :  3962
+reviews :  19
+
+title :  Dil Ka Rishta
+appId :  com.dil.ka.rishta
+score :  4.4358974
+installs : 100,000+
+ratings :  6704
+reviews :  12
+
+title :  Video Downloader HD - Vidow
+appId :  com.hdvideodownloader.downloaderapp
+score :  4.45
+installs : 1,000,000+
+ratings :  4693
+reviews :  25
+
+title :  MIGO Live-Voice and Video Chat
+appId :  com.migo.mobile
+score :  4.2970295
+installs : 10,000,000+
+ratings :  40619
+reviews :  99
+
+title :  Status Saver - Video Saver
+appId :  statussaver.statusdownloader.downloadstatus.videoimagesaver
+score :  4.8206897
+installs : 10,000,000+
+ratings :  120968
+reviews :  2630
+
+title :  DiTok
+appId :  com.diamond.ditok
+score :  2.88
+installs : 500,000+
+ratings :  2749
+reviews :  14
+
+title :  Chikii-Play PC Games
+appId :  com.dianyun.chikii
+score :  3.5555556
+installs : 10,000,000+
+ratings :  134849
+reviews :  1934
+
+title :  Likee Lite - Funny videos
+appId :  video.like.lite
+score :  4.3695793
+installs : 100,000,000+
+ratings :  731980
+reviews :  6807
+
+title :  Pi Network
+appId :  com.blockchainvault
+score :  4.373725
+installs : 50,000,000+
+ratings :  591655
+reviews :  11428
+
+title :  StreamKar - Live Stream & Chat
+appId :  com.thankyo.hwgame
+score :  4.25
+installs : 50,000,000+
+ratings :  182179
+reviews :  901
+
+title :  imo Lite -video calls and chat
+appId :  com.imo.android.imoimlite
+score :  4.6039605
+installs : 10,000,000+
+ratings :  127250
+reviews :  125
+
+title :  GB Latest Version Apk
+appId :  com.gbversion.statussaver.latestversion
+score :  4.66
+installs : 5,000,000+
+ratings :  22440
+reviews :  60
+
+title :  Chingari : Meet New Friends
+appId :  io.chingari.app
+score :  4.0968523
+installs : 50,000,000+
+ratings :  673695
+reviews :  3069
+
+title :  BIGO LIVE Lite – Live Stream
+appId :  sg.bigo.live.lite
+score :  4.31
+installs : 10,000,000+
+ratings :  219816
+reviews :  200
+
+title :  HOLLA - Live Random Video Chat
+appId :  com.exutech.chacha
+score :  4.2768188
+installs : 10,000,000+
+ratings :  443798
+reviews :  27787
+
+title :  VotTak - Short Video App
+appId :  com.omnewgentechnologies.vottak
+score :  4.387755
+installs : 10,000,000+
+ratings :  159323
+reviews :  449
+
+title :  All Network Packages 2023 Pro
+appId :  com.mirza.allnetworkpackageslatest
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Status Saver - WA Downloader
+appId :  statussaver.statusdownloader.downloadstatus.savestatus
+score :  4.6585364
+installs : 10,000,000+
+ratings :  43766
+reviews :  427
+
+title :  MICO: Go Live Streaming & Chat
+appId :  com.mico
+score :  4.350709
+installs : 50,000,000+
+ratings :  768017
+reviews :  7094
+
+title :  FRNZ : Finding love & Friends
+appId :  en.blablaenm.blabla
+score :  2
+installs : 500,000+
+ratings :  547
+reviews :  1
+
+title :  All Network Packages 2023
+appId :  com.studio.pak.allnetworkpackages
+score :  4.25
+installs : 1,000,000+
+ratings :  9258
+reviews :  5
+
+title :  Recover Chat for WA - Messages
+appId :  com.recoverdeletedmessages.gurru.recoverydata
+score :  4.439695
+installs : 5,000,000+
+ratings :  259476
+reviews :  316
+
+title :  Whats Groups Links Join Groups
+appId :  com.WGA.app.Groupslikswhats
+score :  3.5
+installs : 100,000+
+ratings :  664
+reviews :  3
+
+title :  Gemgala - Party & Chat & Games
+appId :  com.hkjustar.gemgala
+score :  4.28
+installs : 1,000,000+
+ratings :  27239
+reviews :  175
+
+title :  Status, Sticker Saver
+appId :  com.lazygeniouz.saveit
+score :  4.306878
+installs : 100,000,000+
+ratings :  714744
+reviews :  1341
+
+title :  Omega - Live Random Video Chat
+appId :  ly.omegle.android
+score :  3.7989056
+installs : 10,000,000+
+ratings :  83379
+reviews :  2968
+
+title :  Fast video downloader
+appId :  com.fbvideodownloader.downloadfbvideos
+score :  4.382716
+installs : 1,000,000+
+ratings :  29218
+reviews :  201
+
+title :  Hello Yo - Group Chat Rooms
+appId :  sg.bigo.hellotalk
+score :  4.2413793
+installs : 10,000,000+
+ratings :  159296
+reviews :  1003
+
+title :  Lonely Girl
+appId :  com.lonelygirl.live
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  QaboolHai
+appId :  com.qaboolhai
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  LuLuChat:Live Video Call App
+appId :  com.sexchat.one
+score :  4.17
+installs : 1,000,000+
+ratings :  4434
+reviews :  44
+
+title :  WA.Status Saver - Downloader
+appId :  statussaver.deleted.messages.savevidieos
+score :  4.7318435
+installs : 10,000,000+
+ratings :  129394
+reviews :  593
+
+title :  UC Browser Tips Private
+appId :  com.ucbrowser.esw
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Felorida
+appId :  com.felorida
+score :  4.266667
+installs : 10,000+
+ratings :  140
+reviews :  11
+
+title :  Whats Group Links
+appId :  com.im.latest_whats_groups_Links
+score :  3.4545455
+installs : 100,000+
+ratings :  617
+reviews :  3
+
+title :  LivHub - Video Chat Online
+appId :  com.livhub.android
+score :  4.3142858
+installs : 1,000,000+
+ratings :  19177
+reviews :  201
+
+title :  Whats links Group Join Groups
+appId :  com.saki.wanew.gorp.link
+score :  4.2
+installs : 100,000+
+ratings :  174
+reviews :  0
+
+title :  Tigo - Live Video Chat&More
+appId :  com.tigo.flower
+score :  4.06
+installs : 1,000,000+
+ratings :  8467
+reviews :  44
+
+title :  KissU
+appId :  com.kissu.live
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  OM
+appId :  com.omtch.om
+score :  4.48
+installs : 1,000,000+
+ratings :  8693
+reviews :  192
+
+title :  Video downloader - Fast Videos
+appId :  com.vidow.videodownloader.storysaver
+score :  4.1923075
+installs : 500,000+
+ratings :  1827
+reviews :  19
+
+title :  Fly call
+appId :  com.randomvideochat.flycall2022
+score :  4
+installs : 100,000+
+ratings :  628
+reviews :  2
+
+title :  Tik Followers
+appId :  com.tikfollower.tikcards.tikmoney.tikreward
+score :  3.92
+installs : 500,000+
+ratings :  5706
+reviews :  80
+
+title :  Video Downloader &Video Player
+appId :  com.justoneclickdownloadvideo.easilydownloadvideo
+score :  4.3333335
+installs : 100,000+
+ratings :  544
+reviews :  1
+
+title :  GB App Version 2023 Pro
+appId :  whats.gbwhatsversion.statussaver.gbwatools
+score :  4.071429
+installs : 50,000+
+ratings :  106
+reviews :  3
+
+title :  YoHo: Group Voice Chat Room
+appId :  com.voicechat.live.group
+score :  4.2349396
+installs : 10,000,000+
+ratings :  56297
+reviews :  801
+
+title :  Xvideo - Live Video Chat
+appId :  net.s.xvideo
+score :  3.8
+installs : 1,000,000+
+ratings :  720
+reviews :  0
+
+title :  Uplive-Live Stream, Go Live
+appId :  com.asiainno.uplive
+score :  3.956044
+installs : 50,000,000+
+ratings :  213862
+reviews :  2106
+
+title :  Miss Girl
+appId :  com.missgirl.live
+score :  3.7142856
+installs : 500,000+
+ratings :  812
+reviews :  2
+
+title :  Trace Mobile Number Pakistan
+appId :  application.tracenumber
+score :  2.857143
+installs : 1,000,000+
+ratings :  2318
+reviews :  2
+
+title :  OmeTV – Video Chat Alternative
+appId :  omegle.tv
+score :  4.099128
+installs : 100,000,000+
+ratings :  533159
+reviews :  9602
+
+title :  Saxy - Follow video call
+appId :  com.follow.chat
+score :  4.051282
+installs : 1,000,000+
+ratings :  4021
+reviews :  5
+
+title :  GIF Sticker & WAsticker
+appId :  emojigif.lovestickers.wasticker.gifsticker
+score :  4.9206347
+installs : 1,000,000+
+ratings :  15736
+reviews :  398
+
+title :  Avive: Proof Of Networking
+appId :  com.meta.avive
+score :  4.62
+installs : 500,000+
+ratings :  3819
+reviews :  83
+
+title :  Live Chat Video Call-Whatslive
+appId :  com.download.funny.online
+score :  4.455298
+installs : 10,000,000+
+ratings :  151677
+reviews :  1896
+
+title :  Video Downloader for Instagram
+appId :  instagram.video.downloader.story.saver
+score :  4.7830453
+installs : 50,000,000+
+ratings :  1249035
+reviews :  7066
+
+title :  Tikfans - Get followers, likes
+appId :  tikfans.tikplus
+score :  4.42
+installs : 500,000+
+ratings :  10957
+reviews :  117
+
+title :  Matchat – Live video or audio 
+appId :  com.matchat.chat
+score :  4.5
+installs : 1,000,000+
+ratings :  2117
+reviews :  10
+
+title :  Lonely Girl -  Live Video Chat
+appId :  net.sweety.lng
+score :  4.6153846
+installs : 500,000+
+ratings :  1234
+reviews :  3
+
+title :  Cheelee: Watch. Play. Earn
+appId :  io.cheelee.app
+score :  4
+installs : 100,000+
+ratings :  755
+reviews :  24
+
+title :  All Network Packages Pk
+appId :  com.sil_apps.allnetworkpackages
+score :  4.909091
+installs : 100,000+
+ratings :  490
+reviews :  6
+
+title :  Status Saver for WhatsApp
+appId :  notification.status.saver.whatsapp.messenger
+score :  4.2807016
+installs : 1,000,000+
+ratings :  2134
+reviews :  23
+
+title :  LivU - Live Video Chat
+appId :  com.videochat.livu
+score :  4.4850574
+installs : 50,000,000+
+ratings :  406311
+reviews :  3281
+
+title :  All Network Packages 2023
+appId :  com.loreapps.all.network.packages
+score :  4.25
+installs : 500,000+
+ratings :  2284
+reviews :  4
+
+title :  Reddit
+appId :  com.reddit.frontpage
+score :  4.2374463
+installs : 100,000,000+
+ratings :  2803369
+reviews :  264565
+
+title :  Blued: Gay Live Chat & Dating
+appId :  com.blued.international
+score :  4.013423
+installs : 10,000,000+
+ratings :  331225
+reviews :  1675
+
+title :  Whats Groups Links Join Groups
+appId :  com.im.whatslinks.whatagroupspro
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Status Saver Download Status
+appId :  com.studio.nexteck.storysaver.statussaverwhatsapp
+score :  4.675676
+installs : 1,000,000+
+ratings :  5216
+reviews :  10
+
+title :  Islamic Status With Earning
+appId :  com.islamic.videodownloadss
+score :  4.6
+installs : 100,000+
+ratings :  2055
+reviews :  7
+
+title :  Vidmatе All Video Download App
+appId :  com.trusted_disk.realapptoallvideodownload
+score :  4.6363635
+installs : 100,000+
+ratings :  558
+reviews :  1
+
+title :  Love.ly - Video Call
+appId :  com.livecall.love.ly
+score :  4.7
+installs : 100,000+
+ratings :  734
+reviews :  1
+
+title :  Telegram X
+appId :  org.thunderdog.challegram
+score :  4.3056583
+installs : 50,000,000+
+ratings :  552819
+reviews :  6744
+
+title :  Olamet
+appId :  com.olamet.mobile
+score :  4.0434785
+installs : 100,000+
+ratings :  903
+reviews :  14
+
+title :  Random Chat - Girls Video Call
+appId :  com.loveline.video.chat.call.random.stranger.online.hd
+score :  4.6
+installs : 50,000+
+ratings :  347
+reviews :  0
+
+title :  Whats Group Links Join Groups
+appId :  com.fowalink.wgrouplink.ind
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  VK: music, video, messenger
+appId :  com.vkontakte.android
+score :  3.6968694
+installs : 100,000,000+
+ratings :  8634244
+reviews :  9899
+
+title :  Kiss Me——Live Video Chat
+appId :  com.kissme.live
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Who - Live Video Chat
+appId :  com.scorp.who
+score :  4.3834424
+installs : 10,000,000+
+ratings :  255913
+reviews :  5546
+
+title :  Whats Group links Join Groups
+appId :  com.tomoa.wa.nlink.group.inr
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Whats Group Link - Join Groups
+appId :  com.hkazi.whatsgrouplink
+score :  2.7857144
+installs : 1,000,000+
+ratings :  2620
+reviews :  14
+
+title :  Mogul Cloud Game-Play PC Games
+appId :  com.mogul.flutte
+score :  3.3431373
+installs : 5,000,000+
+ratings :  37475
+reviews :  605
+
+title :  VChat：Random Online Video Call
+appId :  com.video.vchat
+score :  3.7821782
+installs : 1,000,000+
+ratings :  6261
+reviews :  70
+
+title :  Omega Lite - Live Video Chat
+appId :  ly.omegle.android.lite
+score :  4.07
+installs : 1,000,000+
+ratings :  5534
+reviews :  88
+
+title :  All Sims Packages 2023
+appId :  com.allsimspackages
+score :  5
+installs : 100,000+
+ratings :  489
+reviews :  1
+
+title :  Zapya Go - Share File with Tho
+appId :  com.dewmobile.zapyago
+score :  4.54
+installs : 1,000,000+
+ratings :  15365
+reviews :  152
+
+title :  All Network Packages 2023
+appId :  com.rizapps.ZongTelenor.MobilinkUfone.allsimpacknew
+score :  4.4375
+installs : 1,000,000+
+ratings :  7490
+reviews :  12
+
+title :  HD Tik Downloader No Watermark
+appId :  com.video.downloader.no.watermark.tiktok
+score :  4.7087913
+installs : 5,000,000+
+ratings :  122668
+reviews :  1758
+
+title :  Joi - Live Video Chat
+appId :  video.chat.joi
+score :  4.397626
+installs : 5,000,000+
+ratings :  62884
+reviews :  3237
+
+title :  TikLikes - tiktok followers
+appId :  com.tiklike.app
+score :  4.64526
+installs : 1,000,000+
+ratings :  54011
+reviews :  1301
+
+title :  MIKA: Live Streaming Chat
+appId :  com.mikaapp.android
+score :  4.325
+installs : 5,000,000+
+ratings :  12420
+reviews :  16
+
+title :  Taqatwar Pakistan
+appId :  com.taqatwarpakistan
+score :  4
+installs : 100,000+
+ratings :  1158
+reviews :  4
+
+title :  Save Status : Download Status
+appId :  com.sigma.delta.status.saver
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Omegle Match - Live Video Call
+appId :  com.appsians.drcrossconnection
+score :  4
+installs : 50,000+
+ratings :  180
+reviews :  1
+
+title :  Figure - Saxy Video Call
+appId :  com.figure.livefriends
+score :  3.7727273
+installs : 1,000,000+
+ratings :  6253
+reviews :  2
+
+title :  SayHi Chat Meet Dating People
+appId :  com.unearby.sayhi
+score :  4.3296285
+installs : 10,000,000+
+ratings :  672844
+reviews :  12536
+
+title :  Poppo live
+appId :  com.baitu.qingshu
+score :  4.5339804
+installs : 1,000,000+
+ratings :  26203
+reviews :  206
+
+title :  Tango-Live Stream & Video Chat
+appId :  com.sgiggle.production
+score :  4.4730787
+installs : 100,000,000+
+ratings :  4236120
+reviews :  338760
+
+title :  Live Video Call - Random Girls
+appId :  videocall.randomcall.livevideochat.livevideo
+score :  4
+installs : 500,000+
+ratings :  1267
+reviews :  4
+
+title :  Moj
+appId :  in.mohalla.video
+score :  4.13
+installs : 100,000,000+
+ratings :  1689729
+reviews :  753
+
+title :  TikBooster: Get Tik Fans Likes
+appId :  com.tik.tok.tikfollowers.tikbooster
+score :  4.422414
+installs : 1,000,000+
+ratings :  39585
+reviews :  445
+
+title :  Live Talk - Girls Video Call
+appId :  com.livetalk.video.chat.random.online.stranger.call.conference
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  GiveMe5 Official
+appId :  com.giveme5.giveme5
+score :  2.6
+installs : 100,000+
+ratings :  915
+reviews :  5
+
+title :  Girls Video Call - Milky Lite
+appId :  com.milky.lite
+score :  4.4615383
+installs : 1,000,000+
+ratings :  1940
+reviews :  4
+
+title :  Love Messages for Boyfriend
+appId :  com.waf.lovemessageforbf
+score :  4.452188
+installs : 5,000,000+
+ratings :  50073
+reviews :  1476
+
+title :  Ladki se baat karne wala apps
+appId :  in.video.chat.call
+score :  4.611111
+installs : 1,000,000+
+ratings :  2596
+reviews :  4
+
+title :  Hide Apps - Secret Calculator
+appId :  tad.hideapps.hiddenspace.apphider.webapps
+score :  4.08
+installs : 1,000,000+
+ratings :  29455
+reviews :  157
+
+title :  All Sim Network Packages Codes
+appId :  com.as.all.sim.network.packages.codes
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  واتس الذهبي التاج Gold
+appId :  com.wts.altagg.alzahby.alflsyiny.app1741039
+score :  4.3125
+installs : 100,000+
+ratings :  1325
+reviews :  6
+
+title :  Dollar Pie - Play & Earn Money
+appId :  com.pie.dollar
+score :  3.357143
+installs : 100,000+
+ratings :  1073
+reviews :  17
+
+title :  Cute Babies Stickers Animated
+appId :  com.WallStickers.Animated_Cute_Babies_Stickers.for_whatsapp
+score :  4.2
+installs : 100,000+
+ratings :  542
+reviews :  0
+
+title :  TikPlus: followers for TickTok
+appId :  com.hooza.tikplus
+score :  4.2694955
+installs : 1,000,000+
+ratings :  247618
+reviews :  3056
+
+title :  Dialer Lock-AppHider
+appId :  com.app.hider.master.vault.dialer
+score :  4.3107343
+installs : 10,000,000+
+ratings :  117373
+reviews :  729
+
+title :  Uhive - Beyond Social Media
+appId :  uhiveapp.uhive.com.uhive
+score :  4.3401637
+installs : 1,000,000+
+ratings :  16018
+reviews :  1148
+
+title :  Camsea - Live Video Chat
+appId :  com.camsea.videochat
+score :  4
+installs : 1,000,000+
+ratings :  10817
+reviews :  368
+
+title :  Pinterest Lite
+appId :  com.pinterest.twa
+score :  3.78487
+installs : 10,000,000+
+ratings :  122428
+reviews :  1762
+
+title :  Status, Story Download for WA
+appId :  com.theyouthtech.statusaver
+score :  4.3762374
+installs : 1,000,000+
+ratings :  10074
+reviews :  55
+
+title :  Status saver for WA & Business
+appId :  repost.share.whatsapp.statussaver.videosave.photosaver
+score :  4.6923075
+installs : 50,000+
+ratings :  1242
+reviews :  3
+
+title :  Bluesky
+appId :  xyz.blueskyweb.app
+score :  3.9534883
+installs : 100,000+
+ratings :  644
+reviews :  30
+
+title :  Live Video Call - Random Chat
+appId :  videocall.random.call.talk.online.livevideo
+score :  3.7435896
+installs : 100,000+
+ratings :  2145
+reviews :  12
+
+title :  NauNau | Location Sharing SNS
+appId :  com.hello.zuttomo
+score :  2.7
+installs : 500,000+
+ratings :  3194
+reviews :  8
+
+title :  XCAD
+appId :  com.xcadnetwork.app
+score :  4.2173915
+installs : 100,000+
+ratings :  3386
+reviews :  53
+
+title :  Romantic Stickers for Whatsapp
+appId :  com.WallStickers.Romantic_Stickers.for_whatsapp
+score :  3.2857144
+installs : 100,000+
+ratings :  333
+reviews :  3
+
+title :  Peek - Live Video Chat
+appId :  com.peek.live
+score :  3.6
+installs : 50,000+
+ratings :  150
+reviews :  0
+
+title :  GB Latest Version Apk 2023
+appId :  com.gbpro.whtsappna
+score :  4.29
+installs : 5,000,000+
+ratings :  42900
+reviews :  116
+
+title :  Whats Group Links Active Group
+appId :  com.app.whatsgrouplinks
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Lite Messenger for Messages
+appId :  com.lite.social.network.allinone
+score :  4.46
+installs : 1,000,000+
+ratings :  3205
+reviews :  125
+
+title :  Live Random Video Call
+appId :  random.videocall.livevideo.live.talk.call
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  vidIQ for YouTube
+appId :  com.vidiq.app
+score :  4.4828897
+installs : 1,000,000+
+ratings :  106580
+reviews :  813
+
+title :  Unlimited Texting, Calling App
+appId :  me.dingtone.app.im
+score :  4.1859546
+installs : 10,000,000+
+ratings :  654895
+reviews :  86903
+
+title :  Whats Groups - 2023 Links
+appId :  com.xorotech.whatsappgroups
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Status Saver For Whatsapp
+appId :  com.studio.zm.statussaver
+score :  4.44
+installs : 5,000,000+
+ratings :  25335
+reviews :  57
+
+title :  Weverse
+appId :  co.benx.weverse
+score :  4.1763577
+installs : 10,000,000+
+ratings :  723302
+reviews :  5960
+
+title :  GB Whats Version 2023
+appId :  com.gbnewversion.yofmstatussaverlec
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  ILove Stickers - For love
+appId :  com.bringsgame.kiss
+score :  4.7348146
+installs : 10,000,000+
+ratings :  179900
+reviews :  4980
+
+title :  Taraki - Job Search Pakistan
+appId :  com.taraki.android
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Moj Lite +
+appId :  com.next.innovation.takatak
+score :  3.98
+installs : 100,000,000+
+ratings :  1075496
+reviews :  186
+
+title :  SkyGram: smart proxy
+appId :  com.skyGram.bestt
+score :  4.03
+installs : 100,000+
+ratings :  1400
+reviews :  66
+
+title :  Shaadi.com®- Dating & Marriage
+appId :  com.shaadi.android
+score :  3.9260595
+installs : 10,000,000+
+ratings :  300036
+reviews :  3380
+
+title :  Lamour: Live Chat Make Friends
+appId :  com.asiainno.uplive.aiglamour
+score :  3.9472728
+installs : 50,000,000+
+ratings :  806074
+reviews :  1650
+
+title :  Tiki - Short Video App
+appId :  video.tiki
+score :  4.140244
+installs : 100,000,000+
+ratings :  586645
+reviews :  493
+
+title :  Chatrandom: Video Chat with St
+appId :  chatrandom.com
+score :  3.76
+installs : 1,000,000+
+ratings :  9988
+reviews :  122
+
+title :  Super Browser-Pro Mini Browser
+appId :  com.socialmadiaandsocialnetwork.allinonesocialapp
+score :  4.5
+installs : 100,000+
+ratings :  483
+reviews :  3
+
+title :  All Recover Deleted Messages
+appId :  com.app.recoverdeletedmesasges.viewdeleted.messagerecovery.restoredeletedmessages
+score :  4.02
+installs : 1,000,000+
+ratings :  3109
+reviews :  31
+
+title :  NGL: anonymous q&a
+appId :  com.nglreactnative
+score :  4.568548
+installs : 10,000,000+
+ratings :  381472
+reviews :  941
+
+title :  Dating, Chat & Meet People
+appId :  com.mobile.android.eris
+score :  4.477341
+installs : 10,000,000+
+ratings :  85998
+reviews :  1088
+
+title :  OHO Chat - Live Video Chat
+appId :  com.vebor.vchat.oto
+score :  2.8333333
+installs : 50,000+
+ratings :  44
+reviews :  2
+
+title :  Twinkle
+appId :  com.twinkle.live
+score :  4.27957
+installs : 1,000,000+
+ratings :  7395
+reviews :  40
+
+title :  TikTok Now
+appId :  com.ss.android.ugc.now
+score :  4.0869565
+installs : 10,000,000+
+ratings :  100539
+reviews :  12
+
+title :  Live Video Call - Video Chat
+appId :  com.crapp.livevideocall.videocall
+score :  4.285714
+installs : 100,000+
+ratings :  444
+reviews :  5
+
+title :  Good morning messages & quotes
+appId :  ru.otkritki.pozdravleniya.app
+score :  4.754902
+installs : 1,000,000+
+ratings :  15695
+reviews :  140
+
+title :  Star Network - Social DeFi
+appId :  io.starnetwork.app
+score :  3.66
+installs : 1,000,000+
+ratings :  36043
+reviews :  603
+
+title :  Phone Tracker By Number
+appId :  mg.locations.track5
+score :  4.350905
+installs : 50,000,000+
+ratings :  926275
+reviews :  9958
+
+title :  Tiki - Follower & Likes Report
+appId :  com.tiki.reports
+score :  4.7394958
+installs : 1,000,000+
+ratings :  125667
+reviews :  1625
+
+title :  mLike - Likes Followers Views
+appId :  com.mlike.sifresizbegeni
+score :  4.5945945
+installs : 500,000+
+ratings :  3234
+reviews :  159
+
+title :  Peachat - Live Video Chat
+appId :  video.chat.peachat
+score :  4.4117646
+installs : 1,000,000+
+ratings :  22308
+reviews :  887
+
+title :  Heyy - Live Video Chat
+appId :  tv.heyy.app
+score :  4.029703
+installs : 1,000,000+
+ratings :  7104
+reviews :  307
+
+title :  Mixu - Meet on Live Video Chat
+appId :  com.rc.live.livechat3
+score :  4.7
+installs : 5,000,000+
+ratings :  46488
+reviews :  313
+
+title :  Honeycam Pro-Live Video Chat
+appId :  com.honeycam.pro
+score :  3.9411764
+installs : 100,000+
+ratings :  144
+reviews :  6
+
+title :  Bliss Live – Video call & fun
+appId :  com.woome.blisslive
+score :  4.525
+installs : 5,000,000+
+ratings :  7127
+reviews :  19
+
+title :  Palphone
+appId :  com.palphone.pro.app
+score :  3.5
+installs : 500,000+
+ratings :  477
+reviews :  1
+
+title :  Linkr: Link in Bio for Creator
+appId :  com.levermore.linkr
+score :  4.2
+installs : 500,000+
+ratings :  1743
+reviews :  56
+
+title :  Text Me: Second Phone Number
+appId :  com.textmeinc.textme
+score :  4.255868
+installs : 10,000,000+
+ratings :  514419
+reviews :  104416
+
+title :  WorldNoor
+appId :  com.ogoul.worldnoor
+score :  3.5777779
+installs : 1,000,000+
+ratings :  1818
+reviews :  21
+
+title :  TubeBuddy
+appId :  com.tubebuddy.tubebuddy_mobile
+score :  3.464
+installs : 1,000,000+
+ratings :  32056
+reviews :  766
+
+title :  hmu chat: snapchat kik friends
+appId :  com.flavoapp.app
+score :  4.01
+installs : 100,000+
+ratings :  633
+reviews :  47
+
+title :  Add Friends for Snapchat
+appId :  com.ignates.findfriends
+score :  4.3044496
+installs : 1,000,000+
+ratings :  25589
+reviews :  1212
+
+title :  Single Girl
+appId :  net.single.singleg
+score :  3.5294118
+installs : 1,000,000+
+ratings :  3898
+reviews :  1
+
+title :  Chat City - live video match
+appId :  com.chatcity.live
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  FreeU
+appId :  com.modelvideo.freeu2023
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  ChatVideo Meet people
+appId :  com.flaxbin.chatvideo
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Whats Groups Link - Join Group
+appId :  com.whatsgroupslink.joingroups
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  4Fun lite - Group Voice Chat
+appId :  com.nebula.mamu.lite
+score :  4.05
+installs : 10,000,000+
+ratings :  50695
+reviews :  97
+
+title :  Grindr - Gay chat
+appId :  com.grindrapp.android
+score :  3.665024
+installs : 50,000,000+
+ratings :  791072
+reviews :  63605
+
+title :  WhatSmiley: Emoji WASticker
+appId :  com.shareitagain.mymoodsmiley
+score :  4.6338844
+installs : 10,000,000+
+ratings :  192894
+reviews :  2701
+
+title :  BuzzCast - Live Video Chat App
+appId :  com.guochao.faceshow
+score :  4.0344334
+installs : 10,000,000+
+ratings :  71321
+reviews :  4203
+
+title :  FreeTone Calls & Texting
+appId :  com.textmeinc.freetone
+score :  4.3051395
+installs : 10,000,000+
+ratings :  118593
+reviews :  24648
+
+title :  Heyo-Virtual Games&Avatar Chat
+appId :  com.duiud.kedou
+score :  3.56
+installs : 500,000+
+ratings :  970
+reviews :  7
+
+title :  Urdu Novels Offline 2023
+appId :  com.urdunovelsoffline
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Live Video Call - Global Call
+appId :  com.hanumansofttech.livevideocall
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Hiigo chat
+appId :  com.casualchat.hiigochat2023
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Honeycam Chat-Live Video Chat
+appId :  com.honeycam
+score :  3.4885497
+installs : 5,000,000+
+ratings :  15552
+reviews :  476
+
+title :  Pink Color for Facebook
+appId :  com.naxtlab.facebook.colors.pink
+score :  4.27
+installs : 1,000,000+
+ratings :  15101
+reviews :  129
+
+title :  XChat - Live Video Chat
+appId :  net.sweety.xchat
+score :  4.7083335
+installs : 1,000,000+
+ratings :  5087
+reviews :  5
+
+title :  Chat Rooms - Find Friends
+appId :  com.chatgum.chat.rooms
+score :  3.9986472
+installs : 5,000,000+
+ratings :  117353
+reviews :  16144
+
+title :  WaveChat - Online Video Chat
+appId :  com.waooolive.android
+score :  4.28
+installs : 50,000+
+ratings :  284
+reviews :  4
+
+title :  MeetMe: Chat & Meet New People
+appId :  com.myyearbook.m
+score :  3.421821
+installs : 50,000,000+
+ratings :  1615505
+reviews :  252941
+
+title :  Walla: Gay chat
+appId :  com.blued.international.qy
+score :  4.1
+installs : 5,000,000+
+ratings :  24811
+reviews :  13
+
+title :  SoulChill-Connect Similar Soul
+appId :  com.live.soulchill
+score :  3.711111
+installs : 10,000,000+
+ratings :  79610
+reviews :  1282
+
+title :  Tokka - stranger video chat
+appId :  com.tokka.video.live.chat
+score :  4.4444447
+installs : 50,000+
+ratings :  425
+reviews :  1
+

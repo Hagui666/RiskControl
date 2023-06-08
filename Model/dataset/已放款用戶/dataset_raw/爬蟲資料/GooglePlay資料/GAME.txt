@@ -1,0 +1,1400 @@
+title :  Car Games 3D: Car Racing
+appId :  com.dino.race.master
+score :  4.481159
+installs : 50,000,000+
+ratings :  88747
+reviews :  742
+
+title :  Ludo King™
+appId :  com.ludo.king
+score :  4.0913677
+installs : 500,000,000+
+ratings :  9394290
+reviews :  11166
+
+title :  Attack Hole - Black Hole Games
+appId :  com.redlinegames.attackhole
+score :  4.271129
+installs : 10,000,000+
+ratings :  194869
+reviews :  4887
+
+title :  Bike Race 3D: Bike Racing
+appId :  com.dino.moto.race.master
+score :  4.4215684
+installs : 1,000,000+
+ratings :  1597
+reviews :  31
+
+title :  Shape Shifting: Transform Race
+appId :  com.bravestars.shape.shifting
+score :  4.5247526
+installs : 10,000,000+
+ratings :  6097
+reviews :  47
+
+title :  Yalla Ludo - Ludo&Domino
+appId :  com.yalla.yallagames
+score :  4.007615
+installs : 100,000,000+
+ratings :  691080
+reviews :  9947
+
+title :  Subway Surfers
+appId :  com.kiloo.subwaysurf
+score :  4.584489
+installs : 1,000,000,000+
+ratings :  40360007
+reviews :  1799197
+
+title :  Ludo STAR
+appId :  com.superking.ludo.star
+score :  4.3180685
+installs : 50,000,000+
+ratings :  1069402
+reviews :  3699
+
+title :  Block Blast Adventure Master
+appId :  com.block.juggle
+score :  4.4393163
+installs : 10,000,000+
+ratings :  34401
+reviews :  1653
+
+title :  Temple Run 2
+appId :  com.imangi.templerun2
+score :  4.457132
+installs : 500,000,000+
+ratings :  10017025
+reviews :  391452
+
+title :  Indian Bikes Driving 3D
+appId :  com.Rohit.IndianBikes
+score :  4.0520835
+installs : 50,000,000+
+ratings :  546554
+reviews :  501
+
+title :  Hill Climb Racing
+appId :  com.fingersoft.hillclimb
+score :  4.572051
+installs : 500,000,000+
+ratings :  10758651
+reviews :  384804
+
+title :  Gardenscapes
+appId :  com.playrix.gardenscapes
+score :  4.479673
+installs : 100,000,000+
+ratings :  11817288
+reviews :  338616
+
+title :  Candy Crush Saga
+appId :  com.king.candycrushsaga
+score :  4.6073656
+installs : 1,000,000,000+
+ratings :  36209047
+reviews :  2059157
+
+title :  Bubble Shooter Pop!
+appId :  com.mobilityware.BubbleShooter
+score :  4.484644
+installs : 10,000,000+
+ratings :  39192
+reviews :  1016
+
+title :  Pooking - Billiards City
+appId :  com.billiards.city.pool.nation.club
+score :  4.5071683
+installs : 100,000,000+
+ratings :  3387893
+reviews :  44282
+
+title :  Free Fire
+appId :  com.dts.freefireth
+score :  4.0355687
+installs : 1,000,000,000+
+ratings :  114340881
+reviews :  586297
+
+title :  8 Ball Pool
+appId :  com.miniclip.eightballpool
+score :  4.5273833
+installs : 500,000,000+
+ratings :  25601792
+reviews :  942724
+
+title :  PUBG MOBILE
+appId :  com.tencent.ig
+score :  4.077669
+installs : 500,000,000+
+ratings :  44114749
+reviews :  828870
+
+title :  Going Balls
+appId :  com.pronetis.ironball2
+score :  4.1551933
+installs : 100,000,000+
+ratings :  502079
+reviews :  6202
+
+title :  Bike Rush
+appId :  com.ketchapp.bikerush
+score :  4.2694807
+installs : 10,000,000+
+ratings :  81614
+reviews :  1968
+
+title :  Traffic Racer
+appId :  com.skgames.trafficracer
+score :  4.5613875
+installs : 100,000,000+
+ratings :  6292009
+reviews :  133511
+
+title :  Bridge Race
+appId :  com.Garawell.BridgeRace
+score :  4.2794476
+installs : 100,000,000+
+ratings :  1546783
+reviews :  20634
+
+title :  Carrom Pool: Disc Game
+appId :  com.miniclip.carrom
+score :  4.1020026
+installs : 100,000,000+
+ratings :  5126555
+reviews :  5338
+
+title :  Subway Princess Runner
+appId :  com.rioo.runnersubway
+score :  4.2143345
+installs : 100,000,000+
+ratings :  1449895
+reviews :  5489
+
+title :  Car Driving School : Car Games
+appId :  com.SGS.DrivingSchoolGames.RealCarParkingSimulator
+score :  3.9241192
+installs : 50,000,000+
+ratings :  221868
+reviews :  1115
+
+title :  Hunter Assassin
+appId :  com.rubygames.assassin
+score :  4.3175325
+installs : 100,000,000+
+ratings :  2956646
+reviews :  30443
+
+title :  FPS Commando Shooting Games
+appId :  com.sgs.antiterrorism.counterattack.commandomissiongame
+score :  4.171492
+installs : 100,000,000+
+ratings :  407800
+reviews :  1528
+
+title :  Tic Tac Toe Glow: 2 Player XO
+appId :  com.cdtgames.TicTacToe
+score :  4.3185186
+installs : 10,000,000+
+ratings :  33145
+reviews :  333
+
+title :  Crazy Balls
+appId :  com.fire.crazy.balls
+score :  undefined
+installs : 1,000,000+
+ratings :  undefined
+reviews :  undefined
+
+title :  Phone Case DIY
+appId :  com.newnormalgames.phonecasediy
+score :  4.2690787
+installs : 100,000,000+
+ratings :  714736
+reviews :  10087
+
+title :  Ludo
+appId :  io.yarsa.games.ludo
+score :  4.5819674
+installs : 100,000,000+
+ratings :  352050
+reviews :  731
+
+title :  Word Search - Word Puzzle Game
+appId :  com.playvalve.wsjourney
+score :  4.8166785
+installs : 10,000,000+
+ratings :  341028
+reviews :  7991
+
+title :  My Talking Tom
+appId :  com.outfit7.mytalkingtomfree
+score :  4.4969883
+installs : 1,000,000,000+
+ratings :  17603818
+reviews :  416422
+
+title :  Mega Ramp Stunt Bike Games 3D
+appId :  com.gameswing.ramp.stunt.bike.megaramp.jump.bikestunts
+score :  4.109756
+installs : 10,000,000+
+ratings :  13481
+reviews :  43
+
+title :  My Talking Tom Friends
+appId :  com.outfit7.mytalkingtomfriends
+score :  4.2306895
+installs : 100,000,000+
+ratings :  3295800
+reviews :  23388
+
+title :  Cricket League
+appId :  com.miniclip.cricketleague
+score :  4.0309277
+installs : 10,000,000+
+ratings :  640744
+reviews :  730
+
+title :  Extreme Car Driving Simulator
+appId :  com.aim.racing
+score :  4.2962456
+installs : 500,000,000+
+ratings :  4441065
+reviews :  121820
+
+title :  Racing in Car 2
+appId :  com.ffgames.racingincar2
+score :  4.087473
+installs : 100,000,000+
+ratings :  939778
+reviews :  7540
+
+title :  Car Stunt Racing - Car Games
+appId :  com.gameswing.impossibletracks.stuntdriving.simulator2
+score :  3.9
+installs : 10,000,000+
+ratings :  46329
+reviews :  228
+
+title :  My Talking Tom 2
+appId :  com.outfit7.mytalkingtom2
+score :  4.1592326
+installs : 500,000,000+
+ratings :  5198352
+reviews :  49372
+
+title :  Magic Tiles 3
+appId :  com.youmusic.magictiles
+score :  3.9418027
+installs : 500,000,000+
+ratings :  3087313
+reviews :  103289
+
+title :  Snow Race!!
+appId :  jp.co.goodroid.hyper.snow
+score :  3.290909
+installs : 50,000,000+
+ratings :  37087
+reviews :  951
+
+title :  My Mini Mart
+appId :  com.KisekiGames.smart
+score :  4.292929
+installs : 50,000,000+
+ratings :  541372
+reviews :  5429
+
+title :  Emoji Puzzle!
+appId :  com.demin.emojipuzzle
+score :  4.3609886
+installs : 100,000,000+
+ratings :  242471
+reviews :  2937
+
+title :  My Talking Angela
+appId :  com.outfit7.mytalkingangelafree
+score :  3.9064271
+installs : 500,000,000+
+ratings :  13931798
+reviews :  253634
+
+title :  Gun Games - FPS Shooting Game
+appId :  com.fpsgames.gungames.online.strike.fps.counter.attack.terrorist.strike.fpscommando
+score :  4.4
+installs : 1,000,000+
+ratings :  6072
+reviews :  87
+
+title :  Traffic Rider
+appId :  com.skgames.trafficrider
+score :  4.283955
+installs : 500,000,000+
+ratings :  8323703
+reviews :  78832
+
+title :  Bubble Shooter Relaxing
+appId :  com.soulcompany.bubbleshooter.relaxing
+score :  4.158416
+installs : 10,000,000+
+ratings :  2923
+reviews :  27
+
+title :  Karate Fighter: Fighting Games
+appId :  com.fa.tag.karate.fighting
+score :  4.47027
+installs : 50,000,000+
+ratings :  201829
+reviews :  1762
+
+title :  Snake.io - Fun Snake .io Games
+appId :  com.amelosinteractive.snake
+score :  4.3866687
+installs : 100,000,000+
+ratings :  889440
+reviews :  25770
+
+title :  Temple Run
+appId :  com.imangi.templerun
+score :  4.381995
+installs : 500,000,000+
+ratings :  5238470
+reviews :  344719
+
+title :  Rope Hero: Vice Town
+appId :  com.mgc.RopeHero.ViceTown
+score :  4.131286
+installs : 100,000,000+
+ratings :  1480158
+reviews :  8656
+
+title :  Burger Please!
+appId :  io.supercent.burgeridle
+score :  4.5555553
+installs : 10,000,000+
+ratings :  65223
+reviews :  365
+
+title :  Candy Manor - Home Design
+appId :  candymanor.homedesign.match3
+score :  4.4158025
+installs : 50,000,000+
+ratings :  696891
+reviews :  15024
+
+title :  Drive for Speed: Simulator
+appId :  com.mastercomlimited.cardriving_t
+score :  4.4409184
+installs : 100,000,000+
+ratings :  557272
+reviews :  6114
+
+title :  Count Masters: Stickman Games
+appId :  freeplay.crowdrun.com
+score :  4.0874643
+installs : 100,000,000+
+ratings :  441940
+reviews :  15842
+
+title :  Prado Car Games Modern Parking
+appId :  com.steelcloudstudio.luxury.prado.car.parking.challenge
+score :  4.39
+installs : 50,000,000+
+ratings :  109277
+reviews :  360
+
+title :  Real Cricket™ GO
+appId :  com.nautilus.RealCricket3DLite
+score :  3.940594
+installs : 10,000,000+
+ratings :  276826
+reviews :  250
+
+title :  Piano Star: Tap Music Tiles
+appId :  com.piano.tiles.music.game.circles.dancing.beat.magictiles
+score :  4.6051874
+installs : 10,000,000+
+ratings :  101001
+reviews :  2051
+
+title :  Talking Tom Cat
+appId :  com.outfit7.talkingtom
+score :  3.9787009
+installs : 500,000,000+
+ratings :  2581318
+reviews :  74872
+
+title :  Stacky Dash
+appId :  com.Born2Play.StackyDash
+score :  3.639519
+installs : 100,000,000+
+ratings :  261192
+reviews :  9882
+
+title :  Army Vehicle Transport Truck
+appId :  com.army.vehicle.transporter.truck.simulator.army.car.games
+score :  4.19
+installs : 10,000,000+
+ratings :  25033
+reviews :  113
+
+title :  2248 - Number Puzzle Game
+appId :  com.inspiredsquare.jupiter
+score :  4.854074
+installs : 10,000,000+
+ratings :  332018
+reviews :  11819
+
+title :  DT Game
+appId :  com.tu9gh.pllcnm
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ball Run 2048
+appId :  com.kayac.ball_run
+score :  4.076351
+installs : 100,000,000+
+ratings :  197825
+reviews :  2430
+
+title :  Asphalt 8 - Car Racing Game
+appId :  com.gameloft.android.ANMP.GloftA8HM
+score :  4.478267
+installs : 100,000,000+
+ratings :  10798391
+reviews :  285361
+
+title :  Bubble Shooter Rainbow
+appId :  com.blackout.bubble
+score :  4.7128463
+installs : 100,000,000+
+ratings :  495571
+reviews :  6030
+
+title :  Join Clash 3D
+appId :  com.freeplay.runandfight
+score :  4.1992755
+installs : 100,000,000+
+ratings :  2062125
+reviews :  17577
+
+title :  Bottle Shooting Game
+appId :  com.knockdown.bottle.game
+score :  4.3785715
+installs : 100,000,000+
+ratings :  170906
+reviews :  566
+
+title :  Bottle Jump 3D
+appId :  com.games.bottle
+score :  4.559081
+installs : 100,000,000+
+ratings :  324795
+reviews :  6304
+
+title :  Car Driving Master Racing 3D
+appId :  com.bc10c.racing.car.master.crazy
+score :  4.7058825
+installs : 1,000,000+
+ratings :  668
+reviews :  8
+
+title :  1945 Air Force: Airplane games
+appId :  com.os.airforce
+score :  4.75886
+installs : 100,000,000+
+ratings :  3227085
+reviews :  42323
+
+title :  Antistress - relaxation toys
+appId :  com.JindoBlu.Antistress
+score :  4.6348796
+installs : 100,000,000+
+ratings :  772068
+reviews :  20999
+
+title :  Tall Man Run
+appId :  com.VectorUpGames.TallManRun
+score :  4.1836104
+installs : 50,000,000+
+ratings :  355506
+reviews :  4094
+
+title :  GT Car Stunts 3D: Car Games
+appId :  com.jura.car.stunt.master
+score :  4.1285715
+installs : 10,000,000+
+ratings :  49647
+reviews :  570
+
+title :  Bike Stunt 3d Motorcycle Games
+appId :  com.knights.bikesstunt.motomaster
+score :  4.3381295
+installs : 100,000,000+
+ratings :  272025
+reviews :  1576
+
+title :  Need for Speed™ No Limits
+appId :  com.ea.game.nfs14_row
+score :  4.38601
+installs : 100,000,000+
+ratings :  4976393
+reviews :  112311
+
+title :  Robot Car Transformation Game
+appId :  com.jura.robot.battle.transformation
+score :  4.11
+installs : 5,000,000+
+ratings :  3965
+reviews :  63
+
+title :  Cat Runner: Decorate Home
+appId :  com.solou.catendless.run
+score :  4.0984125
+installs : 100,000,000+
+ratings :  585282
+reviews :  2403
+
+title :  Bubble Shooter - Home Design
+appId :  puzzle.games.bubble.shooter.deluxe
+score :  3.8350785
+installs : 50,000,000+
+ratings :  218171
+reviews :  3828
+
+title :  Pure Sniper: Gun Shooter Games
+appId :  com.miniclip.realsniper
+score :  4.5630245
+installs : 10,000,000+
+ratings :  925347
+reviews :  12156
+
+title :  Ludo SuperStar
+appId :  com.blacklightsw.ludo
+score :  4.5211864
+installs : 100,000,000+
+ratings :  349304
+reviews :  668
+
+title :  Speed Boat Racing: Boat games
+appId :  com.monstergamesproductions.extreme.power.boat.racing
+score :  3.8118813
+installs : 10,000,000+
+ratings :  21290
+reviews :  65
+
+title :  Fishdom
+appId :  com.playrix.fishdomdd.gplay
+score :  4.514983
+installs : 100,000,000+
+ratings :  6016762
+reviews :  279126
+
+title :  Ramp Car Stunts - Car Games
+appId :  com.gameswing.impossiblecarstunts.monstertrucks.cardriving.simulator
+score :  4.4605265
+installs : 50,000,000+
+ratings :  105301
+reviews :  431
+
+title :  Bubble Shooter
+appId :  bubbleshooter.orig
+score :  4.430299
+installs : 100,000,000+
+ratings :  2073679
+reviews :  31630
+
+title :  Hero Wars – Fantasy Battles
+appId :  com.nexters.herowars
+score :  4.239566
+installs : 50,000,000+
+ratings :  1513232
+reviews :  92670
+
+title :  Ludo Lush-Game with Video Call
+appId :  ludo.lush.games.video.calling
+score :  4.158416
+installs : 1,000,000+
+ratings :  137131
+reviews :  78
+
+title :  2 Player games : the Challenge
+appId :  com.JindoBlu.TwoPlayerGamesChallenge
+score :  4.495273
+installs : 100,000,000+
+ratings :  426335
+reviews :  6359
+
+title :  Thief Puzzle: to pass a level
+appId :  com.weegoon.thiefpuzzle
+score :  4.239805
+installs : 100,000,000+
+ratings :  231096
+reviews :  4058
+
+title :  Talking Tom Hero Dash
+appId :  com.outfit7.herodash
+score :  4.1783457
+installs : 100,000,000+
+ratings :  1633485
+reviews :  10911
+
+title :  Park Master
+appId :  com.kayac.park_master
+score :  4.068569
+installs : 100,000,000+
+ratings :  511028
+reviews :  16896
+
+title :  Dr. Driving
+appId :  com.ansangha.drdriving
+score :  4.40158
+installs : 500,000,000+
+ratings :  6449153
+reviews :  206805
+
+title :  Hair Tattoo: Barber Shop Game
+appId :  com.wn.hairtattoo
+score :  4.19802
+installs : 10,000,000+
+ratings :  36911
+reviews :  252
+
+title :  Web Master: Stickman Superhero
+appId :  com.games.webmaster
+score :  4.597826
+installs : 1,000,000+
+ratings :  662
+reviews :  31
+
+title :  Hill Climb Racing 2
+appId :  com.fingersoft.hcr2
+score :  4.507896
+installs : 100,000,000+
+ratings :  4520698
+reviews :  143027
+
+title :  Homescapes
+appId :  com.playrix.homescapes
+score :  4.6785607
+installs : 100,000,000+
+ratings :  12045165
+reviews :  353520
+
+title :  Wild West: Farm Town Build
+appId :  com.socialquantum.west3dint
+score :  4.0225525
+installs : 10,000,000+
+ratings :  118211
+reviews :  6850
+
+title :  Pipa Combate 3D - Kite Flying
+appId :  br.pipacombate3d.maiworm
+score :  4.13
+installs : 10,000,000+
+ratings :  113138
+reviews :  205
+
+title :  Real Snooker 3D
+appId :  com.eivaagames.RealSnooker3D
+score :  4.3195267
+installs : 10,000,000+
+ratings :  51264
+reviews :  613
+
+title :  Top Speed: Drag & Fast Racing
+appId :  com.tbegames.and.top_speed_racing
+score :  4.7291408
+installs : 50,000,000+
+ratings :  910292
+reviews :  29749
+
+title :  City Train Game 3d Train games
+appId :  com.monstergamesproductions.train.driving.simulator
+score :  4.2277226
+installs : 10,000,000+
+ratings :  28098
+reviews :  102
+
+title :  Street Chaser
+appId :  com.igoldtech.streetchaser
+score :  4.4850187
+installs : 100,000,000+
+ratings :  322506
+reviews :  2102
+
+title :  Bazooka Boy
+appId :  com.Lightneer.BazookaBoy
+score :  4.345365
+installs : 50,000,000+
+ratings :  716613
+reviews :  14402
+
+title :  Teacher Simulator
+appId :  com.syubestgames.teachersimulator
+score :  4.4284625
+installs : 50,000,000+
+ratings :  289539
+reviews :  7692
+
+title :  Vegas Crime Simulator
+appId :  com.mgc.miami.crime.simulator.two
+score :  4.0799146
+installs : 100,000,000+
+ratings :  1359599
+reviews :  10109
+
+title :  My Talking Angela 2
+appId :  com.outfit7.mytalkingangela2
+score :  4.25787
+installs : 100,000,000+
+ratings :  1726918
+reviews :  15003
+
+title :  Real T20 Cricket Games 2023
+appId :  com.real.cricket.games.world.cup
+score :  3.909091
+installs : 500,000+
+ratings :  1734
+reviews :  7
+
+title :  Galaxy Attack: Shooting Game
+appId :  com.alien.shooter.galaxy.attack
+score :  4.687969
+installs : 100,000,000+
+ratings :  2396241
+reviews :  150870
+
+title :  Bullet Stack
+appId :  com.funzilla.bullet.stack
+score :  4.2216215
+installs : 5,000,000+
+ratings :  17493
+reviews :  241
+
+title :  Can You Spot It: Differences
+appId :  com.miniit.spotit
+score :  4.54952
+installs : 10,000,000+
+ratings :  350064
+reviews :  2800
+
+title :  Sonic Dash - Endless Running
+appId :  com.sega.sonicdash
+score :  4.68487
+installs : 100,000,000+
+ratings :  6198061
+reviews :  405428
+
+title :  Shotgun Sounds: Gun Simulator
+appId :  com.gun.simulator.sounds
+score :  3.76
+installs : 10,000,000+
+ratings :  15275
+reviews :  90
+
+title :  Tuk Tuk Auto Rickshaw Game
+appId :  com.gf.autotaxi.passengerdriving.rickshawdriver
+score :  4.039604
+installs : 10,000,000+
+ratings :  46133
+reviews :  339
+
+title :  Galaxiga Arcade Shooting Game
+appId :  com.os.space.force.galaxy.alien
+score :  4.642288
+installs : 50,000,000+
+ratings :  330956
+reviews :  25605
+
+title :  Rolling Balls 3D
+appId :  com.dino.rolling.skyball.balance
+score :  3.4509804
+installs : 10,000,000+
+ratings :  21164
+reviews :  229
+
+title :  Sniper Fury: Shooting Game
+appId :  com.gameloft.android.ANMP.GloftFWHM
+score :  4.293815
+installs : 100,000,000+
+ratings :  1046404
+reviews :  20560
+
+title :  Real Cricket™ 22
+appId :  com.nautilus.realcricket
+score :  3.67
+installs : 5,000,000+
+ratings :  86777
+reviews :  178
+
+title :  Truck Simulator - Truck Games
+appId :  com.gameswing.offroad.oiltankertransport.truckdriving.simulator.game
+score :  4.1
+installs : 100,000,000+
+ratings :  97795
+reviews :  304
+
+title :  Stormshot: Isle of Adventure
+appId :  com.sivona.stormshot.e
+score :  4.294783
+installs : 5,000,000+
+ratings :  96161
+reviews :  7188
+
+title :  Vape 'N Pod Trick Simulator
+appId :  com.htt.vape.simulator.tn
+score :  3.9345794
+installs : 1,000,000+
+ratings :  8419
+reviews :  50
+
+title :  Hit Master 3D - Knife Assassin
+appId :  com.hit.master
+score :  4.6544566
+installs : 100,000,000+
+ratings :  277895
+reviews :  6306
+
+title :  Fruit Ninja®
+appId :  com.halfbrick.fruitninjafree
+score :  4.504488
+installs : 500,000,000+
+ratings :  5518973
+reviews :  223539
+
+title :  Tennis Clash: Multiplayer Game
+appId :  com.tfgco.games.sports.free.tennis.clash
+score :  4.4220347
+installs : 100,000,000+
+ratings :  1608199
+reviews :  30477
+
+title :  Talking Tom Gold Run
+appId :  com.outfit7.talkingtomgoldrun
+score :  4.2735543
+installs : 500,000,000+
+ratings :  5742396
+reviews :  51775
+
+title :  Granny
+appId :  com.dvloper.granny
+score :  4.2619586
+installs : 100,000,000+
+ratings :  3852744
+reviews :  134723
+
+title :  Pool Billiards offline
+appId :  com.andregal.android.poolbilliard
+score :  4.4656487
+installs : 50,000,000+
+ratings :  291684
+reviews :  2078
+
+title :  Parking Jam: Car Parking Games
+appId :  com.mustardgames.police.bike.stunt.mega.ramp.impossibletracks
+score :  3.1980197
+installs : 10,000,000+
+ratings :  24787
+reviews :  563
+
+title :  Crazy Chef: Cooking Restaurant
+appId :  com.casualjoygames.cooking.kitchen
+score :  4.837366
+installs : 10,000,000+
+ratings :  299178
+reviews :  10712
+
+title :  Gun Simulator 3D & Time Bomb
+appId :  com.gun.timebomb.gunsounds
+score :  4.5444446
+installs : 5,000,000+
+ratings :  29569
+reviews :  81
+
+title :  Sandwich Runner
+appId :  jp.co.dwango.HcgDW007SandwichRun
+score :  4.235474
+installs : 50,000,000+
+ratings :  48511
+reviews :  752
+
+title :  Grand Vegas Simulator
+appId :  com.hbg.horror.grand.gangster.theft.survival.crime.city
+score :  3.74
+installs : 5,000,000+
+ratings :  14909
+reviews :  126
+
+title :  Line Color 3D
+appId :  com.hambastudio.linecolor
+score :  3.9841938
+installs : 100,000,000+
+ratings :  250626
+reviews :  3457
+
+title :  Real Tractor Driving Simulator
+appId :  com.gamescapes.tractor.farming.simulator
+score :  3.85
+installs : 10,000,000+
+ratings :  29230
+reviews :  65
+
+title :  Wasteland Billionaire
+appId :  com.land.clean.billionaire
+score :  4.6299767
+installs : 5,000,000+
+ratings :  71437
+reviews :  326
+
+title :  World Cricket Championship  Lt
+appId :  com.nextwave.wcc_lt
+score :  4.200499
+installs : 50,000,000+
+ratings :  905955
+reviews :  8835
+
+title :  Bike Race：Motorcycle Games
+appId :  com.topfreegames.bikeracefreeworld
+score :  4.5284233
+installs : 100,000,000+
+ratings :  3100140
+reviews :  329780
+
+title :  Color Water Sort Puzzle Games
+appId :  com.playspare.watersort3d
+score :  4.639139
+installs : 10,000,000+
+ratings :  276769
+reviews :  5314
+
+title :  Advance Car Parking: Car Games
+appId :  com.brokendiamond.advance.car.parking.car.driver.simulator
+score :  4.0991735
+installs : 50,000,000+
+ratings :  132802
+reviews :  431
+
+title :  Bus Simulator - Bus Games 3D
+appId :  com.jimaapps.city.coach.bus.simulator.driving
+score :  4.1282053
+installs : 100,000,000+
+ratings :  182577
+reviews :  755
+
+title :  Coffee Stack
+appId :  markergame.coffeestack
+score :  4.561421
+installs : 10,000,000+
+ratings :  200241
+reviews :  3432
+
+title :  Kick The Buddy: Second Kick
+appId :  com.playgendary.ktbremaster
+score :  4.750667
+installs : 50,000,000+
+ratings :  880872
+reviews :  62691
+
+title :  Real Gangster Crime
+appId :  com.gta.real.gangster.crime
+score :  4.131579
+installs : 100,000,000+
+ratings :  1348433
+reviews :  9236
+
+title :  Free Fire MAX
+appId :  com.dts.freefiremax
+score :  4.1639066
+installs : 100,000,000+
+ratings :  16761324
+reviews :  43809
+
+title :  Parking Master 3D: Traffic Jam
+appId :  and.lihuhu.parking3d
+score :  4.462069
+installs : 1,000,000+
+ratings :  12370
+reviews :  742
+
+title :  World War: Fight For Freedom
+appId :  com.horus.beach.head
+score :  4.410499
+installs : 10,000,000+
+ratings :  189201
+reviews :  3623
+
+title :  Township
+appId :  com.playrix.township
+score :  4.607253
+installs : 100,000,000+
+ratings :  10067530
+reviews :  329159
+
+title :  Home Pin 2: Family Adventure
+appId :  com.gamee.homepin2.manor.homescape
+score :  4.4792633
+installs : 5,000,000+
+ratings :  160743
+reviews :  3436
+
+title :  Ludo Titan
+appId :  com.gameberry.ludo.star2
+score :  4.112713
+installs : 10,000,000+
+ratings :  741201
+reviews :  2518
+
+title :  Stickman City Construction
+appId :  com.gp.stickmangames.cityconstruction.buildingmaker
+score :  4.16
+installs : 10,000,000+
+ratings :  37180
+reviews :  360
+
+title :  Tricky Brain Story: DOP Puzzle
+appId :  com.tgm.puzzle.brain.out
+score :  4.257426
+installs : 5,000,000+
+ratings :  6492
+reviews :  226
+
+title :  Perfect Cream: Dessert Games
+appId :  com.playgendary.creamaster
+score :  4.2902384
+installs : 100,000,000+
+ratings :  320810
+reviews :  7265
+
+title :  Witcoin: Learn & Earn Money
+appId :  com.witcoin.android
+score :  2.59
+installs : 500,000+
+ratings :  4366
+reviews :  138
+
+title :  SNOW BROS. classic
+appId :  com.mobirix.jp.snowbrothers
+score :  4.6642337
+installs : 5,000,000+
+ratings :  64513
+reviews :  440
+
+title :  Guns of Glory: Lost Island
+appId :  com.diandian.gog
+score :  4.313123
+installs : 50,000,000+
+ratings :  596212
+reviews :  33670
+
+title :  Space shooter - Galaxy attack
+appId :  com.game.space.shooter2
+score :  4.8213787
+installs : 100,000,000+
+ratings :  1358759
+reviews :  34875
+
+title :  Payback 2 - The Battle Sandbox
+appId :  net.apex_designs.payback2
+score :  4.4434285
+installs : 100,000,000+
+ratings :  1803831
+reviews :  25032
+
+title :  GT Car Stunt - Ramp Car Games
+appId :  com.interbolt.impossible.limo.gt.car.stunts
+score :  3.9876542
+installs : 10,000,000+
+ratings :  9147
+reviews :  18
+
+title :  Bike Racing: GT Spider Moto
+appId :  com.jura.motor.stunt.master
+score :  3.8910892
+installs : 10,000,000+
+ratings :  12884
+reviews :  84
+
+title :  Color Adventure: Draw the Path
+appId :  line.color.adventure
+score :  4.4064746
+installs : 100,000,000+
+ratings :  138321
+reviews :  854
+
+title :  Clash of Empire: Strategy War
+appId :  com.leme.coe
+score :  4.3899474
+installs : 10,000,000+
+ratings :  172211
+reviews :  5530
+
+title :  Connect the Dots - Color Game
+appId :  com.playvalve.connect.dots
+score :  4.687392
+installs : 1,000,000+
+ratings :  66368
+reviews :  291
+
+title :  Real Cricket™ 20
+appId :  com.nautilus.RealCricket3D
+score :  4.008547
+installs : 50,000,000+
+ratings :  1494074
+reviews :  2039
+
+title :  Gangster Vegas Crime Simulator
+appId :  com.sgs.real.gangster.mafia.vegas.theft.crime.simulator.game
+score :  3.6181817
+installs : 1,000,000+
+ratings :  4777
+reviews :  17
+
+title :  Island Questaway - Jungle Farm
+appId :  com.xgamesgroup.puzzleisland
+score :  4.232643
+installs : 1,000,000+
+ratings :  55349
+reviews :  2194
+
+title :  Match Masters
+appId :  com.funtomic.matchmasters
+score :  4.4742517
+installs : 10,000,000+
+ratings :  1685022
+reviews :  106558
+
+title :  Little Panda's Ice Cream Game
+appId :  com.sinyee.babybus.icecream
+score :  4.111111
+installs : 50,000,000+
+ratings :  108707
+reviews :  430
+
+title :  Street Racing HD
+appId :  com.ivy.streetracing.hd
+score :  4.336049
+installs : 50,000,000+
+ratings :  150889
+reviews :  1684
+
+title :  Kung Fu karate: Fighting Games
+appId :  com.gzl.superhero.karatefighting.game
+score :  4.2327046
+installs : 50,000,000+
+ratings :  116700
+reviews :  649
+
+title :  Find the Difference 1000+
+appId :  com.gamma.find.diff
+score :  4.7436433
+installs : 50,000,000+
+ratings :  442125
+reviews :  10212
+
+title :  School Party Craft
+appId :  com.candyroom.clubcraft
+score :  4.453305
+installs : 50,000,000+
+ratings :  744867
+reviews :  9828
+
+title :  Hide 'N Seek!
+appId :  com.seenax.HideAndSeek
+score :  3.665739
+installs : 100,000,000+
+ratings :  449225
+reviews :  10344
+
+title :  Piano Kids - Music & Songs
+appId :  com.orange.kidspiano.music.songs
+score :  4.388982
+installs : 100,000,000+
+ratings :  618536
+reviews :  5246
+
+title :  Candy Crush Soda Saga
+appId :  com.king.candycrushsodasaga
+score :  4.6187196
+installs : 500,000,000+
+ratings :  8750701
+reviews :  381369
+
+title :  Klondike Adventures
+appId :  com.vizorapps.klondike
+score :  4.6114373
+installs : 50,000,000+
+ratings :  1176267
+reviews :  46936
+
+title :  Coloring & Learn
+appId :  com.orange.coloring.learn.kids
+score :  4.1996465
+installs : 100,000,000+
+ratings :  236400
+reviews :  1402
+
+title :  Wrestling Trivia Run
+appId :  com.wrestling.trivia.run
+score :  4.3448277
+installs : 500,000+
+ratings :  4601
+reviews :  146
+
+title :  ASMR Slicing
+appId :  com.crazylabs.asmr.cut
+score :  4.4035583
+installs : 50,000,000+
+ratings :  182304
+reviews :  6141
+
+title :  Helix Stack Jump: Smash Ball
+appId :  com.hiroba.helix
+score :  4.256637
+installs : 10,000,000+
+ratings :  33153
+reviews :  377
+
+title :  World Cricket Championship 2
+appId :  com.nextwave.wcc2
+score :  3.9962964
+installs : 50,000,000+
+ratings :  3216933
+reviews :  3401
+
+title :  Coloring Games: Color & Paint
+appId :  com.rvappstudios.kids.coloring.book.color.painting
+score :  3.992
+installs : 50,000,000+
+ratings :  63997
+reviews :  628
+
+title :  Real Racing  3
+appId :  com.ea.games.r3_row
+score :  4.341958
+installs : 100,000,000+
+ratings :  7020719
+reviews :  71959
+
+title :  Real World Cricket Games
+appId :  com.aqua.real.world.cricket.league.games
+score :  4.0625
+installs : 1,000,000+
+ratings :  5660
+reviews :  28
+
+title :  Spider Rope Hero Spider Game
+appId :  com.fgz.us.flying.police.robot.rope.hero.crime.city.hero.games
+score :  3.940594
+installs : 50,000,000+
+ratings :  38432
+reviews :  154
+
+title :  Twerk Race 3D — Running Game
+appId :  com.freeplay.twerk
+score :  4.3465576
+installs : 50,000,000+
+ratings :  83748
+reviews :  3010
+
+title :  Archery Battle 3D
+appId :  com.cg.archery
+score :  4.6623673
+installs : 10,000,000+
+ratings :  217495
+reviews :  17896
+
+title :  Snake Lite-Snake .io Game
+appId :  com.snake.io.slither.worms
+score :  4.6527777
+installs : 50,000,000+
+ratings :  185482
+reviews :  288
+
+title :  Stack Ball - Crash Platforms
+appId :  com.azurgames.stackball
+score :  4.169978
+installs : 100,000,000+
+ratings :  1087151
+reviews :  21389
+
+title :  T20 Cricket Champions 3D
+appId :  com.zapak.worldcup.t20.cricket
+score :  4.04
+installs : 10,000,000+
+ratings :  141037
+reviews :  78
+
+title :  Piano Fire: Edm Music & Piano
+appId :  beatmaker.edm.musicgames.PianoGames
+score :  4.3765326
+installs : 100,000,000+
+ratings :  520474
+reviews :  4999
+
+title :  Steering Wheel Evolution
+appId :  com.hepagames.wheelevolution
+score :  4.7372265
+installs : 10,000,000+
+ratings :  47961
+reviews :  579
+
+title :  Controlling Your Car
+appId :  com.sharktaptap.parkingschool
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Real Car Race 3D Games Offline
+appId :  com.gamexis.racing.ferocity.apps
+score :  4.17029
+installs : 100,000,000+
+ratings :  193865
+reviews :  1116
+
+title :  Race Master 3D - Car Racing
+appId :  com.easygames.race
+score :  4.357496
+installs : 100,000,000+
+ratings :  1510900
+reviews :  6264
+
+title :  Car Games - Car Parking Games
+appId :  com.ghive.jeep.parking.car.free.game.master.apps
+score :  4.460154
+installs : 50,000,000+
+ratings :  167213
+reviews :  1021
+
+title :  Bus Simulator Games: Bus Games
+appId :  com.gzl.drivebus.parking.game
+score :  4.4271846
+installs : 100,000,000+
+ratings :  122861
+reviews :  477
+
+title :  Cricket Fly - Sports Game
+appId :  com.alabs.cricket.scifi.league
+score :  4
+installs : 500,000+
+ratings :  1441
+reviews :  13
+
+title :  Bermuda Adventures Farm Island
+appId :  com.samfinaco.paradise
+score :  4.5152736
+installs : 10,000,000+
+ratings :  266230
+reviews :  10085
+
+title :  Teen Patti Gold Poker & Rummy
+appId :  com.teenpatti.hd.gold
+score :  4.2614822
+installs : 100,000,000+
+ratings :  1805267
+reviews :  5876
+

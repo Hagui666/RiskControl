@@ -1,0 +1,1386 @@
+title :  Teen Patti Show
+appId :  behaviorally.intentional.towardly.useful
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Solitaire
+appId :  com.betterforsol.solitaire.card.games.free
+score :  4.7841673
+installs : 10,000,000+
+ratings :  177803
+reviews :  12167
+
+title :  TeenPatti happy Club
+appId :  oftener.producer.semantically.artifactual
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Yummy TeenPatti
+appId :  com.mjltp.teenpatti
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Dragon Tiger 777 - Up Down
+appId :  getform.sameyou.willgo
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  3patti World - Tiger Dragon
+appId :  smile.smileland.smilego
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Bhabhi - Offline
+appId :  com.unrealgame.bhabhi
+score :  4.1764708
+installs : 1,000,000+
+ratings :  12319
+reviews :  13
+
+title :  Spider Solitaire
+appId :  com.easybrain.spider.solitaire
+score :  4.4117646
+installs : 5,000,000+
+ratings :  38310
+reviews :  863
+
+title :  Bridge V+ fun bridge card game
+appId :  com.zingmagic.bridgevfree
+score :  4.255639
+installs : 1,000,000+
+ratings :  11333
+reviews :  343
+
+title :  Spades: Classic Card Games
+appId :  com.mobilityware.Spades
+score :  4.5984755
+installs : 1,000,000+
+ratings :  102923
+reviews :  9544
+
+title :  UNO!™
+appId :  com.matteljv.uno
+score :  4.5093923
+installs : 100,000,000+
+ratings :  1719451
+reviews :  55640
+
+title :  Teen Patti Comfun Card Online
+appId :  com.comfun.mobile.teen.asgp
+score :  4.29
+installs : 10,000,000+
+ratings :  49288
+reviews :  62
+
+title :  Solitaire Fish
+appId :  linkdesks.solitaire.ocean.fish
+score :  4.537736
+installs : 500,000+
+ratings :  1570
+reviews :  100
+
+title :  Spider Solitaire - Card Games
+appId :  spider.solitaire.card.games.free.no.ads.klondike.solitare.patience.king
+score :  4.780749
+installs : 5,000,000+
+ratings :  47073
+reviews :  1480
+
+title :  Spades Solitaire - Card Games
+appId :  com.spades.solitaire.online.plus.offline.free.card.games
+score :  4.5841584
+installs : 500,000+
+ratings :  993
+reviews :  77
+
+title :  Solitaire
+appId :  com.staplegames.solitaireGP
+score :  4.76282
+installs : 5,000,000+
+ratings :  217311
+reviews :  6012
+
+title :  WSOP Poker: Texas Holdem Game
+appId :  com.playtika.wsop.gp
+score :  4.2649612
+installs : 50,000,000+
+ratings :  1590475
+reviews :  208982
+
+title :  Solitaire: Classic Cards Game
+appId :  com.tripledot.solitaire
+score :  4.7755604
+installs : 10,000,000+
+ratings :  225085
+reviews :  48027
+
+title :  Spider Solitaire
+appId :  com.happysky.spider
+score :  4.6932755
+installs : 10,000,000+
+ratings :  150249
+reviews :  6862
+
+title :  Solitaire
+appId :  com.card.game.solitaire.brookmountainview
+score :  4.1981134
+installs : 1,000,000+
+ratings :  4589
+reviews :  231
+
+title :  Solitaire Dragons
+appId :  com.solitaire.klondike.my.magic.dragon.friends.cardgames
+score :  4.5477505
+installs : 1,000,000+
+ratings :  144943
+reviews :  10886
+
+title :  Solitaire Grand Harvest
+appId :  net.supertreat.solitaire
+score :  4.6703196
+installs : 10,000,000+
+ratings :  1348753
+reviews :  178732
+
+title :  KKTeenPatti Plus
+appId :  com.kktplus.android
+score :  4.2
+installs : 100,000+
+ratings :  1713
+reviews :  9
+
+title :  Solitaire - Classic Card Games
+appId :  com.mobilityware.solitaire
+score :  4.561383
+installs : 100,000,000+
+ratings :  1723130
+reviews :  208103
+
+title :  Teen Patti Lucky
+appId :  com.reece2bugh06.cc62
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Spider Solitaire: Card Games
+appId :  com.mobilityware.spider
+score :  4.6336465
+installs : 10,000,000+
+ratings :  659426
+reviews :  82986
+
+title :  Court Piece - Rang, Hokm, Coat
+appId :  com.artoon.courtpieceoffline
+score :  4.633333
+installs : 100,000+
+ratings :  3498
+reviews :  14
+
+title :  Solitaire
+appId :  com.solitaire.klondike.patience.ocean.aquarium
+score :  4.644436
+installs : 10,000,000+
+ratings :  146808
+reviews :  11479
+
+title :  Court Piece - Rang Card Games
+appId :  com.artoon.courtpiece
+score :  3.79
+installs : 500,000+
+ratings :  13704
+reviews :  73
+
+title :  FreeCell Solitaire
+appId :  com.lemongame.freecell.solitaire
+score :  4.5925508
+installs : 5,000,000+
+ratings :  61617
+reviews :  3399
+
+title :  Legend of Almia:idle RPG
+appId :  com.almia.zgen
+score :  4.5
+installs : 50,000+
+ratings :  6488
+reviews :  149
+
+title :  Spades Gold
+appId :  com.manabattery.CSpades
+score :  4.4345403
+installs : 500,000+
+ratings :  8330
+reviews :  1735
+
+title :  Solitaire
+appId :  com.agedstudio.card.solitaire.klondike
+score :  4.652933
+installs : 10,000,000+
+ratings :  138797
+reviews :  13590
+
+title :  Solitaire
+appId :  com.lemongame.klondike.solitaire
+score :  4.579681
+installs : 50,000,000+
+ratings :  549679
+reviews :  16221
+
+title :  Hearts: Card Game
+appId :  com.mobilityware.Hearts
+score :  4.4899826
+installs : 1,000,000+
+ratings :  32087
+reviews :  3368
+
+title :  Gin Rummy -Gin Rummy Card Game
+appId :  gin.rummy.plus.free.online.offline.classic.card.game
+score :  4.838068
+installs : 1,000,000+
+ratings :  40452
+reviews :  576
+
+title :  Solitaire - classic klondike
+appId :  com.easybrain.solitaire.klondike.free
+score :  4.375423
+installs : 10,000,000+
+ratings :  126112
+reviews :  2303
+
+title :  Bhabhi Thulla - Card Game
+appId :  com.oengines.bhabhioe
+score :  4.3846154
+installs : 100,000+
+ratings :  1760
+reviews :  4
+
+title :  Dragon Tiger online casino
+appId :  com.groot.dcard.dragontiger
+score :  4.571429
+installs : 500,000+
+ratings :  744
+reviews :  2
+
+title :  Spades - Card Game
+appId :  com.blackout.spades
+score :  4.737578
+installs : 1,000,000+
+ratings :  55665
+reviews :  2989
+
+title :  Hearts: Classic Card Game
+appId :  com.hearts.solitaire.plus.offline.free.card.games
+score :  4.875
+installs : 50,000+
+ratings :  1445
+reviews :  39
+
+title :  Solitaire - card game offline
+appId :  com.didenko.and.partners.klondike
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Solitaire
+appId :  com.smilerlee.klondike
+score :  4.6871448
+installs : 10,000,000+
+ratings :  182714
+reviews :  35229
+
+title :  Solitaire
+appId :  classic.klondike.solitaire.cardgame.patience.lite
+score :  4.7483144
+installs : 500,000+
+ratings :  9634
+reviews :  1178
+
+title :  Gin Rummy Stars - Card Game
+appId :  com.bbumgames.rummystars
+score :  4.752699
+installs : 5,000,000+
+ratings :  185938
+reviews :  25973
+
+title :  Solitaire Super Pack
+appId :  com.tesseractmobile.solitairefreepack
+score :  4.20378
+installs : 5,000,000+
+ratings :  62735
+reviews :  8953
+
+title :  Video Poker by Pokerist
+appId :  com.kamagames.videopoker
+score :  4.543933
+installs : 1,000,000+
+ratings :  18602
+reviews :  614
+
+title :  Rummy Rush - Classic Card Game
+appId :  com.bbumgames.rummyrush
+score :  4.5454545
+installs : 500,000+
+ratings :  19450
+reviews :  1601
+
+title :  Spider Solitaire
+appId :  com.papps.spidersolitaire
+score :  4.2173915
+installs : 10,000,000+
+ratings :  68140
+reviews :  491
+
+title :  Solitaire - Classic Card Games
+appId :  solitaire.patience.card.games.klondike.free
+score :  4.733114
+installs : 10,000,000+
+ratings :  84563
+reviews :  4526
+
+title :  Teen Patti ZingPlay - Real 3D
+appId :  com.zingplay.teenpatti3d.gg
+score :  4.2
+installs : 100,000+
+ratings :  1485
+reviews :  3
+
+title :  Solitaire - Classic Card Games
+appId :  beetles.puzzle.solitaire
+score :  4.668685
+installs : 10,000,000+
+ratings :  264209
+reviews :  22687
+
+title :  Callbreak
+appId :  io.teslatech.callbreak
+score :  3.9306931
+installs : 100,000,000+
+ratings :  369382
+reviews :  185
+
+title :  Solitaire Cruise: Card Games
+appId :  com.belkagames.solitaire
+score :  4.473373
+installs : 10,000,000+
+ratings :  196733
+reviews :  11363
+
+title :  Pyramid Solitaire - Card Games
+appId :  com.mobilityware.PyramidFree
+score :  4.570537
+installs : 5,000,000+
+ratings :  97507
+reviews :  13124
+
+title :  FreeCell Solitaire - Card Game
+appId :  freecell.solitaire.free.cardgame.king.spades.klondike.no.ads.pro.patience
+score :  4.67756
+installs : 1,000,000+
+ratings :  39913
+reviews :  1636
+
+title :  3Patti Star - Car Roulette
+appId :  com.skys.crt.star
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Klondike Solitaire - Patience
+appId :  klondike.solitaire.card.games.free.patience.spider.freecell.classic
+score :  4.696864
+installs : 1,000,000+
+ratings :  33948
+reviews :  1104
+
+title :  Solitaire Tripeaks - Farm Trip
+appId :  solitaire.tripeaks.farm.free.card.games.grand.harvest.garden
+score :  4.864906
+installs : 1,000,000+
+ratings :  70229
+reviews :  6117
+
+title :  Teen Patti King-3 Patti Poker
+appId :  com.patti.mobile.tpii.asgp
+score :  4.875
+installs : 1,000,000+
+ratings :  1805
+reviews :  0
+
+title :  Rung king live Hokm CourtPiece
+appId :  com.mind.arena
+score :  4.2727275
+installs : 100,000+
+ratings :  599
+reviews :  4
+
+title :  Zynga Poker- Texas Holdem Game
+appId :  com.zynga.livepoker
+score :  4.1920366
+installs : 50,000,000+
+ratings :  2719995
+reviews :  171335
+
+title :  Solitaire 3D Fish
+appId :  com.solitaire.fish.klondike.card.aquarium
+score :  4.5788574
+installs : 5,000,000+
+ratings :  411346
+reviews :  7183
+
+title :  Solitaire
+appId :  linkdesks.classic.solitaire.klondike
+score :  4.829146
+installs : 100,000+
+ratings :  3383
+reviews :  686
+
+title :  Teen Patti Octro Poker & Rummy
+appId :  com.octro.teenpatti
+score :  4.363363
+installs : 50,000,000+
+ratings :  1594545
+reviews :  67447
+
+title :  Bhabhi Multiplayer
+appId :  com.oengines.bhabhi.multiplayer
+score :  3.5714285
+installs : 50,000+
+ratings :  480
+reviews :  5
+
+title :  Marvel Collect! by Topps®
+appId :  com.topps.marvel
+score :  3.7142856
+installs : 1,000,000+
+ratings :  23113
+reviews :  2749
+
+title :  Solitaire - Fishland
+appId :  com.hiplay.solitaire.Fishland.free
+score :  4.8348017
+installs : 100,000+
+ratings :  7034
+reviews :  1196
+
+title :  Lux TeenPatti
+appId :  com.lux.teenpatti
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Spider Solitaire 2023
+appId :  com.oneup.classic.solitaire.spider
+score :  4.2727275
+installs : 50,000+
+ratings :  1818
+reviews :  274
+
+title :  1 GTA Craft Theft Mod for MCPE
+appId :  com.rembos.GTA
+score :  3.857143
+installs : 10,000+
+ratings :  211
+reviews :  2
+
+title :  Solitaire Classic Klondike
+appId :  game.card.solitaire.klondike.classic
+score :  4.7288136
+installs : 500,000+
+ratings :  6103
+reviews :  361
+
+title :  Gin Rummy Classic
+appId :  com.mobilityware.GinRummySolitaire
+score :  4.568368
+installs : 1,000,000+
+ratings :  37121
+reviews :  2197
+
+title :  Callbreak, Ludo & 29 Card Game
+appId :  io.yarsa.games.cardgame
+score :  4.27
+installs : 10,000,000+
+ratings :  35268
+reviews :  48
+
+title :  Plants vs. Zombies™ Heroes
+appId :  com.ea.gp.pvzheroes
+score :  4.298257
+installs : 10,000,000+
+ratings :  786460
+reviews :  38435
+
+title :  TeenPatti Dhani - Online Poker
+appId :  com.handsqomxs.uio90
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Teen Patti Sweet
+appId :  com.wtiqeq.y77
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Rung Card Game : Court Piece
+appId :  xertz.rung.card.game.coat.court.piece
+score :  3.857143
+installs : 100,000+
+ratings :  880
+reviews :  3
+
+title :  Call Break Online Multiplayer
+appId :  com.dynamitegamesltd.callbreakonline
+score :  4.4
+installs : 500,000+
+ratings :  1297
+reviews :  5
+
+title :  Solitaire Adventure Tripeaks
+appId :  com.solitaire.tripeaks.free.adventure.card.games
+score :  4.8018866
+installs : 100,000+
+ratings :  4595
+reviews :  458
+
+title :  ONO Classic - Board Game
+appId :  com.melogigame.ono
+score :  3.9230769
+installs : 50,000+
+ratings :  232
+reviews :  5
+
+title :  Castle Solitaire: Card Game
+appId :  com.mobilityware.CastleSolitaire
+score :  4.6617484
+installs : 1,000,000+
+ratings :  59537
+reviews :  6566
+
+title :  Solitaire Ocean
+appId :  linkdesks.classicsolitaire.klondike.cardgames
+score :  4.742574
+installs : 1,000,000+
+ratings :  21748
+reviews :  2847
+
+title :  Call Break Online: Tash Game
+appId :  com.seclife.callbreak
+score :  4.1666665
+installs : 100,000+
+ratings :  4221
+reviews :  3
+
+title :  Rummy Gold (With Fast Rummy) -
+appId :  com.teenpatti.hd.gold.rummy
+score :  4.09
+installs : 5,000,000+
+ratings :  34807
+reviews :  33
+
+title :  Solitaire Collection
+appId :  solitaire.collection.klondike.spider.card.games
+score :  4.8137255
+installs : 5,000+
+ratings :  194
+reviews :  33
+
+title :  Aces® Spades
+appId :  com.concretesoftware.spades_demobuynow
+score :  4.326397
+installs : 5,000,000+
+ratings :  60954
+reviews :  8078
+
+title :  Rummy Pakistan
+appId :  zingplay.rummy
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Solitaire
+appId :  solitaire.card.games.free.klondike.solitaire.classic.fun
+score :  4.6884375
+installs : 5,000,000+
+ratings :  54631
+reviews :  13446
+
+title :  Solitaire - Classic Card Games
+appId :  at.ner.SolitaireKlondike
+score :  4.55395
+installs : 10,000,000+
+ratings :  272324
+reviews :  7925
+
+title :  Gin Rummy - Offline Card Games
+appId :  com.sngict.rummy.gin
+score :  4.379728
+installs : 5,000,000+
+ratings :  53431
+reviews :  7099
+
+title :  Online CARD - Tiger Dragon
+appId :  com.zrs.flcos.octd
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Spider Solitaire Classic
+appId :  solitaire.spider.card.free.mania
+score :  4.699203
+installs : 5,000,000+
+ratings :  14578
+reviews :  1346
+
+title :  Solitaire - My Farm Friends
+appId :  com.solitaire.fun.free.klondike.cardgames.farm.friends
+score :  4.5808177
+installs : 5,000,000+
+ratings :  88872
+reviews :  7100
+
+title :  Microsoft Solitaire Collection
+appId :  com.microsoft.microsoftsolitairecollection
+score :  4.318065
+installs : 10,000,000+
+ratings :  237876
+reviews :  22932
+
+title :  Buraco Fechado STBL - Cartas
+appId :  air.br.com.buracofechadosemtrinca.mobile
+score :  3.9375
+installs : 100,000+
+ratings :  3629
+reviews :  2
+
+title :  Spider Solitaire
+appId :  spider.solitaire.card.games
+score :  4.6903915
+installs : 100,000+
+ratings :  4124
+reviews :  727
+
+title :  Solitaire: Card Games
+appId :  com.solitaire.patience.klondike.classic.card.games
+score :  4.571126
+installs : 1,000,000+
+ratings :  128235
+reviews :  1474
+
+title :  FreeCell Solitaire Classic
+appId :  com.forsbit.freecell
+score :  4.3758388
+installs : 1,000,000+
+ratings :  5697
+reviews :  652
+
+title :  Solitaire - Classic Card Game
+appId :  com.happytap.solitaire.free
+score :  4.7788463
+installs : 100,000+
+ratings :  1090
+reviews :  57
+
+title :  DragonTiger Poker
+appId :  com.beverlyf001.ggfd
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Teen Patti Rich - Andar Bahar
+appId :  com.tiaytboomswb.cc21b
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Solitaire - Make Money
+appId :  com.winrgames.solitaire
+score :  4.3745875
+installs : 1,000,000+
+ratings :  122109
+reviews :  19236
+
+title :  Cards, Universe & Everything
+appId :  com.avid.cue
+score :  4.4839573
+installs : 1,000,000+
+ratings :  31750
+reviews :  5112
+
+title :  Clash of Wizards
+appId :  com.boxitsoft.battleofwizards
+score :  4
+installs : 5,000,000+
+ratings :  49936
+reviews :  1598
+
+title :  Teen Patti Dhamal
+appId :  com.trenastootp.ppoi
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Callbreak Legend by Bhoos
+appId :  com.bhoos.cpl
+score :  4.3846154
+installs : 100,000+
+ratings :  409
+reviews :  6
+
+title :  Hazari - Offline Card Games
+appId :  com.eastudios.hazari
+score :  4.24
+installs : 1,000,000+
+ratings :  3621
+reviews :  7
+
+title :  Gin Rummy Plus
+appId :  net.peakgames.ginrummyplus
+score :  4.534676
+installs : 10,000,000+
+ratings :  634180
+reviews :  103419
+
+title :  Whist - Expert AI
+appId :  com.neuralplay.android.whist
+score :  4.47
+installs : 50,000+
+ratings :  607
+reviews :  93
+
+title :  Solitaire Tripeak Travel 2023
+appId :  com.me2zen.solitaire.tripeaks.harvest.free
+score :  4.937304
+installs : 500,000+
+ratings :  6898
+reviews :  683
+
+title :  Adda : callbreak , 29 , 3 patt
+appId :  com.ulkagames.callbridge
+score :  4.46
+installs : 5,000,000+
+ratings :  18839
+reviews :  61
+
+title :  Absolute Bingo
+appId :  com.absolute.bingo
+score :  4.693176
+installs : 10,000,000+
+ratings :  309297
+reviews :  49895
+
+title :  Card Dungeons: Rouge RPG
+appId :  com.Symphony.InfinityHeroes
+score :  3.7142856
+installs : 5,000+
+ratings :  38
+reviews :  5
+
+title :  Tripeaks Solitaire - Home Town
+appId :  solitaire.tripeaks.farm.town.adventure.card.games.free
+score :  4.951923
+installs : 100,000+
+ratings :  3998
+reviews :  80
+
+title :  Yalla Baloot & Hand
+appId :  com.yalla.yallabaloot
+score :  4.19
+installs : 500,000+
+ratings :  6708
+reviews :  214
+
+title :  Earn money - Givvy Solitaire
+appId :  com.givvy.solitaire
+score :  4.58
+installs : 100,000+
+ratings :  5567
+reviews :  26
+
+title :  Hearthstone
+appId :  com.blizzard.wtcg.hearthstone
+score :  3.9044638
+installs : 50,000,000+
+ratings :  1887602
+reviews :  60647
+
+title :  Texas Hold'em Poker: Pokerist
+appId :  com.kamagames.pokerist
+score :  4.3633857
+installs : 10,000,000+
+ratings :  356720
+reviews :  11629
+
+title :  Mahjong Solitaire
+appId :  com.mobilityware.MahjongSolitaire
+score :  4.6212754
+installs : 1,000,000+
+ratings :  76058
+reviews :  8400
+
+title :  Spades by Pokerist
+appId :  com.kamagames.spades
+score :  4.492337
+installs : 100,000+
+ratings :  8033
+reviews :  685
+
+title :  Warhammer Horus Heresy Legions
+appId :  com.Everguild.HorusHeresy
+score :  4.3435225
+installs : 1,000,000+
+ratings :  36562
+reviews :  2145
+
+title :  Play 29 Gold offline
+appId :  com.ulkagames.twentynine
+score :  4.09
+installs : 1,000,000+
+ratings :  8260
+reviews :  31
+
+title :  Classic Card - 3Patti
+appId :  cardserfe.classsef.dategame
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Spider Solitaire
+appId :  spider.solitaire.play.classic.card.games.klondike.free.patience.garden
+score :  4.64723
+installs : 1,000,000+
+ratings :  30639
+reviews :  2858
+
+title :  Rummy Club
+appId :  com.orange.tyu
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Teen Patti Go Dash 3Patti Game
+appId :  com.tonzhon.prop.fish
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Bingo Win Cash
+appId :  com.bingo.games.ukbingo.offline
+score :  3.7038627
+installs : 1,000,000+
+ratings :  5064
+reviews :  811
+
+title :  Blackjack 21: Blackjackist
+appId :  com.kamagames.blackjack
+score :  4.4839063
+installs : 10,000,000+
+ratings :  142957
+reviews :  4329
+
+title :  Card Party! Friend Family Game
+appId :  com.bombayplay.CardCrack
+score :  4.418287
+installs : 5,000,000+
+ratings :  72033
+reviews :  6402
+
+title :  Bhabhi (Get Away) - Offline
+appId :  com.eastudios.bhabhi
+score :  5
+installs : 100,000+
+ratings :  2152
+reviews :  2
+
+title :  Gin Rummy
+appId :  com.games.card.ginrummy
+score :  4.4683733
+installs : 1,000,000+
+ratings :  26411
+reviews :  2570
+
+title :  Spider Solitaire Deluxe® 2
+appId :  com.gosub60.sol5spdr2
+score :  4.352518
+installs : 1,000,000+
+ratings :  7870
+reviews :  1342
+
+title :  Grand Gin Rummy: Card Game
+appId :  com.gameduell.gin.rummy.card.game
+score :  4.7195444
+installs : 500,000+
+ratings :  19520
+reviews :  2849
+
+title :  Cobra Kai: Card Fighter
+appId :  com.btg.cobra.kai.action.fight.card.game
+score :  4.2901554
+installs : 1,000,000+
+ratings :  13260
+reviews :  836
+
+title :  Lucky Dream
+appId :  com.di.dream
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Card Club : all in one games
+appId :  com.ulkagames.cardgames
+score :  3.4
+installs : 100,000+
+ratings :  359
+reviews :  3
+
+title :  Spider Solitaire Classic
+appId :  com.forsbit.spider
+score :  4.34
+installs : 500,000+
+ratings :  2379
+reviews :  205
+
+title :  Card Match
+appId :  com.tatem.card.match.puzzle
+score :  4.271845
+installs : 10,000+
+ratings :  1040
+reviews :  29
+
+title :  Spades Offline - Card Game
+appId :  com.zariba.spades.offline
+score :  4.4882154
+installs : 50,000+
+ratings :  6120
+reviews :  389
+
+title :  Indian Rummy : Play Rummy Game
+appId :  com.jungleegames.rummy
+score :  4.513274
+installs : 10,000,000+
+ratings :  95533
+reviews :  236
+
+title :  FF Emotes Rear and Elite.
+appId :  com.manojffemote
+score :  4.714286
+installs : 10,000+
+ratings :  1662
+reviews :  8
+
+title :  MONOPOLY Solitaire: Card Games
+appId :  com.mobilityware.MonopolySolitaire
+score :  4.5080566
+installs : 1,000,000+
+ratings :  46398
+reviews :  10498
+
+title :  4 Colors Card Game
+appId :  com.gdv.fourcolors
+score :  4.25
+installs : 1,000,000+
+ratings :  6377
+reviews :  145
+
+title :  Yu-Gi-Oh! Duel Links
+appId :  jp.konami.duellinks
+score :  4.4460645
+installs : 50,000,000+
+ratings :  2233853
+reviews :  143873
+
+title :  Callbreak League - Card Game
+appId :  com.callbreak.card.game.player.tash
+score :  4.8333335
+installs : 1,000,000+
+ratings :  7250
+reviews :  1
+
+title :  Solitaire, Klondike Card Games
+appId :  com.solitaire.daily.challenge.card.game
+score :  4.6043572
+installs : 1,000,000+
+ratings :  50995
+reviews :  5497
+
+title :  Bhabhi Thulla Offline Game
+appId :  com.cartoongamingarena.bhabhi.thullla.offline.cards.game
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Solitaire Klondike classic.
+appId :  com.forsbit.klondike
+score :  4.12
+installs : 500,000+
+ratings :  4889
+reviews :  333
+
+title :  Hokm
+appId :  com.Aghataher.hokm
+score :  3.7
+installs : 100,000+
+ratings :  950
+reviews :  9
+
+title :  Callbreak Master - Card Game
+appId :  com.callbreak.hippo
+score :  4.090909
+installs : 10,000,000+
+ratings :  15840
+reviews :  10
+
+title :  Solitaire Classic:Card Game
+appId :  com.duole.klondike
+score :  4.280488
+installs : 100,000+
+ratings :  3709
+reviews :  767
+
+title :  Teen Patti Club-3 Patti Online
+appId :  shinegame.fun.clubplay.cardorg
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Call break : Offline Card Game
+appId :  com.zeeron.callbreak
+score :  4.7
+installs : 5,000,000+
+ratings :  21481
+reviews :  9
+
+title :  Ono : Color Card Game
+appId :  com.beactgame.ono
+score :  3.5652175
+installs : 10,000+
+ratings :  122
+reviews :  7
+
+title :  Ultimate Offline Card Games
+appId :  com.eastudios.cardsclub
+score :  4.111111
+installs : 10,000+
+ratings :  137
+reviews :  15
+
+title :  Solitaire: Classic Card Games
+appId :  com.brainium.solitairefree
+score :  4.608758
+installs : 10,000,000+
+ratings :  381713
+reviews :  41200
+
+title :  Spades - Offline Card Games
+appId :  com.sngict.spades
+score :  4.3568773
+installs : 1,000,000+
+ratings :  15473
+reviews :  4125
+
+title :  Indian Rummy Comfun Online
+appId :  com.comfun.mobile.rumm.asgp
+score :  4.21
+installs : 5,000,000+
+ratings :  31956
+reviews :  52
+
+title :  Teen Patti Wealthy
+appId :  com.freeda9morar954.frrgo
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Bitcoin Solitaire - Get BTC!
+appId :  com.playday.bitcoinsolitaire
+score :  4.575099
+installs : 1,000,000+
+ratings :  53809
+reviews :  1108
+
+title :  FreeCell Solitaire
+appId :  at.ner.SolitaireFreeCell
+score :  4.5103626
+installs : 1,000,000+
+ratings :  23406
+reviews :  869
+
+title :  PokerGaga: Texas Holdem Live
+appId :  com.zcmxd.pokergaga
+score :  4.597536
+installs : 500,000+
+ratings :  15123
+reviews :  1467
+
+title :  MONOPOLY Poker - Texas Holdem
+appId :  com.youdagames.monopolypoker
+score :  4.2480817
+installs : 1,000,000+
+ratings :  22262
+reviews :  1304
+
+title :  Online Bhabhi Thulla
+appId :  com.Asad.Thulla3
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Call Break : Online Card Game
+appId :  org.callbreak.callbreakOnline
+score :  4.112903
+installs : 5,000,000+
+ratings :  12263
+reviews :  11
+
+title :  Solitaire
+appId :  solitaire.solitairemaker.solitaire.klondike.card
+score :  4.6555023
+installs : 5,000,000+
+ratings :  31466
+reviews :  1812
+
+title :  Eternal Card Game
+appId :  com.direwolfdigital.Phoenix
+score :  3.9626436
+installs : 1,000,000+
+ratings :  13122
+reviews :  1490
+
+title :  پاسور حکم
+appId :  ir.doorbash.hokm
+score :  4.22
+installs : 1,000,000+
+ratings :  25394
+reviews :  265
+
+title :  Dinosaur Card Battle
+appId :  com.ark.game.klckdz.haiwai
+score :  3.36
+installs : 100,000+
+ratings :  601
+reviews :  19
+
+title :  Court Piece : My Rung
+appId :  com.oengines.courtpiece
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Card Game Coat : Court Piece
+appId :  com.sarbsukh.coat
+score :  4.021739
+installs : 100,000+
+ratings :  3207
+reviews :  7
+
+title :  Solitaire Deluxe® 2
+appId :  com.gosub60.sol5
+score :  4.4196777
+installs : 1,000,000+
+ratings :  25392
+reviews :  6469
+
+title :  Spider Solitaire-card game
+appId :  com.newgame.solitaire.spider.classic
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Teen Patti Diamond-Patti Poker
+appId :  com.actioncorirn.dia01
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Indian Rummy Offline Card Game
+appId :  com.eastudios.indianrummy
+score :  3.5833333
+installs : 500,000+
+ratings :  5967
+reviews :  2
+
+title :  Callbreak King™ - Spade Game
+appId :  com.gametion.callbreak.king
+score :  4.3076925
+installs : 100,000+
+ratings :  603
+reviews :  5
+
+title :  Velo Poker: Texas Holdem Poker
+appId :  com.velogames.velopoker
+score :  4.38914
+installs : 100,000+
+ratings :  10450
+reviews :  1093
+
+title :  Callbreak Offline : Tash Game
+appId :  com.offline.callbreak
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Spider Solitaire
+appId :  com.brainium.spiderfree
+score :  4.694252
+installs : 5,000,000+
+ratings :  122625
+reviews :  15035
+
+title :  Super Dinosaur Card Battle
+appId :  com.ark.game.sklckdz.haiwai
+score :  4.2105265
+installs : 100,000+
+ratings :  242
+reviews :  7
+
+title :  Solitaire: Fish Aquarium
+appId :  com.solitaire.fish.card.games.klondike
+score :  4.7753377
+installs : 500,000+
+ratings :  9258
+reviews :  1342
+
+title :  Solitaire -Klondike Card Games
+appId :  com.cardgame.klondike.solitaire.classic.freecell.basic
+score :  4.7470818
+installs : 1,000,000+
+ratings :  22666
+reviews :  986
+
+title :  Solitaire Card Game
+appId :  solitaire.card.classic.bgames
+score :  4.734146
+installs : 5,000,000+
+ratings :  22012
+reviews :  1956
+
+title :  Ultimate Rummy
+appId :  com.games24x7.ultimaterummy.playstore
+score :  4.330986
+installs : 10,000,000+
+ratings :  248664
+reviews :  351
+
+title :  Court Piece
+appId :  com.eastudios.courtpiece
+score :  4.3
+installs : 50,000+
+ratings :  334
+reviews :  4
+
+title :  Rummy - offline card game
+appId :  com.litegames.rummy_free__aat_google
+score :  4.0144405
+installs : 5,000,000+
+ratings :  96825
+reviews :  2506
+
+title :  Bhabhi Card Game
+appId :  com.sarbsukh.BHABHI2
+score :  3.92
+installs : 100,000+
+ratings :  1269
+reviews :  18
+
+title :  Grand CARD - Rummy
+appId :  com.rummy.word.frand
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Teenpatti Indian poker 3 patti
+appId :  com.mggames.teenpatti
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Tiki Solitaire TriPeaks
+appId :  com.gsn.android.tripeaks
+score :  4.5349207
+installs : 10,000,000+
+ratings :  757349
+reviews :  126899
+
+title :  Solitaire Sunday: Card Game
+appId :  com.fugo.solitaire.tripeaks
+score :  4.870674
+installs : 1,000,000+
+ratings :  25460
+reviews :  314
+
+title :  Solitaire
+appId :  com.reachjunction.card.game.solitaire
+score :  4.5886564
+installs : 10,000,000+
+ratings :  104877
+reviews :  9853
+
+title :  Crazy 8s - Mau Mau
+appId :  air.de.rgerlach.maumaupalast
+score :  4.29
+installs : 1,000,000+
+ratings :  20941
+reviews :  47
+
+title :  Teen Patti Crorepati
+appId :  com.justenv0rhubarb.cc777
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Bhabhi Thulla Cards Challenge
+appId :  com.sps.bhabhithullacardsgame
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Crazy Eights - the card game
+appId :  com.intentsoftware.crazyeights.lite
+score :  4.103139
+installs : 5,000,000+
+ratings :  49590
+reviews :  689
+
+title :  Royal Solitaire: Card Games
+appId :  com.zimad.magicsolitairecollection
+score :  4.80593
+installs : 1,000,000+
+ratings :  16626
+reviews :  850
+

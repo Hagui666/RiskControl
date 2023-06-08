@@ -1,0 +1,1400 @@
+title :  Indian Bikes Driving 3D
+appId :  com.Rohit.IndianBikes
+score :  4.0520835
+installs : 50,000,000+
+ratings :  546554
+reviews :  501
+
+title :  Phone Case DIY
+appId :  com.newnormalgames.phonecasediy
+score :  4.2690787
+installs : 100,000,000+
+ratings :  714736
+reviews :  10087
+
+title :  Burger Please!
+appId :  io.supercent.burgeridle
+score :  4.5555553
+installs : 10,000,000+
+ratings :  65223
+reviews :  365
+
+title :  Bike Stunt 3d Motorcycle Games
+appId :  com.knights.bikesstunt.motomaster
+score :  4.3381295
+installs : 100,000,000+
+ratings :  272025
+reviews :  1576
+
+title :  Hair Tattoo: Barber Shop Game
+appId :  com.wn.hairtattoo
+score :  4.19802
+installs : 10,000,000+
+ratings :  36911
+reviews :  252
+
+title :  Wild West: Farm Town Build
+appId :  com.socialquantum.west3dint
+score :  4.0225525
+installs : 10,000,000+
+ratings :  118211
+reviews :  6850
+
+title :  Vegas Crime Simulator
+appId :  com.mgc.miami.crime.simulator.two
+score :  4.0799146
+installs : 100,000,000+
+ratings :  1359599
+reviews :  10109
+
+title :  Shotgun Sounds: Gun Simulator
+appId :  com.gun.simulator.sounds
+score :  3.76
+installs : 10,000,000+
+ratings :  15275
+reviews :  90
+
+title :  Gun Simulator 3D & Time Bomb
+appId :  com.gun.timebomb.gunsounds
+score :  4.5444446
+installs : 5,000,000+
+ratings :  29569
+reviews :  81
+
+title :  Klondike Adventures
+appId :  com.vizorapps.klondike
+score :  4.6114373
+installs : 50,000,000+
+ratings :  1176267
+reviews :  46936
+
+title :  ASMR Slicing
+appId :  com.crazylabs.asmr.cut
+score :  4.4035583
+installs : 50,000,000+
+ratings :  182304
+reviews :  6141
+
+title :  Fashion Show: Makeup, Dress Up
+appId :  com.gofiveglobal.fashion.dress.up
+score :  4.5515046
+installs : 100,000,000+
+ratings :  792848
+reviews :  6040
+
+title :  Harvest.io – 3D Farming Arcade
+appId :  com.harvest.io
+score :  4.356513
+installs : 100,000,000+
+ratings :  185735
+reviews :  3025
+
+title :  Gangster City: Thug King
+appId :  com.amb.gangster.spider.crime
+score :  3.6666667
+installs : 1,000,000+
+ratings :  269
+reviews :  0
+
+title :  Sculpt people
+appId :  com.sdpgames.sculptpeople
+score :  4.1296096
+installs : 100,000,000+
+ratings :  363210
+reviews :  4443
+
+title :  Gun Simulator & Lightsaber
+appId :  com.gun.lightsaber.scifigunsounds
+score :  4.681677
+installs : 5,000,000+
+ratings :  25036
+reviews :  388
+
+title :  Makeover salon: Makeup ASMR
+appId :  com.storm.beauty.makeover.nail
+score :  2.821782
+installs : 10,000,000+
+ratings :  36328
+reviews :  544
+
+title :  Idle Lumber Empire
+appId :  com.lumber.inc
+score :  4.171305
+installs : 50,000,000+
+ratings :  618338
+reviews :  6704
+
+title :  Scary Teacher 3D
+appId :  com.zakg.scaryteacher.hellgame
+score :  4.1984057
+installs : 100,000,000+
+ratings :  1796556
+reviews :  35642
+
+title :  Block Crazy Robo World
+appId :  com.crazy.block.robo.monster.cliffs.craft
+score :  3.4086242
+installs : 50,000,000+
+ratings :  96452
+reviews :  1536
+
+title :  DIY Makeup
+appId :  com.crazylabs.diy.make.up
+score :  4.1125956
+installs : 50,000,000+
+ratings :  126766
+reviews :  2723
+
+title :  2 3 4 Player Mini Games
+appId :  com.ction.playergames
+score :  4.2679243
+installs : 100,000,000+
+ratings :  1117108
+reviews :  4502
+
+title :  Airport City transport manager
+appId :  com.gameinsight.airport
+score :  3.9367437
+installs : 10,000,000+
+ratings :  923075
+reviews :  60619
+
+title :  Craft World - Master Block 3D
+appId :  com.build.vip.realm.city
+score :  3.5874486
+installs : 50,000,000+
+ratings :  204815
+reviews :  3417
+
+title :  DIY Paper Doll
+appId :  com.cclaw.diypaperdoll
+score :  4.4368176
+installs : 10,000,000+
+ratings :  81953
+reviews :  703
+
+title :  Cake Art 3D
+appId :  com.nama.cake.art
+score :  4.116751
+installs : 10,000,000+
+ratings :  35714
+reviews :  569
+
+title :  Move People
+appId :  com.paurau.MakeHer
+score :  4.042105
+installs : 50,000,000+
+ratings :  202260
+reviews :  2181
+
+title :  ScaleMan
+appId :  com.kayac.ScaleMan
+score :  3.9417477
+installs : 10,000,000+
+ratings :  6016
+reviews :  94
+
+title :  MiniCraft Village
+appId :  com.game.minicraft.village
+score :  3.9803922
+installs : 1,000,000+
+ratings :  1127
+reviews :  6
+
+title :  Craft Skyland Loki Pro
+appId :  com.crazy.rainbow.building.pixelart.mini.pro.craft
+score :  3.4705882
+installs : 5,000,000+
+ratings :  5694
+reviews :  85
+
+title :  Car Parking Multiplayer
+appId :  com.olzhas.carparking.multyplayer
+score :  4.401464
+installs : 100,000,000+
+ratings :  2077645
+reviews :  25788
+
+title :  Forex Royale
+appId :  app.fxroyalepro.com
+score :  4.5247526
+installs : 1,000,000+
+ratings :  77671
+reviews :  210
+
+title :  Choices: Stories You Play
+appId :  com.pixelberrystudios.choices
+score :  4.403967
+installs : 50,000,000+
+ratings :  1436881
+reviews :  221003
+
+title :  Car Simulator 2
+appId :  com.oppanagames.car.simulator
+score :  4.4337254
+installs : 50,000,000+
+ratings :  1019184
+reviews :  11416
+
+title :  Car Games Dubai Van Simulator
+appId :  com.dubai.van
+score :  4
+installs : 100,000+
+ratings :  1115
+reviews :  4
+
+title :  Fashion Star: Dress Up, Makeup
+appId :  com.gofive.indian.makeup.fashion.dress.up
+score :  4.72549
+installs : 10,000,000+
+ratings :  49858
+reviews :  170
+
+title :  City Pilot Flight: Plane Games
+appId :  com.volcano.city.airplane.pilotflight
+score :  4.3892856
+installs : 50,000,000+
+ratings :  155787
+reviews :  1158
+
+title :  Craftsman: Building Craft
+appId :  com.craftsman.go
+score :  3.9520757
+installs : 100,000,000+
+ratings :  2998077
+reviews :  14773
+
+title :  Solar Smash
+appId :  com.paradyme.solarsmash
+score :  4.5728745
+installs : 100,000,000+
+ratings :  1471029
+reviews :  35089
+
+title :  Bus Simulator Indonesia
+appId :  com.maleo.bussimulatorid
+score :  4.2061853
+installs : 100,000,000+
+ratings :  2834160
+reviews :  4280
+
+title :  Dr. Pill
+appId :  studio.osa.drpill
+score :  3.2079208
+installs : 1,000,000+
+ratings :  1822
+reviews :  58
+
+title :  Eatventure
+appId :  com.hwqgrhhjfd.idlefastfood
+score :  4.537532
+installs : 10,000,000+
+ratings :  137835
+reviews :  9127
+
+title :  Tie Dye
+appId :  com.crazylabs.tie.dye.art
+score :  4.5090947
+installs : 100,000,000+
+ratings :  530380
+reviews :  12401
+
+title :  Rolling Ball Sky Escape
+appId :  com.rolling.ball.sky.escape
+score :  4.5
+installs : 500,000+
+ratings :  659
+reviews :  15
+
+title :  Indian Bikes & Cars Driving 3D
+appId :  com.OneTouch.GTAINDIA
+score :  4.288889
+installs : 1,000,000+
+ratings :  14739
+reviews :  11
+
+title :  Taser Gun Prank Simulator
+appId :  com.gun.shocktaser.pranksimulator
+score :  4.7214613
+installs : 10,000,000+
+ratings :  59673
+reviews :  321
+
+title :  Lip Art DIY: Perfect Lipstick
+appId :  com.higame.par.lip.art
+score :  4.850746
+installs : 100,000+
+ratings :  804
+reviews :  3
+
+title :  Indian Robot Car Transform
+appId :  com.jura.robot.car.transformation
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Fidget Toys Trading・Pop It 3D
+appId :  com.fidgettrading.game
+score :  4.2538815
+installs : 100,000,000+
+ratings :  440921
+reviews :  2707
+
+title :  Talking Joe 2 - Scary Evil Cat
+appId :  com.talking.joe.evil.cat
+score :  4.419355
+installs : 100,000+
+ratings :  436
+reviews :  4
+
+title :  ASMR Spa: Face & Body Makeover
+appId :  com.storm.beauty.makeover.hair
+score :  2.7196262
+installs : 1,000,000+
+ratings :  4358
+reviews :  84
+
+title :  Makeover & Makeup ASMR
+appId :  com.storm.beauty.makeover
+score :  3.1844661
+installs : 10,000,000+
+ratings :  38067
+reviews :  362
+
+title :  The Baby In Yellow
+appId :  com.TeamTerrible.BabyInYellow
+score :  4.308022
+installs : 50,000,000+
+ratings :  391146
+reviews :  7237
+
+title :  Lighter Simulation
+appId :  com.smoke.lighter.simulator
+score :  4.42515
+installs : 5,000,000+
+ratings :  18429
+reviews :  80
+
+title :  Makeup Kit - Color Mixing
+appId :  com.apetrus.makeup
+score :  4.519174
+installs : 10,000,000+
+ratings :  191031
+reviews :  2331
+
+title :  Coach Bus Simulator
+appId :  com.ovilex.coachbussimulator
+score :  4.052352
+installs : 10,000,000+
+ratings :  695273
+reviews :  5819
+
+title :  Extreme Motorbike Jump 3D
+appId :  com.extreme.motorbike.jump
+score :  4.548559
+installs : 10,000,000+
+ratings :  99373
+reviews :  2496
+
+title :  Romance Club - Stories I Play
+appId :  com.yourstoryinteractive.sails.pirate.adventure
+score :  4.209546
+installs : 10,000,000+
+ratings :  813926
+reviews :  3807
+
+title :  Candles ASMR
+appId :  com.HalfBite.CandlesShopASMR
+score :  4.3120565
+installs : 5,000,000+
+ratings :  9566
+reviews :  142
+
+title :  Hoarding and Cleaning
+appId :  com.gk.hoarding
+score :  3.971223
+installs : 1,000,000+
+ratings :  3996
+reviews :  331
+
+title :  LightSaber - Gun Simulator
+appId :  com.bravestars.lightsaber.scigun.simulator.sounds
+score :  4.462264
+installs : 1,000,000+
+ratings :  4909
+reviews :  81
+
+title :  Delicious World - Cooking Game
+appId :  com.gamehouse.deliciousdinercooking
+score :  4.589253
+installs : 10,000,000+
+ratings :  173776
+reviews :  6637
+
+title :  Cooking Diary® Restaurant Game
+appId :  com.mytona.cookingdiary.android
+score :  4.51681
+installs : 10,000,000+
+ratings :  1135861
+reviews :  44480
+
+title :  Weapon Master 3D
+appId :  com.millecrepestudios.weaponshop
+score :  4.1059604
+installs : 5,000,000+
+ratings :  17706
+reviews :  185
+
+title :  Farming Simulator 16
+appId :  com.giantssoftware.fs16
+score :  4.2493076
+installs : 50,000,000+
+ratings :  399675
+reviews :  5593
+
+title :  Pop It Fidget 3D
+appId :  com.ezt.pop.its
+score :  3.920792
+installs : 10,000,000+
+ratings :  46354
+reviews :  294
+
+title :  Money Bank 3D
+appId :  com.tp.moneybank
+score :  4.391089
+installs : 10,000,000+
+ratings :  51514
+reviews :  460
+
+title :  Disney Magic Kingdoms
+appId :  com.gameloft.android.ANMP.GloftDYHM
+score :  4.4624023
+installs : 50,000,000+
+ratings :  680883
+reviews :  37134
+
+title :  Bus Driving 3d– Bus Games 2023
+appId :  com.topnewgames.bus.driving.games.free
+score :  4.88
+installs : 5,000,000+
+ratings :  16175
+reviews :  137
+
+title :  IslandCraft: 3D Crafting Game
+appId :  com.krafts.building.k
+score :  3.732143
+installs : 5,000,000+
+ratings :  3207
+reviews :  11
+
+title :  Ice Cream Roll
+appId :  com.luckykat.icecreamroll
+score :  4.4229393
+installs : 10,000,000+
+ratings :  32681
+reviews :  1670
+
+title :  Naxeex Superhero
+appId :  com.naxeex.nax.superhero
+score :  4.148148
+installs : 10,000,000+
+ratings :  86811
+reviews :  1021
+
+title :  Parking Master Multiplayer 2
+appId :  com.SpektraGames.ParkingMasterMultiplayer2
+score :  4.509091
+installs : 5,000,000+
+ratings :  23890
+reviews :  361
+
+title :  Cargo Tractor Trolley Game 22
+appId :  com.ogs.heavy.offroad.cargo.tractor.trolley.simulator
+score :  4.25
+installs : 5,000,000+
+ratings :  9892
+reviews :  4
+
+title :  Craft Earth Boy
+appId :  com.dragon.game.earth.house.craft
+score :  3.6594594
+installs : 10,000,000+
+ratings :  49921
+reviews :  590
+
+title :  King Craft - Building City
+appId :  com.craft.earth.loki.master
+score :  3.6981132
+installs : 10,000,000+
+ratings :  62628
+reviews :  526
+
+title :  Wood Turning 3D - Carving Game
+appId :  com.Eliten.Turning
+score :  3.88
+installs : 10,000,000+
+ratings :  14805
+reviews :  120
+
+title :  Used Car Tycoon Game
+appId :  com.soul.zhongjianshang
+score :  4.5859175
+installs : 10,000,000+
+ratings :  231577
+reviews :  1119
+
+title :  Miraculous Life
+appId :  com.budgestudios.googleplay.MiraculousMIR
+score :  3.8504672
+installs : 1,000,000+
+ratings :  13790
+reviews :  222
+
+title :  Driving Games Offroad Car Race
+appId :  com.gf.offroad.jeep.driving.parking
+score :  3.92
+installs : 5,000,000+
+ratings :  16982
+reviews :  68
+
+title :  Gun Sounds: Shooting Master
+appId :  com.gun.sounds.master
+score :  4.74
+installs : 1,000,000+
+ratings :  8055
+reviews :  84
+
+title :  Craft Robo Clever Rainbow
+appId :  com.city.boy.vip.craft.skyland.block
+score :  3.4285715
+installs : 10,000,000+
+ratings :  19796
+reviews :  277
+
+title :  Gun Sounds : Gun Simulator
+appId :  com.gun.shot.sound
+score :  4.72
+installs : 10,000,000+
+ratings :  58176
+reviews :  2156
+
+title :  Pop it Fidget Games Antistress
+appId :  com.os.falcon.fidget.toy3d.pop.it.diy.calming.asmr.satisfying
+score :  3.5445545
+installs : 10,000,000+
+ratings :  14907
+reviews :  88
+
+title :  Gel Nails!
+appId :  com.goinggoldgames.acrylic.nails.forever.salon
+score :  3.88
+installs : 1,000,000+
+ratings :  1815
+reviews :  65
+
+title :  Flight Simulator - Plane Games
+appId :  com.aeroplane.flying.simulator
+score :  3.7029703
+installs : 10,000,000+
+ratings :  12221
+reviews :  89
+
+title :  Cop Duty Police Car Simulator
+appId :  com.pickle.CopDutyPoliceCarSimulator
+score :  4.7332687
+installs : 10,000,000+
+ratings :  67584
+reviews :  3077
+
+title :  DIY Keyboard
+appId :  com.qidafcl.sl054
+score :  4.474784
+installs : 10,000,000+
+ratings :  138299
+reviews :  1422
+
+title :  Makeup ASMR: Beauty Makeover
+appId :  com.htt.make.up.hm
+score :  4.6074767
+installs : 100,000+
+ratings :  2835
+reviews :  45
+
+title :  Decor Life - Home Design Game
+appId :  com.decor.life
+score :  4.388987
+installs : 10,000,000+
+ratings :  341677
+reviews :  4294
+
+title :  Snooker
+appId :  pool.snooker.pool
+score :  3.99
+installs : 10,000,000+
+ratings :  121806
+reviews :  252
+
+title :  Real Cake Maker 3D Bakery
+appId :  com.cocoplay.cakemaker
+score :  4.0821166
+installs : 50,000,000+
+ratings :  295688
+reviews :  2536
+
+title :  Farming Games - Tractor Game
+appId :  com.gameswing.farmingsimulator.offroaddriving.tractortrolleygame
+score :  3.44
+installs : 5,000,000+
+ratings :  11859
+reviews :  75
+
+title :  Indian Bike and Car Simulator
+appId :  com.hammad.indian.car3d.games.simulator
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  SimCity BuildIt
+appId :  com.ea.game.simcitymobile_row
+score :  4.263263
+installs : 100,000,000+
+ratings :  5428035
+reviews :  185330
+
+title :  Doctor Surgeon Hospital Games
+appId :  com.sg.hospital.doctor.free.games
+score :  3.981132
+installs : 1,000,000+
+ratings :  1461
+reviews :  13
+
+title :  Buffet Boss
+appId :  com.engineerbrainfart.buffetboss
+score :  4.2596684
+installs : 1,000,000+
+ratings :  5858
+reviews :  294
+
+title :  DIY Skincare: ASMR Simulator
+appId :  com.skincare.asmr.simulator
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Gun Sounds: Real Gun Simulator
+appId :  alice.shot.gunsound
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Sniper Strike: Sniping games
+appId :  com.goplaytoday.sniper3d
+score :  4.707904
+installs : 1,000,000+
+ratings :  12013
+reviews :  681
+
+title :  Joystick Art Coloring DIY
+appId :  com.Supono.ControllerArt
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Indian Cars Simulator 3D
+appId :  com.Rohit.IndianCars
+score :  4.1
+installs : 10,000,000+
+ratings :  104900
+reviews :  65
+
+title :  Mobile Bus Simulator
+appId :  com.Locos.MBS
+score :  3.972789
+installs : 50,000,000+
+ratings :  519053
+reviews :  656
+
+title :  Hill Cargo Truck Driving Game
+appId :  com.Planet360.pk.cargo.truck
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Real Gun Shot Sounds Simulator
+appId :  com.realgunsounds.gunsimulatorgame
+score :  4.5392156
+installs : 500,000+
+ratings :  1981
+reviews :  26
+
+title :  Crazy Hospital: ASMR Doctor
+appId :  com.smartfunapps.crazyhospital
+score :  4.093473
+installs : 5,000,000+
+ratings :  61692
+reviews :  2809
+
+title :  Tractor Farming Games 3D
+appId :  com.zact.tractor.thresher.simulstor
+score :  4.2173915
+installs : 5,000,000+
+ratings :  7407
+reviews :  7
+
+title :  Lighter Simulation - Zippo App
+appId :  shandy.simulation.lighter.simulator
+score :  4.4857144
+installs : 100,000+
+ratings :  1519
+reviews :  9
+
+title :  Drawing Carnival
+appId :  com.dynlwpp.atur129
+score :  4.4189944
+installs : 10,000,000+
+ratings :  35895
+reviews :  339
+
+title :  Mystical Mixing
+appId :  com.udonistemple.magicalmixing
+score :  4.579943
+installs : 10,000,000+
+ratings :  69469
+reviews :  1643
+
+title :  Barbie Dreamhouse Adventures
+appId :  com.budgestudios.googleplay.BarbieDreamhouse
+score :  3.9720466
+installs : 50,000,000+
+ratings :  1034783
+reviews :  23808
+
+title :  Car Simulator San Andreas
+appId :  com.unhappy.carsimulator.sanandreas
+score :  4.455446
+installs : 1,000,000+
+ratings :  48127
+reviews :  461
+
+title :  Extreme Bike Driving 3D
+appId :  com.pickle.ExtremeMotorbikeDriving3D
+score :  4.4356437
+installs : 10,000,000+
+ratings :  24341
+reviews :  231
+
+title :  Farming Simulator 14
+appId :  com.giantssoftware.fs14
+score :  3.9912148
+installs : 100,000,000+
+ratings :  1013918
+reviews :  12060
+
+title :  Indian Vehicles Simulator 3d
+appId :  com.ANGamingStudio.IndianVehiclesSimulator3d
+score :  4.4545455
+installs : 5,000,000+
+ratings :  53441
+reviews :  8
+
+title :  Lash Salon
+appId :  com.HalfBite.LashSalon
+score :  4.3186045
+installs : 10,000,000+
+ratings :  37590
+reviews :  482
+
+title :  Truck Simulator : Europe
+appId :  com.zuuks.truck.simulator.euro
+score :  4.153506
+installs : 100,000,000+
+ratings :  1051382
+reviews :  7092
+
+title :  Car Simulator Civic
+appId :  com.OppanaGames.Car.Simulator.Civic
+score :  4.28
+installs : 1,000,000+
+ratings :  21719
+reviews :  244
+
+title :  Motu Patlu Cooking
+appId :  com.tangiappsit.motupatlu.cooking
+score :  3.1666667
+installs : 5,000,000+
+ratings :  8339
+reviews :  5
+
+title :  Truck Simulator OffRoad 4
+appId :  com.szinteractive.Trucksimulatoroffroad4
+score :  4.2817206
+installs : 10,000,000+
+ratings :  154002
+reviews :  1671
+
+title :  Shock Taser Prank - Stun Gun
+appId :  uk.co.highapp.tasersimulator.stungun
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  WildCraft: Animal Sim Online
+appId :  com.turborocketgames.wildcraft
+score :  4.5290623
+installs : 50,000,000+
+ratings :  1028839
+reviews :  59752
+
+title :  Train Station: Railroad Tycoon
+appId :  air.com.pixelfederation.TrainStationGame
+score :  4.3281493
+installs : 10,000,000+
+ratings :  238136
+reviews :  5602
+
+title :  Car Parking 3D Game: Car Games
+appId :  com.volcano.modrn.car.parking.d
+score :  4.2587414
+installs : 50,000,000+
+ratings :  155054
+reviews :  1161
+
+title :  Go! Dolliz: Doll Dress Up
+appId :  com.dramaton.dolls
+score :  4.5139666
+installs : 5,000,000+
+ratings :  41417
+reviews :  1120
+
+title :  Dessert DIY
+appId :  com.weloadin.dessertdiy
+score :  4.344375
+installs : 50,000,000+
+ratings :  206729
+reviews :  1667
+
+title :  Bus Simulator : Ultimate
+appId :  com.zuuks.bus.simulator.ultimate
+score :  4.2227387
+installs : 100,000,000+
+ratings :  2204856
+reviews :  16325
+
+title :  Pop it Fidget Toys 3D Games
+appId :  com.StressGame.AntistessPopToySatisfying
+score :  3.47
+installs : 50,000,000+
+ratings :  31546
+reviews :  201
+
+title :  Gun Simulator: Real Gun Master
+appId :  com.falcon.bs.gun.sounds.master.simulator
+score :  3.7941177
+installs : 500,000+
+ratings :  507
+reviews :  23
+
+title :  Bike Taxi Driving Simulator 3D
+appId :  com.vas.motobike.taxisimulator.drivinggames
+score :  3.7272727
+installs : 1,000,000+
+ratings :  2133
+reviews :  4
+
+title :  Imran Khan Election Bus Sim 3D
+appId :  com.offroad.tourist.bus.hill.pti.imran.khan.election
+score :  4.875
+installs : 500,000+
+ratings :  1532
+reviews :  4
+
+title :  Indian Heavy Driver
+appId :  com.ChauhanBrothers.IndianHeavyDriver
+score :  4.260274
+installs : 5,000,000+
+ratings :  47036
+reviews :  16
+
+title :  Episode - Choose Your Story
+appId :  com.episodeinteractive.android.catalog
+score :  4.292841
+installs : 100,000,000+
+ratings :  4065438
+reviews :  638150
+
+title :  Stone Giant
+appId :  com.np.stone.giant
+score :  4.168317
+installs : 10,000,000+
+ratings :  39722
+reviews :  480
+
+title :  Home Design : Caribbean Life
+appId :  com.cookapps.caribbeanlife
+score :  4.628277
+installs : 10,000,000+
+ratings :  238883
+reviews :  7011
+
+title :  Scary Stranger 3D
+appId :  com.zatg.scaryneighbor.hellgame
+score :  3.8348258
+installs : 10,000,000+
+ratings :  209280
+reviews :  4564
+
+title :  Indian Bike Driving Wala Game
+appId :  coe.indianbike.driving
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Coffee Break - Cafe Simulation
+appId :  io.supercent.coffeebreak
+score :  4.3701925
+installs : 1,000,000+
+ratings :  30387
+reviews :  508
+
+title :  Global City: Building Games
+appId :  com.rbx.city.android
+score :  4.5653496
+installs : 5,000,000+
+ratings :  110492
+reviews :  1837
+
+title :  Truckers of Europe 3
+appId :  com.WandaSoftware.TruckersofEurope3
+score :  4.382979
+installs : 10,000,000+
+ratings :  206371
+reviews :  1924
+
+title :  Gun Simulator - Shotgun, Bomb
+appId :  uk.co.highapp.gunsounds.gunsimulator
+score :  4.3142858
+installs : 100,000+
+ratings :  303
+reviews :  8
+
+title :  Space Gangster 2
+appId :  com.mgc.space.gangster.two
+score :  4.105
+installs : 10,000,000+
+ratings :  77998
+reviews :  812
+
+title :  Airline Manager - 2023
+appId :  dk.xombat.airlinemanager4
+score :  4.395288
+installs : 1,000,000+
+ratings :  45331
+reviews :  1239
+
+title :  Indian Bikes & Cars Master 3D
+appId :  com.Aman.IndianBikesCarsMaster3D
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Tanker Truck Driving Simulator
+appId :  com.ogs.offroad.oiltanker.cargo.truck.simulator
+score :  3.9047618
+installs : 1,000,000+
+ratings :  3893
+reviews :  5
+
+title :  Lawn Mower Simulator
+appId :  com.UniqueGameStudio.LawnMowerSimulator
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Truck Simulator Army Games 3D
+appId :  com.jb.army.truck.driving
+score :  3.9
+installs : 10,000,000+
+ratings :  22359
+reviews :  106
+
+title :  Hunting Clash: Hunter Games
+appId :  com.tensquaregames.hunting.clash.wild.hunter.deer
+score :  4.5383835
+installs : 10,000,000+
+ratings :  267679
+reviews :  13202
+
+title :  Fishing Clash
+appId :  com.tensquaregames.letsfish2
+score :  4.6996784
+installs : 50,000,000+
+ratings :  1668439
+reviews :  83217
+
+title :  Indian Truck Games Simulator
+appId :  com.xtreme.pak.cargotruck.driver3D
+score :  4.7083335
+installs : 1,000,000+
+ratings :  4999
+reviews :  11
+
+title :  Wild Panther Sim 3D
+appId :  com.turborocketgames.panthersim
+score :  4.243812
+installs : 10,000,000+
+ratings :  70273
+reviews :  4143
+
+title :  Police Car Driving Motorbike
+appId :  com.pickle.PoliceCarDrivingMotorbikeRiding
+score :  4.301724
+installs : 10,000,000+
+ratings :  31700
+reviews :  481
+
+title :  Train Simulator: Railroad Game
+appId :  train.railroad.climb.simulator
+score :  4.1940928
+installs : 10,000,000+
+ratings :  73214
+reviews :  715
+
+title :  Kill Shot
+appId :  com.hotheadgames.google.free.rawsniper
+score :  4.5326586
+installs : 10,000,000+
+ratings :  985785
+reviews :  94106
+
+title :  Pakistan Car Simulator Game
+appId :  com.PoliceProtocol.PakistaniCarSimGame2022
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Hide N' Prank
+appId :  com.zatg.catchme.pranks
+score :  3.5
+installs : 1,000,000+
+ratings :  655
+reviews :  7
+
+title :  Bus Simulator Indian Bus Games
+appId :  com.horixon.indianbus
+score :  3.6923077
+installs : 1,000,000+
+ratings :  9196
+reviews :  3
+
+title :  Pop it - Fidget Game 3D
+appId :  com.techconsolidated.popit3dfidgetgame
+score :  4.3333335
+installs : 1,000,000+
+ratings :  465
+reviews :  3
+
+title :  Real Tractor Farming Simulator
+appId :  com.top.offroad.games.real.tractor.trolley.farming.simulator
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Car Parking 3D: Online Drift
+appId :  com.nryaydn95.carparking3d
+score :  4.2525
+installs : 10,000,000+
+ratings :  91230
+reviews :  945
+
+title :  Cargo Transport Simulator
+appId :  com.skisosoft.cts
+score :  4.3209076
+installs : 10,000,000+
+ratings :  273148
+reviews :  3056
+
+title :  Idle Egg Factory
+appId :  com.idle.egg.factory.inc.tycoon
+score :  4.426396
+installs : 10,000,000+
+ratings :  68580
+reviews :  3009
+
+title :  Drink Your Phone: iDrink Joke
+appId :  com.higame.par.cocktail.flow
+score :  4.4666667
+installs : 1,000,000+
+ratings :  314
+reviews :  1
+
+title :  Public Transport Simulator - C
+appId :  com.skisosoft.coach
+score :  4.442831
+installs : 50,000,000+
+ratings :  375821
+reviews :  2504
+
+title :  Jelly Dye
+appId :  com.game.colorslime
+score :  4.405567
+installs : 50,000,000+
+ratings :  210004
+reviews :  6182
+
+title :  Tractor Simulator Farming Game
+appId :  com.ogs.heavy.offroad.cargo.tractor.trolley.simulator.v2
+score :  3.1818182
+installs : 5,000,000+
+ratings :  6215
+reviews :  5
+
+title :  Indian Cargo Truck Simulator
+appId :  com.real.indian.cargo.truck.driver3d.simulation.asiangame.free
+score :  3.88
+installs : 5,000,000+
+ratings :  14009
+reviews :  7
+
+title :  Snake Crusher
+appId :  com.ValentinKlimenko.SnakeCrusher
+score :  2.4019608
+installs : 1,000,000+
+ratings :  1767
+reviews :  247
+
+title :  DIY Joystick
+appId :  com.opszzy.sl097
+score :  4.431083
+installs : 10,000,000+
+ratings :  79936
+reviews :  1527
+
+title :  Modern Tractor Driving Games
+appId :  com.tractor.driving.simulator.former
+score :  3.8695652
+installs : 10,000,000+
+ratings :  20953
+reviews :  10
+
+title :  Hotel Madness Grand Hotel
+appId :  com.gametown.hotel.madness
+score :  4.78327
+installs : 1,000,000+
+ratings :  11090
+reviews :  615
+
+title :  Real Farming Tractor Driving
+appId :  com.gt.tractor.farming.simulation
+score :  3.3731344
+installs : 1,000,000+
+ratings :  7427
+reviews :  25
+
+title :  3D Driving Class
+appId :  com0.Company.ProductName1
+score :  4.3282886
+installs : 50,000,000+
+ratings :  421584
+reviews :  4094
+
+title :  Gadi wala game Kar driving
+appId :  com.Nitxgames.A6AudiCarRacingSimulator
+score :  3.6666667
+installs : 1,000,000+
+ratings :  5096
+reviews :  2
+
+title :  Rebaixados Elite Brasil
+appId :  com.sebby.rebaixadoselitebrasil
+score :  4.323108
+installs : 50,000,000+
+ratings :  367989
+reviews :  2115
+
+title :  Doll Factory
+appId :  com.SekGames.DollFactory
+score :  3.8235295
+installs : 1,000,000+
+ratings :  1211
+reviews :  10
+
+title :  Energy Joe
+appId :  com.np.energy.joe
+score :  3.96
+installs : 10,000,000+
+ratings :  40680
+reviews :  328
+
+title :  Lightsaber - Gun 3D simulator
+appId :  com.gun.scifigun.gunsounds
+score :  4.4690266
+installs : 5,000,000+
+ratings :  13152
+reviews :  320
+
+title :  The Sims™ FreePlay
+appId :  com.ea.games.simsfreeplay_row
+score :  4.072626
+installs : 100,000,000+
+ratings :  5737869
+reviews :  68808
+
+title :  Dragon City Mobile
+appId :  es.socialpoint.DragonCity
+score :  4.713669
+installs : 100,000,000+
+ratings :  9715044
+reviews :  611857
+
+title :  Ultimate Bowmasters
+appId :  com.playgendary.bowmastersremastered
+score :  4.6284075
+installs : 5,000,000+
+ratings :  36512
+reviews :  2805
+
+title :  Donut stack: mini mart
+appId :  com.csquad.idle.donut.shop.empire.tycoon
+score :  4.7058825
+installs : 10,000+
+ratings :  112
+reviews :  2
+
+title :  Raft Survival - Ocean Nomad
+appId :  ocean.nomad.survival.simulator
+score :  4.522569
+installs : 100,000,000+
+ratings :  963873
+reviews :  26364
+
+title :  String Pull
+appId :  com.fontes.stringpull
+score :  4.540754
+installs : 10,000,000+
+ratings :  107061
+reviews :  1108
+
+title :  Cargo Tractor Trolley Drive
+appId :  com.hog.offroad.cargo.tractor.trolley.drive
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Let’s Survive - Survival game
+appId :  lets.survive.apocalypse.survival
+score :  4.3526173
+installs : 5,000,000+
+ratings :  46006
+reviews :  699
+
+title :  3DTuning: Car Game & Simulator
+appId :  air.com.A3dtuning.Tuning3D
+score :  3.88103
+installs : 10,000,000+
+ratings :  245909
+reviews :  13273
+
+title :  Cafeland - Restaurant Cooking
+appId :  com.gamegos.mobile.cafeland
+score :  4.4805927
+installs : 10,000,000+
+ratings :  998192
+reviews :  25851
+
+title :  City Driver Bus Simulator Game
+appId :  com.sgs.mountain.drive.bus.race.apps
+score :  3.8082192
+installs : 1,000,000+
+ratings :  7236
+reviews :  31
+
+title :  Future Truck Driving Simulator
+appId :  com.ogs.off.road.semi.cargo.truck.driver.simulator.legends.cpec2
+score :  3.6
+installs : 5,000,000+
+ratings :  23577
+reviews :  65
+
+title :  President Police Car Convoy
+appId :  com.police.korumaoyunu
+score :  4.627451
+installs : 1,000,000+
+ratings :  4591
+reviews :  251
+
+title :  Offroad Cruiser Simulator
+appId :  com.OppanaGames.OffroadCruiserSim2
+score :  3.93
+installs : 10,000,000+
+ratings :  38704
+reviews :  326
+
+title :  Gangster Town: Vice District
+appId :  com.gta.gangster.town.vice
+score :  3.6538463
+installs : 10,000,000+
+ratings :  83728
+reviews :  528
+
+title :  Indian Real Cargo Truck Driver
+appId :  com.sgs.real.truck.park.free.apps
+score :  4.2325583
+installs : 10,000,000+
+ratings :  33963
+reviews :  15
+
+title :  Baby Prank
+appId :  com.arkhe.babyprank
+score :  3.42
+installs : 5,000,000+
+ratings :  2204
+reviews :  37
+
+title :  Luxury Suv Offroad Prado Drive
+appId :  com.pin.luxury.suv.offroad.prado.drive.free
+score :  3.8333333
+installs : 1,000,000+
+ratings :  3284
+reviews :  10
+
+title :  Airport Life 3D
+appId :  com.furylion.airportlife3d
+score :  4.430127
+installs : 10,000,000+
+ratings :  95506
+reviews :  751
+
+title :  Heavy Truck Simulator Offroad
+appId :  com.ogi.heavy.cargo.truck.driver.simulator.offroad.game
+score :  3.0857143
+installs : 1,000,000+
+ratings :  8334
+reviews :  10
+
+title :  Weapons Prank Simulator
+appId :  com.rofi.shocktaser
+score :  4.5411763
+installs : 500,000+
+ratings :  2764
+reviews :  7
+
+title :  Bus Simulator 2023
+appId :  com.Ovilex.BusSimulator2023
+score :  4.4444447
+installs : 1,000,000+
+ratings :  44317
+reviews :  585
+

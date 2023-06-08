@@ -1,0 +1,1393 @@
+title :  Attack Hole - Black Hole Games
+appId :  com.redlinegames.attackhole
+score :  4.2718015
+installs : 10,000,000+
+ratings :  194869
+reviews :  4887
+
+title :  Subway Surfers
+appId :  com.kiloo.subwaysurf
+score :  4.584489
+installs : 1,000,000,000+
+ratings :  40359854
+reviews :  1799197
+
+title :  Bike Rush
+appId :  com.ketchapp.bikerush
+score :  4.2694807
+installs : 10,000,000+
+ratings :  81617
+reviews :  1968
+
+title :  Subway Princess Runner
+appId :  com.rioo.runnersubway
+score :  4.2143345
+installs : 100,000,000+
+ratings :  1449895
+reviews :  5489
+
+title :  Temple Run
+appId :  com.imangi.templerun
+score :  4.381995
+installs : 500,000,000+
+ratings :  5238471
+reviews :  344719
+
+title :  Join Clash 3D
+appId :  com.freeplay.runandfight
+score :  4.1992755
+installs : 100,000,000+
+ratings :  2062121
+reviews :  17577
+
+title :  Bottle Shooting Game
+appId :  com.knockdown.bottle.game
+score :  4.3785715
+installs : 100,000,000+
+ratings :  170907
+reviews :  566
+
+title :  1945 Air Force: Airplane games
+appId :  com.os.airforce
+score :  4.75886
+installs : 100,000,000+
+ratings :  3227085
+reviews :  42323
+
+title :  Bottle Jump 3D
+appId :  com.games.bottle
+score :  4.559081
+installs : 100,000,000+
+ratings :  324795
+reviews :  6304
+
+title :  2 Player games : the Challenge
+appId :  com.JindoBlu.TwoPlayerGamesChallenge
+score :  4.495273
+installs : 100,000,000+
+ratings :  426327
+reviews :  6359
+
+title :  Web Master: Stickman Superhero
+appId :  com.games.webmaster
+score :  4.597826
+installs : 1,000,000+
+ratings :  662
+reviews :  31
+
+title :  Galaxy Attack: Shooting Game
+appId :  com.alien.shooter.galaxy.attack
+score :  4.6879754
+installs : 100,000,000+
+ratings :  2396241
+reviews :  150870
+
+title :  Sonic Dash - Endless Running
+appId :  com.sega.sonicdash
+score :  4.68487
+installs : 100,000,000+
+ratings :  6198061
+reviews :  405428
+
+title :  Galaxiga Arcade Shooting Game
+appId :  com.os.space.force.galaxy.alien
+score :  4.642288
+installs : 50,000,000+
+ratings :  330956
+reviews :  25605
+
+title :  Fruit Ninja®
+appId :  com.halfbrick.fruitninjafree
+score :  4.504488
+installs : 500,000,000+
+ratings :  5518973
+reviews :  223539
+
+title :  Granny
+appId :  com.dvloper.granny
+score :  4.2619586
+installs : 100,000,000+
+ratings :  3852744
+reviews :  134723
+
+title :  Crazy Chef: Cooking Restaurant
+appId :  com.casualjoygames.cooking.kitchen
+score :  4.837366
+installs : 10,000,000+
+ratings :  299178
+reviews :  10712
+
+title :  Perfect Cream: Dessert Games
+appId :  com.playgendary.creamaster
+score :  4.2902384
+installs : 100,000,000+
+ratings :  320810
+reviews :  7265
+
+title :  SNOW BROS. classic
+appId :  com.mobirix.jp.snowbrothers
+score :  4.6642337
+installs : 5,000,000+
+ratings :  64513
+reviews :  440
+
+title :  Space shooter - Galaxy attack
+appId :  com.game.space.shooter2
+score :  4.8213787
+installs : 100,000,000+
+ratings :  1358760
+reviews :  34875
+
+title :  Color Adventure: Draw the Path
+appId :  line.color.adventure
+score :  4.4064746
+installs : 100,000,000+
+ratings :  138321
+reviews :  854
+
+title :  Twerk Race 3D — Running Game
+appId :  com.freeplay.twerk
+score :  4.343823
+installs : 50,000,000+
+ratings :  83748
+reviews :  3009
+
+title :  Stack Ball - Crash Platforms
+appId :  com.azurgames.stackball
+score :  4.169978
+installs : 100,000,000+
+ratings :  1087154
+reviews :  21389
+
+title :  1 2 3 4 Player Games - Offline
+appId :  com.JindoBlu.FourPlayers
+score :  4.23
+installs : 5,000,000+
+ratings :  8670
+reviews :  145
+
+title :  Cooking Madness -A Chef's Game
+appId :  com.biglime.cookingmadness
+score :  4.8087153
+installs : 100,000,000+
+ratings :  2886551
+reviews :  72623
+
+title :  Mob Control
+appId :  com.vincentb.MobControl
+score :  4.291758
+installs : 50,000,000+
+ratings :  220813
+reviews :  14900
+
+title :  Snake Run Race・3D Running Game
+appId :  com.snakeattack.game
+score :  4.348235
+installs : 10,000,000+
+ratings :  29079
+reviews :  448
+
+title :  Pocket Champs: 3D Racing Games
+appId :  com.pocketchamps.game
+score :  4.4802275
+installs : 10,000,000+
+ratings :  335092
+reviews :  5508
+
+title :  Bricks Breaker Quest
+appId :  com.mobirix.swipebrick2
+score :  4.329944
+installs : 100,000,000+
+ratings :  563112
+reviews :  18595
+
+title :  Kicko & Super Speedo
+appId :  com.zapak.sony.kickoandsuperspeedo
+score :  4.1
+installs : 10,000,000+
+ratings :  22291
+reviews :  13
+
+title :  Block Craft 3D：Building Game
+appId :  com.fungames.blockcraft
+score :  4.2661695
+installs : 100,000,000+
+ratings :  2522002
+reviews :  73684
+
+title :  Hungry Shark Evolution
+appId :  com.fgol.HungrySharkEvolution
+score :  4.485924
+installs : 100,000,000+
+ratings :  7505935
+reviews :  249372
+
+title :  Flow Legends: Pipe Games
+appId :  com.vladk.pipemasters
+score :  4.5443735
+installs : 50,000,000+
+ratings :  104401
+reviews :  1647
+
+title :  LokiCraft
+appId :  com.ua.building.Lokicraft
+score :  3.9137788
+installs : 100,000,000+
+ratings :  1337758
+reviews :  19647
+
+title :  Merge Archers: Bow and Arrow
+appId :  merge.archers
+score :  4.429508
+installs : 10,000,000+
+ratings :  21959
+reviews :  820
+
+title :  Angry Birds Friends
+appId :  com.rovio.angrybirdsfriends
+score :  4.387991
+installs : 100,000,000+
+ratings :  1263949
+reviews :  49614
+
+title :  Rope-Man Run
+appId :  com.casualhit.ropeman
+score :  4.271487
+installs : 10,000,000+
+ratings :  100061
+reviews :  581
+
+title :  Granny: Chapter Two
+appId :  com.dvloper.grannychaptertwo
+score :  4.199424
+installs : 100,000,000+
+ratings :  1098876
+reviews :  22649
+
+title :  Granny 3
+appId :  com.DVloper.Granny3
+score :  4.2256355
+installs : 50,000,000+
+ratings :  408336
+reviews :  4174
+
+title :  Stickman Party 2 3 4 MiniGames
+appId :  com.PlayMax.playergames
+score :  4.3514915
+installs : 100,000,000+
+ratings :  1803750
+reviews :  6834
+
+title :  Merge Master: Dinosaur Monster
+appId :  com.fusee.MergeMaster
+score :  4.2337856
+installs : 50,000,000+
+ratings :  499078
+reviews :  1412
+
+title :  Zombie 3D Gun Shooter: Offline
+appId :  com.zombieshooting.survivalhunter.gun3d
+score :  4.402516
+installs : 10,000,000+
+ratings :  70119
+reviews :  523
+
+title :  Coin Rush!
+appId :  com.crazylabs.coin.rush
+score :  4.130896
+installs : 50,000,000+
+ratings :  83447
+reviews :  3627
+
+title :  My Cooking: Restaurant Game
+appId :  com.my.cooking.chef.kitchen.craze.fever
+score :  4.6448765
+installs : 10,000,000+
+ratings :  233453
+reviews :  3311
+
+title :  Galaxy Shooter - Space Attack
+appId :  com.zyb.galaxy.attack
+score :  4.5161405
+installs : 10,000,000+
+ratings :  174491
+reviews :  3784
+
+title :  Crazy Cooking Diner: Chef Game
+appId :  com.crazy.cooking.diner.chef.restaurant.fever
+score :  4.700461
+installs : 5,000,000+
+ratings :  62279
+reviews :  393
+
+title :  Sky Roller: Rainbow Skating
+appId :  com.topchopgames.skyroller
+score :  4.529954
+installs : 100,000,000+
+ratings :  718387
+reviews :  27937
+
+title :  Crazy Office — Slap & Smash
+appId :  com.freeplay.crazyoffice
+score :  4.3861384
+installs : 5,000,000+
+ratings :  5074
+reviews :  268
+
+title :  Evil Nun: Horror at School
+appId :  com.keplerians.evilnun
+score :  4.2519684
+installs : 50,000,000+
+ratings :  582303
+reviews :  9342
+
+title :  Magic Finger 3D
+appId :  com.ASmallGame.themagicfinger
+score :  4.293321
+installs : 10,000,000+
+ratings :  220803
+reviews :  985
+
+title :  CannonBowling: Strike Action
+appId :  com.kayac.CanonBoring
+score :  4.598039
+installs : 100,000+
+ratings :  1070
+reviews :  51
+
+title :  Slingshot Smash－Shooting Range
+appId :  slingshot.building.destroy
+score :  4.7316294
+installs : 10,000,000+
+ratings :  49869
+reviews :  2363
+
+title :  Red Ball 4
+appId :  com.FDGEntertainment.redball4.gp
+score :  4.514332
+installs : 100,000,000+
+ratings :  2820562
+reviews :  65775
+
+title :  Sonic Dash 2: Sonic Boom
+appId :  com.sega.sonicboomandroid
+score :  4.3462543
+installs : 100,000,000+
+ratings :  732774
+reviews :  25400
+
+title :  Knife Hit
+appId :  com.ketchapp.knifehit
+score :  4.197779
+installs : 100,000,000+
+ratings :  1135034
+reviews :  14636
+
+title :  Tank Stars
+appId :  com.playgendary.tanks
+score :  4.6208677
+installs : 100,000,000+
+ratings :  2110764
+reviews :  81768
+
+title :  Who Dies Last?
+appId :  com.games.whodiesfirst
+score :  4.539823
+installs : 10,000,000+
+ratings :  9927
+reviews :  324
+
+title :  Stickman Hook
+appId :  com.mindy.grap1
+score :  4.0862775
+installs : 100,000,000+
+ratings :  551658
+reviews :  53140
+
+title :  War of Rafts: Crazy Sea Battle
+appId :  war.of.islands
+score :  4.4183993
+installs : 50,000,000+
+ratings :  164786
+reviews :  4258
+
+title :  Hole.io
+appId :  io.voodoo.holeio
+score :  3.7099946
+installs : 100,000,000+
+ratings :  1172205
+reviews :  127830
+
+title :  Vector: Parkour Run
+appId :  com.nekki.vector
+score :  4.4013886
+installs : 100,000,000+
+ratings :  3576789
+reviews :  111010
+
+title :  Cooking City: Restaurant Games
+appId :  com.cookingcity.chef.kitchen.craze.fever
+score :  4.696928
+installs : 50,000,000+
+ratings :  505321
+reviews :  10814
+
+title :  Cooking Fever: Restaurant Game
+appId :  com.nordcurrent.canteenhd
+score :  4.4023485
+installs : 100,000,000+
+ratings :  4931521
+reviews :  235170
+
+title :  Drop Stack Ball - Helix Crash
+appId :  com.match3blaster.DropStackBallFall
+score :  4.039506
+installs : 100,000,000+
+ratings :  406007
+reviews :  3140
+
+title :  Ice Scream 1
+appId :  com.keplerians.icescream
+score :  4.152452
+installs : 50,000,000+
+ratings :  364518
+reviews :  8816
+
+title :  Tower War - Tactical Conquest
+appId :  games.vaveda.militaryoverturn
+score :  3.8966522
+installs : 10,000,000+
+ratings :  125008
+reviews :  3603
+
+title :  Gulli Bulli Aur Granny
+appId :  com.MJFGames.GulliBulliAurGranny
+score :  4
+installs : 500,000+
+ratings :  2110
+reviews :  1
+
+title :  Car Junk Resurrection
+appId :  com.zakgodfrey.carjunkresurrection
+score :  3.5365853
+installs : 500,000+
+ratings :  428
+reviews :  14
+
+title :  Human Vehicle
+appId :  com.nepix.humanvehicle
+score :  4.2348485
+installs : 10,000,000+
+ratings :  112765
+reviews :  865
+
+title :  Draw it
+appId :  com.kwalee.drawit
+score :  4.1892185
+installs : 50,000,000+
+ratings :  714781
+reviews :  32771
+
+title :  Merge Monster: Frog Evolution
+appId :  com.atsoft.merge.monster
+score :  4.36
+installs : 5,000,000+
+ratings :  7085
+reviews :  95
+
+title :  Lep's World
+appId :  at.nerbrothers.SuperJump
+score :  4.4961653
+installs : 100,000,000+
+ratings :  1221975
+reviews :  25923
+
+title :  Classic Games - Arcade Emulato
+appId :  com.legendmame.dinoemulator
+score :  4.4
+installs : 1,000,000+
+ratings :  23662
+reviews :  160
+
+title :  Idle Cutter
+appId :  com.floor18.idle.cutter
+score :  3.090909
+installs : 100,000+
+ratings :  205
+reviews :  13
+
+title :  Mosquito.io
+appId :  io.supercent.mosquito
+score :  3.8512397
+installs : 1,000,000+
+ratings :  5197
+reviews :  58
+
+title :  Ice Scream 2
+appId :  com.keplerians.icescreamtwo
+score :  4.197107
+installs : 10,000,000+
+ratings :  206999
+reviews :  4690
+
+title :  Death Park: Scary Clown Horror
+appId :  com.eg.deathpark
+score :  4.549793
+installs : 10,000,000+
+ratings :  226344
+reviews :  4031
+
+title :  Brick Breaker : Space Outlaw
+appId :  com.superbox.aos.brickbreaker
+score :  4.428571
+installs : 5,000,000+
+ratings :  21713
+reviews :  869
+
+title :  Choo Choo Spider Monster Train
+appId :  com.ChooChooCharles.ChooChooCharlesgamethrred
+score :  2.860215
+installs : 1,000,000+
+ratings :  3080
+reviews :  38
+
+title :  Ice Scream 3
+appId :  com.keplerians.icescream3
+score :  4.0538697
+installs : 50,000,000+
+ratings :  239585
+reviews :  5561
+
+title :  Paper.io 2
+appId :  io.voodoo.paper2
+score :  3.2415407
+installs : 100,000,000+
+ratings :  2046103
+reviews :  123367
+
+title :  Train Conductor World
+appId :  com.thevoxelagents.tc3
+score :  4.3549223
+installs : 10,000,000+
+ratings :  63700
+reviews :  1489
+
+title :  Restaurant Chef Cooking Games
+appId :  com.yoyofun.restaurant.master.kitchen.chef.cooking.games
+score :  3.539326
+installs : 5,000,000+
+ratings :  8699
+reviews :  29
+
+title :  Draw The Road 3D
+appId :  com.AlexandrJanashvili.RoadHills
+score :  4.174603
+installs : 10,000,000+
+ratings :  21760
+reviews :  199
+
+title :  Crazy Kitchen: Cooking Game
+appId :  com.flybirdgames.cookinghot
+score :  4.828611
+installs : 10,000,000+
+ratings :  196536
+reviews :  9330
+
+title :  Hands Rush 3D
+appId :  com.hands.rush
+score :  3.5454545
+installs : 500,000+
+ratings :  181
+reviews :  3
+
+title :  Mr Meat: Horror Escape Room
+appId :  com.kalipsogames.psychopathhunt
+score :  4.0474806
+installs : 10,000,000+
+ratings :  293805
+reviews :  5123
+
+title :  The Archers 2: Stickman Game
+appId :  com.byv.TheArchers2
+score :  4.606044
+installs : 50,000,000+
+ratings :  346993
+reviews :  7356
+
+title :  Little Singham
+appId :  com.zapak.littlesinghamrun
+score :  4.14
+installs : 10,000,000+
+ratings :  60563
+reviews :  34
+
+title :  Muscle Hero: Future Evolution
+appId :  com.academy.muscle.hero
+score :  3.9288888
+installs : 5,000,000+
+ratings :  28300
+reviews :  318
+
+title :  Pizzaiolo!
+appId :  com.pizza.dough
+score :  4.4191394
+installs : 10,000,000+
+ratings :  125967
+reviews :  4393
+
+title :  Spinner Merge
+appId :  com.YoBroStudios.MergeSpinner
+score :  4.5054646
+installs : 5,000,000+
+ratings :  34950
+reviews :  108
+
+title :  Cooking Express Cooking Games
+appId :  com.gameicreate.mycafeexpressrestaurantchefcookinggame
+score :  4.6962028
+installs : 1,000,000+
+ratings :  20796
+reviews :  576
+
+title :  Lep's World 2
+appId :  at.ner.lepsWorld2
+score :  4.430312
+installs : 100,000,000+
+ratings :  1136365
+reviews :  24055
+
+title :  Pro Builder 3D
+appId :  io.blackcandy.probuilder3d
+score :  3.8280802
+installs : 10,000,000+
+ratings :  43747
+reviews :  842
+
+title :  Cooking Chef - Food Fever
+appId :  com.renderedideas.cookingchef
+score :  4.571429
+installs : 10,000,000+
+ratings :  53437
+reviews :  634
+
+title :  Fruit Burst
+appId :  com.nextstep.fruitburstline
+score :  4.46
+installs : 10,000,000+
+ratings :  57560
+reviews :  369
+
+title :  Stone Grass: Mowing Simulator
+appId :  com.frph.stonegrass
+score :  3.9040258
+installs : 10,000,000+
+ratings :  224296
+reviews :  7957
+
+title :  Monster Egg
+appId :  studio.smartraven.monsteregg
+score :  4.2735634
+installs : 10,000,000+
+ratings :  44652
+reviews :  136
+
+title :  Elemental Gloves - Magic Power
+appId :  com.elemental.gloves
+score :  4.642857
+installs : 5,000,000+
+ratings :  9718
+reviews :  401
+
+title :  Kpop Music Game - Dream Tiles
+appId :  bts.kpop.piano.music.tiles
+score :  4.328512
+installs : 50,000,000+
+ratings :  348314
+reviews :  2632
+
+title :  Train Defense: Zombie Survival
+appId :  train.defense.zombies
+score :  3.1764705
+installs : 500,000+
+ratings :  434
+reviews :  11
+
+title :  Catapult Quest
+appId :  com.mobirix.abmon
+score :  4.3651876
+installs : 10,000,000+
+ratings :  120422
+reviews :  2064
+
+title :  Ragdoll Weapon Master
+appId :  com.ragdollweapon.master
+score :  4.36
+installs : 10,000,000+
+ratings :  4827
+reviews :  134
+
+title :  Food Diary: Girls Cooking game
+appId :  com.colorgame.tastykitchen
+score :  4.6624203
+installs : 10,000,000+
+ratings :  26445
+reviews :  531
+
+title :  Cooking Crush: cooking games
+appId :  com.fme.cooking.crush.food.games
+score :  4.6615696
+installs : 10,000,000+
+ratings :  182751
+reviews :  4146
+
+title :  Bomb Man Legend
+appId :  com.olivia.boomber.legend
+score :  4.2352943
+installs : 100,000+
+ratings :  1815
+reviews :  17
+
+title :  Hungry Shark World
+appId :  com.ubisoft.hungrysharkworld
+score :  4.5467696
+installs : 100,000,000+
+ratings :  2108586
+reviews :  95427
+
+title :  ZOXOK
+appId :  com.zoxok.app
+score :  4.03125
+installs : 100,000+
+ratings :  782
+reviews :  18
+
+title :  Air Defense: Airplane Shooting
+appId :  air.defence.arcade
+score :  4.6988635
+installs : 1,000,000+
+ratings :  8085
+reviews :  444
+
+title :  Color Hole 3D
+appId :  com.colorhole.game
+score :  4.4515324
+installs : 50,000,000+
+ratings :  320202
+reviews :  10035
+
+title :  Go Escape!
+appId :  com.custom.goescape
+score :  4.4396133
+installs : 10,000,000+
+ratings :  106732
+reviews :  7424
+
+title :  Run Forrest Run: Running Games
+appId :  com.generamobile.runforrestrun
+score :  4.399189
+installs : 10,000,000+
+ratings :  118517
+reviews :  2817
+
+title :  Spinner Battle Merge Master
+appId :  com.gp.spinner.battle.blade.game
+score :  4.5238094
+installs : 500,000+
+ratings :  292
+reviews :  4
+
+title :  Join Blob Clash 3D
+appId :  com.joinblob.clash
+score :  4.6758895
+installs : 10,000,000+
+ratings :  25366
+reviews :  611
+
+title :  Escalators
+appId :  io.blackcandy.escalators
+score :  4.1386056
+installs : 10,000,000+
+ratings :  71910
+reviews :  1555
+
+title :  Dino.io 3D
+appId :  com.fusee.DinoMadness
+score :  4.1287127
+installs : 100,000+
+ratings :  2816
+reviews :  81
+
+title :  Modern Cannon Strike
+appId :  com.Mintah.ModernCannonStrike
+score :  3.6764705
+installs : 1,000,000+
+ratings :  1879
+reviews :  56
+
+title :  Paper Boy Race: Run & Rush 3D
+appId :  com.phantom.paperboy
+score :  4.443396
+installs : 10,000,000+
+ratings :  5408
+reviews :  193
+
+title :  Smashers.io - Fun io games
+appId :  com.games.smashersio
+score :  4.087805
+installs : 10,000,000+
+ratings :  53594
+reviews :  501
+
+title :  BUBBLE BOBBLE classic
+appId :  com.mobirix.jp.bubblebobble1
+score :  4.22093
+installs : 1,000,000+
+ratings :  27653
+reviews :  878
+
+title :  Fancade
+appId :  com.martinmagni.fancade
+score :  4.1066666
+installs : 10,000,000+
+ratings :  81726
+reviews :  1352
+
+title :  Kyo 97 Old King of Arcade
+appId :  kyo.old.king.of.arcade
+score :  4.419355
+installs : 100,000+
+ratings :  2597
+reviews :  5
+
+title :  Dan the Man: Action Platformer
+appId :  com.halfbrick.dantheman
+score :  4.7166367
+installs : 50,000,000+
+ratings :  1728363
+reviews :  64604
+
+title :  Fury Cars
+appId :  com.YsoCorp.FuryCars
+score :  3.5530303
+installs : 10,000,000+
+ratings :  32576
+reviews :  501
+
+title :  Airport Master
+appId :  com.wireless.airportmaster
+score :  4.361702
+installs : 5,000,000+
+ratings :  43131
+reviews :  623
+
+title :  Police Department 3D
+appId :  com.amazegames.police.department
+score :  4.23
+installs : 5,000,000+
+ratings :  7011
+reviews :  174
+
+title :  Food Voyage: Fun Cooking Games
+appId :  com.cooking.food.voyage
+score :  4.797468
+installs : 1,000,000+
+ratings :  18529
+reviews :  603
+
+title :  Death Worm™
+appId :  com.playcreek.DeathWorm_Free
+score :  4.676087
+installs : 50,000,000+
+ratings :  298427
+reviews :  8960
+
+title :  Incredible Jack: Jump & Run
+appId :  com.chillingo.incrediblejack.android.rowgplay1
+score :  4.609626
+installs : 50,000,000+
+ratings :  285017
+reviews :  1681
+
+title :  Double Princess
+appId :  com.indymobileapp.document.scan
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Monster Evolution: Demon DNA
+appId :  com.bts.monster
+score :  4.278481
+installs : 10,000,000+
+ratings :  77115
+reviews :  414
+
+title :  Doll Designer
+appId :  com.kfe.toymaker
+score :  4.2476797
+installs : 50,000,000+
+ratings :  448591
+reviews :  1170
+
+title :  First To Life
+appId :  com.Binacle.FirstToLife
+score :  4.33617
+installs : 10,000,000+
+ratings :  70446
+reviews :  685
+
+title :  Galaxy sky shooting
+appId :  com.ivy.galaxyshooting.sky
+score :  4.65536
+installs : 50,000,000+
+ratings :  232366
+reviews :  6636
+
+title :  ASMR Tippy Toe
+appId :  com.KrakerStudio.IHeelGood
+score :  4.3275433
+installs : 10,000,000+
+ratings :  29635
+reviews :  380
+
+title :  Craftsman 4
+appId :  com.Slbazer.Craftsman4
+score :  4.3203125
+installs : 5,000,000+
+ratings :  100389
+reviews :  586
+
+title :  Pick Me Up™
+appId :  com.custom.pickmeup
+score :  4.1061454
+installs : 50,000,000+
+ratings :  186582
+reviews :  10818
+
+title :  Long Neck Run
+appId :  io.shenron.lnr
+score :  4.338798
+installs : 10,000,000+
+ratings :  144959
+reviews :  782
+
+title :  Falcon Squad
+appId :  invaders.os.galaxy.space.shooter.attack.classic
+score :  4.7018056
+installs : 50,000,000+
+ratings :  620450
+reviews :  32817
+
+title :  Hook & Roll
+appId :  com.KrakerStudio.HookRoll
+score :  4.3157897
+installs : 1,000,000+
+ratings :  899
+reviews :  8
+
+title :  Crowd Evolution!
+appId :  com.longhorn.countmasterevo
+score :  3.7966857
+installs : 10,000,000+
+ratings :  180453
+reviews :  9383
+
+title :  Gibbets：Bow Master！Arrow Games
+appId :  com.herocraft.game.free.gibbets3
+score :  4.5855613
+installs : 10,000,000+
+ratings :  92534
+reviews :  1503
+
+title :  Airplane Chefs - Cooking Game
+appId :  com.nordcurrent.flyingfever
+score :  4.1476965
+installs : 10,000,000+
+ratings :  64354
+reviews :  2686
+
+title :  Zombie Roadkill 3D
+appId :  com.wordsmobile.zombieroadkill
+score :  4.5386972
+installs : 50,000,000+
+ratings :  1128440
+reviews :  42315
+
+title :  Metal Soldier Collections
+appId :  metal.soldier.pack
+score :  4.7623763
+installs : 500,000+
+ratings :  4230
+reviews :  113
+
+title :  Steal Master
+appId :  io.supercent.stealmaster
+score :  3.77
+installs : 100,000+
+ratings :  698
+reviews :  47
+
+title :  Antistress relaxing toy game
+appId :  com.xplay.pop_antistress_simulator
+score :  4.262097
+installs : 5,000,000+
+ratings :  21268
+reviews :  384
+
+title :  Build Your Vehicle
+appId :  com.clapclap.buildyourvehicle
+score :  3.9423869
+installs : 5,000,000+
+ratings :  19664
+reviews :  580
+
+title :  Craft Party: Do not fall down
+appId :  com.hypercat.craftmatch
+score :  4.179487
+installs : 1,000,000+
+ratings :  1052
+reviews :  13
+
+title :  Parasite Cleaner
+appId :  com.emesh.parasite.cleaner
+score :  4.2080536
+installs : 5,000,000+
+ratings :  8805
+reviews :  301
+
+title :  Sky Raptor: Space Shooter
+appId :  com.skyraptor.spaceshooter
+score :  4.642945
+installs : 5,000,000+
+ratings :  69273
+reviews :  1913
+
+title :  Granny's House
+appId :  net.updategames.granny
+score :  4.150463
+installs : 10,000,000+
+ratings :  194309
+reviews :  4414
+
+title :  Ramboat - Offline Action Game
+appId :  com.generamobile.ramboat
+score :  4.4746246
+installs : 10,000,000+
+ratings :  178312
+reviews :  4213
+
+title :  VIP Guard
+appId :  com.hanna.bodyguard.expert
+score :  4.473088
+installs : 10,000,000+
+ratings :  162339
+reviews :  2080
+
+title :  Art Blitz
+appId :  com.ketchapp.artblitz
+score :  4.548466
+installs : 1,000,000+
+ratings :  29196
+reviews :  2309
+
+title :  Ball Slider 3D
+appId :  com.Tastypill.BallSlide3D
+score :  4
+installs : 10,000,000+
+ratings :  17966
+reviews :  213
+
+title :  Lost Temple 3：Classic Run
+appId :  com.amazingtour.masterrun
+score :  3.32
+installs : 5,000,000+
+ratings :  24347
+reviews :  198
+
+title :  Bottle Flip Clash
+appId :  com.hayk.fliprace
+score :  4.17
+installs : 5,000,000+
+ratings :  7124
+reviews :  99
+
+title :  Cooking Craze: Restaurant Game
+appId :  com.bigfishgames.cookingcrazegooglef2p
+score :  4.371486
+installs : 10,000,000+
+ratings :  417928
+reviews :  34015
+
+title :  Lumber Harvest: Tree Cutting
+appId :  com.freeplay.timber.craft
+score :  2.970297
+installs : 1,000,000+
+ratings :  3850
+reviews :  252
+
+title :  Chhota Bheem Shoot the Leyaks
+appId :  com.greengold.ShootLayeks
+score :  3.6440678
+installs : 1,000,000+
+ratings :  19633
+reviews :  446
+
+title :  Dragon Cave
+appId :  com.smallgiantgames
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Blockman Go
+appId :  com.sandboxol.blockymods
+score :  4.2681694
+installs : 50,000,000+
+ratings :  2665219
+reviews :  53345
+
+title :  Human Flip: Jump Master Game
+appId :  human.flip.jump.master
+score :  4.55
+installs : 5,000,000+
+ratings :  3876
+reviews :  211
+
+title :  Slendrina: The Cellar
+appId :  com.dvloper.slendrinacellarfree
+score :  4.047196
+installs : 50,000,000+
+ratings :  475542
+reviews :  6620
+
+title :  4x4 Offroad Jeep Driving Games
+appId :  com.epic.offroad.suvjeep.driving.games.PradoCarGames.SimulatorGames
+score :  4
+installs : 1,000,000+
+ratings :  1699
+reviews :  1
+
+title :  Merge Hedgehog: Strongest Ever
+appId :  com.atsoft.merge.master.strongest
+score :  4.676991
+installs : 5,000,000+
+ratings :  11054
+reviews :  378
+
+title :  God Of Pranks
+appId :  com.YsoCorp.GodOfPranks
+score :  3.5
+installs : 5,000,000+
+ratings :  7601
+reviews :  173
+
+title :  Crazy Kick! Fun Football game
+appId :  com.orbitalknight.ridiculousfreekick
+score :  4.542881
+installs : 50,000,000+
+ratings :  188584
+reviews :  8716
+
+title :  Brothers in Arms™ 3
+appId :  com.gameloft.android.ANMP.GloftA3HM
+score :  4.434912
+installs : 10,000,000+
+ratings :  1510203
+reviews :  27564
+
+title :  Little Singham Super Skater
+appId :  com.zapak.singham.running.skate.board.run
+score :  4.25
+installs : 5,000,000+
+ratings :  5602
+reviews :  1
+
+title :  Jumanji: Epic Run
+appId :  com.crazylabs.jumanji
+score :  3.9446254
+installs : 10,000,000+
+ratings :  110976
+reviews :  1953
+
+title :  Monsters Number: Room Maze
+appId :  com.room.demons.fight.battle
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Idle Ants - Simulator Game
+appId :  com.idleants.game
+score :  4.0846457
+installs : 10,000,000+
+ratings :  77996
+reviews :  3858
+
+title :  Mow My Lawn - Cutting Grass
+appId :  mow.my.lawn
+score :  4.61055
+installs : 10,000,000+
+ratings :  54428
+reviews :  1968
+
+title :  Can Knockdown 3
+appId :  pl.idreams.CanKnockdown3
+score :  4.4578576
+installs : 10,000,000+
+ratings :  394260
+reviews :  6485
+
+title :  Monster Rampage: Merge Rainbow
+appId :  com.merge.rainbow.huggy.iba
+score :  4.13
+installs : 1,000,000+
+ratings :  1358
+reviews :  29
+
+title :  Cooking Market-Restaurant Game
+appId :  com.ply.cookingmarket
+score :  4.6534653
+installs : 100,000+
+ratings :  3286
+reviews :  114
+
+title :  Ball Bonanza
+appId :  com.bbc.doctorwhocomiccreato
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Mix & Paint
+appId :  com.mix.color.paint.game
+score :  4.5796814
+installs : 10,000,000+
+ratings :  35176
+reviews :  1793
+
+title :  Popsicle Stack
+appId :  com.northerncoldgames.popsiclestack
+score :  4.2809706
+installs : 10,000,000+
+ratings :  131593
+reviews :  418
+
+title :  Lep's World 3
+appId :  at.ner.lepsWorld3Plus
+score :  4.553585
+installs : 50,000,000+
+ratings :  1026428
+reviews :  20073
+
+title :  Cooking Corner Chef Restaurant
+appId :  com.renderedideas.cookingcorner
+score :  4.59
+installs : 1,000,000+
+ratings :  4062
+reviews :  188
+
+title :  Offroad Jeep Driving Jeep Game
+appId :  com.pin.jeep.driving.simulator.free
+score :  4.2222223
+installs : 1,000,000+
+ratings :  3459
+reviews :  5
+
+title :  Bouncemasters: Penguin Games
+appId :  com.playgendary.sportmasters
+score :  4.4219937
+installs : 100,000,000+
+ratings :  529332
+reviews :  21482
+
+title :  Brick Mania: Fun Arcade Game
+appId :  net.countrymania.brick
+score :  4.539419
+installs : 5,000,000+
+ratings :  57227
+reviews :  356
+
+title :  Auto Hero: Auto-shooting game
+appId :  com.anglesgames.auto.shoot.hero
+score :  4.35
+installs : 1,000,000+
+ratings :  7768
+reviews :  313
+
+title :  Scream Go Hero
+appId :  com.ketchapp.screamhero
+score :  3.9486692
+installs : 10,000,000+
+ratings :  198053
+reviews :  2610
+
+title :  Knock Down
+appId :  com.innovativegames.knockdown
+score :  3.9882758
+installs : 50,000,000+
+ratings :  231506
+reviews :  2010
+
+title :  PAC-MAN
+appId :  com.namcobandaigames.pacmantournaments
+score :  4.2670293
+installs : 100,000,000+
+ratings :  908452
+reviews :  52519
+
+title :  Galaxia Invader: Alien Shooter
+appId :  com.tstudio.galaxy.invasion
+score :  4.7242026
+installs : 1,000,000+
+ratings :  19596
+reviews :  1367
+
+title :  Space Shooter - Galaxy Attack
+appId :  com.raider.spaceshooter
+score :  4.753138
+installs : 10,000,000+
+ratings :  71191
+reviews :  891
+
+title :  Junkyard Keeper
+appId :  com.armnomads.junkyardkeeper
+score :  4.3234673
+installs : 5,000,000+
+ratings :  57906
+reviews :  2739
+
+title :  Geometry Dash Lite
+appId :  com.robtopx.geometryjumplite
+score :  4.382738
+installs : 100,000,000+
+ratings :  7440446
+reviews :  489354
+
+title :  Lokicraft 5 Crafting
+appId :  com.denepa.lokicraft5
+score :  4.03
+installs : 1,000,000+
+ratings :  68600
+reviews :  601
+
+title :  Scrape Master
+appId :  com.armnomads.scrapemaster
+score :  4.072555
+installs : 1,000,000+
+ratings :  7667
+reviews :  360
+
+title :  Sonic The Hedgehog 2 Classic
+appId :  com.sega.sonic2.runner
+score :  4.310243
+installs : 10,000,000+
+ratings :  270754
+reviews :  14123
+
+title :  Merge Spider Train
+appId :  merge.choo.choo.horror.train
+score :  4.74359
+installs : 5,000,000+
+ratings :  19991
+reviews :  115
+

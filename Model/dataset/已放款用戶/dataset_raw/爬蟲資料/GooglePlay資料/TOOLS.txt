@@ -1,0 +1,1393 @@
+title :  Wak Master
+appId :  com.wifitool.wifilinmaster
+score :  3.37
+installs : 10,000,000+
+ratings :  4824
+reviews :  58
+
+title :  VFly: video editor&video maker
+appId :  com.ai.bfly
+score :  4.020548
+installs : 50,000,000+
+ratings :  191140
+reviews :  447
+
+title :  All Video Downloader
+appId :  com.policesuit.photoeditor
+score :  4.1287127
+installs : 10,000,000+
+ratings :  18230
+reviews :  12
+
+title :  SuperVPN Fast VPN Client
+appId :  com.jrzheng.supervpnfree
+score :  4.404068
+installs : 100,000,000+
+ratings :  3195850
+reviews :  42271
+
+title :  My Telenor
+appId :  com.telenor.pakistan.mytelenor
+score :  3.8255813
+installs : 10,000,000+
+ratings :  530414
+reviews :  973
+
+title :  EasyConnect
+appId :  com.gnostic.proxy.easy
+score :  4.245399
+installs : 1,000,000+
+ratings :  9778
+reviews :  973
+
+title :  BongaPro
+appId :  com.scanittechlite.tool
+score :  4.355856
+installs : 5,000,000+
+ratings :  10687
+reviews :  525
+
+title :  XY VPN -Security Proxy VPN
+appId :  com.mate.vpn
+score :  4.2709403
+installs : 50,000,000+
+ratings :  293368
+reviews :  5022
+
+title :  FlyMax - StableNet
+appId :  com.vpnproxy.flyvpn
+score :  4.5678353
+installs : 10,000,000+
+ratings :  39151
+reviews :  3442
+
+title :  AppLock
+appId :  com.domobile.applockwatcher
+score :  4.2982593
+installs : 100,000,000+
+ratings :  1174619
+reviews :  9848
+
+title :  Zapya - File Transfer, Share
+appId :  com.dewmobile.kuaiya.play
+score :  4.474432
+installs : 100,000,000+
+ratings :  995350
+reviews :  6086
+
+title :  Q proxy-cute web accelerator
+appId :  com.q.proxy.com
+score :  4.5540895
+installs : 10,000,000+
+ratings :  15860
+reviews :  943
+
+title :  Movie&Video Proxy One-Click
+appId :  com.app.superspeedy
+score :  4.5
+installs : 1,000,000+
+ratings :  3415
+reviews :  171
+
+title :  Tesla Proxy - Unlimited & Safe
+appId :  com.nocardteam.tesla.proxy
+score :  4.408
+installs : 1,000,000+
+ratings :  8672
+reviews :  306
+
+title :  Thumb Access
+appId :  com.lite.thumb.up
+score :  4.1764708
+installs : 10,000,000+
+ratings :  25955
+reviews :  91
+
+title :  SHAREit: Transfer, Share Files
+appId :  com.lenovo.anyshare.gps
+score :  4.250588
+installs : 1,000,000,000+
+ratings :  17771557
+reviews :  53967
+
+title :  Speedy Quark VPN - VPN Master
+appId :  com.speedy.vpn
+score :  4.5777416
+installs : 10,000,000+
+ratings :  135521
+reviews :  1903
+
+title :  DesipaGo
+appId :  com.masterproxy.free
+score :  4.4976587
+installs : 10,000,000+
+ratings :  51698
+reviews :  2659
+
+title :  HideU: Calculator Lock
+appId :  com.calculator.hideu
+score :  4.5408654
+installs : 50,000,000+
+ratings :  371863
+reviews :  1310
+
+title :  OK VPN - Secure & Fast Proxy
+appId :  vpn.free.best.bypass.restrictions.app
+score :  3.8495145
+installs : 10,000,000+
+ratings :  21610
+reviews :  667
+
+title :  All Video Downloader
+appId :  vymate.video.downloader.vmate.vimate.dmate
+score :  4.0857143
+installs : 5,000,000+
+ratings :  10858
+reviews :  25
+
+title :  Flag Proxy-Fast&Stable
+appId :  com.flagvpn.fast
+score :  3.7021277
+installs : 5,000,000+
+ratings :  16185
+reviews :  246
+
+title :  TickTock-TikTok Live Wallpaper
+appId :  com.zhiliao.musically.livewallpaper
+score :  4.722896
+installs : 100,000,000+
+ratings :  896988
+reviews :  17142
+
+title :  Normal Link
+appId :  com.normalproxy.app
+score :  4.4547887
+installs : 10,000,000+
+ratings :  235593
+reviews :  22520
+
+title :  Space Proxy:Fast&Stable
+appId :  com.spaceboost.fast
+score :  4.2204723
+installs : 5,000,000+
+ratings :  19143
+reviews :  1513
+
+title :  Tomato VPN | VPN Proxy
+appId :  com.ironmeta.security.turbo.proxy.vpntomato.pro
+score :  4.4540787
+installs : 50,000,000+
+ratings :  723226
+reviews :  11825
+
+title :  WiFi Eyes-WiFi Analyzer
+appId :  com.wifitest.wifieyes
+score :  3.6019418
+installs : 5,000,000+
+ratings :  3537
+reviews :  141
+
+title :  Proton Proxy-Global Network
+appId :  com.monster.netutil.proxy
+score :  3.2957747
+installs : 1,000,000+
+ratings :  1543
+reviews :  31
+
+title :  VPN Proxy Master - Safer Vpn
+appId :  free.vpn.unblock.proxy.vpn.master.pro
+score :  4.6975584
+installs : 50,000,000+
+ratings :  845434
+reviews :  24313
+
+title :  Leap Proxy-High Speed Network
+appId :  com.blair.speed.leapproxy
+score :  3.6176472
+installs : 10,000,000+
+ratings :  10861
+reviews :  273
+
+title :  Fast QR - QR Code & Easy Link
+appId :  com.fast.unlimited.easy.tool
+score :  4.09434
+installs : 1,000,000+
+ratings :  1286
+reviews :  63
+
+title :  VPN ProMaster - Unlimited Fast
+appId :  com.free.unblock.melon.vpn
+score :  4.37931
+installs : 10,000,000+
+ratings :  127901
+reviews :  3002
+
+title :  Quick Proxy & Fast for Privacy
+appId :  com.max.quickvpn
+score :  4.236776
+installs : 1,000,000+
+ratings :  8005
+reviews :  1285
+
+title :  Daily VPN - Secure VPN Proxy
+appId :  com.get.squidvpn
+score :  4.168018
+installs : 50,000,000+
+ratings :  263216
+reviews :  20794
+
+title :  IronMeta One - Proxy Master
+appId :  com.ironmeta.one
+score :  4.6757894
+installs : 10,000,000+
+ratings :  50808
+reviews :  4167
+
+title :  VD Browser & Video Downloader
+appId :  vpn.video.downloader
+score :  4.227545
+installs : 50,000,000+
+ratings :  497733
+reviews :  1870
+
+title :  NetBoom
+appId :  com.netbooster.proxy
+score :  4.583827
+installs : 10,000,000+
+ratings :  359844
+reviews :  21561
+
+title :  Rain Proxy
+appId :  com.rain.android.rainproxy
+score :  3.43
+installs : 1,000,000+
+ratings :  2003
+reviews :  37
+
+title :  Secure VPN－Safer Internet
+appId :  com.fast.free.unblock.secure.vpn
+score :  4.7390814
+installs : 100,000,000+
+ratings :  1530131
+reviews :  33715
+
+title :  Cyber Proxy -Safe and Stable
+appId :  com.cyber.free.proxy
+score :  3.82
+installs : 10,000,000+
+ratings :  10259
+reviews :  168
+
+title :  QR & Barcode Scanner
+appId :  com.gamma.scan
+score :  4.5247006
+installs : 100,000,000+
+ratings :  2294983
+reviews :  47311
+
+title :  Rainbow App
+appId :  com.rainbowappaprl.vpnrainbowappma
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Clean Master Ultra
+appId :  com.cleanmaster.ultra
+score :  4.052298
+installs : 50,000,000+
+ratings :  431307
+reviews :  2059
+
+title :  Super Proxy Pro
+appId :  com.jnlib.devsapp.vppro
+score :  4.434457
+installs : 1,000,000+
+ratings :  7797
+reviews :  694
+
+title :  RPGVPN
+appId :  com.stomtrylife.free.rpgvpn
+score :  4.1509433
+installs : 5,000,000+
+ratings :  4582
+reviews :  77
+
+title :  GeekNet-Network tool
+appId :  com.geeknethub.tool
+score :  4.190818
+installs : 10,000,000+
+ratings :  24355
+reviews :  2002
+
+title :  Noizz: video editor with music
+appId :  com.yy.biu
+score :  4.3455377
+installs : 100,000,000+
+ratings :  728781
+reviews :  1916
+
+title :  Super VPN - Stable & Fast VPN
+appId :  com.minidev.vpn
+score :  4.557369
+installs : 10,000,000+
+ratings :  250633
+reviews :  34945
+
+title :  Button - Fast & Secure Master
+appId :  com.botton.rapid.connection.tool
+score :  4.3235292
+installs : 1,000,000+
+ratings :  1123
+reviews :  29
+
+title :  WalaVPN-Lite,High speed,Stable
+appId :  com.jamtime.net.android
+score :  3.5980392
+installs : 5,000,000+
+ratings :  2914
+reviews :  59
+
+title :  NetGO - Private Net Access
+appId :  com.proxymaster.vpn
+score :  4.62368
+installs : 10,000,000+
+ratings :  418941
+reviews :  37858
+
+title :  GreenVPN
+appId :  greenvpn.free.proxy.hotspot
+score :  3.3142858
+installs : 1,000,000+
+ratings :  713
+reviews :  11
+
+title :  Turbo VPN - Secure VPN Proxy
+appId :  free.vpn.unblock.proxy.turbovpn
+score :  4.6869383
+installs : 100,000,000+
+ratings :  7605386
+reviews :  152034
+
+title :  Deep Translator
+appId :  com.deep.trans
+score :  3.6666667
+installs : 100,000+
+ratings :  212
+reviews :  4
+
+title :  Fast VPN Proxy Master
+appId :  com.myqr.easytool
+score :  4.233645
+installs : 10,000,000+
+ratings :  7721
+reviews :  68
+
+title :  Touch VPN - Fast Wifi Security
+appId :  com.free.turbo.unlimited.touch.vpn
+score :  4.2915664
+installs : 10,000,000+
+ratings :  64500
+reviews :  1265
+
+title :  VPN Ultra
+appId :  io.vpnultra
+score :  4.075
+installs : 100,000+
+ratings :  178
+reviews :  19
+
+title :  FastNet Proxy
+appId :  com.fastnet.proxy
+score :  4.566296
+installs : 5,000,000+
+ratings :  32740
+reviews :  3005
+
+title :  Phone Master-Master of Clean
+appId :  com.phoneboost.cleaner.pro
+score :  4.21
+installs : 10,000,000+
+ratings :  6288
+reviews :  78
+
+title :  VPN Private
+appId :  free.vpn.private
+score :  4.471674
+installs : 10,000,000+
+ratings :  439272
+reviews :  4661
+
+title :  Sim Owner Details Pakistan
+appId :  com.codingbytes.siminfo
+score :  4.285714
+installs : 500,000+
+ratings :  3755
+reviews :  19
+
+title :  BongaNet-fast tool
+appId :  com.scanittech.tool
+score :  4.359073
+installs : 10,000,000+
+ratings :  21712
+reviews :  861
+
+title :  WAPP Toolbox
+appId :  com.wapp.status.saver
+score :  4.643564
+installs : 10,000,000+
+ratings :  43068
+reviews :  63
+
+title :  LomVPN
+appId :  com.playpopo.lomvpn
+score :  4.293233
+installs : 10,000,000+
+ratings :  28861
+reviews :  492
+
+title :  Grass  Translator & Fast VPN
+appId :  com.grass.despig.vip.app
+score :  4.2
+installs : 100,000+
+ratings :  129
+reviews :  0
+
+title :  Light Net- proxy Tool
+appId :  com.lightqr.code
+score :  4.0358567
+installs : 10,000,000+
+ratings :  22620
+reviews :  542
+
+title :  VPN - Super Unlimited Proxy
+appId :  com.free.vpn.super.hotspot.open
+score :  4.481405
+installs : 50,000,000+
+ratings :  794617
+reviews :  14867
+
+title :  Privacy Applock & Easy Link
+appId :  com.privacy.applock.unlimited
+score :  4.035714
+installs : 5,000,000+
+ratings :  4223
+reviews :  136
+
+title :  Google Translate
+appId :  com.google.android.apps.translate
+score :  4.3297534
+installs : 1,000,000,000+
+ratings :  8685701
+reviews :  182607
+
+title :  JAX VPN: Fast & Secure proxy
+appId :  com.samoukale.jaxvpn
+score :  4.5481367
+installs : 10,000,000+
+ratings :  327134
+reviews :  4307
+
+title :  RavoVPN-Secure&Fast Proxy
+appId :  com.bettertec.ravo.app
+score :  4.5793705
+installs : 50,000,000+
+ratings :  288785
+reviews :  17171
+
+title :  Norton Secure VPN: Wi-Fi Proxy
+appId :  com.symantec.securewifi
+score :  4.3783317
+installs : 10,000,000+
+ratings :  258101
+reviews :  42036
+
+title :  CleanerMaster
+appId :  org.mastercleaner.mctools
+score :  4.243902
+installs : 1,000,000+
+ratings :  9949
+reviews :  15
+
+title :  Key Proxy
+appId :  com.key.tool.proxy
+score :  3.857143
+installs : 100,000+
+ratings :  160
+reviews :  6
+
+title :  Borwap
+appId :  com.tooduproxy.fast
+score :  4.6574073
+installs : 5,000,000+
+ratings :  7410
+reviews :  157
+
+title :  fitpro
+appId :  cn.xiaofengkj.fitpro
+score :  3.129703
+installs : 50,000,000+
+ratings :  298833
+reviews :  5906
+
+title :  AppLock - Lock apps & Pin lock
+appId :  com.alpha.applock
+score :  4.651718
+installs : 100,000,000+
+ratings :  1008960
+reviews :  6557
+
+title :  VPN Fast - Secure VPN Proxy
+appId :  con.hotspot.vpn.free.master
+score :  4.4364643
+installs : 10,000,000+
+ratings :  702928
+reviews :  24544
+
+title :  App lock - Fingerprint lock
+appId :  com.eco.applockfingerprint
+score :  4.455927
+installs : 10,000,000+
+ratings :  101111
+reviews :  983
+
+title :  Remote Control for RokuTV
+appId :  com.begamob.rokuremote
+score :  4.32
+installs : 5,000,000+
+ratings :  117129
+reviews :  1060
+
+title :  WiFi Analyzer : Super Speed
+appId :  com.iwifinetwork.accelerate
+score :  3.9320388
+installs : 1,000,000+
+ratings :  2009
+reviews :  82
+
+title :  Screen Recorder
+appId :  net.diflib.recorderx
+score :  4.5
+installs : 5,000,000+
+ratings :  6310
+reviews :  126
+
+title :  DiskDigger photo recovery
+appId :  com.defianttech.diskdigger
+score :  3.5533528
+installs : 100,000,000+
+ratings :  482810
+reviews :  6791
+
+title :  Wi-Fi monitor - Analyzer
+appId :  com.wifi.monitor.fastover.jd
+score :  4.2391305
+installs : 1,000,000+
+ratings :  2458
+reviews :  11
+
+title :  LightNet Pro
+appId :  com.lightqrpro.code
+score :  4.207921
+installs : 100,000+
+ratings :  523
+reviews :  23
+
+title :  Rapid Cleaner
+appId :  rpd.rapidcleaner.app
+score :  4.140351
+installs : 10,000,000+
+ratings :  100747
+reviews :  420
+
+title :  GB Version APK 2023
+appId :  com.gbwhats.appver1
+score :  4.361111
+installs : 100,000+
+ratings :  1087
+reviews :  85
+
+title :  Super WiFi Analyzer - Proxy
+appId :  com.wifi.analyzer.helper
+score :  4.392857
+installs : 500,000+
+ratings :  666
+reviews :  7
+
+title :  All Format HD Video Player
+appId :  jetaudio.playerpro.music.nrg
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Video Downloader
+appId :  com.twittervideos.downloader
+score :  4.402062
+installs : 5,000,000+
+ratings :  4691
+reviews :  16
+
+title :  Lighting VPN：Unlimited Proxy
+appId :  com.easy.qrcode.scan.android
+score :  4.4545455
+installs : 1,000,000+
+ratings :  822
+reviews :  1
+
+title :  All Movie & Video Downloader
+appId :  mansuit.photoeditor.photomontage
+score :  4.65
+installs : 1,000,000+
+ratings :  2415
+reviews :  3
+
+title :  Video Downloader for TK
+appId :  tiktok.tiktokvideodownloader.savetiktokvideo.nowatermark
+score :  3.6601942
+installs : 5,000,000+
+ratings :  10356
+reviews :  72
+
+title :  Global VPN - Unlimited & Safe
+appId :  com.smart.nord.global.vpn
+score :  4.4903846
+installs : 1,000,000+
+ratings :  4348
+reviews :  151
+
+title :  Gallery Photo Video Album
+appId :  com.simplegallery.imagevideogallery
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  File Recovery - Restore Files
+appId :  net.filerecover.app
+score :  4.1014924
+installs : 50,000,000+
+ratings :  89670
+reviews :  1092
+
+title :  Gallery - Photo Gallery App
+appId :  gallery.hidepictures.photovault.lockgallery
+score :  4.7966013
+installs : 10,000,000+
+ratings :  505905
+reviews :  5930
+
+title :  GB Version: Status Saver
+appId :  com.StatusSaver.whatsapp
+score :  4.1153846
+installs : 1,000,000+
+ratings :  3195
+reviews :  7
+
+title :  Microsoft Defender
+appId :  com.microsoft.scmx
+score :  4.3976607
+installs : 1,000,000+
+ratings :  7033
+reviews :  511
+
+title :  Max VPN - Fast & Stable Proxy
+appId :  com.maxvpn.new
+score :  4.5246634
+installs : 1,000,000+
+ratings :  6154
+reviews :  559
+
+title :  Clock Vault-Hide Photos,Videos
+appId :  ws.clockthevault
+score :  4.390181
+installs : 10,000,000+
+ratings :  184708
+reviews :  1411
+
+title :  Fing - Network Tools
+appId :  com.overlook.android.fing
+score :  4.0102887
+installs : 10,000,000+
+ratings :  370392
+reviews :  14183
+
+title :  Calculator Vault, Gallery Lock
+appId :  com.taymay.calculator.vault
+score :  4.42
+installs : 1,000,000+
+ratings :  9781
+reviews :  35
+
+title :  ZArchiver
+appId :  ru.zdevs.zarchiver
+score :  4.3776264
+installs : 100,000,000+
+ratings :  1280847
+reviews :  14054
+
+title :  Applock - Fingerprint lock
+appId :  com.hidephoto.hidevideo.applock
+score :  4.51
+installs : 5,000,000+
+ratings :  45040
+reviews :  21
+
+title :  Phone Cleaner - Remove Junk
+appId :  com.acts.phone.cleandoider.storage
+score :  3.8888888
+installs : 500,000+
+ratings :  2872
+reviews :  18
+
+title :  Blood Pressure Healthy - Vpn
+appId :  com.blood.four.bloodpressurehealthy
+score :  4.2
+installs : 100,000+
+ratings :  226
+reviews :  0
+
+title :  Fast VPN Pro - Fast & Secure
+appId :  com.vpnmasterx.pro
+score :  4.4366813
+installs : 50,000,000+
+ratings :  96571
+reviews :  1425
+
+title :  Phone 14 Launcher, OS 16
+appId :  com.launcher.ios11.iphonex
+score :  4.58984
+installs : 50,000,000+
+ratings :  1021582
+reviews :  19021
+
+title :  File Recovery - Photo Recovery
+appId :  filerecovery.photosrecovery.allrecovery
+score :  4.5740743
+installs : 5,000,000+
+ratings :  53048
+reviews :  727
+
+title :  Terabox: Cloud Storage Space
+appId :  com.dubox.drive
+score :  4.575468
+installs : 100,000,000+
+ratings :  1972762
+reviews :  14459
+
+title :  Calculator - Hide Photo, Video
+appId :  com.calculator.lock.hide.photo.video
+score :  4.733333
+installs : 10,000,000+
+ratings :  104644
+reviews :  230
+
+title :  Calculator Vault
+appId :  app.vault.android.app
+score :  4.2056074
+installs : 5,000,000+
+ratings :  6692
+reviews :  124
+
+title :  Knight Star
+appId :  com.knight.play
+score :  3.4927535
+installs : 5,000,000+
+ratings :  4353
+reviews :  15
+
+title :  X-VPN - Private Browser VPN
+appId :  com.security.xvpn.z35kb
+score :  4.2746854
+installs : 10,000,000+
+ratings :  549207
+reviews :  19155
+
+title :  Flashlight
+appId :  com.splendapps.torch
+score :  4.5121164
+installs : 50,000,000+
+ratings :  592310
+reviews :  3556
+
+title :  AI Proxy - Smart Safe Internet
+appId :  com.ironmeta.ai.proxy
+score :  4.368421
+installs : 100,000+
+ratings :  393
+reviews :  15
+
+title :  VPN 3000: Ultra Fast & Secure
+appId :  com.gi.vpn
+score :  4.24
+installs : 1,000,000+
+ratings :  14013
+reviews :  92
+
+title :  iScanner - QRCode Barcode Scan
+appId :  com.i.scanner
+score :  4.0873785
+installs : 5,000,000+
+ratings :  23127
+reviews :  29
+
+title :  Woof VPN - Fast Secure Proxy
+appId :  com.familymembers.loyalty
+score :  4
+installs : 1,000,000+
+ratings :  565
+reviews :  3
+
+title :  Fast Turbo VPN - Secure VPN
+appId :  com.vpnmasterapp.fastturbovpn
+score :  4.2091503
+installs : 1,000,000+
+ratings :  15567
+reviews :  573
+
+title :  X Proxy - Xxxx Private VPN
+appId :  com.indiafreevpnu.app
+score :  4.14
+installs : 1,000,000+
+ratings :  4516
+reviews :  22
+
+title :  Wifi Analyzer - Fast & Secure
+appId :  com.wifianalyzer.secure.proxy
+score :  3.7403846
+installs : 5,000,000+
+ratings :  7070
+reviews :  83
+
+title :  VPN Proxy - Fast Secure Proxy
+appId :  com.vpnmasterx.free
+score :  4.519031
+installs : 50,000,000+
+ratings :  60343
+reviews :  907
+
+title :  Calculator Lock - Hide App
+appId :  com.calculatorhideapp.hideucalculator.calculatorapphider.calculatorlock.calculatorvault
+score :  4.568182
+installs : 500,000+
+ratings :  1749
+reviews :  16
+
+title :  App Lock - Lock Apps, Password
+appId :  applock.lockapps.fingerprint.password.locker
+score :  4.8111887
+installs : 10,000,000+
+ratings :  433193
+reviews :  4087
+
+title :  WiFi QrCode Password scanner
+appId :  com.techtool.wifiqrcodepasswordscanner
+score :  4.480392
+installs : 10,000,000+
+ratings :  56136
+reviews :  294
+
+title :  VidMad - Video downloader
+appId :  com.viddown.allvideosdownloader
+score :  4.4851484
+installs : 5,000,000+
+ratings :  41595
+reviews :  30
+
+title :  Hello Translate:All Language
+appId :  com.translate.helloworld
+score :  3.5643563
+installs : 1,000,000+
+ratings :  1205
+reviews :  35
+
+title :  WIFI Assistant - Speed Test
+appId :  com.verygood.wifiassistant
+score :  4.2
+installs : 500,000+
+ratings :  284
+reviews :  1
+
+title :  3X VPN - Unlimited & Safe
+appId :  com.free.unlimited.lemon.vpn
+score :  4.160452
+installs : 50,000,000+
+ratings :  325169
+reviews :  5345
+
+title :  Hi VPN - Proxy Tool
+appId :  com.hi.proxyserver.vpn.fast.master
+score :  4.2380953
+installs : 500,000+
+ratings :  369
+reviews :  22
+
+title :  Sail Private: Fast Secure VPN
+appId :  com.floccinaucini.slubberdegullion
+score :  4.3846154
+installs : 500,000+
+ratings :  406
+reviews :  1
+
+title :  Phone Junk Cleaner
+appId :  com.speed.boost.phone.clean.factsles
+score :  4.09
+installs : 1,000,000+
+ratings :  5617
+reviews :  23
+
+title :  Turbo VPN Lite - VPN Proxy
+appId :  free.vpn.unblock.proxy.turbovpn.lite
+score :  4.664396
+installs : 50,000,000+
+ratings :  558368
+reviews :  11651
+
+title :  Gallery
+appId :  com.photos.gallery.gallerypro
+score :  4.17
+installs : 1,000,000+
+ratings :  12543
+reviews :  39
+
+title :  rubikvpn
+appId :  com.rubikapps.rubikvpn
+score :  4.34
+installs : 5,000,000+
+ratings :  3987
+reviews :  83
+
+title :  ChatAi GDT - Ai Chat, Ai Bot
+appId :  com.aichatbotgpt.smartchatbot
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Bing - Your AI copilot
+appId :  com.microsoft.bing
+score :  4.4395256
+installs : 10,000,000+
+ratings :  332259
+reviews :  40809
+
+title :  Snap VPN: Super Fast VPN Proxy
+appId :  free.vpn.unblock.proxy.vpnpro
+score :  4.5028787
+installs : 50,000,000+
+ratings :  665621
+reviews :  19235
+
+title :  Calculator Lock Calculator App
+appId :  calculatorlock.calculatorvault.secretcalculator.calculatorlockapphider
+score :  4.352697
+installs : 10,000,000+
+ratings :  110159
+reviews :  1845
+
+title :  Fast VPN -Security Proxy VPN
+appId :  com.fast.free.smart.vpn
+score :  3.8148148
+installs : 100,000+
+ratings :  157
+reviews :  12
+
+title :  Google Find My Device
+appId :  com.google.android.apps.adm
+score :  4.400757
+installs : 100,000,000+
+ratings :  1203750
+reviews :  29591
+
+title :  Point Proxy Server - Fast VPN
+appId :  com.fascinated.captivated
+score :  4.8
+installs : 500,000+
+ratings :  419
+reviews :  5
+
+title :  WhatsDelete: Recover Messages
+appId :  the.hexcoders.whatsdelete
+score :  4.178218
+installs : 5,000,000+
+ratings :  69443
+reviews :  644
+
+title :  Sticker maker
+appId :  com.marsvard.stickermakerforwhatsapp
+score :  4.600956
+installs : 100,000,000+
+ratings :  1748918
+reviews :  6115
+
+title :  Yoga VPN -Secure Proxy VPN
+appId :  com.yogavpn
+score :  4.5641556
+installs : 10,000,000+
+ratings :  542397
+reviews :  30785
+
+title :  Vold Speed
+appId :  com.voldspeed.fast
+score :  4.509524
+installs : 10,000,000+
+ratings :  14157
+reviews :  389
+
+title :  Files by Google
+appId :  com.google.android.apps.nbu.files
+score :  4.637706
+installs : 1,000,000,000+
+ratings :  7005861
+reviews :  162249
+
+title :  AVG AntiVirus & Security
+appId :  com.antivirus
+score :  4.753413
+installs : 100,000,000+
+ratings :  7672273
+reviews :  294520
+
+title :  Deleted Photo Recovery App
+appId :  com.za.photo.recovery.restore.images
+score :  4.240506
+installs : 5,000,000+
+ratings :  73088
+reviews :  302
+
+title :  FlyProxy - Safe & Stable
+appId :  com.flyproxy.speedmaster
+score :  4.7628865
+installs : 1,000,000+
+ratings :  4968
+reviews :  381
+
+title :  App Lock & Guard - AppLock
+appId :  applock.fingerprintpassword.applockz
+score :  4.6930695
+installs : 1,000,000+
+ratings :  9551
+reviews :  69
+
+title :  Flashlight: LED Torch Light
+appId :  com.flashlight.stroboscope.brightled
+score :  2.8333333
+installs : 100,000+
+ratings :  432
+reviews :  2
+
+title :  Slaynet
+appId :  com.slaynetproxy.free
+score :  4.2815533
+installs : 500,000+
+ratings :  1406
+reviews :  52
+
+title :  2Accounts - Dual Apps Space
+appId :  com.excelliance.multiaccount
+score :  4.386667
+installs : 10,000,000+
+ratings :  176601
+reviews :  2102
+
+title :  Vimate Video Downloader
+appId :  com.aas.mehndidesigns
+score :  4.2
+installs : 50,000+
+ratings :  251
+reviews :  2
+
+title :  Flash Alert - Flash App
+appId :  com.applus.torch.light.flashlight.flashalert
+score :  4.83
+installs : 500,000+
+ratings :  3664
+reviews :  15
+
+title :  Snap - tubè Video Downloader
+appId :  com.snptubeapk.tubevideo.downloader
+score :  4.3333335
+installs : 100,000+
+ratings :  358
+reviews :  4
+
+title :  Video Downloader
+appId :  com.social.videodownloader.alldownloader
+score :  4.3636365
+installs : 1,000,000+
+ratings :  8408
+reviews :  19
+
+title :  Rider VPN-betternet proxy
+appId :  com.gracy.cherish
+score :  5
+installs : 100,000+
+ratings :  55
+reviews :  1
+
+title :  HiwatchPro
+appId :  com.legend.hiwatchpro.app
+score :  2.96
+installs : 1,000,000+
+ratings :  11502
+reviews :  87
+
+title :  Status Saver: Video Downloader
+appId :  savestatus.videodownloader.storysaver.statuskeeper
+score :  4.78
+installs : 5,000,000+
+ratings :  13242
+reviews :  199
+
+title :  Music Video Editor - Vidshow
+appId :  music.video.photo.slideshow.maker
+score :  4.702857
+installs : 10,000,000+
+ratings :  83342
+reviews :  660
+
+title :  Status Saver・Status Downloader
+appId :  com.falnesc.statussaver
+score :  4.2352943
+installs : 500,000+
+ratings :  3264
+reviews :  1
+
+title :  Calculator Lock - Hide Photos
+appId :  com.tuffytechnos.calculatorvault
+score :  4.117647
+installs : 100,000+
+ratings :  1445
+reviews :  4
+
+title :  Fast VPN - Fast & Secure Proxy
+appId :  com.vpnmasterx.fast
+score :  4.635638
+installs : 50,000,000+
+ratings :  62081
+reviews :  1362
+
+title :  QR Code & Barcode Scanner
+appId :  com.vertigo.studio.qrcode
+score :  4.2
+installs : 100,000+
+ratings :  192
+reviews :  6
+
+title :  Fly Net proxy
+appId :  com.proxy.fly
+score :  4.588608
+installs : 5,000,000+
+ratings :  18670
+reviews :  1644
+
+title :  Funny prank soundboard
+appId :  com.bigqsys.pranksound
+score :  3.3875
+installs : 1,000,000+
+ratings :  3360
+reviews :  12
+
+title :  PTA CMS
+appId :  pk.gov.pta.cms
+score :  2.25
+installs : 500,000+
+ratings :  1893
+reviews :  21
+
+title :  All Video Downloader
+appId :  com.myvideo.mydownloader.social
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Google Authenticator
+appId :  com.google.android.apps.authenticator2
+score :  3.6062572
+installs : 100,000,000+
+ratings :  442979
+reviews :  16709
+
+title :  File Recover
+appId :  filerecover.restorefile.datarecovery
+score :  4.6153846
+installs : 500,000+
+ratings :  377
+reviews :  1
+
+title :  Auto Clicker - Automatic tap
+appId :  com.truedevelopersstudio.automatictap.autoclicker
+score :  4.3895073
+installs : 50,000,000+
+ratings :  457600
+reviews :  11941
+
+title :  Memix - Make memes fast
+appId :  com.irl.memix.android
+score :  4.76
+installs : 100,000+
+ratings :  2431
+reviews :  26
+
+title :  Servers for Minecraft PE Tools
+appId :  com.xenonstudio.serversformcpe
+score :  3.4757283
+installs : 10,000,000+
+ratings :  48470
+reviews :  436
+
+title :  Phone Cleaner: Virus Cleaner
+appId :  phonecleaner.androidmaster.cleanupspace.phone.booster
+score :  4.4804754
+installs : 50,000,000+
+ratings :  289382
+reviews :  2058
+
+title :  Thunder VPN - Fast, Safe VPN
+appId :  com.fast.free.unblock.thunder.vpn
+score :  4.7321835
+installs : 50,000,000+
+ratings :  1317995
+reviews :  46792
+
+title :  Fox Speed VPN
+appId :  com.nltdev.foxapps.spedvp
+score :  4.45
+installs : 1,000,000+
+ratings :  3293
+reviews :  166
+
+title :  SpotifyNet
+appId :  com.spotifyproxy.fast
+score :  4
+installs : 100,000+
+ratings :  472
+reviews :  23
+
+title :  Save Video Status - WA Status
+appId :  recover.deleted.messages.messagesrestore
+score :  4.708108
+installs : 10,000,000+
+ratings :  249022
+reviews :  615
+
+title :  Super Cleaner
+appId :  com.cleaner.booster.battery.security.master
+score :  4.35
+installs : 10,000,000+
+ratings :  19549
+reviews :  122
+
+title :  Melon VPN - Unblock Proxy VPN
+appId :  com.vpnbottle.melon.free.unblock.fast.vpn
+score :  4.1392407
+installs : 10,000,000+
+ratings :  244609
+reviews :  6733
+
+title :  Automatic Call Recorder
+appId :  com.appstar.callrecorder
+score :  3.6893547
+installs : 100,000,000+
+ratings :  2597617
+reviews :  55032
+
+title :  Voice Screen Lock & Voice Lock
+appId :  com.lutech.voicescreenlock
+score :  4
+installs : 1,000,000+
+ratings :  3953
+reviews :  73
+
+title :  Jazz Drive - Unlimited Storage
+appId :  com.jazz.androidsync
+score :  4.0833335
+installs : 1,000,000+
+ratings :  3779
+reviews :  3
+
+title :  Xender - Share Music Transfer
+appId :  cn.xender
+score :  4.4672627
+installs : 100,000,000+
+ratings :  3662733
+reviews :  14215
+
+title :  Mods for Minecraft PE: Toolbox
+appId :  com.ebool.mcpe.mods
+score :  3.5625
+installs : 500,000+
+ratings :  490
+reviews :  10
+
+title :  Phone Master–Junk Clean Master
+appId :  com.transsion.phonemaster
+score :  4.40106
+installs : 500,000,000+
+ratings :  2190222
+reviews :  8379
+
+title :  App Lock - Lock & Unlock Apps
+appId :  app.locker.android.app
+score :  4.7
+installs : 5,000,000+
+ratings :  9112
+reviews :  200
+
+title :  Master VPN-Translate All
+appId :  com.translate.languageall
+score :  3.9411764
+installs : 5,000,000+
+ratings :  3237
+reviews :  51
+
+title :  Cast to TV & Screen Mirroring
+appId :  com.casttotv.screenmirroring.smarttv.castvideo
+score :  4.448276
+installs : 10,000,000+
+ratings :  53367
+reviews :  940
+
+title :  EHSAAS Program Register 7000
+appId :  com.ehsaspackage7k.pm7kehsaas
+score :  4.6
+installs : 100,000+
+ratings :  1289
+reviews :  3
+
+title :  Video Downloader App
+appId :  video.downloader.storydownloader
+score :  4.3207545
+installs : 1,000,000+
+ratings :  6810
+reviews :  6
+
+title :  SD Maid - System Cleaning Tool
+appId :  eu.thedarken.sdm
+score :  4.3735533
+installs : 10,000,000+
+ratings :  282638
+reviews :  10773
+
+title :  UPX: Unblock Sites VPN Browser
+appId :  net.upx.proxy.browser
+score :  4.3830733
+installs : 5,000,000+
+ratings :  111662
+reviews :  1818
+
+title :  FastVid: Video Downloader for 
+appId :  fb.video.downloader
+score :  4.3157663
+installs : 100,000,000+
+ratings :  2874464
+reviews :  16678
+
+title :  Phone Number Locator Caller id
+appId :  com.mobile.number.locator.phone.caller.location
+score :  4.485475
+installs : 50,000,000+
+ratings :  1494235
+reviews :  11421
+

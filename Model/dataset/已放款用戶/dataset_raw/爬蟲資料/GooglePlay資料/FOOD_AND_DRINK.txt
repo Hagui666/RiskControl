@@ -1,0 +1,1393 @@
+title :  foodpanda: food & groceries
+appId :  com.global.foodpanda.android
+score :  3.9920118
+installs : 100,000,000+
+ratings :  3023512
+reviews :  8561
+
+title :  KFC Pakistan
+appId :  io.bramerz.kfc
+score :  2.6086957
+installs : 1,000,000+
+ratings :  5161
+reviews :  12
+
+title :  McDonald's
+appId :  com.mcdonalds.mobileapp
+score :  3.6852887
+installs : 100,000,000+
+ratings :  530842
+reviews :  1950
+
+title :  Jazz DiscountBazar
+appId :  pk.com.mobilink.bizstore
+score :  3.6
+installs : 1,000,000+
+ratings :  14760
+reviews :  33
+
+title :  Cheezious
+appId :  com.blink.cheezious
+score :  4.72
+installs : 100,000+
+ratings :  17896
+reviews :  38
+
+title :  Domino's Pizza Pakistan
+appId :  pk.com.dominos
+score :  2.6086957
+installs : 100,000+
+ratings :  1379
+reviews :  11
+
+title :  Broadway Pizza Official
+appId :  com.broadwaypizza.app
+score :  4.4411764
+installs : 100,000+
+ratings :  3440
+reviews :  7
+
+title :  Pizza Max
+appId :  com.creativedrop.pizza_max
+score :  4.1923075
+installs : 100,000+
+ratings :  4016
+reviews :  6
+
+title :  Savour Foods
+appId :  com.blink.savourfoods
+score :  4.6842103
+installs : 50,000+
+ratings :  2865
+reviews :  7
+
+title :  McDelivery Pakistan
+appId :  pk.com.mcdelivery
+score :  2.7936509
+installs : 1,000,000+
+ratings :  8098
+reviews :  28
+
+title :  OPTP - Official Delivery App
+appId :  optp.simplexyumapp
+score :  2.142857
+installs : 100,000+
+ratings :  423
+reviews :  6
+
+title :  Byte - Online Food Delivery
+appId :  com.byte.customer
+score :  4.35
+installs : 1,000,000+
+ratings :  20207
+reviews :  44
+
+title :  Cheetay - Grocery Shopping
+appId :  com.app.cheetay
+score :  3.69
+installs : 1,000,000+
+ratings :  37432
+reviews :  187
+
+title :  Futafut Prime
+appId :  com.futafut.customerappbeta
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Doctor Saucy
+appId :  com.blink.doctorsaucy
+score :  3.6666667
+installs : 10,000+
+ratings :  700
+reviews :  3
+
+title :  Burger Lab
+appId :  com.blink.burgerlab
+score :  4.4848485
+installs : 100,000+
+ratings :  2846
+reviews :  9
+
+title :  Pizza Hut KWT - Order Food Now
+appId :  com.pizzahut.kuwait
+score :  3.88
+installs : 100,000+
+ratings :  5966
+reviews :  86
+
+title :  Uber Eats: Food Delivery
+appId :  com.ubercab.eats
+score :  4.3681636
+installs : 100,000,000+
+ratings :  5062707
+reviews :  296031
+
+title :  California Pizza
+appId :  com.indolj.californiapizza
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Zomato: Food Delivery & Dining
+appId :  com.application.zomato
+score :  4.1648326
+installs : 100,000,000+
+ratings :  7885360
+reviews :  11751
+
+title :  talabat: Food & Groceries
+appId :  com.talabat
+score :  3.9469092
+installs : 10,000,000+
+ratings :  333492
+reviews :  4546
+
+title :  KFC Suriname
+appId :  com.foodbooking.kfcsuriname
+score :  3.09
+installs : 1,000,000+
+ratings :  1761
+reviews :  52
+
+title :  Hungerstation
+appId :  com.hungerstation.android.web
+score :  4.1076922
+installs : 10,000,000+
+ratings :  206662
+reviews :  904
+
+title :  Howdy Pakistan
+appId :  com.tossdown.howdy
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  KFC Saudi Arabia
+appId :  com.kfc.ksa
+score :  4.4
+installs : 1,000,000+
+ratings :  18493
+reviews :  72
+
+title :  Eat Up - Food Delivery
+appId :  app.fooddelivery.eatup
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Pizza Point
+appId :  com.indolj.pizzapoint
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  KFC UAE (United Arab Emirates)
+appId :  com.kfc.me
+score :  4.44
+installs : 1,000,000+
+ratings :  20596
+reviews :  87
+
+title :  Pakistani food Urdu recipes
+appId :  com.Technospart.UrduRecipes
+score :  4.571429
+installs : 500,000+
+ratings :  1590
+reviews :  4
+
+title :  14th Street Pizza
+appId :  com.fourteenstreetpizzaco.fourteenstreetpizzaco
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Dangal Indian Takeaway
+appId :  ie.flipdish.fd13981
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Zapp - Shop Anytime Anywhere
+appId :  com.app.zapp
+score :  4
+installs : 100,000+
+ratings :  12380
+reviews :  7
+
+title :  Layers Bakeshop
+appId :  pk.layers.twa
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Tasty
+appId :  com.buzzfeed.tasty
+score :  4.780404
+installs : 10,000,000+
+ratings :  171267
+reviews :  25642
+
+title :  Whites Castle
+appId :  com.whitescastle
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Pie In The Sky
+appId :  com.blink.pits
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Jawa
+appId :  com.blink.jawa
+score :  5
+installs : 10,000+
+ratings :  383
+reviews :  1
+
+title :  Daily Deli
+appId :  com.tossdown.dailydeli
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Al Kaif Pizza
+appId :  com.blink.alkaifpizza
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Sweet Creme
+appId :  com.blink.sweetcreme
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Cooking Cakes Bakery Desserts
+appId :  com.girls.fashion.entertainment.Cooking.Kingdom.Food.Empire.My.Sweet.Bakery.Shop
+score :  4.285714
+installs : 100,000+
+ratings :  551
+reviews :  1
+
+title :  Pizza Hut UAE - Order Food Now
+appId :  com.pizzahutapp
+score :  3.3235295
+installs : 500,000+
+ratings :  5586
+reviews :  91
+
+title :  FreshIn
+appId :  com.app.freshbox
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Food Fusion
+appId :  com.foodfusion.foodfusion
+score :  4.5263157
+installs : 100,000+
+ratings :  1907
+reviews :  4
+
+title :  NY212
+appId :  com.ny212.app
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Eastern Oven
+appId :  com.indolj.easternoven
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Kababjees
+appId :  com.blink.kababjeesbakers
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Cravings
+appId :  com.rolixtech.cravings
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Lunch Recipes
+appId :  com.cookware.lunchrecipes
+score :  4.66
+installs : 1,000,000+
+ratings :  6194
+reviews :  119
+
+title :  KFC Qatar - Order food online
+appId :  com.kfc.qatar
+score :  4.7647057
+installs : 1,000,000+
+ratings :  6294
+reviews :  8
+
+title :  Dunkin' Pk
+appId :  com.blink.dunkindonuts
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  New Yorker Pizza
+appId :  com.newyorkerpizza
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Fri Chicks
+appId :  com.indolj.frichicks
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Darewro
+appId :  com.darewro.customer
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Pattern: Loyalty & Discounts
+appId :  app.pattern
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ramadan Recipes in Urdu - 2023
+appId :  com.ilib.easy.tasty.recipes
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Delivery Champs
+appId :  com.waantech.deliverychamps
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Helper Bazar
+appId :  com.hb.services.helper_bazar
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  TaytoCafé - Casual Dining Café
+appId :  com.taytoapps.ordering
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Deliveroo: Food Delivery UK
+appId :  com.deliveroo.orderapp
+score :  4.4755077
+installs : 10,000,000+
+ratings :  966817
+reviews :  1392
+
+title :  Hot N Spicy
+appId :  com.indolj.hotnspicy
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Jazeera Foods
+appId :  com.jazeerafoods.twa
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Dastak - Food App
+appId :  com.dastak
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  United King
+appId :  com.indolj.unitedking
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  zarrasha
+appId :  com.zarrasha.customer
+score :  4.2
+installs : 10,000+
+ratings :  317
+reviews :  5
+
+title :  McDonald's Hong Kong
+appId :  com.mcdonalds.gma.hongkong
+score :  3.5897436
+installs : 1,000,000+
+ratings :  32162
+reviews :  23
+
+title :  Saffron Foodies
+appId :  com.blink.saffronfoodies
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Domino's Pizza Bangladesh
+appId :  com.dominos.bd
+score :  4.34
+installs : 500,000+
+ratings :  4464
+reviews :  50
+
+title :  Pakistani Food Calories
+appId :  com.atrule.calorieapp
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Cookbook Recipes
+appId :  com.riatech.cookbook
+score :  4.4150944
+installs : 5,000,000+
+ratings :  50989
+reviews :  1894
+
+title :  Healthy Smoothie: 500+ Recipes
+appId :  com.kiransmoothie.kiranchavan.juicerecipe
+score :  4.4615383
+installs : 1,000,000+
+ratings :  6331
+reviews :  590
+
+title :  Kababjees
+appId :  com.mikronexus.onlineordering.kababjees
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Al Baik Pakistan
+appId :  pk.albaikpakistan.albaikpakistan
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Royal Taj
+appId :  com.techworks.royaltaj
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Dip N Bite
+appId :  com.blink.dipnbite
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Laziz Pizza Order Online
+appId :  com.lazizpizza.app
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  KFC Kuwait - Order Food Online
+appId :  com.kfc.kwt
+score :  4.27
+installs : 1,000,000+
+ratings :  7688
+reviews :  54
+
+title :  Pakistani Food Recipes in Urdu
+appId :  mypakistanifoodrecipesapp.com
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Cake Maker Sweet Bakery Games
+appId :  com.kw.cakebaking.kitchen.decorate
+score :  4.1929827
+installs : 1,000,000+
+ratings :  3931
+reviews :  42
+
+title :  Pizza Bank Online Ordering App
+appId :  pk.pizzabank.app
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Rehmat-e-Shereen
+appId :  com.tossdown.rehmateshereen
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  MR. COD PAKISTAN
+appId :  com.blink.mrcod
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  HungryPanda: Food Delivery
+appId :  com.hungrypanda.waimai
+score :  2.8662791
+installs : 500,000+
+ratings :  7305
+reviews :  1363
+
+title :  Pizza Hut KSA - Order Food Now
+appId :  com.pizzahut.ksa
+score :  3.75
+installs : 50,000+
+ratings :  256
+reviews :  3
+
+title :  Subway Crawley
+appId :  ie.flipdish.fd18196
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Kitchen Stories: Easy Recipes
+appId :  com.ajnsnewmedia.kitchenstories
+score :  4.598616
+installs : 1,000,000+
+ratings :  33665
+reviews :  685
+
+title :  What a Paratha
+appId :  com.blink.whataparatha
+score :  3.9
+installs : 10,000+
+ratings :  380
+reviews :  3
+
+title :  OD Pakistan
+appId :  com.blink.odonuts
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  gsgt.pk
+appId :  com.blink.gharseghartak
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  All in One Food Delivery App |
+appId :  order.food.online.delivery.offers.deals
+score :  3.701087
+installs : 1,000,000+
+ratings :  15223
+reviews :  569
+
+title :  Downtown Bistro
+appId :  com.techandaz.downtown
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Kaybees
+appId :  com.indolj.kaybees
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Flame On
+appId :  com.blink.flameonpk
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Pizza Online
+appId :  com.mCode.PizzaOnlineApp
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  دومينوز بيتزا Domino’s Pizza
+appId :  com.dominos.sa
+score :  3.31
+installs : 1,000,000+
+ratings :  25162
+reviews :  228
+
+title :  Forks N Knives
+appId :  com.blink.forksnknivespizzaryk
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Grab and Go Delivery Service
+appId :  com.ukk.GrabAndGo
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Vita Cafe
+appId :  com.vitaboutique.app
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Eatery – Cornell Dining
+appId :  com.cornellappdev.android.eatery
+score :  3.6818182
+installs : 10,000+
+ratings :  34
+reviews :  10
+
+title :  Pakistani Recipes Book in Urdu
+appId :  com.urdu29
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  OpenTable
+appId :  com.opentable
+score :  4.6662564
+installs : 10,000,000+
+ratings :  154424
+reviews :  45579
+
+title :  Mubarak Restaurant
+appId :  biz.wattoo.mubarak
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Delizia
+appId :  com.blink.delizia
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Thenga - Dhoondo! Rate Karo!
+appId :  com.renotech.thenga
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Lahore Broast
+appId :  com.blink.lahorebroast
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Martvers
+appId :  com.ai.supermart
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  KFC Bangladesh
+appId :  com.aamra.kfc.bd.kfc_bd
+score :  2.3333333
+installs : 100,000+
+ratings :  461
+reviews :  3
+
+title :  Karachi Haleem
+appId :  com.indolj.karachihaleem
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Yasir Broast
+appId :  com.indolj.yasirbroast
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Hardee's UAE-Order online
+appId :  com.hardees.uae
+score :  2.9824562
+installs : 100,000+
+ratings :  2570
+reviews :  28
+
+title :  Burger O Clock
+appId :  com.burgeroclock.restaurant.food
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Pie Recipes
+appId :  com.dil.pierecipes
+score :  4.509091
+installs : 100,000+
+ratings :  955
+reviews :  22
+
+title :  All Food Delivery App
+appId :  com.ssr.techno.fooddeliverymixer
+score :  3.8333333
+installs : 10,000+
+ratings :  38
+reviews :  1
+
+title :  MyFridgeFood
+appId :  com.phonegap.myfridgefood
+score :  2.92
+installs : 100,000+
+ratings :  293
+reviews :  69
+
+title :  Chunk N Cheese
+appId :  com.blink.chunkncheese
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Online Pizza Order Offer India
+appId :  com.dominos.in.offer.app
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Timmy's
+appId :  com.timmys.android
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  HaleemGhar
+appId :  pk.com.haleemghar.customer
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Supermeal - food ordering
+appId :  waqartech.supermeal.consumer
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Student Biryani Pakistan
+appId :  com.indolj.studentbiryani
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Urdu Recipe Guidelines
+appId :  com.itappcoding.recipeguidlines
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Budget Bytes: Easy Recipes
+appId :  com.sidechef.sidechef.partner.budgetbytes
+score :  4.721212
+installs : 100,000+
+ratings :  2817
+reviews :  608
+
+title :  HFC
+appId :  com.findurmeal.hfc
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Pakistani Urdu Recipes
+appId :  com.bluebrains.pakistanirecipes
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Grabz
+appId :  com.app.grabz
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Karachi Broast
+appId :  com.indolj.karachibroast
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Nando's Pakistan
+appId :  com.blink.nandospk
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  FoodCourt: Food Delivery+
+appId :  com.cokitchen.foodcourt
+score :  4.4
+installs : 10,000+
+ratings :  337
+reviews :  2
+
+title :  Drink simulator juice cocktail
+appId :  com.ostrich.studio.drink_juice_cocktail_simulator
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Chicky Cheese
+appId :  com.blink.chickycheese
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Cookpad: Find & Share Recipes
+appId :  com.mufumbo.android.recipe.search
+score :  4.5969067
+installs : 10,000,000+
+ratings :  310930
+reviews :  9227
+
+title :  Delivery On Time
+appId :  com.inceptory.delivery_on_time
+score :  5
+installs : 100,000+
+ratings :  758
+reviews :  5
+
+title :  Pakistani Recipes in Urdu 2023
+appId :  com.nextguidance.pakistanifoodrecipes.foodeasyrecipesurdu
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Forks n Knives
+appId :  com.octek.deliveryx.fnk
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Bala Tikka House App
+appId :  com.bala.tikka
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Ninja Grocery
+appId :  com.ananinja.lava
+score :  4.5555553
+installs : 100,000+
+ratings :  1067
+reviews :  6
+
+title :  All Sweet Recipes in Urdu
+appId :  com.hrghazali.allsweetrecipesinurdu
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Almaida BWP
+appId :  com.octek.deliveryx.almaida
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  EatSure - Online Food Delivery
+appId :  com.done.faasos
+score :  4.270968
+installs : 10,000,000+
+ratings :  189489
+reviews :  426
+
+title :  Pakistani Urdu Recipe book
+appId :  com.xhaq.weFoodie.recipes
+score :  5
+installs : 10,000+
+ratings :  415
+reviews :  27
+
+title :  Bread & beyond
+appId :  com.breadnbeyond.net
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Kuchis
+appId :  com.blink.kuchis
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Pizza Hut Bahrain - Order Food
+appId :  com.pizzahut.bhr
+score :  4.6666665
+installs : 10,000+
+ratings :  129
+reviews :  1
+
+title :  InstaShop: Grocery Delivery
+appId :  com.stedor.instashop
+score :  4.12
+installs : 1,000,000+
+ratings :  12742
+reviews :  124
+
+title :  Foodbell
+appId :  com.foodbellryk.foodbell
+score :  3
+installs : 5,000+
+ratings :  114
+reviews :  3
+
+title :  Yelp: Food, Delivery & Reviews
+appId :  com.yelp.android
+score :  4.5254936
+installs : 50,000,000+
+ratings :  546666
+reviews :  137859
+
+title :  Biryani Recipes in Urdu
+appId :  com.urduappz.biryanirecipes
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Bolt Food: Delivery & Takeaway
+appId :  com.bolt.deliveryclient
+score :  4.22
+installs : 5,000,000+
+ratings :  72642
+reviews :  192
+
+title :  Biryani Recipes(Veg & Non Veg)
+appId :  com.axe.biryanirecipe
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Wrap Lab
+appId :  com.blink.wraplab
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Papa Johns Pizza UAE
+appId :  com.loyaltyplant.partner.papajohns
+score :  3.627451
+installs : 500,000+
+ratings :  2606
+reviews :  22
+
+title :  Pizza Maker - Homemade Pizza
+appId :  com.riatech.pizzarecipes
+score :  3.772277
+installs : 100,000+
+ratings :  1696
+reviews :  43
+
+title :  DoorDash - Food Delivery
+appId :  com.dd.doordash
+score :  4.5986533
+installs : 50,000,000+
+ratings :  3522273
+reviews :  589045
+
+title :  Just Eat - Food Delivery
+appId :  com.justeat.app.uk
+score :  4.376
+installs : 10,000,000+
+ratings :  814050
+reviews :  141
+
+title :  Rice Recipes
+appId :  com.cookware.ricerecipes
+score :  4.66
+installs : 1,000,000+
+ratings :  4657
+reviews :  97
+
+title :  Shezan Bakers
+appId :  com.tossdown.shezan
+score :  4.2
+installs : 10,000+
+ratings :  1015
+reviews :  4
+
+title :  Fast Food Recipes In Urdu
+appId :  com.appman.FastFoodUrduRecipes
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  More Cravings
+appId :  com.marriott.morecravings
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Hardee's Saudi Arabia - Online
+appId :  com.ksa.hardeesburger.fastfood
+score :  3.69
+installs : 500,000+
+ratings :  4524
+reviews :  45
+
+title :  Cake recipes
+appId :  com.recipebook.cake_recipes
+score :  4.62
+installs : 1,000,000+
+ratings :  3549
+reviews :  47
+
+title :  Char Grill Central
+appId :  com.blink.chargrill
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Mohsin Foods
+appId :  com.mohsinfoods
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Club Kitchen Official App
+appId :  com.club_kitchen.pk
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Go Vegan - Easy Recipes
+appId :  com.appsniver.govegan
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Simply Sufi
+appId :  com.simplysufifrozen.net
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Cheezy Bite
+appId :  com.blink.cheezybite
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  All recipes Cook Book
+appId :  com.endless.cookbook
+score :  4.18
+installs : 500,000+
+ratings :  4606
+reviews :  310
+
+title :  KFC Bahrain- Order Food Online
+appId :  com.kfc.bahrain
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Jahez
+appId :  net.jahez
+score :  2.05
+installs : 1,000,000+
+ratings :  15459
+reviews :  202
+
+title :  Simply Sufi XPRS
+appId :  com.simplysufixprs.net
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Snoonu - Fastest Delivery
+appId :  com.oryx.snoonu
+score :  4.56
+installs : 500,000+
+ratings :  13923
+reviews :  60
+
+title :  Sariya's
+appId :  com.blink.sariyas
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  FreezerManager
+appId :  ch.hftm.freezermanager
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Food Street
+appId :  com.foodstreet
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  NANA
+appId :  com.exa.nanamarket
+score :  4.3
+installs : 1,000,000+
+ratings :  29199
+reviews :  157
+
+title :  Breakfast Recipes App
+appId :  com.riatech.breakfastrecipes
+score :  4.53
+installs : 100,000+
+ratings :  993
+reviews :  28
+
+title :  SmartCooking® with K&N's
+appId :  com.smartcooking.kandns
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Subway® Kuwait
+appId :  com.tillster.sub_kw_mobile
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Street Food Recipes In Urdu
+appId :  com.appman.PakistaniStreetFoods
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Tasty Foods
+appId :  com.blink.tastyfoodsandmurghpulao
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  ZSix
+appId :  com.zsix
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Chicken X
+appId :  com.ChickenX.chickenx
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Foursquare City Guide
+appId :  com.joelapenna.foursquared
+score :  4.141313
+installs : 10,000,000+
+ratings :  488137
+reviews :  35251
+
+title :  Italian recipes app
+appId :  com.riatech.Italianrecipes
+score :  4.4259257
+installs : 500,000+
+ratings :  3782
+reviews :  257
+
+title :  Khan Burger & Restaurant - Lah
+appId :  com.speedoypk.khanburger
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  American cookbook
+appId :  com.riatech.americanRecipesNew
+score :  4.3333335
+installs : 100,000+
+ratings :  275
+reviews :  12
+
+title :  Menu Maker, Food Flyer Maker
+appId :  com.menu.maker
+score :  4.69
+installs : 100,000+
+ratings :  3895
+reviews :  103
+
+title :  USC Subsidy
+appId :  com.ramazan_subsidy
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  早安和晚安圖片
+appId :  com.bluestar.flowerstickers
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Texas Chicken, Speke
+appId :  com.texaschickenspeke
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  AMIS Punjab
+appId :  pitb.gov.pk.amis
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Pakistani Food Recipes In Urdu
+appId :  com.appman.PakistaniFoodRecipes
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Dough With The Flow
+appId :  com.blink.doughwiththeflow
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Fast Food Recipes Cookbook
+appId :  com.mobiappstudio.fastfoodrecipes
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Cooking Recipes offline
+appId :  com.magstore.recipebook
+score :  4.352941
+installs : 100,000+
+ratings :  393
+reviews :  6
+
+title :  Greeno
+appId :  com.blink.greeno
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Sabzi recipe in urdu
+appId :  com.salmanapps.SabziRecipes
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Tamasha
+appId :  com.lechef.tamasha
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  ChickenBase PK
+appId :  pk.chickenbase.chickenbasepk
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+

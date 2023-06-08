@@ -1,0 +1,1302 @@
+title :  XNXX-Videos Guide
+appId :  app.easyfind.com
+score :  4.3382354
+installs : 100,000+
+ratings :  737
+reviews :  15
+
+title :  Holy Quran Pak: Quran Sharif
+appId :  com.free.alquran.holyquran.quranpak
+score :  4.3777776
+installs : 500,000+
+ratings :  7416
+reviews :  13
+
+title :  Holy Quran Read(القرآن الكريم)
+appId :  free.alquran.quranpak.holyquran.offline.quranreading.readquranoffline
+score :  4.6875
+installs : 100,000+
+ratings :  1050
+reviews :  7
+
+title :  PGT: GFX, Launcher & Optimizer
+appId :  inc.trilokia.pubgfxtool.free
+score :  4.4882355
+installs : 10,000,000+
+ratings :  172558
+reviews :  1973
+
+title :  Play Store Update Info
+appId :  com.nzdeveloper.playstoressettingshortcut.playservices
+score :  3.8316832
+installs : 100,000+
+ratings :  2793
+reviews :  108
+
+title :  Al QURAN - القرأن الكريم‏
+appId :  com.free.alquran.holyquran.quranmajeed
+score :  4.535714
+installs : 500,000+
+ratings :  1761
+reviews :  9
+
+title :  App Cloner Premium & Add-ons
+appId :  com.applisto.appcloner.premium
+score :  2.1407406
+installs : 5,000,000+
+ratings :  24027
+reviews :  726
+
+title :  Cardboard
+appId :  com.google.samples.apps.cardboarddemo
+score :  3.7288334
+installs : 10,000,000+
+ratings :  160366
+reviews :  5022
+
+title :  Urdu Poetry   اردو شاعری
+appId :  com.ns.poetry
+score :  4.75
+installs : 500,000+
+ratings :  3146
+reviews :  8
+
+title :  Quran Sharif 16Line:Holy Quran
+appId :  com.holyquran.quransharif.alqurankareemoffline.quranmajeed
+score :  4.571429
+installs : 50,000+
+ratings :  997
+reviews :  3
+
+title :  Al Quran Offline القرآن الكريم
+appId :  com.free.quran.quranpak.alquran.holyquran.quranreading.quranmajeed.quranoffline
+score :  4.6666665
+installs : 100,000+
+ratings :  703
+reviews :  3
+
+title :  Game Booster Fire GFX- Fix Lag
+appId :  com.booster.gameboostermega2
+score :  4.631579
+installs : 100,000+
+ratings :  1994
+reviews :  26
+
+title :  Scandit Barcode Scanner Demo
+appId :  com.scandit.demoapp
+score :  4.37
+installs : 100,000+
+ratings :  1166
+reviews :  55
+
+title :  Kdemy - Template
+appId :  com.verbosetech.kdemy
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Call History Any Number Detail
+appId :  com.whatsapphistory.star
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Update Software - Upgrade
+appId :  com.softwareupdate.allappsupdate
+score :  4.2941175
+installs : 10,000+
+ratings :  1314
+reviews :  5
+
+title :  Play Store Update
+appId :  com.fr.stopapp.autoupdateplaystroe
+score :  3.958763
+installs : 100,000+
+ratings :  816
+reviews :  35
+
+title :  GTA Craft Theft Gangster: MCPE
+appId :  populartv.online.gta.gangstergame.craft
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  V380S
+appId :  com.macrovideo.v380s
+score :  3.02
+installs : 1,000,000+
+ratings :  17383
+reviews :  423
+
+title :  Rainbow - Monsters Guys Aid
+appId :  com.robloc_rainbow_friends_mod.robux_assist_roblox_mod
+score :  4.47
+installs : 100,000+
+ratings :  1906
+reviews :  26
+
+title :  Learn more about your future
+appId :  com.softcaze.g.boulevoyance3
+score :  4.4444447
+installs : 500,000+
+ratings :  2582
+reviews :  18
+
+title :  Galaxy S9 Plus Ringtones
+appId :  galaxys9ringtones.ringtonesfors9.notifications
+score :  4.593617
+installs : 5,000,000+
+ratings :  135193
+reviews :  2835
+
+title :  PSP Ultimate Database Game Pro
+appId :  com.pspstation.databaseultimate
+score :  4.074468
+installs : 500,000+
+ratings :  3275
+reviews :  43
+
+title :  Mods for Beamng Drive
+appId :  com.beamcarmods
+score :  2.8666666
+installs : 100,000+
+ratings :  316
+reviews :  7
+
+title :  Mod Bussid Mobil Brioo
+appId :  com.sopircanter.modbussidmobilbrioo
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Mobile Connect To TV USB
+appId :  hdmi.connector.five
+score :  3.62
+installs : 1,000,000+
+ratings :  8001
+reviews :  331
+
+title :  Quran Pro: Read, Listen, Learn
+appId :  com.quanticapps.quranandroid
+score :  4.68617
+installs : 1,000,000+
+ratings :  90108
+reviews :  1568
+
+title :  Майнкрафт Legends Мод для MCPE
+appId :  com.guide.mchelpmod.mcpelegendsmods
+score :  2.5
+installs : 10,000+
+ratings :  249
+reviews :  9
+
+title :  Quran Sharif: Holy Quran Pak
+appId :  com.quran.holybook.offline.read.alquran.holykoran
+score :  4.5
+installs : 10,000+
+ratings :  386
+reviews :  4
+
+title :  Game Booster Power GFX Lag Fix
+appId :  com.booster.gfx
+score :  4.3396225
+installs : 1,000,000+
+ratings :  26838
+reviews :  487
+
+title :  Update Software - Play Store
+appId :  com.nzdeveloper.updatlatestesoftwareandroid
+score :  4.046875
+installs : 50,000+
+ratings :  693
+reviews :  24
+
+title :  Urdu Islamic Quotes اسلامی
+appId :  urdupoetry.islamicquotes.islamicstatus.islamicpoetry
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Camera Block - Anti spyware
+appId :  com.bettertomorrowapps.camerablockfree
+score :  4.630282
+installs : 500,000+
+ratings :  13215
+reviews :  1108
+
+title :  Electric screen - simulator
+appId :  electric.screen.prank.org
+score :  4.52
+installs : 100,000+
+ratings :  35639
+reviews :  604
+
+title :  Flute Ringtones 2023
+appId :  com.best.flutetone.ringtones2022
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Bussid Indian Livery Horn Mod
+appId :  com.sopircanter.bussidindianliveryhornmod
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Play Service Updates
+appId :  com.frdeveloper.help.update.playstore.playservices
+score :  3.980198
+installs : 100,000+
+ratings :  1329
+reviews :  45
+
+title :  Recover Deleted Recent Deleted
+appId :  com.restore.photo.videos.audios.media.recovery.undeleted.filerecovery.app
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  KDemy : Flutter Template
+appId :  com.flutter.k_demy
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  USB Screen Share - Phone to TV
+appId :  com.mhlhdmi.two
+score :  4.047244
+installs : 1,000,000+
+ratings :  14229
+reviews :  783
+
+title :  Cool Ringtones 2023
+appId :  com.Top100ringtones2020.Ringtones2020.ringtones2020
+score :  4.05
+installs : 100,000+
+ratings :  7080
+reviews :  45
+
+title :  Turkish Ringtones 2023
+appId :  com.best.turkish.ringtones2022
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Call History of Any Number
+appId :  com.getcalldetails.star
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  db.Mobil App
+appId :  de.bhzp.dbmobil
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  APK Backup
+appId :  app.apk.backup
+score :  3.6551723
+installs : 100,000+
+ratings :  465
+reviews :  16
+
+title :  Gamelix: Track Games
+appId :  com.borombo.gamelix
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Drone Remote Controller
+appId :  com.dji.connrctors
+score :  4.609524
+installs : 10,000+
+ratings :  545
+reviews :  83
+
+title :  Gamers GLTool with Game Tuner
+appId :  inc.trilokia.gfxtool.free
+score :  4.5116277
+installs : 5,000,000+
+ratings :  42034
+reviews :  747
+
+title :  Galaxy S20 Ultra Ringtones
+appId :  s20ringtones.bestringtones.tones
+score :  4.254902
+installs : 500,000+
+ratings :  11948
+reviews :  120
+
+title :  Can'u - Sex Game for couple
+appId :  com.canuapp.app
+score :  3.66
+installs : 500,000+
+ratings :  2500
+reviews :  103
+
+title :  Mutant Creatures Morph for MCP
+appId :  com.kossanapps.mutantcreatures.morph
+score :  4.36
+installs : 100,000+
+ratings :  2503
+reviews :  14
+
+title :  Mobile Connect to TV USB HDMI
+appId :  com.hdmi.app.tv
+score :  3.02
+installs : 100,000+
+ratings :  1163
+reviews :  56
+
+title :  40 Rabbana with translation
+appId :  com.duarabbana.rabbana40.duas40.azkar
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Barcode Scanner
+appId :  com.manateeworks.barcodescanners
+score :  4.679803
+installs : 1,000,000+
+ratings :  11526
+reviews :  772
+
+title :  Call Details of Any Number
+appId :  com.app.call.detail.history
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  मोबाइल से दीवार पर वीडियो How?
+appId :  com.deewar_par_video.dekhne_wala_app_how
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  YASNAC - SafetyNet Checker
+appId :  rikka.safetynetchecker
+score :  4.8613863
+installs : 100,000+
+ratings :  1327
+reviews :  44
+
+title :  Booster GFX Fix for Freefire
+appId :  com.rgb.gfxtool.booster.ff
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Props ID Sakura School S 2023
+appId :  com.ketjubung.propsidsakuraschool
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  MaterialX - Material Design UI
+appId :  com.material.components
+score :  4.19
+installs : 100,000+
+ratings :  2961
+reviews :  53
+
+title :  Control Phone Voice
+appId :  com.Asteroid.Siri.VoiceCommand
+score :  4.1770835
+installs : 50,000+
+ratings :  1038
+reviews :  32
+
+title :  Preference Manager: Addon
+appId :  inc.trilokia.addon.preference.manager
+score :  4.0666666
+installs : 100,000+
+ratings :  586
+reviews :  8
+
+title :  Photo ID Matcher
+appId :  com.facetec.photoidmatchtester
+score :  2.3950617
+installs : 100,000+
+ratings :  1911
+reviews :  49
+
+title :  Update Ice Scream 5 for MCPE
+appId :  com.kofflancanta.icescream
+score :  4.2941175
+installs : 100,000+
+ratings :  1935
+reviews :  7
+
+title :  Hungry Crocodile 2 Shark Games
+appId :  com.gs.angry.crocodile.attack3d
+score :  4.4444447
+installs : 100,000+
+ratings :  625
+reviews :  16
+
+title :  Graphics Manager : GFX Addon
+appId :  inc.trilokia.addon.graphics.manager
+score :  4.05
+installs : 500,000+
+ratings :  1837
+reviews :  31
+
+title :  Camera endoscope / OTG USB
+appId :  com.Endoscope.scope
+score :  3.12
+installs : 100,000+
+ratings :  3730
+reviews :  171
+
+title :  KJV Study Bible with concordan
+appId :  kjv.bible.with.concordance
+score :  4.612903
+installs : 50,000+
+ratings :  1453
+reviews :  13
+
+title :  Mirror Link
+appId :  com.mirror.link
+score :  3.0985916
+installs : 1,000,000+
+ratings :  21359
+reviews :  357
+
+title :  Drone Remote Control
+appId :  com.Asteroid.droneremotecontrol
+score :  4.1618886
+installs : 500,000+
+ratings :  14855
+reviews :  1785
+
+title :  Pydroid repository plugin
+appId :  ru.iiec.pydroid3.quickinstallrepo
+score :  4.25
+installs : 500,000+
+ratings :  3694
+reviews :  93
+
+title :  MR Level Editor
+appId :  com.DenisLapiner.MultiplatformRuntimeLevelEditor
+score :  3.61
+installs : 500,000+
+ratings :  5838
+reviews :  70
+
+title :  Usb Mouse Wifi Connector
+appId :  com.Mouse.Connect.phone
+score :  4.03
+installs : 100,000+
+ratings :  2466
+reviews :  59
+
+title :  SD Card Repair
+appId :  com.sdcard.damage.Formatter
+score :  3.5841584
+installs : 100,000+
+ratings :  8628
+reviews :  239
+
+title :  BABY DANCE - Ya LiLi
+appId :  com.rollod.Guide
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Pakistan Directory
+appId :  com.stupido.bawabusinessdirectory
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Islamic Songs & Nasheed 2023
+appId :  com.anachidDiniya.dinia2020.anachidIslamia2021
+score :  4.7
+installs : 500,000+
+ratings :  4006
+reviews :  15
+
+title :  guten morgen und gute nacht
+appId :  com.Developperyas.gutenmorgen
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Update Software Update Apps
+appId :  com.fr.softwareupdate.softwareupgrade
+score :  4.33
+installs : 500,000+
+ratings :  3512
+reviews :  159
+
+title :  DamonSX2 Pro - PS2 Emulator
+appId :  com.pcsx3.app
+score :  4.12
+installs : 10,000+
+ratings :  538
+reviews :  50
+
+title :  Wedding Makeup: Dress Up Game
+appId :  com.gameiavo.wedding.fashion.girls.stylist.games
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Mod Jalan Rusak Bussid Lumpur
+appId :  com.normalmod.modjalanrusakbussidlumpur
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  100+ Cool SMS Ringtones Pro
+appId :  smsringtones.besttones.notificationsounds
+score :  4.4086537
+installs : 1,000,000+
+ratings :  46536
+reviews :  637
+
+title :  Sd Card Repair (Fix Sdcard)
+appId :  com.scnc.sdcardrepairfixx
+score :  4.6138616
+installs : 100,000+
+ratings :  9067
+reviews :  981
+
+title :  Hypixel mod for MCPE
+appId :  com.telosudibyo.hypixelmodmcpe
+score :  3.8888888
+installs : 10,000+
+ratings :  933
+reviews :  2
+
+title :  Solfeggio Frequencies Healing
+appId :  com.app.solfeggiomedi
+score :  4.6088233
+installs : 500,000+
+ratings :  12407
+reviews :  1715
+
+title :  HAPPY MODS GAME & APP TIPS
+appId :  com.hapspumoddwe.advancesda
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Dual Camera Sides
+appId :  com.dual.camerasid
+score :  4.6666665
+installs : 1,000+
+ratings :  157
+reviews :  4
+
+title :  IP Pro(VR Cam, EseeCloud)
+appId :  com.specialyg.ippro
+score :  2.552901
+installs : 1,000,000+
+ratings :  15731
+reviews :  1960
+
+title :  Mod Bussid All Vehicles India
+appId :  com.all_vehicles_india.bussid_mods
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Mirror link car connector
+appId :  com.connectionwireless.mirrorlinkc
+score :  4.5511813
+installs : 500,000+
+ratings :  19373
+reviews :  764
+
+title :  Instant Boost : Addon
+appId :  inc.trilokia.addon.instant.boost
+score :  4.4166665
+installs : 100,000+
+ratings :  908
+reviews :  10
+
+title :  Play Store Update Services
+appId :  com.playstoreupdate.updateplayservices
+score :  4.5833335
+installs : 10,000+
+ratings :  196
+reviews :  5
+
+title :  Ringtones 2023
+appId :  com.aggyapps.BestFreeRingtones.New.Ringtone_2019.ranat_hatif
+score :  4.4444447
+installs : 100,000+
+ratings :  991
+reviews :  7
+
+title :  Android Hidden Settings
+appId :  com.androidhiddensettings.quicksettings
+score :  4.3333335
+installs : 1,000+
+ratings :  117
+reviews :  8
+
+title :  Flutter Catalog
+appId :  io.github.x_wei.flutter_catalog
+score :  4.81
+installs : 100,000+
+ratings :  2494
+reviews :  87
+
+title :  Face Recognition
+appId :  org.opencv.javacv.recognition
+score :  2.8510637
+installs : 100,000+
+ratings :  259
+reviews :  21
+
+title :  Root su Check, Booster+ Unroot
+appId :  com.rgb.superxunroot
+score :  4.090909
+installs : 10,000+
+ratings :  86
+reviews :  0
+
+title :  Secret codes and Ciphers
+appId :  com.mobilesecretcodes.allandroidtips.androidtricks.allsecretcodes
+score :  4.3106794
+installs : 100,000+
+ratings :  3177
+reviews :  66
+
+title :  Arabic for AnySoftKeyboard
+appId :  com.anysoftkeyboard.languagepack.arabic
+score :  4.12
+installs : 1,000,000+
+ratings :  17238
+reviews :  367
+
+title :  Mod Raft Survival for MCPE - O
+appId :  com.kossanapps.oneblock.raftsurvival
+score :  4.3636365
+installs : 100,000+
+ratings :  3905
+reviews :  11
+
+title :  AlQuran - Read Quran Offline
+appId :  offline.quran.reading.alquran.holyquran.quranmajeed.quranpak.quranoffline.readquranoffline
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Melon Playground Mods
+appId :  com.melon.playground.mods
+score :  4.009901
+installs : 100,000+
+ratings :  3320
+reviews :  130
+
+title :  Ubqari Library
+appId :  com.ubqari.library
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Rainbow Friends, rope hero
+appId :  com.mango.superhero.flying.rope.stunts
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Drone Remote Controller
+appId :  com.dronaer.appreos
+score :  4.571429
+installs : 5,000+
+ratings :  75
+reviews :  5
+
+title :  TP-LINK tpCamera
+appId :  com.tplink.skylight
+score :  4.38
+installs : 500,000+
+ratings :  20610
+reviews :  252
+
+title :  Afghan Ketabton افغان کتابتون
+appId :  com.afghan.kitabtoon
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  AusweisApp2
+appId :  com.governikus.ausweisapp2
+score :  3.514706
+installs : 1,000,000+
+ratings :  26220
+reviews :  32
+
+title :  Crosshair & Nickname Generator
+appId :  com.fpsmeter.crosshairfree
+score :  4.34
+installs : 500,000+
+ratings :  4597
+reviews :  68
+
+title :  All Secret Codes for Androids
+appId :  com.mobilesecretcodes.tipsformobile.tricksformobile
+score :  4.407767
+installs : 50,000+
+ratings :  1613
+reviews :  18
+
+title :  Drone Remote Control
+appId :  com.djidrone.remots
+score :  4.919355
+installs : 1,000+
+ratings :  98
+reviews :  16
+
+title :  Rainbow Friends Mod for Melon
+appId :  com.rainbow_friends_assist.melon_playground_mod
+score :  4.375
+installs : 10,000+
+ratings :  215
+reviews :  28
+
+title :  Flutter UI Templates
+appId :  com.achimsapps.templates
+score :  4.8
+installs : 10,000+
+ratings :  121
+reviews :  2
+
+title :  Islamic Ringtones 2023 Mp3
+appId :  com.RanatIslamia2020.IslamicNasheed.IslamiciRgtones2020
+score :  4.7
+installs : 1,000,000+
+ratings :  15720
+reviews :  47
+
+title :  Unistellar
+appId :  com.unistellar.evscope.android
+score :  3.5238094
+installs : 50,000+
+ratings :  288
+reviews :  46
+
+title :  Map One Block Survival - block
+appId :  com.kossanapps.oneblockmaps.blocksurvivalmcpe
+score :  4.740741
+installs : 50,000+
+ratings :  911
+reviews :  3
+
+title :  QuickPay - Template
+appId :  com.verbosetech.quickpay
+score :  1.9
+installs : 10,000+
+ratings :  66
+reviews :  7
+
+title :  E-box - Xbox Emulator
+appId :  org.godotengine.ebox
+score :  3.1625
+installs : 10,000+
+ratings :  474
+reviews :  31
+
+title :  Phone Connect to tv
+appId :  com.hdmi.app
+score :  3.132275
+installs : 1,000,000+
+ratings :  9549
+reviews :  609
+
+title :  Microphone Block Free -Anti ma
+appId :  com.bettertomorrowapps.microphoneblockfree
+score :  4.4534163
+installs : 100,000+
+ratings :  7127
+reviews :  606
+
+title :  Murder Mystery 2 Aid
+appId :  com.robloc_murder_mystery_2.robux_assist_roblox_mod
+score :  3.9
+installs : 10,000+
+ratings :  802
+reviews :  19
+
+title :  USB SD Card OTG File Manager
+appId :  com.OsloTech.SDCardManager
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  classic nokia ringtones
+appId :  com.ClassicNokiaRingtones.osdnahtcfa
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Wheel PK Xd MOD GEMS COINS
+appId :  com.spinwheel.pkgemsspin
+score :  3.6052632
+installs : 10,000+
+ratings :  885
+reviews :  14
+
+title :  Pokedex - PokeInfo
+appId :  com.kstudio.pokedex
+score :  3.9
+installs : 10,000+
+ratings :  131
+reviews :  5
+
+title :  Kpop Ringtones - Kpop Songs
+appId :  com.best.kpopmusic.ringtones2022
+score :  4.5652175
+installs : 10,000+
+ratings :  287
+reviews :  8
+
+title :  Samsung Galaxy SmartTag
+appId :  com.sah.smarttagsfinder
+score :  4.46
+installs : 5,000+
+ratings :  211
+reviews :  39
+
+title :  Dual Screen Experience Example
+appId :  com.microsoft.device.samples.dualscreenexperience
+score :  3.1538463
+installs : 10,000+
+ratings :  83
+reviews :  7
+
+title :  Dual camera
+appId :  com.dualsi.cam
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Mods for WorldBox
+appId :  com.mapsmodsworldbox
+score :  2.1764705
+installs : 10,000+
+ratings :  235
+reviews :  27
+
+title :  Mr Hopps Playhouse 2 Mod for M
+appId :  com.playhouse.app
+score :  3.1666667
+installs : 50,000+
+ratings :  286
+reviews :  4
+
+title :  OTG Reader
+appId :  com.otgbrow.files
+score :  4.2
+installs : 10,000+
+ratings :  92
+reviews :  1
+
+title :  CPU-X
+appId :  com.app.cpux
+score :  4.21875
+installs : 50,000+
+ratings :  586
+reviews :  16
+
+title :  HONOR Ringtones
+appId :  com.honor.ringtonesfree
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  ID Card, Passport, Driver Lice
+appId :  com.ttv.ocrdemo
+score :  3.6666667
+installs : 10,000+
+ratings :  62
+reviews :  1
+
+title :  Skin Tone
+appId :  com.telosudibyo.skintone.freetools
+score :  4.34
+installs : 100,000+
+ratings :  14329
+reviews :  35
+
+title :  Gallery Lock - Hide Photos
+appId :  com.gallery.photoprivate.album.photogallery
+score :  4.4
+installs : 5,000+
+ratings :  44
+reviews :  0
+
+title :  Islamic Ringtones - Nasheed Mp
+appId :  com.islamicringtones.freenasheedmp3
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Sudais full Quran offline - Ko
+appId :  sudais.FullQuran2021.CoranSoudais.mp3
+score :  5
+installs : 100,000+
+ratings :  851
+reviews :  3
+
+title :  Bunzo Mod for Melon Playground
+appId :  com.melon_bunzo_mod_for_melon_playground.melmod_playground
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  FlutKit - Flutter UI Kit
+appId :  com.coderthemes.flutkit
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Test DPC
+appId :  com.afwsamples.testdpc
+score :  4.347826
+installs : 100,000+
+ratings :  1090
+reviews :  28
+
+title :  Offline Quotes
+appId :  com.namalapps.allquotes
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Liveness Detection
+appId :  com.presentid.presentiddemosdk
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  English Songs & Ringtones 2023
+appId :  com.best.englishsongs.ringtones2022
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Net Cut
+appId :  com.netcut.finders
+score :  3.7692308
+installs : 100+
+ratings :  55
+reviews :  5
+
+title :  BioID Facial Recognition
+appId :  com.bioid.authenticator
+score :  2.7
+installs : 100,000+
+ratings :  166
+reviews :  10
+
+title :  Samsung SmartTag
+appId :  com.glaxxy.smarttagsfinder
+score :  4.9666667
+installs : 1,000+
+ratings :  61
+reviews :  4
+
+title :  DVB-T Driver
+appId :  info.martinmarinov.dvbdriver
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  GCC plugin for C4droid
+appId :  com.n0n3m4.gcc4droid
+score :  4.216
+installs : 100,000+
+ratings :  7450
+reviews :  300
+
+title :  SYMA GO+
+appId :  com.tomdxs.symagonewlib
+score :  2.9104478
+installs : 100,000+
+ratings :  991
+reviews :  26
+
+title :  Study Bible with explanation
+appId :  study.bible.with.explanation.offline
+score :  4.7297297
+installs : 100,000+
+ratings :  4954
+reviews :  393
+
+title :  Wanna Kicks
+appId :  dom.wanna.kicks.snikers
+score :  3.25
+installs : 5,000+
+ratings :  244
+reviews :  7
+
+title :  Scary Neighbor Granny for MCPE
+appId :  com.momine_scary_neighbor_granny.craft_world_mod51
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Great Ringtones for Android
+appId :  bestringtones2020.newringtones2021.popularringtones2022
+score :  4.24
+installs : 500,000+
+ratings :  8060
+reviews :  136
+
+title :  good morning and night images
+appId :  com.blueappsllc.goodmorningimages
+score :  4.3333335
+installs : 100,000+
+ratings :  471
+reviews :  10
+
+title :  Mod Horror for MCPE
+appId :  com.telosudibyo.horrormcpe
+score :  4.3333335
+installs : 10,000+
+ratings :  255
+reviews :  1
+
+title :  BedWars Mod Aid
+appId :  com.robloc_bedwars_5.robux_assist_roblox_mod
+score :  4.285714
+installs : 5,000+
+ratings :  186
+reviews :  23
+
+title :  Dual Camera For Vlogger
+appId :  com.camera.wowow
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Mirror Link Phone Car Screen
+appId :  com.AIOOinc.mirrorLink
+score :  4.047619
+installs : 10,000+
+ratings :  304
+reviews :  6
+
+title :  Brookhaven - RP Aid
+appId :  com.brookhavenmod.forroblox
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Korean Ringtones- & Kpop Music
+appId :  com.best.korean.ringtones2022
+score :  4.4444447
+installs : 10,000+
+ratings :  285
+reviews :  2
+
+title :  Mirror Link Screen Connector
+appId :  com.connection.wireless.wirelessconnectortv
+score :  4.753788
+installs : 1,000,000+
+ratings :  13396
+reviews :  836
+
+title :  AoE II Companion
+appId :  com.aoe2companion
+score :  4.9333334
+installs : 10,000+
+ratings :  593
+reviews :  15
+
+title :  s20 Ringtones for android
+appId :  com.s20ringtones.tones.bestringtones
+score :  4.425
+installs : 50,000+
+ratings :  1077
+reviews :  13
+
+title :  Motocycle Mod melon playground
+appId :  com.MOTORCYCLEmodforMELONPLAYGROUND.skinformelonplayground
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Huawei mate40 P40 ringtones
+appId :  com.topohuawei.freeMusicringtones
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Livery Bussid HD 2023 Strobo
+appId :  com.delivery.liverybussidhdduaribuduatigastrobo
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Flutter Code Guide
+appId :  vn.vstore.codeguide
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  OPPO Reno7 Phone Ringtones
+appId :  com.opporeno7.freemusicringtones
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Rainbow Friend Map for MCPE
+appId :  com.momine_rainbow_friends_map.craft_world_mod
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  ALink Annotator
+appId :  app.alinkai.com
+score :  4.9174314
+installs : 10,000+
+ratings :  5109
+reviews :  177
+
+title :  YOORI Online Shopping
+appId :  com.spagreen.yoori
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  SHARE to PRINT.Intent
+appId :  ru.a402d.texttoprint
+score :  3.36
+installs : 50,000+
+ratings :  497
+reviews :  6
+
+title :  Famous Islamic Songs & Nasheed
+appId :  islamicsongs.nasheed.nashydlagu
+score :  4.8
+installs : 1,000,000+
+ratings :  42579
+reviews :  184
+
+title :  BrandPeak: Festival 365 Poster
+appId :  com.iqueen.brandpeak
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Vr checker
+appId :  com.nextappsgen.vrchecker
+score :  4.4857144
+installs : 50,000+
+ratings :  348
+reviews :  13
+
+title :  Prado Car Stunt - Car Games
+appId :  com.tgp.extreme.jeep.impossible.ramp.car.stunt.games
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  React Native Paper Example
+appId :  com.callstack.reactnativepaperexample
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Skins for Craftsman
+appId :  com.skinsforcraftsman
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Phone iRingtones - For Android
+appId :  com.iRingtones2020.ayfonRingtones.PhoneRingtones
+score :  4.232323
+installs : 500,000+
+ratings :  8111
+reviews :  41
+
+title :  Monster Truck Parking Game 3D
+appId :  com.ybg.monster.truck.parking.car.games
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Authentic Vision - CheckIfReal
+appId :  com.authenticvision.android
+score :  3
+installs : 50,000+
+ratings :  111
+reviews :  5
+
+title :  Compose Material Catalog
+appId :  androidx.compose.material.catalog
+score :  4.282051
+installs : 50,000+
+ratings :  495
+reviews :  13
+
+title :  Ghost VPN
+appId :  com.kbmit.ghostvpn
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+

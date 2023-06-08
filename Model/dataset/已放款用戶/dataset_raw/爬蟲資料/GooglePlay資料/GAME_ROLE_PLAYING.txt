@@ -1,0 +1,1400 @@
+title :  Mega Ramp Stunt Bike Games 3D
+appId :  com.gameswing.ramp.stunt.bike.megaramp.jump.bikestunts
+score :  4.109756
+installs : 10,000,000+
+ratings :  13481
+reviews :  43
+
+title :  Car Stunt Racing - Car Games
+appId :  com.gameswing.impossibletracks.stuntdriving.simulator2
+score :  3.9
+installs : 10,000,000+
+ratings :  46329
+reviews :  228
+
+title :  Prado Car Games Modern Parking
+appId :  com.steelcloudstudio.luxury.prado.car.parking.challenge
+score :  4.39
+installs : 50,000,000+
+ratings :  109277
+reviews :  360
+
+title :  Cat Runner: Decorate Home
+appId :  com.solou.catendless.run
+score :  4.0984125
+installs : 100,000,000+
+ratings :  585282
+reviews :  2403
+
+title :  Speed Boat Racing: Boat games
+appId :  com.monstergamesproductions.extreme.power.boat.racing
+score :  3.8118813
+installs : 10,000,000+
+ratings :  21290
+reviews :  65
+
+title :  Ramp Car Stunts - Car Games
+appId :  com.gameswing.impossiblecarstunts.monstertrucks.cardriving.simulator
+score :  4.4605265
+installs : 50,000,000+
+ratings :  105301
+reviews :  431
+
+title :  Hero Wars – Fantasy Battles
+appId :  com.nexters.herowars
+score :  4.239566
+installs : 50,000,000+
+ratings :  1513232
+reviews :  92670
+
+title :  Real Tractor Driving Simulator
+appId :  com.gamescapes.tractor.farming.simulator
+score :  3.85
+installs : 10,000,000+
+ratings :  29230
+reviews :  65
+
+title :  Bus Simulator - Bus Games 3D
+appId :  com.jimaapps.city.coach.bus.simulator.driving
+score :  4.1282053
+installs : 100,000,000+
+ratings :  182577
+reviews :  755
+
+title :  GT Car Stunt - Ramp Car Games
+appId :  com.interbolt.impossible.limo.gt.car.stunts
+score :  3.9876542
+installs : 10,000,000+
+ratings :  9147
+reviews :  18
+
+title :  Miami Rope Hero Spider Games
+appId :  com.openworldactiongames.ropehero.crime.city
+score :  4.3040814
+installs : 100,000,000+
+ratings :  162030
+reviews :  726
+
+title :  Hustle Castle: Medieval games
+appId :  com.my.hc.rpg.kingdom.simulator
+score :  4.1184187
+installs : 50,000,000+
+ratings :  1469319
+reviews :  46064
+
+title :  Formula Car Racing: Car Games
+appId :  com.mustardgames.topspeed.formulacar.racinggames
+score :  3.905759
+installs : 50,000,000+
+ratings :  137417
+reviews :  825
+
+title :  My Bakery Empire: Bake a Cake
+appId :  com.cocoplay.sweet.bakery
+score :  4.240561
+installs : 100,000,000+
+ratings :  627464
+reviews :  9456
+
+title :  Ninja Ryuko: Shadow Ninja Game
+appId :  com.HorizonGames.HuntCreed
+score :  4.397638
+installs : 10,000,000+
+ratings :  81150
+reviews :  1044
+
+title :  Hyper PA
+appId :  com.funcell.hyperpa
+score :  3.918182
+installs : 1,000,000+
+ratings :  7856
+reviews :  441
+
+title :  US Bus Simulator Driving Game
+appId :  com.gd.newbus.gamesfree.bus.simultor.driving.racing.freegame
+score :  3.9
+installs : 1,000,000+
+ratings :  4836
+reviews :  4
+
+title :  Surgeon Simulator Doctor Games
+appId :  com.goxo.doctor.heart.surgery.game
+score :  3.6101694
+installs : 50,000,000+
+ratings :  178251
+reviews :  1201
+
+title :  Spider Rope Hero: Spider Games
+appId :  com.ggs.flying.robot.rope.hero
+score :  4.11
+installs : 10,000,000+
+ratings :  8277
+reviews :  110
+
+title :  Driving School - Car Games 3D
+appId :  com.gq.car.driving.real.game.sim
+score :  3.5142858
+installs : 5,000,000+
+ratings :  8137
+reviews :  31
+
+title :  Taxi Game-Taxi Simulator Games
+appId :  com.gaminglegends.taxigame.taxisimulator.grand.car.driving2020
+score :  4.14
+installs : 10,000,000+
+ratings :  39152
+reviews :  224
+
+title :  Play for Granny Grandpa Part 4
+appId :  com.Awecom.PlayforGrannyorGrandpa
+score :  3.55
+installs : 1,000,000+
+ratings :  5822
+reviews :  58
+
+title :  Masha and the Bear Pizza Maker
+appId :  com.devgame.masha.and.bear.pizzeria.games
+score :  4.1843576
+installs : 10,000,000+
+ratings :  76727
+reviews :  602
+
+title :  Commando Mission Offline games
+appId :  com.ib.commando.mission.freegames.offline
+score :  3.7857144
+installs : 1,000,000+
+ratings :  9841
+reviews :  34
+
+title :  Muscle Car Stunts: Car Games
+appId :  com.mustardgames.muscle.car.stunts.mega.ramp.stunt.car.impossibletracks
+score :  4.41
+installs : 10,000,000+
+ratings :  41202
+reviews :  566
+
+title :  Fairy Princess dress up game
+appId :  com.hmg.fashiongames.fairyprincess.dressupgames
+score :  4.3157897
+installs : 1,000,000+
+ratings :  1573
+reviews :  9
+
+title :  Doll House Design Doll Games
+appId :  com.ips.doll.house.designing.games
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Superhero Car : GT Car Stunt
+appId :  com.gf.rampcar.racing.stunts.extreme
+score :  4.1157894
+installs : 10,000,000+
+ratings :  52665
+reviews :  884
+
+title :  Drifting & Driving-Drift Games
+appId :  com.gamerexort.drifting.driving.simulator.honda.civic
+score :  4.53
+installs : 1,000,000+
+ratings :  6444
+reviews :  87
+
+title :  Shadow Fight 4: Arena
+appId :  com.nekki.shadowfightarena
+score :  4.6815333
+installs : 10,000,000+
+ratings :  1146074
+reviews :  9129
+
+title :  Spider Hero- Superhero Fight
+appId :  com.fgs.spider.miami.man.ropehero.fighter
+score :  4.01
+installs : 5,000,000+
+ratings :  5723
+reviews :  92
+
+title :  Real Car Parking 3D Car Games
+appId :  com.wpl.car.parking.fun.driving.school.car.games
+score :  3.9550562
+installs : 5,000,000+
+ratings :  6852
+reviews :  53
+
+title :  Modern Coach Bus Simulator
+appId :  com.ba.ultimate.coach.bus.simulator
+score :  4.035714
+installs : 5,000,000+
+ratings :  8416
+reviews :  30
+
+title :  Car Games 3D: Car Race 3D Game
+appId :  com.mega.stunt.games.mishi.car.racing
+score :  4.71
+installs : 10,000,000+
+ratings :  27347
+reviews :  248
+
+title :  Pk Cargo Lorry Driving Sim
+appId :  com.trucks.indcargo.trucksimulator.freegames
+score :  4.75
+installs : 100,000+
+ratings :  592
+reviews :  1
+
+title :  Foot Clinic - ASMR Feet Care
+appId :  com.crazylabs.foot.doctor
+score :  4.099523
+installs : 50,000,000+
+ratings :  182667
+reviews :  3919
+
+title :  Fashion Girl Dress Up Game
+appId :  com.fgs.fashion.girl.dressup.game
+score :  4.5555553
+installs : 1,000,000+
+ratings :  2171
+reviews :  2
+
+title :  Shadow Fight 3 - RPG fighting
+appId :  com.nekki.shadowfight3
+score :  4.5352726
+installs : 100,000,000+
+ratings :  3952202
+reviews :  72006
+
+title :  US City Bus Simulator 2022
+appId :  com.as.modern.highway.bus.driving.games.simulator.offline.bus.games
+score :  3.857143
+installs : 1,000,000+
+ratings :  2300
+reviews :  3
+
+title :  Gangster Games Crime Simulator
+appId :  com.gangster.theft.auto.vi.vegas.crime.simulator
+score :  3.26
+installs : 5,000,000+
+ratings :  14050
+reviews :  227
+
+title :  Doll House Design: Girl Games
+appId :  com.pgs.doll.house.design.girl.games
+score :  3.7777777
+installs : 1,000,000+
+ratings :  1263
+reviews :  4
+
+title :  Indian Wedding Dress up games
+appId :  com.bg.wedding.dressup.makeover
+score :  4.382353
+installs : 5,000,000+
+ratings :  16513
+reviews :  24
+
+title :  Bike Racing Games : Bike Games
+appId :  com.jimaapps.tricky.stuntbike.racing.trails.games
+score :  4.02
+installs : 10,000,000+
+ratings :  19906
+reviews :  136
+
+title :  Offroad BMX Rider: Cycle Game
+appId :  com.glegends.offroad.bicycle.game
+score :  4.57
+installs : 5,000,000+
+ratings :  11218
+reviews :  155
+
+title :  Makeup Games: Wedding Artist
+appId :  wedding.games
+score :  4.578372
+installs : 50,000,000+
+ratings :  457892
+reviews :  1522
+
+title :  Fast Ball Jump - Going Ball 3d
+appId :  com.garena.ball.run.goingball.ironball.rollingball
+score :  3.772277
+installs : 1,000,000+
+ratings :  3484
+reviews :  46
+
+title :  Border Patrol Police Game
+appId :  com.shockwavegames.border.patrol.police.simulator
+score :  3.95
+installs : 1,000,000+
+ratings :  11921
+reviews :  142
+
+title :  Gangster Theft Crime Simulator
+appId :  com.grand.gangster.theft.crime.simulator.games
+score :  3.69
+installs : 1,000,000+
+ratings :  5237
+reviews :  55
+
+title :  Judge 3D - Court Affairs
+appId :  com.TimurBesli.Judge3D
+score :  4.021047
+installs : 5,000,000+
+ratings :  37317
+reviews :  2689
+
+title :  Gangster Theft Auto V Games
+appId :  com.gcs.gangster.crime.auto.theft.game
+score :  3.13
+installs : 1,000,000+
+ratings :  8767
+reviews :  99
+
+title :  Color Bird Sort Puzzle Games
+appId :  com.gl.color.bird.sort
+score :  3.7777777
+installs : 1,000,000+
+ratings :  2087
+reviews :  25
+
+title :  Donut Stack 3D: Donut Games
+appId :  com.ag.run.race.donut.maker
+score :  4.26
+installs : 1,000,000+
+ratings :  1825
+reviews :  6
+
+title :  Grand Theft Shooting Games 3D
+appId :  com.eg.grand.theft.gangstar.games3d
+score :  3.3267326
+installs : 1,000,000+
+ratings :  8017
+reviews :  56
+
+title :  Doll House Design: Dollhouse
+appId :  com.ozzient.mama.house.cleaning
+score :  3.368421
+installs : 1,000,000+
+ratings :  2668
+reviews :  18
+
+title :  Children's doctor : dentist
+appId :  com.YovoGames.dentist
+score :  3.9064665
+installs : 100,000,000+
+ratings :  166207
+reviews :  2509
+
+title :  Euro Truck Transport Simulator
+appId :  com.rs.euro.truck.simulator.driving.game.free
+score :  3.67
+installs : 5,000,000+
+ratings :  28602
+reviews :  118
+
+title :  Car Simulator - Car Games 3D
+appId :  com.wisdomgames.car.parking.games.simulator
+score :  3.8648648
+installs : 1,000,000+
+ratings :  1061
+reviews :  9
+
+title :  DC Legends: Fight Super Heroes
+appId :  com.wb.goog.dc.legends
+score :  4.156946
+installs : 10,000,000+
+ratings :  475841
+reviews :  39584
+
+title :  Makeup Game for Girls Makeover
+appId :  com.happymelongames.Wedding.fashion.designer.stylist
+score :  4.33
+installs : 10,000,000+
+ratings :  70081
+reviews :  100
+
+title :  Super Wedding Dress Up Stylist
+appId :  com.games2win.weddingdressup
+score :  4.30493
+installs : 10,000,000+
+ratings :  211112
+reviews :  4891
+
+title :  Grand Gangster: Rope hero City
+appId :  com.openworld.gangstermafiahero
+score :  3.490196
+installs : 1,000,000+
+ratings :  9891
+reviews :  137
+
+title :  Hero Castle War: Tower Attack
+appId :  game.genix.stickman.hero.war.puzzle
+score :  3.9629629
+installs : 100,000+
+ratings :  2516
+reviews :  85
+
+title :  Games 2023: Army Mission Games
+appId :  com.armymissiongames.offlinegames.fps.shootinggamesoffline
+score :  4.117647
+installs : 100,000+
+ratings :  829
+reviews :  9
+
+title :  Real Gangster Vegas Theft Auto
+appId :  com.gt.real.gangster.vegas.theft.auto
+score :  3.4705882
+installs : 500,000+
+ratings :  2108
+reviews :  13
+
+title :  Ninja Master RPG Fighting Game
+appId :  com.sportsarena.ninja.master.fighting.game
+score :  4
+installs : 100,000+
+ratings :  442
+reviews :  6
+
+title :  Fortuner Offroad Car Driving
+appId :  com.gz.offroad.car.driving.fortuner
+score :  3.2592592
+installs : 1,000,000+
+ratings :  7894
+reviews :  8
+
+title :  The Tiger
+appId :  com.swiftappskom.thetigerrpg
+score :  4.5142856
+installs : 10,000,000+
+ratings :  124134
+reviews :  7692
+
+title :  Bus Simulator : 3D Bus Games
+appId :  com.gf.busdriving.publictransport.citypassenger.drivinggames
+score :  3.9411764
+installs : 10,000,000+
+ratings :  25123
+reviews :  213
+
+title :  Famous Fashion - Dress Up Game
+appId :  com.famous.fashion.stylist
+score :  4.8190475
+installs : 500,000+
+ratings :  714
+reviews :  6
+
+title :  Pizza Maker Pizza Baking Games
+appId :  com.pizza.maker.delivery.games
+score :  4.2222223
+installs : 500,000+
+ratings :  1725
+reviews :  7
+
+title :  Telekinesis Quest 3D
+appId :  com.butchersgames.telekinesisquest
+score :  3.821782
+installs : 5,000,000+
+ratings :  2213
+reviews :  61
+
+title :  Wild Dino Hunting Gun Games
+appId :  com.pm.mega.ramp.impossible.car
+score :  4.5289254
+installs : 50,000,000+
+ratings :  51150
+reviews :  538
+
+title :  Miami Spider Rope Hero Fight
+appId :  com.brilliantgamez.flame.hero.flying.robot.speed.hero
+score :  3.62
+installs : 1,000,000+
+ratings :  6193
+reviews :  50
+
+title :  Offroad Bus Simulator Bus Game
+appId :  com.gp.offroad.bus.driving.parking
+score :  4.831683
+installs : 5,000,000+
+ratings :  14116
+reviews :  175
+
+title :  Stunt Bike Race: Bike Games
+appId :  com.bbgs.trial.bike.stunt.master.bike.racing.games
+score :  3.35
+installs : 500,000+
+ratings :  639
+reviews :  13
+
+title :  Car Games 2023 : Car Racing
+appId :  com.backupgames.formula.racing.top.speed.classic.vertigo.vintage.f1
+score :  4.29
+installs : 10,000,000+
+ratings :  36841
+reviews :  137
+
+title :  Fashionista - Fashion Stylist
+appId :  com.frenzoo.FashionistaDressUpMakeoverSim
+score :  4.298077
+installs : 1,000,000+
+ratings :  4594
+reviews :  310
+
+title :  Gun Games Offline : Goli Game
+appId :  com.gg.gun.strike.special.ops.game
+score :  3.857143
+installs : 1,000,000+
+ratings :  3797
+reviews :  6
+
+title :  Wedding Dress Up Bridal Makeup
+appId :  pion.wedding.stylist.fashion.dress.up
+score :  4.7558684
+installs : 5,000,000+
+ratings :  36886
+reviews :  250
+
+title :  BMX Cycle Stunt Game
+appId :  com.mustardgames.bmx.cycle.stunt.mega.ramp.impossibletracks
+score :  4.7058825
+installs : 10,000,000+
+ratings :  31670
+reviews :  396
+
+title :  Public Coach Bus Driving Game
+appId :  com.gp.coach.bus.transport.freegames
+score :  3.44
+installs : 5,000,000+
+ratings :  22973
+reviews :  70
+
+title :  US Army Truck Sim Vehicles
+appId :  com.vg.drive.army.offroad.mountain.truck
+score :  4
+installs : 10,000,000+
+ratings :  14006
+reviews :  19
+
+title :  Super Car Simulator - Car Game
+appId :  com.trioz.supercar.simulator.city.car.game
+score :  3.69
+installs : 5,000,000+
+ratings :  17175
+reviews :  194
+
+title :  Gangstar New Orleans
+appId :  com.gameloft.android.ANMP.GloftOLHM
+score :  4.3989315
+installs : 10,000,000+
+ratings :  834358
+reviews :  22843
+
+title :  Chibi Dolls Dress Up Games
+appId :  com.pgs.chibi.dolls.dressup.games
+score :  2.77
+installs : 1,000,000+
+ratings :  2209
+reviews :  87
+
+title :  Gas Station Junkyard Simulator
+appId :  com.gas.station.building.junkyard.simulator
+score :  3.345679
+installs : 1,000,000+
+ratings :  2420
+reviews :  39
+
+title :  Indian Bridal Dressup & Makeup
+appId :  com.kidsfunmedia.indianbridal.dressupmakeup.games
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  MARVEL Puzzle Quest: Hero RPG
+appId :  com.d3p.mpq
+score :  4.2657194
+installs : 10,000,000+
+ratings :  367147
+reviews :  55875
+
+title :  Bus Games - Bus Simulator 3D
+appId :  com.playtrends.citypassenger.coachbus.simulatorbus.driving3d
+score :  4.2834225
+installs : 50,000,000+
+ratings :  107289
+reviews :  381
+
+title :  Indian Fashion Dressup Stylist
+appId :  air.com.games2win.indianfashionstylist
+score :  4.2955976
+installs : 10,000,000+
+ratings :  71344
+reviews :  591
+
+title :  Ertugrul Game - Horse Riding
+appId :  com.offroad.ertugrul.horse.simulator
+score :  3.9466667
+installs : 1,000,000+
+ratings :  9812
+reviews :  50
+
+title :  Karate King Kung Fu Fight Game
+appId :  com.fs.karate.king.fighting
+score :  4.4180326
+installs : 50,000,000+
+ratings :  225103
+reviews :  978
+
+title :  Evil Lands: Online Action RPG
+appId :  com.ragequitgames.evillands
+score :  4.3692026
+installs : 10,000,000+
+ratings :  391506
+reviews :  11495
+
+title :  Magic Rampage
+appId :  com.asanteegames.magicrampage
+score :  4.613425
+installs : 10,000,000+
+ratings :  557841
+reviews :  7410
+
+title :  Muslims Game Islamic Ramadan
+appId :  com.flipray.virtual.muslim.life.ramadan
+score :  4.5
+installs : 1,000,000+
+ratings :  7987
+reviews :  42
+
+title :  Web Master 3D
+appId :  com.ouazgames.SpiderMaster
+score :  4.0124483
+installs : 10,000,000+
+ratings :  48389
+reviews :  395
+
+title :  Flight Pilot: 3D Simulator
+appId :  com.fungames.flightpilot
+score :  4.203674
+installs : 100,000,000+
+ratings :  2713070
+reviews :  76816
+
+title :  Stylist Girl: Make Me Fabulous
+appId :  com.cocoplay.stylist.girl
+score :  4.2164664
+installs : 50,000,000+
+ratings :  224521
+reviews :  5240
+
+title :  Zoo Doctor Dentist : Game
+appId :  com.bacon.doctor.dentist.game
+score :  2.125
+installs : 1,000,000+
+ratings :  365
+reviews :  4
+
+title :  Fashion Stylist: Dress Up Game
+appId :  air.com.games2win.internationalfashionstylist
+score :  4.3042254
+installs : 50,000,000+
+ratings :  716914
+reviews :  15885
+
+title :  Tailor Fashion Dress up Games
+appId :  com.pgs.tailor.fashion.game
+score :  4.4428573
+installs : 1,000,000+
+ratings :  2577
+reviews :  12
+
+title :  Makeover Games & Girls Games
+appId :  com.beauty.salon.makeup.fashion.makeover.games
+score :  3.935484
+installs : 1,000,000+
+ratings :  2927
+reviews :  14
+
+title :  American Passenger Bus Driving
+appId :  com.tgs.bus.simulator.free.games.busdriving.racing.simulation
+score :  3.2857144
+installs : 1,000,000+
+ratings :  1441
+reviews :  1
+
+title :  Masha and the Bear: Salon Game
+appId :  com.indigokids.mashamakeup
+score :  4.39
+installs : 10,000,000+
+ratings :  62846
+reviews :  296
+
+title :  Animal transport truck games
+appId :  com.gs.farm.animal.game
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Charlie Charlie Jump Challenge
+appId :  com.Chopperkhan.Charlie
+score :  3.44
+installs : 1,000,000+
+ratings :  5184
+reviews :  64
+
+title :  Gun Strike 2 : Commando Secret
+appId :  com.fun.secretmission.commando.ops
+score :  3.8910892
+installs : 10,000,000+
+ratings :  23803
+reviews :  217
+
+title :  Scary Games
+appId :  com.scary.horror.bhoot.hospital.granny.clown.games
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Flight Simulator: Plane Games
+appId :  com.rebellion.pilotsimulator3d.flightpilotsim
+score :  3.88
+installs : 1,000,000+
+ratings :  3208
+reviews :  60
+
+title :  Cargo Fulfillment
+appId :  com.DumbbellGames.CargoFulfillment
+score :  3.9117646
+installs : 1,000,000+
+ratings :  5596
+reviews :  117
+
+title :  Highway Bike Traffic Racer 3D
+appId :  com.stup.highwaybikerace3dmania
+score :  4
+installs : 100,000+
+ratings :  669
+reviews :  2
+
+title :  Bird Sort Color Puzzle Games
+appId :  com.birdsort.color.puzzlegames
+score :  4.5342464
+installs : 100,000+
+ratings :  1059
+reviews :  28
+
+title :  Drifting and Driving Simulator
+appId :  com.gl.drifting.driving.toyota.corolla.racing.game
+score :  4.0697675
+installs : 1,000,000+
+ratings :  2008
+reviews :  53
+
+title :  Car Game Simulator Racing Car
+appId :  com.epicdrive.LamboSeries
+score :  4.213333
+installs : 1,000,000+
+ratings :  2034
+reviews :  24
+
+title :  Dress Up Fashion Stylist Game
+appId :  com.backstreet.police.panda.robot.transform.robotwar
+score :  4.08
+installs : 5,000,000+
+ratings :  4193
+reviews :  47
+
+title :  Indian Bride Makeup Dress Game
+appId :  com.innovativegamesstudio.royalindianweddinggames.makeup.dressupgames
+score :  4.3636365
+installs : 1,000,000+
+ratings :  5568
+reviews :  30
+
+title :  Offroad Fortuner Car Driving
+appId :  com.gds.offroad.fortuner.car.driving
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Draw To Home - Draw The Line
+appId :  com.ips.draw.line.to.go.home
+score :  3.5833333
+installs : 100,000+
+ratings :  354
+reviews :  4
+
+title :  Battle Arena: RPG Adventure
+appId :  com.rbx.battle.android
+score :  4.2222223
+installs : 1,000,000+
+ratings :  75174
+reviews :  859
+
+title :  The Wolf
+appId :  com.swiftappskom.thewolfrpg
+score :  4.5759845
+installs : 50,000,000+
+ratings :  930138
+reviews :  64981
+
+title :  Fidget trading: Pop it Game
+appId :  com.kfs.popit.fidget.puzzle.toys.kids
+score :  3.4444444
+installs : 500,000+
+ratings :  899
+reviews :  5
+
+title :  Chibi Dolls Dress Up Makeover
+appId :  com.sgs.chibi.dolls.dressup.games
+score :  3.2222223
+installs : 500,000+
+ratings :  623
+reviews :  12
+
+title :  Bus Simulator : Bus Games 3D
+appId :  com.under.control.bus.simulator.bus.games
+score :  3.8333333
+installs : 100,000+
+ratings :  674
+reviews :  7
+
+title :  Fashion Dress Up Games Offline
+appId :  com.sgpl.free.style.fashion.game
+score :  4.14
+installs : 1,000,000+
+ratings :  9905
+reviews :  88
+
+title :  Police Car Chase: Police Games
+appId :  com.gs.us.police.driving.games
+score :  3.642857
+installs : 100,000+
+ratings :  261
+reviews :  5
+
+title :  Winked: Episodes of Romance
+appId :  org.nanobit.virtuallife
+score :  4.422078
+installs : 1,000,000+
+ratings :  14837
+reviews :  855
+
+title :  Hair Dye
+appId :  com.crazylabs.hair.dye.challenge
+score :  4.330679
+installs : 50,000,000+
+ratings :  231821
+reviews :  2770
+
+title :  Extreme Jeep Driving Simulator
+appId :  com.interbolt.offroad.jeep.driving.simulator.suvdrive.freegames
+score :  4.8235292
+installs : 5,000,000+
+ratings :  6783
+reviews :  108
+
+title :  Spider Rope Hero Vice Town
+appId :  com.interbolt.real.lion.robot.bike.transformation
+score :  3.66
+installs : 10,000,000+
+ratings :  11980
+reviews :  58
+
+title :  Spider Miami Gangster Hero
+appId :  com.zmmygames.spider.miami.robot.ropehero
+score :  3.5308642
+installs : 1,000,000+
+ratings :  1520
+reviews :  14
+
+title :  Avatar World: City Life
+appId :  com.pazugames.avatarworld
+score :  4.3055553
+installs : 10,000,000+
+ratings :  100641
+reviews :  1696
+
+title :  Fashion Diva Dress Up Stylist
+appId :  com.games2win.fashiondiva
+score :  4.323239
+installs : 10,000,000+
+ratings :  166155
+reviews :  11467
+
+title :  MARVEL Future Fight
+appId :  com.netmarble.mherosgb
+score :  3.9098616
+installs : 100,000,000+
+ratings :  2994685
+reviews :  98442
+
+title :  Fashion Famous
+appId :  com.shortcut.makethecombine
+score :  4.308743
+installs : 5,000,000+
+ratings :  30659
+reviews :  354
+
+title :  Real Farming: Tractor Game 3D
+appId :  com.real.tractor.tractor.farming.tractor.driving.simulation
+score :  4.3
+installs : 1,000,000+
+ratings :  1355
+reviews :  6
+
+title :  WWE Champions
+appId :  com.scopely.whiplash
+score :  3.7939522
+installs : 10,000,000+
+ratings :  391040
+reviews :  31243
+
+title :  Offline Gun Games : Fire Games
+appId :  com.mr360gamingstudio.battle.ops.gun.strike
+score :  3.851852
+installs : 1,000,000+
+ratings :  3720
+reviews :  13
+
+title :  Coach Bus Driver - Bus Games
+appId :  com.ig.coachbussimulator.busdrivinggames
+score :  4
+installs : 500,000+
+ratings :  1472
+reviews :  6
+
+title :  Drift & Driving-Honda Civic 2
+appId :  com.gamingleague.drifting.driving.simulator.honda.civic2
+score :  4.6732674
+installs : 1,000,000+
+ratings :  4224
+reviews :  93
+
+title :  Car Games: Kar Gadi Wala Game
+appId :  com.monster.truck.driving.stunts.impossible.tracks
+score :  2.45
+installs : 1,000,000+
+ratings :  5892
+reviews :  126
+
+title :  Plane Pilot Flight Simulator
+appId :  com.DutyToCraftGames.PlanePilot.FlightSimulator
+score :  3.5454545
+installs : 1,000,000+
+ratings :  4681
+reviews :  15
+
+title :  Tag Team Wrestling Game
+appId :  games.mini.sports.tag.team.wrestling.world
+score :  4.2
+installs : 5,000,000+
+ratings :  17533
+reviews :  160
+
+title :  Makeover Games: Makeup Salon
+appId :  fashion.games.for.girls
+score :  4.5816326
+installs : 1,000,000+
+ratings :  52092
+reviews :  106
+
+title :  Car Parking Game 3D: Car Games
+appId :  com.gg.car.driving.parking.game
+score :  5
+installs : 1,000,000+
+ratings :  1249
+reviews :  14
+
+title :  Fashion Show: Dress up Games
+appId :  com.fashion.battle.show.makeupgames
+score :  3.7
+installs : 1,000,000+
+ratings :  3779
+reviews :  28
+
+title :  Cyber Rope Hero in Spider Game
+appId :  com.appstrend.robot.superhero.games
+score :  4.8640776
+installs : 10,000,000+
+ratings :  12658
+reviews :  196
+
+title :  Driving School 3D : Car Games
+appId :  com.sector7.car.parking.master.street.driver
+score :  3.5142858
+installs : 1,000,000+
+ratings :  3969
+reviews :  19
+
+title :  Real Dinosaur Hunting Games
+appId :  com.gs.real.dinohunting2021
+score :  3.78
+installs : 1,000,000+
+ratings :  1968
+reviews :  24
+
+title :  Car Games 3D - Car Parking Sim
+appId :  com.gq.moderncar.parkinggame.cargame
+score :  4
+installs : 500,000+
+ratings :  873
+reviews :  4
+
+title :  Fashion Makeup Girls game 2023
+appId :  com.hmg.redcarpet.modeldressup.fashiongames
+score :  4.1
+installs : 1,000,000+
+ratings :  16911
+reviews :  156
+
+title :  Fashion Battle - Dress up game
+appId :  tr.com.apps.fashion.battle
+score :  4.5623283
+installs : 50,000,000+
+ratings :  154641
+reviews :  5729
+
+title :  Miami Rope Hero Spider Game 2
+appId :  com.dmg.grand.miami.open.world.crime.ganster.games
+score :  3.8446603
+installs : 1,000,000+
+ratings :  2669
+reviews :  33
+
+title :  Commando Strike War Army Games
+appId :  com.ar.offline.strike.fps.shooting
+score :  3.5555556
+installs : 100,000+
+ratings :  476
+reviews :  1
+
+title :  City Pilot Cargo Plane Games
+appId :  com.cg.plane.flight.simulator.parking.game
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Flying Rope Hero: Spider Games
+appId :  com.flying.superhero.spider.rope.hero.games
+score :  4.3333335
+installs : 1,000,000+
+ratings :  1271
+reviews :  0
+
+title :  West Cowboy Games Horse Riding
+appId :  com.lgp.cowboygames.horseridingsimulator
+score :  3.6666667
+installs : 100,000+
+ratings :  233
+reviews :  2
+
+title :  Crazy Car Offline Racing Games
+appId :  com.car.racing.games.trafficrace
+score :  3.9230769
+installs : 100,000+
+ratings :  560
+reviews :  8
+
+title :  Fashion Dress Up Wedding Games
+appId :  com.wedding.game.fashion
+score :  4.1764708
+installs : 1,000,000+
+ratings :  1587
+reviews :  11
+
+title :  Offroad Bus Driving: Bus Games
+appId :  com.driving.simulator.city.bus.parking.driving.game
+score :  3.5555556
+installs : 500,000+
+ratings :  1030
+reviews :  4
+
+title :  ASMR Doctor Game: Makeup Salon
+appId :  com.asmr.doctor.gadmakeup.salon
+score :  1.9090909
+installs : 500,000+
+ratings :  1876
+reviews :  50
+
+title :  Car Games : Police Car Parking
+appId :  com.las.crazy.traffic.police.car.parking.modern.simulator
+score :  4.16
+installs : 10,000,000+
+ratings :  18072
+reviews :  61
+
+title :  Modern Strike Ops: Mission-FPS
+appId :  com.gun.sniper.shooting.ops3d
+score :  3.8666666
+installs : 1,000,000+
+ratings :  1903
+reviews :  29
+
+title :  MARVEL Strike Force: Squad RPG
+appId :  com.foxnextgames.m3
+score :  3.9776232
+installs : 10,000,000+
+ratings :  667322
+reviews :  88682
+
+title :  RAID: Shadow Legends
+appId :  com.plarium.raidlegends
+score :  4.5561604
+installs : 50,000,000+
+ratings :  1900375
+reviews :  128575
+
+title :  Police Bus Simulator Bus Games
+appId :  com.appstrend.rescue.bus.simulator
+score :  4.271845
+installs : 5,000,000+
+ratings :  32795
+reviews :  28
+
+title :  Indian Heavy Cargo Truck Sim
+appId :  com.rs.indian.mountain.heavy.cargo.truck
+score :  3.77
+installs : 5,000,000+
+ratings :  16964
+reviews :  81
+
+title :  Operate Now Hospital - Surgery
+appId :  com.spilgames.OperateNow2
+score :  3.8753903
+installs : 50,000,000+
+ratings :  517735
+reviews :  15218
+
+title :  Detective Masters
+appId :  com.odininteractive.detectivemaster
+score :  4.1858587
+installs : 5,000,000+
+ratings :  19057
+reviews :  1249
+
+title :  Parking jam: Parking Car Games
+appId :  com.car.parking.jam.parking.games.park.car.games.trafficjam.puzzle.game
+score :  4.071429
+installs : 100,000+
+ratings :  432
+reviews :  6
+
+title :  Foot Doctor ASMR Offline Games
+appId :  com.taprix.foot.surgery.doctor.care.free.doctor.games
+score :  3.05
+installs : 1,000,000+
+ratings :  5966
+reviews :  132
+
+title :  US Bus Simulator: Bus Games 3d
+appId :  com.aj.bussimulator.busdriving.busgame
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Tuk Tuk Auto Driving Games 3D
+appId :  com.gp.modern.rickshaw.simulator.game
+score :  4.6842103
+installs : 1,000,000+
+ratings :  3841
+reviews :  31
+
+title :  Injection Hospital Doctor Game
+appId :  com.playkids.eyesurgery.transplantdoctor.eremergency.hospitalsimulator
+score :  4.1
+installs : 5,000,000+
+ratings :  8352
+reviews :  150
+
+title :  Masha and the Bear: My Friends
+appId :  com.devgame.masha.and.bear.my.friends
+score :  3.9130435
+installs : 1,000,000+
+ratings :  4146
+reviews :  24
+
+title :  Last War: WW2 Army Shelter
+appId :  com.tinybytes.idleshelter
+score :  4.37
+installs : 1,000,000+
+ratings :  3256
+reviews :  78
+
+title :  Farming Tractor: Tractor Game
+appId :  com.protechgames.real.farmer.tractor.simulator
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Indian Royal Wedding Doll Game
+appId :  com.rarebrains.makeupdressup
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Cake Baking Games : Bakery 3D
+appId :  com.taprix.cake.maker.bakery.empire.baking.games.girls
+score :  3.7313433
+installs : 1,000,000+
+ratings :  3789
+reviews :  28
+
+title :  High School Teacher Games Life
+appId :  com.onecentgames.school.teacher.simulator.virtual.school.life.games
+score :  4.04
+installs : 1,000,000+
+ratings :  11574
+reviews :  89
+
+title :  Gamer Cafe Job Simulator
+appId :  com.titanz.interentcafe.simulator.simulatiuongames
+score :  3.73
+installs : 1,000,000+
+ratings :  11026
+reviews :  87
+
+title :  Fashion Games: Dress up Styles
+appId :  com.biza.fashion.game.stylist.girl.games.dressup.gamesforgirls
+score :  4.42
+installs : 5,000,000+
+ratings :  23739
+reviews :  308
+
+title :  Mega Ramp Stunt - Bike Games
+appId :  com.gf.mega.ramps.games
+score :  4.2475247
+installs : 1,000,000+
+ratings :  6910
+reviews :  117
+
+title :  Horror Charlie Spider-Train
+appId :  com.Awecom.scarycharliespidertrain
+score :  3.8
+installs : 500,000+
+ratings :  1456
+reviews :  20
+
+title :  Flying Bus Simulator Bus Games
+appId :  com.bettergames.flying.bus.sim19
+score :  3.0810812
+installs : 5,000,000+
+ratings :  7899
+reviews :  15
+
+title :  4x4 Jeep offroad Heavy Driving
+appId :  com.vrx.bike.tricks.stunt.master.gamescom.vrx.bike.tricks.stunt.master.games
+score :  4.076923
+installs : 100,000+
+ratings :  690
+reviews :  3
+
+title :  Fashion Show:Makeup Games
+appId :  com.fashion.show.makeup.games
+score :  4.142857
+installs : 500,000+
+ratings :  1417
+reviews :  1
+
+title :  Wedding Cake Maker: Cake Games
+appId :  com.wedding.cake.maker.bakery.cake.games
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Icing On The Dress
+appId :  com.zjcgame.icingonthedress
+score :  4.1359224
+installs : 50,000,000+
+ratings :  90480
+reviews :  1940
+
+title :  Pokémon Quest
+appId :  jp.pokemon.pokemonquest
+score :  4.286554
+installs : 10,000,000+
+ratings :  206223
+reviews :  11712
+
+title :  Heart Surgery Hospital Games
+appId :  com.sg.hospital.doctor.surgeon.free.games
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Mighty Party
+appId :  com.panoramik.mightyparty
+score :  4.359686
+installs : 10,000,000+
+ratings :  484487
+reviews :  17175
+
+title :  Offroad Bus Games Racing Games
+appId :  com.tricktale.mountain.climb.stunt.offroad.car.monstertruck
+score :  4.775
+installs : 1,000,000+
+ratings :  1865
+reviews :  32
+
+title :  Pizza Making Cooking Girl Game
+appId :  com.intropixel.pizzacooking.girlsgames
+score :  3.952381
+installs : 500,000+
+ratings :  1587
+reviews :  13
+
+title :  Euro Truck Driving Sim 3D
+appId :  com.aps.euro.truck.cargo.driving.sim
+score :  3.36
+installs : 5,000,000+
+ratings :  15678
+reviews :  102
+
+title :  American Bus Driving Simulator
+appId :  com.rs.euro.bus.driving.game.coach.bus.simulator
+score :  3.6666667
+installs : 1,000,000+
+ratings :  9739
+reviews :  49
+
+title :  Car Games 2022 - Car Games 3D
+appId :  com.wg.cargames.suv.city.driving
+score :  3.6388888
+installs : 1,000,000+
+ratings :  3912
+reviews :  22
+
+title :  Ice Cream: Food games: cooking
+appId :  com.kfs.popsicle.icecream.maker
+score :  4.095238
+installs : 1,000,000+
+ratings :  718
+reviews :  6
+
+title :  Gun Strike 2 : FPS-Game
+appId :  com.black.missions.counterattack.ops.shooter
+score :  4.44
+installs : 500,000+
+ratings :  1536
+reviews :  9
+
+title :  Surgery Simulator Doctor Game
+appId :  com.sg.hospital.simulator.game
+score :  3.6
+installs : 5,000,000+
+ratings :  12571
+reviews :  83
+
+title :  Vegas Robbery Crime City Game
+appId :  com.thief.simulator.crime.city.escape
+score :  3.4
+installs : 100,000+
+ratings :  654
+reviews :  5
+

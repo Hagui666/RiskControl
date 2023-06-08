@@ -1,0 +1,1400 @@
+title :  Makeup camera
+appId :  com.twoweeksapps.beautyface
+score :  4.181818
+installs : 1,000,000+
+ratings :  2211
+reviews :  7
+
+title :  DSLR HD Camera : 4K HD Camera
+appId :  com.tj.dslrprofessional.hdcamera
+score :  4.02
+installs : 10,000,000+
+ratings :  27827
+reviews :  152
+
+title :  Mehndi Design: Nail art
+appId :  com.mehndi.design.easy.mehndidesign.art
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Perfect365 Makeup Photo Editor
+appId :  com.arcsoft.perfect365
+score :  4.28339
+installs : 50,000,000+
+ratings :  785891
+reviews :  49926
+
+title :  Dress Up Royal Princess Doll
+appId :  air.com.winkypinky.dressuproyalprincessdoll
+score :  4.01
+installs : 5,000,000+
+ratings :  15653
+reviews :  62
+
+title :  Girls Hairstyle Step By Step
+appId :  com.studio.aone.girlshairstyle.hairstylestepbystep
+score :  4.714286
+installs : 1,000,000+
+ratings :  2142
+reviews :  7
+
+title :  Easy Hairstyles for Girls
+appId :  com.nabilsoft.daily_hairstyles_for_girls
+score :  4.8333335
+installs : 500,000+
+ratings :  1375
+reviews :  7
+
+title :  Beauty Camera - Selfie, Filter
+appId :  cam.sweet.selfie.effect.camera
+score :  4.57
+installs : 1,000,000+
+ratings :  3822
+reviews :  48
+
+title :  Beauty Camera : You Makeover P
+appId :  beauty.selfiecamera.beautycam.youbeautymakeup
+score :  4.19
+installs : 10,000,000+
+ratings :  28039
+reviews :  54
+
+title :  Makeup Tutorial App
+appId :  makeup.app.artist.tips.tutorial
+score :  4.52
+installs : 100,000+
+ratings :  692
+reviews :  2
+
+title :  Kurti Designs
+appId :  com.mishree.app.kurti.design.free
+score :  3.2
+installs : 100,000+
+ratings :  535
+reviews :  4
+
+title :  B316 Selfie - Makeover Camera
+appId :  selfiecamera.beauty.filter.beautycam.youbeautymakeup
+score :  4.7777777
+installs : 500,000+
+ratings :  1416
+reviews :  10
+
+title :  Beauty Camera: Camera Plus App
+appId :  com.lockerroom.face.changer.mustache.beard.handsome.free
+score :  3.24
+installs : 5,000,000+
+ratings :  11100
+reviews :  33
+
+title :  Mehndi Design - Easy Simple
+appId :  com.appybuilder.monyapp1213.bestmehndidesigens2018
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Girls Hairstyle Steps 2023
+appId :  com.gunmetal208.girlshairstylesteps
+score :  3.9
+installs : 100,000+
+ratings :  657
+reviews :  5
+
+title :  Filters for Pictures - Camera 
+appId :  com.photo.beauty.plus.filters.pictures
+score :  3.7843137
+installs : 1,000,000+
+ratings :  3689
+reviews :  19
+
+title :  Mehndi Design 2023
+appId :  com.appmefast.mehendimehndidesign
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Camera Filters and Effects
+appId :  com.lomographic.vintage.camera.filters
+score :  3.8660715
+installs : 10,000,000+
+ratings :  38240
+reviews :  359
+
+title :  Eid Mehndi Designs 2022
+appId :  com.eidmehndi.design.bridalmehndi.mehndidesign
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Beauty Makeup Editor & Camera
+appId :  com.lyrebirdstudio.beauty
+score :  4.369244
+installs : 10,000,000+
+ratings :  395520
+reviews :  2045
+
+title :  Video Background Changer
+appId :  maa.greenscreen_effect.background_changer
+score :  3.6330276
+installs : 1,000,000+
+ratings :  12089
+reviews :  587
+
+title :  Hairstyles step by step
+appId :  com.luckystars.hairstylesstepbystep
+score :  3.93
+installs : 10,000,000+
+ratings :  26051
+reviews :  272
+
+title :  Simple Mehndi Designs 2022
+appId :  com.livql.simplemehndidesigns
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Mehndi Design - Henna Designs
+appId :  com.hennamehndidesigns.mehndi.ka.design.indianmehndidesigns
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Beauty Camera: Selfie Editor
+appId :  com.mirrorapp.magnifier.camera.mirror.mirrorcam.editor
+score :  3.8709676
+installs : 500,000+
+ratings :  979
+reviews :  12
+
+title :  Men Hairstyle Camera
+appId :  com.men.hairstyle.camera
+score :  3.8387096
+installs : 1,000,000+
+ratings :  1957
+reviews :  12
+
+title :  Sweet Beauty Camera
+appId :  sweet.beauty.cam.toanhmsg
+score :  4.5185184
+installs : 100,000+
+ratings :  1842
+reviews :  14
+
+title :  Pic Editor
+appId :  com.vdteam.pic.editor
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Beauty Plus Princess Camera
+appId :  com.photoeditor.beautyplus.camera
+score :  4.4615383
+installs : 500,000+
+ratings :  1099
+reviews :  2
+
+title :  Video Background Remover
+appId :  maa.video_background_remover
+score :  3.6
+installs : 500,000+
+ratings :  5062
+reviews :  162
+
+title :  Glasses Photo Editor Pics
+appId :  com.glasses.selfiesunglasses.photolab.beautyplus.photoeditor
+score :  2.8095238
+installs : 1,000,000+
+ratings :  1304
+reviews :  11
+
+title :  Mehndi Design Latest 2023 Eid
+appId :  com.nextguidance.simplemehndidesignsfree
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Finger Mehndi Designs in 2023
+appId :  com.waqar.mehndi.ik.as.fin
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Eid Mehndi Designs 2023
+appId :  com.uidevelopers.eidmehndidesign
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Girls Hairstyles Videos Steps
+appId :  com.abapps.womenandgirlshairstyles
+score :  4.875
+installs : 10,000+
+ratings :  200
+reviews :  6
+
+title :  Makeup Camera - Photo Editor
+appId :  com.appixel.pretty.makeup.camera
+score :  4.080808
+installs : 500,000+
+ratings :  2653
+reviews :  62
+
+title :  Beauty Mirror, The Mirror App
+appId :  mirrorapp.lightmirror.beautymirror.makeupmirror
+score :  4.6684213
+installs : 1,000,000+
+ratings :  10446
+reviews :  584
+
+title :  Men Hair style photo Editor
+appId :  com.sobkhobor.haircut
+score :  3.0370371
+installs : 1,000,000+
+ratings :  4447
+reviews :  19
+
+title :  Makeup Photo Grid Beauty Salon
+appId :  com.makeup.photo.grid.salon
+score :  3.3015873
+installs : 1,000,000+
+ratings :  7769
+reviews :  34
+
+title :  Beatrix: Natural Beauty Camera
+appId :  beat.photoretouch.beautycamera.photoeditor
+score :  4.654321
+installs : 100,000+
+ratings :  2116
+reviews :  21
+
+title :  Hairstyles step by step
+appId :  hairstyles.hairstylesstepbystep.schoolhairstyles.hairstyle2.hairstylesgirls.hairstylestepbystep.hairstyle
+score :  4.5841584
+installs : 1,000,000+
+ratings :  4601
+reviews :  45
+
+title :  Boy Hairstyle Camera
+appId :  best.boy.hairstyle.camera
+score :  3.9210527
+installs : 1,000,000+
+ratings :  3043
+reviews :  13
+
+title :  Princess Mermaid At Hair Salon
+appId :  air.com.rosytales.princessmermaidathairsalon
+score :  3.9230769
+installs : 500,000+
+ratings :  1049
+reviews :  1
+
+title :  Girls Hairstyles Step By Step
+appId :  com.girlshairstyle.girlshairstylesoffline
+score :  4.4126983
+installs : 1,000,000+
+ratings :  10415
+reviews :  30
+
+title :  Pic Collage Maker & Editor
+appId :  com.appscourt.collagemaker.photoeditor.photocollage.layout.image.editor
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Sweet Live Filter Face Camera
+appId :  beauty.picshop.sweet.live.filter.cat.face.camera
+score :  4.125
+installs : 1,000,000+
+ratings :  2655
+reviews :  14
+
+title :  Girls hairstyle offline Videos
+appId :  com.looperapps.girlshairstylessteps
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Makeup Camera - Cartoon Photo 
+appId :  photoeditor.makeup.camera.cartoon.selfie.beauty.makeover
+score :  3.9
+installs : 1,000,000+
+ratings :  3092
+reviews :  21
+
+title :  Pixl - Face Retouch & Blemish 
+appId :  net.braincake.pixl.pixl
+score :  4.638581
+installs : 5,000,000+
+ratings :  86894
+reviews :  1145
+
+title :  Perfect Mirror
+appId :  com.netigen.bestmirror
+score :  4.4664803
+installs : 5,000,000+
+ratings :  54657
+reviews :  841
+
+title :  Face Enhancer: Blemish Remover
+appId :  com.ophotovideoapps.facenhancer
+score :  3.4842105
+installs : 1,000,000+
+ratings :  2905
+reviews :  40
+
+title :  AI Photo Colorize & Enhancer
+appId :  com.manufacturingbiss.photoAI
+score :  2.4285715
+installs : 10,000+
+ratings :  107
+reviews :  5
+
+title :  Makeup Tips 2022
+appId :  com.livql.newmakeupdesigns
+score :  4
+installs : 1,000,000+
+ratings :  4184
+reviews :  15
+
+title :  GharPar – At Home Beauty Salon
+appId :  com.onebyte.gharpar
+score :  4.740741
+installs : 50,000+
+ratings :  1608
+reviews :  5
+
+title :  Foot/Feet Mehndi Designs
+appId :  com.appybuilder.monyapp1213.FootFeetMehndiDesigns
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Cute Girls Hairstyles Tutorial
+appId :  com.CuteGirlsHairstyles.GirlsHairstyleDesigns
+score :  3.8
+installs : 100,000+
+ratings :  730
+reviews :  15
+
+title :  Man Hairstyle Photo Editor
+appId :  com.superdev.photoeditor.manhairstyle
+score :  3.878788
+installs : 1,000,000+
+ratings :  4832
+reviews :  35
+
+title :  Jewelry
+appId :  com.twoweeksapps.jewelry
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Remove Background From Video
+appId :  maa.remove_video_background
+score :  3.73
+installs : 100,000+
+ratings :  1712
+reviews :  62
+
+title :  Foot Mehndi Design 2022 Latest
+appId :  livql.footmehndidesigns
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  HD Camera for Android: 4K Cam
+appId :  photo.hd.video.beauty.camera
+score :  4.56962
+installs : 5,000,000+
+ratings :  39315
+reviews :  624
+
+title :  Blink Beauty Cam: Photo Makeup
+appId :  com.blink.beautycam.facemakeup.photoeditor
+score :  4.4
+installs : 100,000+
+ratings :  858
+reviews :  1
+
+title :  Latest Mehndi Design Offline
+appId :  com.tech.app.mehndi.designs.offline.latest
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Mirror
+appId :  com.studio360apps.mirror
+score :  4.645695
+installs : 1,000,000+
+ratings :  22104
+reviews :  1220
+
+title :  Beauty Camera - Selfie Camera
+appId :  beauty.makeup.photoeditor.selfiecamera
+score :  4.9264708
+installs : 100,000+
+ratings :  2086
+reviews :  61
+
+title :  Makeup Tutorial step by step
+appId :  com.piupiuapps.makeup
+score :  3.94
+installs : 500,000+
+ratings :  5346
+reviews :  86
+
+title :  Police Uniform Editor
+appId :  com.commando.photoeditor.photosuit.police.uniform.maker
+score :  4.388889
+installs : 100,000+
+ratings :  232
+reviews :  6
+
+title :  Filtre for Selfie
+appId :  com.Filterfor.Selfie
+score :  4.1
+installs : 100,000+
+ratings :  2468
+reviews :  45
+
+title :  Makeup Photo Editor
+appId :  com.astralwire.photo.editor.makeup.camera
+score :  4.42
+installs : 1,000,000+
+ratings :  6293
+reviews :  249
+
+title :  Hairstyles step by step
+appId :  com.stylestudio.hairstyle.stepbystep
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Beauty Camera - Selfie Camera
+appId :  com.northpark.beautycamera
+score :  4.3725753
+installs : 10,000,000+
+ratings :  118560
+reviews :  6239
+
+title :  Face Beauty Makeup Camera-Self
+appId :  com.magicvfacemakeup.beauty.makeup.camera.selfie.photoeditor.dailyaims
+score :  4.45
+installs : 5,000,000+
+ratings :  29121
+reviews :  161
+
+title :  Jewelry Photo Editor for Girl
+appId :  com.goshi.jewellery.bridalmakeup.indianjewellery
+score :  3
+installs : 500,000+
+ratings :  1079
+reviews :  3
+
+title :  Hairstyles step by step
+appId :  com.piupiuapps.hairstyles
+score :  4.207207
+installs : 5,000,000+
+ratings :  46369
+reviews :  1079
+
+title :  instaBeauty -Makeup Selfie Cam
+appId :  com.instabeauty.instabeautymakeup
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Hairy - Men Hairstyles beard &
+appId :  com.dsrtech.menhairstyles
+score :  3.7978723
+installs : 10,000,000+
+ratings :  13205
+reviews :  41
+
+title :  BTS Stickers Animated
+appId :  com.bts_stickers_animated.BTSanimated.wastickerarab
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Stylist Indian Wedding Rituals
+appId :  com.gamecrush.modernstylistfashionindianweddingrituals
+score :  4.3333335
+installs : 1,000,000+
+ratings :  2988
+reviews :  2
+
+title :  Beauty Plus Selfie Camera
+appId :  beautyplus.selfie.camera.makeup.filter
+score :  4.133333
+installs : 100,000+
+ratings :  1628
+reviews :  0
+
+title :  Mehndi Design 2023
+appId :  com.skapps.mehndidesign2020
+score :  5
+installs : 100,000+
+ratings :  2131
+reviews :  12
+
+title :  Girl Hair Style Makeover Video
+appId :  com.app.hairstylermakeoverideas
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Beauty Makeup Editor: Face app
+appId :  com.photofusion.girlsphotosuiteditor.sarees.suit.dresses.women.traditional.girls.photo.editor
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Kashees Mehndi Designs Narrow
+appId :  com.janjowa.kasheesmehndidesignsnarrownew
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Girl Outfits Fashion
+appId :  com.anggadeveloper.girloutfitsfashion
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Desi Totkay Gharelu Ilaj Urdu
+appId :  com.pakrises.Desi_Totkay_Gharelu_Ilaj_Urdu
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  YouCam Nails - Manicure Salon 
+appId :  com.perfectcorp.ycn
+score :  4.2687116
+installs : 10,000,000+
+ratings :  135238
+reviews :  3434
+
+title :  Face Acne Remover Photo Editor
+appId :  com.cognivint.iacr
+score :  3.357143
+installs : 1,000,000+
+ratings :  2223
+reviews :  32
+
+title :  Makeup Photo Editor
+appId :  best.photo.apps.makeup
+score :  3.6
+installs : 1,000,000+
+ratings :  7915
+reviews :  176
+
+title :  Women Jewellery Photo Editor
+appId :  com.jk.bridalmakeupJewellery.stylishJewellery.cameraJewellery
+score :  3.5714285
+installs : 100,000+
+ratings :  477
+reviews :  1
+
+title :  Hairstyles step by step easy, 
+appId :  com.dgt.HairstyleStepbyStepEasyOfflineDIY
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Fashion Nail Salon Game
+appId :  com.Fashion.Nail.Salon.Game.Manicure.And.Pedicure.App.Vex
+score :  4.2970295
+installs : 1,000,000+
+ratings :  15898
+reviews :  232
+
+title :  Mehandi Designs New
+appId :  com.skylandapps.mehandidesignsnew
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  HD Beauty Selfie Camera
+appId :  com.liveselfiecamera.beautycamera
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Beauty Filters For Picture App
+appId :  com.upstack.photo.editor.beauty
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Photo Editor | Collage Maker
+appId :  com.photoeditor.layout.collagemaker.photocollage.photogrid.piccollage
+score :  4.714286
+installs : 100,000+
+ratings :  104
+reviews :  1
+
+title :  Video Background Changer
+appId :  com.mw.video.background.changer.remover
+score :  3
+installs : 100,000+
+ratings :  728
+reviews :  9
+
+title :  Beauty Camera Plus Photo Edito
+appId :  com.millionapps.women.traditional.girls.photo.suit.editor.girlsphotosuiteditor.sarees.dresses
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Make Me Bald Funny Photo App
+appId :  com.MEL.Make.Me.Bald.Funny.Photo.App
+score :  1.8
+installs : 100,000+
+ratings :  196
+reviews :  2
+
+title :  Beauty Face Makeup Magic Selfi
+appId :  barsa.beauty.face.makeup.magic.selfie.camera
+score :  4.0277777
+installs : 500,000+
+ratings :  2202
+reviews :  24
+
+title :  Boys Makeup
+appId :  com.photoeditor.and.games.man.photo
+score :  3.6666667
+installs : 100,000+
+ratings :  781
+reviews :  7
+
+title :  Sweet Beauty Camera
+appId :  sweet.beauty.camera
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Hair Color Changer: Change you
+appId :  haircolour.hairstyle.photoeditor.haircolorchanger
+score :  3.7979798
+installs : 5,000,000+
+ratings :  34098
+reviews :  792
+
+title :  Night Camera Mode Photo Video
+appId :  com.mayurpanki.beautplucam
+score :  4.26
+installs : 500,000+
+ratings :  1397
+reviews :  63
+
+title :  Facelab - Selfie Face Editor
+appId :  com.collage.m2
+score :  3.5742574
+installs : 500,000+
+ratings :  3523
+reviews :  50
+
+title :  Step by Step Hairstyles
+appId :  com.flamingo.StepbyStepHairstyle
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Saeed Ghani
+appId :  com.saeed.ghani
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  2021 Dress Cutting Tutorials S
+appId :  com.learnstiching.dresscutting_methods
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  princess wedding Makeup game
+appId :  com.cb.weddingdesigner.eventdesigner.weddinggames
+score :  4.2916665
+installs : 500,000+
+ratings :  2197
+reviews :  7
+
+title :  Neon Horns Devil Error
+appId :  neon.horns.devil
+score :  4.2
+installs : 100,000+
+ratings :  424
+reviews :  1
+
+title :  Eyes Makeup 2023
+appId :  com.applucinante.eyemakeup2023
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Hair color changer
+appId :  foto.arte.hair.color.changer
+score :  1.8571428
+installs : 10,000+
+ratings :  65
+reviews :  4
+
+title :  Face Beauty for App Video Call
+appId :  facebeauty.videocall.app
+score :  2
+installs : 50,000+
+ratings :  269
+reviews :  4
+
+title :  Mirror Plus: Mirror with Light
+appId :  mmapps.mirror.free
+score :  4.3621345
+installs : 10,000,000+
+ratings :  394712
+reviews :  31267
+
+title :  Selfie Camera Filter
+appId :  selfie.camera.filter
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Glasses & Sunglasses Photo
+appId :  com.superdiva.photoeditor.glasses
+score :  3
+installs : 500,000+
+ratings :  1000
+reviews :  8
+
+title :  Easy simple mehndi design 2023
+appId :  com.latestmehndidesign.mehndidesigns
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Beauty Calculator Pretty Scale
+appId :  com.nerovero.beautycalculator
+score :  3.87
+installs : 100,000+
+ratings :  3638
+reviews :  107
+
+title :  Macho - Man makeover app & Pho
+appId :  com.dsrtech.macho
+score :  3.8514853
+installs : 5,000,000+
+ratings :  13771
+reviews :  86
+
+title :  Girls Hairstyles
+appId :  best.photo.app.girlshairstyles
+score :  3.17
+installs : 1,000,000+
+ratings :  7734
+reviews :  128
+
+title :  Filter For Tik Tok 2020
+appId :  com.studiokevin.filtersforselfie.sweetfacecamera
+score :  3.94
+installs : 100,000+
+ratings :  3125
+reviews :  59
+
+title :  Beauty Plus Camera Face Makeup
+appId :  com.wagonvault.beautyplus.selfiecamera.beautycamera
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Man Hairstyles Photo Editor
+appId :  best.photo.app.manhairstyles2018
+score :  2.3773584
+installs : 1,000,000+
+ratings :  2731
+reviews :  22
+
+title :  Face Yoga App & Face Lifting
+appId :  faceyogaexercise.faceapp.skincareroutine.losefacefat.faceyogaworkout
+score :  4.1153846
+installs : 100,000+
+ratings :  975
+reviews :  5
+
+title :  Mehndi Designs
+appId :  com.bsoft.mehndidesign
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Crown Heart Emoji Camera
+appId :  beauty.picshop.crown.heart.emoji.camera
+score :  4.0833335
+installs : 500,000+
+ratings :  3315
+reviews :  4
+
+title :  Hairstyles for short hair Girl
+appId :  com.dgt.hairstyleforshorthairgirls
+score :  3.8461537
+installs : 100,000+
+ratings :  570
+reviews :  6
+
+title :  Makeup Camera Beauty Editor
+appId :  makeupworld.photoeditor.pretty.makeup.camera.beauty.selfie
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Bridal Mehndi Designs 2022
+appId :  com.livql.weddingmehndi
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  FoxEyes - Change Eye Color
+appId :  photo.smile.red.eyes.changer.color
+score :  4.1864405
+installs : 1,000,000+
+ratings :  24528
+reviews :  784
+
+title :  New Arabic Mehndi Design 2020
+appId :  apps.popup.NewArabicMehndiDesign
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Magic Beauty Makeup Camera
+appId :  beautyhut.magic.beauty.makeup.camera
+score :  4.214286
+installs : 10,000+
+ratings :  455
+reviews :  6
+
+title :  Sweet Beauty Camera Editor
+appId :  com.lr.sweet.beauty.camera.photoeditor
+score :  4.285714
+installs : 100,000+
+ratings :  227
+reviews :  1
+
+title :  Filters for pictures
+appId :  filters.pictures.beauty
+score :  4.4
+installs : 100,000+
+ratings :  575
+reviews :  2
+
+title :  Filters for Selfies
+appId :  beautyrooom.filtersforselfie.sweet.face.camera.selfies
+score :  3.23
+installs : 1,000,000+
+ratings :  3232
+reviews :  48
+
+title :  Sweet Face Camera - Live Face 
+appId :  com.sweetsnap.facecamera.livefilter.selfie.snapchat
+score :  4.5263157
+installs : 1,000,000+
+ratings :  10194
+reviews :  13
+
+title :  Neck Designs Offline
+appId :  com.magicforstudio.neckandtrouserdesigns
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Face Beauty Camera
+appId :  com.makeup.beauty.face.facebeauty.camera
+score :  4.17
+installs : 1,000,000+
+ratings :  4618
+reviews :  74
+
+title :  Collage Maker – Framed Picture
+appId :  com.photocollage.collage.maker.photoframes.photoeditor
+score :  4.64
+installs : 500,000+
+ratings :  4423
+reviews :  25
+
+title :  Jewelry Women Jewellery Photo
+appId :  com.woman.jewelry.photo.editor
+score :  4.5882354
+installs : 1,000,000+
+ratings :  1935
+reviews :  6
+
+title :  ID Photo Filter for TikTok
+appId :  id.photo.effect.tiktok
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Beauty Makeup Camera - Selfie
+appId :  com.pixelsdev.beautymakeupcamera
+score :  4.0227275
+installs : 1,000,000+
+ratings :  970
+reviews :  10
+
+title :  Arabic Mehndi Designs HD 2023
+appId :  com.janjowa.arabicmehndidesignshd2023
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Finger Mehndi Designs 2020 (Of
+appId :  com.fashbell966.hasan.fashbellpro210
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Makeup Tips (video tutorials)
+appId :  com.gmail.inquiries.plannerapps.makeuptips
+score :  3.8333333
+installs : 50,000+
+ratings :  173
+reviews :  5
+
+title :  Dress Change Photo Editor
+appId :  com.photo.editor.dress.change
+score :  3.8947368
+installs : 100,000+
+ratings :  896
+reviews :  10
+
+title :  Ringtones for Infinix Hot 9
+appId :  com.ringtonesforinfinixhot9play
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Hairstyles Photo Editor
+appId :  com.photoeditor.and.games.hairstyle
+score :  3.49
+installs : 500,000+
+ratings :  2063
+reviews :  65
+
+title :  Sweet Camera Selfie Filters
+appId :  com.sweetcamera.selfiefilters.sweetface.livefilter
+score :  4.8333335
+installs : 50,000+
+ratings :  860
+reviews :  2
+
+title :  Ghost ASMR surgery game
+appId :  com.ginchugames.ghostmakeover
+score :  3.3043478
+installs : 100,000+
+ratings :  581
+reviews :  11
+
+title :  Old face 2020 👋
+appId :  com.studiokevin.faceappmaker.editor
+score :  2.7674417
+installs : 1,000,000+
+ratings :  3638
+reviews :  27
+
+title :  Sweet Face Camera Live Filters
+appId :  com.sweetface.camera.livefilters
+score :  4.428571
+installs : 100,000+
+ratings :  1379
+reviews :  24
+
+title :  Beautify: Beauty makeup editor
+appId :  com.photoeditor.filtersforpictures.frames.android
+score :  4.38
+installs : 1,000,000+
+ratings :  3558
+reviews :  48
+
+title :  Eye Makeup Step by Step
+appId :  com.easyeyemakeup.learnhowtoapply
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Old face - make me old
+appId :  com.twoweeksapps.makemeold
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Beauty Tips : Homemade Skin an
+appId :  com.beauty.care.global
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Face Beauty Makeup Camera
+appId :  com.faceenhancer.android
+score :  3.9529412
+installs : 1,000,000+
+ratings :  4021
+reviews :  33
+
+title :  Video Background Remover WiKi
+appId :  com.wiki.video.background.changer.remover.pro.vidbgchanger
+score :  2.3333333
+installs : 50,000+
+ratings :  433
+reviews :  5
+
+title :  Mirror - Makeup and Shaving
+appId :  kynguyen.app.mirror
+score :  4.5611815
+installs : 5,000,000+
+ratings :  48631
+reviews :  2593
+
+title :  Face Mask Photo Editor
+appId :  com.andronik.facemaskediting
+score :  2.5714285
+installs : 100,000+
+ratings :  259
+reviews :  4
+
+title :  Animated KPOP BTS Sticker WA
+appId :  com.stikergerak.bts
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Skincare and Face Care Routine
+appId :  beauty.skin.care.app
+score :  3.96
+installs : 100,000+
+ratings :  1015
+reviews :  10
+
+title :  Hairstyle Try On: Bangs & Wigs
+appId :  com.hair_flutter
+score :  4.2038836
+installs : 100,000+
+ratings :  23799
+reviews :  275
+
+title :  Beauty Camera - Selfie, Filter
+appId :  com.sweeteffectcamera.camerselfie
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Bridally - Wedding Makeup Pro 
+appId :  com.dsrtech.bridally
+score :  4.1666665
+installs : 1,000,000+
+ratings :  2250
+reviews :  3
+
+title :  Filters Camera app and Effects
+appId :  codingstudiopixels.vintage.camera.lomograph
+score :  4.423077
+installs : 100,000+
+ratings :  682
+reviews :  18
+
+title :  Hair try-on - hair styling
+appId :  com.zhanlang.changehaircut
+score :  2.11
+installs : 1,000,000+
+ratings :  10581
+reviews :  383
+
+title :  Princess Animated Stickers
+appId :  com.princess_cartoon_stickers.princesscartoon_stickersmaker.AnimetadlaPrincess_StickersforWhatsApp
+score :  4.375
+installs : 100,000+
+ratings :  602
+reviews :  3
+
+title :  Fancy Blouse neck design
+appId :  com.mishree.app.blouse.neck.design
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Bigcash - Play Quiz and games
+appId :  make.money.online.bigcash.earn.money.rewards
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Hairstyles for short hair
+appId :  truefunapps.hairstyles
+score :  4.086207
+installs : 1,000,000+
+ratings :  5732
+reviews :  28
+
+title :  Mehndi Design App: Photo Video
+appId :  mehndi.design.app
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Emoji Selfie Camera
+appId :  com.filter.forMusically
+score :  3.7333333
+installs : 500,000+
+ratings :  1843
+reviews :  52
+
+title :  Lovely Flowers Images Gif
+appId :  com.devlobis.valentinesdayflowers
+score :  4.3939395
+installs : 100,000+
+ratings :  406
+reviews :  9
+
+title :  Beauty Parlour Course at home
+appId :  com.LM.BPC
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Joone
+appId :  com.joone.customer
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Ice Queen - Dress Up & Makeup
+appId :  google.free.icequeen.peachygamesllc
+score :  3.8980892
+installs : 5,000,000+
+ratings :  22996
+reviews :  746
+
+title :  Nose App-A.I. Nose type detect
+appId :  com.simpleapps.noseapp
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Mehndi Designs Latest Offline
+appId :  com.selfstar.mehndidesign
+score :  0
+installs : 50+
+ratings :  0
+reviews :  0
+
+title :  Love Photo Frame
+appId :  com.freephotoframes.lovephotoframe
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Easy Hairstyles 2023
+appId :  com.applucinante.peinadosfaciles
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Remove Acne from Face
+appId :  com.dgt.removeacnefromface
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Mehndi henna designs
+appId :  com.nssba1.mhdihn
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Simple Mehndi Designs 2024
+appId :  com.janjowa.simpleandeasymehndidesigns2023hd
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Beauty Camera
+appId :  beauty.camera.sticker.photoeditor
+score :  4.3714285
+installs : 100,000+
+ratings :  1720
+reviews :  9
+
+title :  컬러버-퍼스널컬러 정보를 한 번에!
+appId :  com.colorlover
+score :  2.8333333
+installs : 500,000+
+ratings :  583
+reviews :  10
+
+title :  Sweet Editor Camera Lite
+appId :  sweet.snap.art.camera.lite.snap.cat.face.camera
+score :  3.6111112
+installs : 500,000+
+ratings :  1970
+reviews :  10
+
+title :  Mehndi Design Photo Editor
+appId :  com.skyappsguru.mehndiphotoeditor
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Video Background Changer Wiki
+appId :  com.wiki.video.backgroud.remover.changer.wiki
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Turbans Photo Editor 2023
+appId :  com.soft_solutions.turbanphotoeditor
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Short Dress Girl Photo Montage
+appId :  com.VAD.Short.Dress.Girl.Photo.Montage
+score :  3.54
+installs : 5,000,000+
+ratings :  14839
+reviews :  53
+
+title :  Mermaid Photo
+appId :  best.photo.app.mermaid
+score :  4.35
+installs : 1,000,000+
+ratings :  3642
+reviews :  52
+
+title :  Selfie Filters - Beauty Camera
+appId :  selfie.filters.beautycamera
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Men Sunglasses
+appId :  com.cognivint.cimsg
+score :  2.3
+installs : 100,000+
+ratings :  360
+reviews :  2
+
+title :  Easy Makeup Tutorial & Videos
+appId :  digbazar.com.easy.makeup
+score :  3.1764705
+installs : 100,000+
+ratings :  235
+reviews :  7
+
+title :  Long Hair Care Tips in Urdu
+appId :  com.tohfa.haircaretips.inurdu
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Wedding Hairstyles on photo
+appId :  best.photo.app.weddinghairstyles2018
+score :  4.069307
+installs : 5,000,000+
+ratings :  12533
+reviews :  79
+
+title :  Eye Shape -Find your Eye Shape
+appId :  eu.somy.eye_shape
+score :  2.5454545
+installs : 10,000+
+ratings :  166
+reviews :  10
+
+title :  Skin and Face Care - acne, fai
+appId :  face.blemishes.blackheads.fairskin.pimples.acne.wrinkles.xtapps.facecare
+score :  4.11
+installs : 500,000+
+ratings :  2555
+reviews :  49
+
+title :  Offline Hairstyles Step by Ste
+appId :  com.girls.hairstylesstepbystep
+score :  4.2608695
+installs : 100,000+
+ratings :  1120
+reviews :  12
+
+title :  Foot Feet Leg Mehndi Designs
+appId :  com.Mehndi.Designs.For.Feet
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+

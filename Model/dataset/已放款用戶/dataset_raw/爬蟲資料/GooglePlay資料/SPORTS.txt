@@ -1,0 +1,1400 @@
+title :  Live Cricket TV 2023
+appId :  com.kashi.livesportstvv
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Cricket Line Guru : Live Line
+appId :  com.app.cricketapp
+score :  4.29
+installs : 10,000,000+
+ratings :  235334
+reviews :  133
+
+title :  PTV Sports
+appId :  com.ptv.sports
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  CREX - Cricket Exchange
+appId :  in.cricketexchange.app.cricketexchange
+score :  4.6031747
+installs : 50,000,000+
+ratings :  411823
+reviews :  292
+
+title :  IPL 2023
+appId :  com.pulselive.bcci.android
+score :  3.9708521
+installs : 10,000,000+
+ratings :  101355
+reviews :  540
+
+title :  India Vs Pakistan Kite Fly
+appId :  com.kite.indvspakkitefly
+score :  4.6153846
+installs : 5,000,000+
+ratings :  17096
+reviews :  11
+
+title :  Rooter: Watch Gaming & Esports
+appId :  com.threesixteen.app
+score :  4.231111
+installs : 10,000,000+
+ratings :  534443
+reviews :  1506
+
+title :  Cricbuzz - Live Cricket Scores
+appId :  com.cricbuzz.android
+score :  4.2054515
+installs : 100,000,000+
+ratings :  1914456
+reviews :  15572
+
+title :  Sofascore - Sports live scores
+appId :  com.sofascore.results
+score :  4.743133
+installs : 10,000,000+
+ratings :  808640
+reviews :  4298
+
+title :  A Sports
+appId :  com.aryservicesltd.arysports
+score :  3.368421
+installs : 1,000,000+
+ratings :  3189
+reviews :  14
+
+title :  Indian Master Bike Driving 3D
+appId :  com.cgs.indian.bike.game
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  CricBox Fast Cricket Live Line
+appId :  com.cricbox.cricketliveline.fastlivecricketscore
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  NBA: Live Games & Scores
+appId :  com.nbaimd.gametime.nba2011
+score :  4.3980775
+installs : 10,000,000+
+ratings :  187987
+reviews :  5681
+
+title :  Football Predictor
+appId :  com.zcode.soccerbuddy
+score :  4.965517
+installs : 100,000+
+ratings :  297
+reviews :  27
+
+title :  Cricket Mazza 11 Live Line
+appId :  com.crics.cricket11
+score :  4.31
+installs : 5,000,000+
+ratings :  63415
+reviews :  30
+
+title :  Live Cricket TV
+appId :  com.all.live.ipl.cricket
+score :  3.8333333
+installs : 100,000+
+ratings :  446
+reviews :  14
+
+title :  Live Cricket Sports | Gtv Live
+appId :  com.ictar.sportstv
+score :  3.2941177
+installs : 100,000+
+ratings :  1317
+reviews :  7
+
+title :  BowloMeter - Check Bowl Speed
+appId :  com.sanaullahamirbm.bowlometer_measurebowlingspeed
+score :  3.5555556
+installs : 100,000+
+ratings :  1542
+reviews :  6
+
+title :  Geo Super
+appId :  com.snr.geosuper
+score :  4.1564946
+installs : 1,000,000+
+ratings :  22608
+reviews :  1066
+
+title :  BetPro
+appId :  com.gloryapp.BetProEasy
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Da Fit
+appId :  com.crrepa.band.dafit
+score :  3.5875
+installs : 10,000,000+
+ratings :  160728
+reviews :  6384
+
+title :  PSL 8 Cricket Schedule 2023
+appId :  com.urdulibrary.psldubaischedule
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  ESPNcricinfo - Live Cricket
+appId :  com.july.cricinfo
+score :  3.8698463
+installs : 10,000,000+
+ratings :  203896
+reviews :  4872
+
+title :  Star Sports HD Streaming clu
+appId :  com.gyfufgfuifyf.fjbhiuhiuhggv
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  LiveNet TV
+appId :  com.zsstudioltd.ipl2022
+score :  4
+installs : 10,000+
+ratings :  560
+reviews :  7
+
+title :  World 777 Live Line - Cricket 
+appId :  com.mama.world777
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  ICC Cricket
+appId :  com.pl.cwc_2015
+score :  4.15415
+installs : 10,000,000+
+ratings :  120327
+reviews :  503
+
+title :  Cricket World Live Line
+appId :  diamond.exchange.cll
+score :  4.27451
+installs : 500,000+
+ratings :  19510
+reviews :  8
+
+title :  The Cricket Wolf777 Show
+appId :  com.cricket_wlf7_pk
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Live Cricket TV IPL HD Tips
+appId :  com.hd.crickeet.tipps
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Cric Line Guru Pro - Live Line
+appId :  com.criclineguru.criclinegurupro
+score :  4.78125
+installs : 500,000+
+ratings :  15428
+reviews :  8
+
+title :  Jazz Cricket - Follow PSL 8
+appId :  com.Khaleef.CricWickMobilink
+score :  4.266667
+installs : 1,000,000+
+ratings :  12374
+reviews :  2
+
+title :  Live Cricket TV -Watch Matches
+appId :  all.live.cricket.scores
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  BallTracker: Cricket Live Line
+appId :  com.cricketlive.allmatchscore
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Football Scoreboard-Live Score
+appId :  com.soccer.football.livescores.news
+score :  undefined
+installs : 100,000+
+ratings :  undefined
+reviews :  undefined
+
+title :  Cricket Scorecard
+appId :  com.dileep.admin.scorecard
+score :  4
+installs : 100,000+
+ratings :  670
+reviews :  4
+
+title :  Land Cruiser V8 Car Simulator:
+appId :  com.EGT.land.cruiser.v8.suv.simulator.free.city.car.games
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  SportsTak: Your MultiSport App
+appId :  com.sportstoday
+score :  4.0666666
+installs : 1,000,000+
+ratings :  5214
+reviews :  5
+
+title :  Live Cricket Score – IPL 2023
+appId :  com.livecricketscore.ipldeltaxapp
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  PAK vs NZ Live Cricket Score
+appId :  com.csklivescore
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Pak vs NZ Cricket 2023
+appId :  com.linearcode.ostrava
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  DAZN: Watch Live Sports
+appId :  com.dazn
+score :  3.1371062
+installs : 10,000,000+
+ratings :  253143
+reviews :  7860
+
+title :  Tv Sports - Live Match
+appId :  com.eru.guru.paksuper.league
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  RVG World T20 Cricket Champion
+appId :  com.rockvillegames.real.cricket.game.lite
+score :  3.8333333
+installs : 100,000+
+ratings :  747
+reviews :  1
+
+title :  Live Cricket TV -Watch Matches
+appId :  fast.live.cricket.scores
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  CricDaddy : Cricket Live Line
+appId :  com.app.cricdaddyapp
+score :  5
+installs : 500,000+
+ratings :  3400
+reviews :  4
+
+title :  Live IPL - Live Cricket Score
+appId :  com.cricket.iplscore.livecricketstreaming.livematch.sportstv.app
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Live Cricket Score for IPL
+appId :  scores.cricket.live.line
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Live Cricket TV Live Scores
+appId :  com.crickethd.hdcricketlive.cricketliveline
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  FanCode : Live Cricket & Score
+appId :  com.dream11sportsguru
+score :  4.05
+installs : 10,000,000+
+ratings :  203887
+reviews :  69
+
+title :  Zepp（formerly Amazfit）
+appId :  com.huami.watch.hmwatchmanager
+score :  4.3055806
+installs : 10,000,000+
+ratings :  994021
+reviews :  18191
+
+title :  Bowling Speed Meter
+appId :  bowling.speed.meter.bowlometer
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Cricket Live Line
+appId :  com.andgameroid.cricketline
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Bowling Speed Test
+appId :  com.app.bowlingspeedtest
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Official Peshawar Zalmi PSL Li
+appId :  com.rockvilletech.cricae.ptvsports
+score :  3.8820224
+installs : 5,000,000+
+ratings :  44221
+reviews :  253
+
+title :  Live Tata IPL 2023
+appId :  com.cricketlive.matchscore
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  SuperSport
+appId :  com.supersport.android.phone
+score :  4.0147057
+installs : 10,000,000+
+ratings :  84616
+reviews :  1403
+
+title :  Scores Predictor
+appId :  com.zcode.scorespredictor
+score :  4.645161
+installs : 500,000+
+ratings :  593
+reviews :  24
+
+title :  Cricket Live Match
+appId :  com.pakistan.live.match
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  PSL 8 Schedule & Live Score
+appId :  com.psllivescore.cricket.highlights.pakistansuperleague.psl7schedule
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Cricket Line: IPL Live Score
+appId :  cric.cricket.line.score.today
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  STUMPS - The Cricket Scorer
+appId :  com.diyas.android.stumps
+score :  4.2916665
+installs : 500,000+
+ratings :  2722
+reviews :  18
+
+title :  Auto Allstars
+appId :  com.androtv.autoallstars
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Babar Azam Wallpapers
+appId :  com.Goodwallpapers.images.BabarAzamWallpaper
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Stream India
+appId :  stream.india9
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  IPL Live TV 2023
+appId :  com.bz.iplschedule.crickethdlive
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  라이브스코어
+appId :  kr.co.lives.ls
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Walk Club - Every Step Count
+appId :  com.wchealth.wcesc
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Cricket Scoring App-CricHeroes
+appId :  com.cricheroes.cricheroes.alpha
+score :  4.6
+installs : 10,000,000+
+ratings :  138832
+reviews :  86
+
+title :  Live Score: football livescore
+appId :  com.football.livescores.livefootballscore
+score :  4.322581
+installs : 1,000,000+
+ratings :  2541
+reviews :  9
+
+title :  Cricwick -  Live Scores & News
+appId :  com.Khaleef.CricWick.TelenorZong
+score :  4.0555553
+installs : 1,000,000+
+ratings :  10293
+reviews :  8
+
+title :  Cricket Master Live Score Line
+appId :  com.cricketscore.livescore.line
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Real Motorcycle Simulator Game
+appId :  com.sdg.indian.gangster.crime.game
+score :  5
+installs : 50,000+
+ratings :  193
+reviews :  5
+
+title :  Cricket: Live Line & Score
+appId :  com.cricket.liveline
+score :  4.076923
+installs : 1,000,000+
+ratings :  4792
+reviews :  9
+
+title :  Cricbuzz for Android TV
+appId :  com.cricbuzz.android.tv
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  IPL 2023 Live Tv;Watch Cricket
+appId :  ipl.n3
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Pro Wrestling Live: WWF Game
+appId :  com.wrestling.revolution.championship.bodybuilders
+score :  5
+installs : 50,000+
+ratings :  143
+reviews :  4
+
+title :  Cricket Fast Live Line
+appId :  com.cricketfastlive
+score :  4.3366337
+installs : 1,000,000+
+ratings :  55412
+reviews :  21
+
+title :  Live IPL 2023: Live Cricket Tv
+appId :  com.IPL2019_LiveMatch
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Live Cricket Score:IPL 2023
+appId :  fast.live.cricketscore.livecricketscore
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Smartberry
+appId :  com.lhzl.smartberry
+score :  2.9230769
+installs : 50,000+
+ratings :  611
+reviews :  6
+
+title :  Cricket Live Score - CricChamp
+appId :  com.cricketprediction.cricketprediction
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Cricket line Exchange LiveLine
+appId :  cricket.line.guru.exchange
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Cricket: Local match scorebook
+appId :  com.otgsolutions.crickcounter
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  India VS Pakistan Train racing
+appId :  com.train.indvspaktrainracing
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  SPORT TV
+appId :  pt.sporttv.app.androidtv
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  CricWay - Live Scores & Line
+appId :  com.cricway.app
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  ESPN
+appId :  com.espn.score_center
+score :  4.245697
+installs : 50,000,000+
+ratings :  945025
+reviews :  186042
+
+title :  Live Cricket TV IPL 2023
+appId :  com.sports.villa.livecrickethd
+score :  2.6
+installs : 10,000+
+ratings :  376
+reviews :  1
+
+title :  Pocket Radar® Sports
+appId :  com.pocketradar.android
+score :  2.8548386
+installs : 50,000+
+ratings :  127
+reviews :  44
+
+title :  PSL 2023 Schedule : Prediction
+appId :  com.pk.ibbi.pslapp
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Real Wrestling Rumble Fight
+appId :  com.miniclubstudio.mayhem.undefeated.WR3Dfree.wrestlingrevolution.wwewrestling.wrestlinggames
+score :  3.79
+installs : 1,000,000+
+ratings :  3707
+reviews :  91
+
+title :  CCTV Camera Recorder
+appId :  com.cybermagic.cctvcamerarecorder
+score :  4.2
+installs : 1,000,000+
+ratings :  4939
+reviews :  48
+
+title :  Cricket Australia Live
+appId :  au.com.cricket
+score :  4.42
+installs : 1,000,000+
+ratings :  20606
+reviews :  69
+
+title :  Falcon Cricket Live Line
+appId :  falcon.cricketlive.line.score
+score :  3.5333333
+installs : 100,000+
+ratings :  6012
+reviews :  1
+
+title :  4K Wallpaper HD - Live BG
+appId :  com.wallpapers.football.players
+score :  4.34
+installs : 1,000,000+
+ratings :  7907
+reviews :  40
+
+title :  Live Cricket TV: IPL 2023 Tips
+appId :  com.livecrickettv.ipl2023.streminghd
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Simple Speed Gun
+appId :  com.naoyaono.speed_gun
+score :  2.6666667
+installs : 10,000+
+ratings :  52
+reviews :  8
+
+title :  Hayya to Qatar
+appId :  com.pl.qatar
+score :  4.0495048
+installs : 1,000,000+
+ratings :  4230
+reviews :  64
+
+title :  Score Bazaar - Cricket Line
+appId :  com.live.line.cricket.score.news.match
+score :  4.5833335
+installs : 500,000+
+ratings :  11892
+reviews :  2
+
+title :  Live Star Cricket Score Sports
+appId :  com.ceicx.lisvcrick
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Paisa Kamane Wala Game
+appId :  com.htkpaisawalagame.paisakamanewalagame
+score :  4.5555553
+installs : 100,000+
+ratings :  1881
+reviews :  7
+
+title :  Cricket Keeda
+appId :  com.livescoreline
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Live Cricket TV -Watch Matches
+appId :  com.crickbaba.cricketliveline
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  All Sport Networks–Live Score
+appId :  com.creative.apps.allsportsnetworks
+score :  4.1666665
+installs : 50,000+
+ratings :  143
+reviews :  2
+
+title :  OneFootball - Soccer Scores
+appId :  de.motain.iliga
+score :  4.6796155
+installs : 50,000,000+
+ratings :  1575012
+reviews :  15633
+
+title :  Sky Cricket Live Line
+appId :  sky.cricket.live.line
+score :  4.8
+installs : 10,000+
+ratings :  859
+reviews :  0
+
+title :  Female fitness - women workout
+appId :  net.female.fitness.women.workout
+score :  4.665179
+installs : 1,000,000+
+ratings :  7631
+reviews :  1930
+
+title :  SmartPitch Speed Gun w Hitting
+appId :  com.smartpitch.livesmartpitch
+score :  2.5333333
+installs : 50,000+
+ratings :  136
+reviews :  45
+
+title :  CricMatch : Cricket Live Line
+appId :  com.app.cricmatch
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Crickslab: Score & Live stream
+appId :  com.antiquelogic.crickslab
+score :  3.7142856
+installs : 50,000+
+ratings :  425
+reviews :  4
+
+title :  OneCricket: Live News & Videos
+appId :  one.cricket.app
+score :  4.3636365
+installs : 1,000,000+
+ratings :  5937
+reviews :  12
+
+title :  Premier League - Official App
+appId :  com.pl.premierleague
+score :  4.04474
+installs : 10,000,000+
+ratings :  287956
+reviews :  2193
+
+title :  Cricket Training
+appId :  com.ht.crickettraining
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  SportsLive Soccer Live Scores
+appId :  com.k2sports.live.soccer
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  FotMob - Soccer Live Scores
+appId :  com.mobilefootie.wc2010
+score :  4.762077
+installs : 10,000,000+
+ratings :  613162
+reviews :  22020
+
+title :  Champions League Official
+appId :  com.uefa.ucl
+score :  4.7848444
+installs : 10,000,000+
+ratings :  249440
+reviews :  1825
+
+title :  Knight Club Official
+appId :  com.knightclub.app
+score :  4.2
+installs : 100,000+
+ratings :  3126
+reviews :  7
+
+title :  WWE
+appId :  com.mlbam.wwe_asb_app
+score :  3.8461537
+installs : 500,000+
+ratings :  93
+reviews :  4
+
+title :  Cricket.com - Live Score&News
+appId :  com.crictec.cricket
+score :  4.288889
+installs : 10,000,000+
+ratings :  13658
+reviews :  12
+
+title :  Minecraft car mod. Vehicle
+appId :  com.ylans.cars
+score :  3.9
+installs : 500,000+
+ratings :  1040
+reviews :  6
+
+title :  CricMate : Cricket Live Line
+appId :  bengalinews.livetv.com
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Border Patrol Police Duty Game
+appId :  com.hv.border.police.patrol.simulator
+score :  4.1311474
+installs : 100,000+
+ratings :  1679
+reviews :  49
+
+title :  Ptv sports: Cricket live Tv
+appId :  com.mobeasyapp.app1170279808007
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  FanCode: Live Cricket & Scores
+appId :  com.fancode.tv
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Football Live Scores
+appId :  holoduke.soccer_gen
+score :  4.4281526
+installs : 10,000,000+
+ratings :  121576
+reviews :  965
+
+title :  Bike 3D Configurator
+appId :  com.Elementals.Bike3DConfigurator
+score :  3.9834712
+installs : 5,000,000+
+ratings :  40917
+reviews :  332
+
+title :  Live Net Sports
+appId :  com.gonatuparaapp.livenetsports
+score :  2.6494846
+installs : 500,000+
+ratings :  2475
+reviews :  39
+
+title :  Cricket Live Line - Score
+appId :  criclinepro.exchange.cricket.livescore.liveline
+score :  4.6666665
+installs : 100,000+
+ratings :  2117
+reviews :  0
+
+title :  CricketExchange.com
+appId :  com.cricketexchangepro.liveline
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Paisa Kamane Wala App
+appId :  com.htkpaisawalagame.paisakamanewalaapp
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Playing 11 Dream Prediction
+appId :  playing11.teambyexpert.expert11.dreamteam11.dreamteam.playing11.my11team.my11.dream11
+score :  4.158416
+installs : 500,000+
+ratings :  9620
+reviews :  10
+
+title :  Sky Sports Scores
+appId :  com.bskyb.fbscore
+score :  4.2316604
+installs : 10,000,000+
+ratings :  88926
+reviews :  415
+
+title :  Cricbuzz - In Indian Languages
+appId :  com.cricbuzz.android.vernacular
+score :  4.24
+installs : 10,000,000+
+ratings :  75628
+reviews :  255
+
+title :  Smash It - Fantasy Tennis
+appId :  com.letsmashit.app
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Real Punch Boxing Champions: B
+appId :  com.okg.real.punch.boxing.king.star.fighting.game3d
+score :  3.3636363
+installs : 100,000+
+ratings :  544
+reviews :  4
+
+title :  Cricket Asia Cup 2022 Schedule
+appId :  com.cricket.asiacup2022
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  MLB
+appId :  com.bamnetworks.mobile.android.gameday.atbat
+score :  3.883586
+installs : 10,000,000+
+ratings :  110535
+reviews :  24862
+
+title :  Fulltrack AI
+appId :  ai.fulltrack
+score :  3.625
+installs : 10,000+
+ratings :  127
+reviews :  3
+
+title :  Fishing Organiser
+appId :  com.fishingorganiser.java
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  LiveScore: Live Sports Scores
+appId :  com.livescore
+score :  4.565724
+installs : 50,000,000+
+ratings :  481108
+reviews :  4665
+
+title :  Cricket Live Line
+appId :  com.test.live
+score :  4.111111
+installs : 10,000+
+ratings :  862
+reviews :  0
+
+title :  Live Cricket Streaming TV HD
+appId :  com.livecrickscore.sportstv.hdmatches
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Cricket Satta Live Line
+appId :  com.cricket.sattalive
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  IPL 2023 Schedule
+appId :  com.cricketscheduleapp.iplt20league
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Live Score: football scores
+appId :  com.livescore.footballscores.matchresults
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  2023 MLS Schedule Live Scores
+appId :  com.app.wstatussaver
+score :  4.888889
+installs : 100,000+
+ratings :  525
+reviews :  1
+
+title :  Live IPL Tv - Live Cricket IPL
+appId :  com.IPL_LiveMatch
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Eagle Cricket Live Line
+appId :  eagle.cricket.live.line.score
+score :  3.6666667
+installs : 100,000+
+ratings :  3293
+reviews :  0
+
+title :  All Football - News & Scores
+appId :  com.allfootball.news
+score :  4.1572328
+installs : 10,000,000+
+ratings :  90444
+reviews :  630
+
+title :  Cargo Jeep Driving Offroad 4x4
+appId :  com.rc.cargo.jeep.driving.simulator.game
+score :  3.3333333
+installs : 500,000+
+ratings :  951
+reviews :  6
+
+title :  Aviator - predictor wins
+appId :  com.aviator.brendly
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ten: Live Sports HD 2023
+appId :  com.fix.lsthd
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Yourbox Skintools App
+appId :  com.tool.skill.tools
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  India vs Pakistan Bus Racing S
+appId :  com.bus.indvspakbusracingsimulator
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Live Cricket Scores - T20 Cup
+appId :  com.livecricketscore.fast.live.score
+score :  4.3333335
+installs : 500,000+
+ratings :  560
+reviews :  2
+
+title :  CrickPro - Cricket Scoring App
+appId :  com.crickpro
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Bowlfit
+appId :  au.com.bowlfit.bowlfit
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Live Cricket TV 2023
+appId :  com.ipllivetv.ipllivevideo
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Cricket Live Line Guru
+appId :  com.faizalgurubettingtips.liveline
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Betway Scores
+appId :  com.betway.scores.android
+score :  4.625
+installs : 1,000,000+
+ratings :  5744
+reviews :  3
+
+title :  TATA IPL 2023 Jio Cinema Guide
+appId :  com.gtarivalaca.rosdicarifavbi
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  PSL 2023 Live Score & Schedule
+appId :  com.bytesTechnology.psl_Schedule
+score :  5
+installs : 50,000+
+ratings :  587
+reviews :  5
+
+title :  PSL 2023 Live & Schedule
+appId :  com.nextupapps.psl8
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  IPL & WPL 2023
+appId :  com.livescore.iplschedule.wplschedule
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  1Xbet Sports - 1x Betting Tips
+appId :  com.score.betting_tips
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  beIN SPORTS
+appId :  com.beinsports.andcontent
+score :  4.017192
+installs : 10,000,000+
+ratings :  96119
+reviews :  1139
+
+title :  FC Barcelona Official App
+appId :  com.mcentric.mcclient.FCBWorld
+score :  4.59661
+installs : 10,000,000+
+ratings :  120908
+reviews :  1903
+
+title :  Cricket Ground Line
+appId :  com.cricketground.line
+score :  4.4307694
+installs : 100,000+
+ratings :  423
+reviews :  65
+
+title :  PAK VS NZ - Live Cricket Score
+appId :  com.livecricketscore.livecricketapp
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Train Effective Soccer Academy
+appId :  com.traineffective
+score :  4.722772
+installs : 500,000+
+ratings :  18918
+reviews :  137
+
+title :  Jiu Jitsu X
+appId :  com.jjxapp
+score :  3.8125
+installs : 10,000+
+ratings :  129
+reviews :  11
+
+title :  Satsport News: Score & Blogs
+appId :  com.satsportnews
+score :  5
+installs : 100,000+
+ratings :  457
+reviews :  4
+
+title :  Live Score for IPL 2023
+appId :  com.live.cricketscores
+score :  3.7272727
+installs : 5,000,000+
+ratings :  13084
+reviews :  5
+
+title :  Live Cricket TV: Match TV Tips
+appId :  com.all.live.ipl.cricket.hd.tv
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  CricVid: Live Cricket TV HD
+appId :  cricvid.live.livetv
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Live Cricket TV IPL 2023 Tips
+appId :  com.livecrickettv.livestreaming.score.tips
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Calfscore-Sports livescore
+appId :  com.calfscore.mobile
+score :  4.375
+installs : 100,000+
+ratings :  677
+reviews :  0
+
+title :  TeamSportz
+appId :  com.teamsportz.store
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Eurosport: News & Results
+appId :  com.eurosport
+score :  4.645089
+installs : 10,000,000+
+ratings :  248541
+reviews :  1142
+
+title :  Coach 365 - Soccer training
+appId :  app.pumpit.coach
+score :  3.9
+installs : 500,000+
+ratings :  1485
+reviews :  20
+
+title :  IPL Match Live 2023
+appId :  com.cricketlive.iplmatch
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Gtv - Live Cricket TV
+appId :  com.gameramo.jitowin
+score :  3.5
+installs : 50,000+
+ratings :  191
+reviews :  0
+
+title :  Partridge hunting calls
+appId :  com.partridge.calls
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  IPL Live TV 2023 - TATA IPL
+appId :  com.ipllivetvapp2023
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Live cricket TV | watch match
+appId :  com.ipllive.crick.tvtips
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  World Snooker
+appId :  com.incrowdsports.wst
+score :  4.3333335
+installs : 50,000+
+ratings :  385
+reviews :  2
+
+title :  Cric Commentary - Live Line
+appId :  cric.commentary.live.cricket.score
+score :  4.285714
+installs : 100,000+
+ratings :  7558
+reviews :  0
+
+title :  PTA
+appId :  com.ptactive.pta
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Winner - Tournament Maker App
+appId :  il.talent.winner
+score :  4.27
+installs : 1,000,000+
+ratings :  25270
+reviews :  422
+
+title :  365Scores: Live Scores & News
+appId :  com.scores365
+score :  4.5688295
+installs : 50,000,000+
+ratings :  1628052
+reviews :  29407
+
+title :  Live Cricket TV -Watch Matches
+appId :  fast.livecricketscores.hdstream.sports
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Tata IPL Live TV Streaming HD
+appId :  com.cricketlive.fastscore.cricket.streaming
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Khai Lagai Calculator
+appId :  calc.khailagai.com.khailagai
+score :  4.6
+installs : 100,000+
+ratings :  1428
+reviews :  2
+
+title :  AiScore - Live Sports Scores
+appId :  com.onesports.score
+score :  4.285714
+installs : 10,000,000+
+ratings :  78936
+reviews :  457
+
+title :  Live Cricket TV App HD Cricket
+appId :  com.livecrickettv.livematch.liveipl
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Karate Training - Videos
+appId :  com.apps.boody.karatestrikes
+score :  4.1
+installs : 500,000+
+ratings :  2798
+reviews :  59
+
+title :  ESPN Player
+appId :  com.neulion.espnplayer
+score :  3.37
+installs : 500,000+
+ratings :  4312
+reviews :  132
+
+title :  WicketScore: Cricket Live Line
+appId :  com.wicketscore.app
+score :  4.3333335
+installs : 1,000,000+
+ratings :  1341
+reviews :  6
+
+title :  BeSoccer - Soccer Live Score
+appId :  com.resultadosfutbol.mobile
+score :  4.569286
+installs : 50,000,000+
+ratings :  448075
+reviews :  3686
+

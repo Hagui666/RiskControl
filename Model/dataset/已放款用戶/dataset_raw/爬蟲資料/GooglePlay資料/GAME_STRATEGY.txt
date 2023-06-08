@@ -1,0 +1,1400 @@
+title :  Car Driving School : Car Games
+appId :  com.SGS.DrivingSchoolGames.RealCarParkingSimulator
+score :  3.9241192
+installs : 50,000,000+
+ratings :  221868
+reviews :  1115
+
+title :  Gun Games - FPS Shooting Game
+appId :  com.fpsgames.gungames.online.strike.fps.counter.attack.terrorist.strike.fpscommando
+score :  4.4
+installs : 1,000,000+
+ratings :  6072
+reviews :  87
+
+title :  Army Vehicle Transport Truck
+appId :  com.army.vehicle.transporter.truck.simulator.army.car.games
+score :  4.19
+installs : 10,000,000+
+ratings :  25033
+reviews :  113
+
+title :  Tuk Tuk Auto Rickshaw Game
+appId :  com.gf.autotaxi.passengerdriving.rickshawdriver
+score :  4.039604
+installs : 10,000,000+
+ratings :  46133
+reviews :  339
+
+title :  Truck Simulator - Truck Games
+appId :  com.gameswing.offroad.oiltankertransport.truckdriving.simulator.game
+score :  4.1
+installs : 100,000,000+
+ratings :  97795
+reviews :  304
+
+title :  Stormshot: Isle of Adventure
+appId :  com.sivona.stormshot.e
+score :  4.2945256
+installs : 5,000,000+
+ratings :  96161
+reviews :  7187
+
+title :  Parking Jam: Car Parking Games
+appId :  com.mustardgames.police.bike.stunt.mega.ramp.impossibletracks
+score :  3.1980197
+installs : 10,000,000+
+ratings :  24787
+reviews :  563
+
+title :  Grand Vegas Simulator
+appId :  com.hbg.horror.grand.gangster.theft.survival.crime.city
+score :  3.74
+installs : 5,000,000+
+ratings :  14909
+reviews :  126
+
+title :  Guns of Glory: Lost Island
+appId :  com.diandian.gog
+score :  4.313123
+installs : 50,000,000+
+ratings :  596212
+reviews :  33670
+
+title :  Clash of Empire: Strategy War
+appId :  com.leme.coe
+score :  4.3899474
+installs : 10,000,000+
+ratings :  172209
+reviews :  5530
+
+title :  Gangster Vegas Crime Simulator
+appId :  com.sgs.real.gangster.mafia.vegas.theft.crime.simulator.game
+score :  3.6181817
+installs : 1,000,000+
+ratings :  4777
+reviews :  17
+
+title :  Spider Rope Hero Spider Game
+appId :  com.fgz.us.flying.police.robot.rope.hero.crime.city.hero.games
+score :  3.940594
+installs : 50,000,000+
+ratings :  38432
+reviews :  154
+
+title :  Grand City Thug Crime Games
+appId :  com.ggv.grand.city.thug.crime.gangester
+score :  3.5555556
+installs : 10,000,000+
+ratings :  99873
+reviews :  1604
+
+title :  Megapolis: City Building Sim
+appId :  com.socialquantum.acityint
+score :  4.369819
+installs : 50,000,000+
+ratings :  1502945
+reviews :  60742
+
+title :  Truck Driving Simulator Games
+appId :  com.xtreme.paktruckdriver
+score :  4.1222224
+installs : 10,000,000+
+ratings :  33660
+reviews :  29
+
+title :  Icecream Cone Cupcake Baking
+appId :  com.hg.cupcakebaking.cakemaker.bakinggames.icecreamcake
+score :  3.6336634
+installs : 10,000,000+
+ratings :  21571
+reviews :  222
+
+title :  Modern Commando Strike Mission
+appId :  com.gdp.gungame.fps.commando.strike.shooting.games
+score :  4.05
+installs : 1,000,000+
+ratings :  8759
+reviews :  40
+
+title :  Crime Car City Gangster Games
+appId :  com.rgs.grandmegaramp.mafiacriminal.gangshooting
+score :  3.61
+installs : 1,000,000+
+ratings :  4185
+reviews :  54
+
+title :  Grand Jail Prison Break Escape
+appId :  com.grand.jail.prison.escape
+score :  4.09
+installs : 50,000,000+
+ratings :  60757
+reviews :  394
+
+title :  Rush Royale: Tower Defense TD
+appId :  com.my.defense
+score :  4.2545495
+installs : 10,000,000+
+ratings :  522951
+reviews :  14649
+
+title :  Coach Bus Simulator: Bus Games
+appId :  com.city.coach.bus.simulator.drive
+score :  4.25
+installs : 10,000,000+
+ratings :  37375
+reviews :  135
+
+title :  Parking Car Driving School Sim
+appId :  com.smart.car.parking.simulator
+score :  3.86
+installs : 10,000,000+
+ratings :  33103
+reviews :  136
+
+title :  Car Games: Advance Car Parking
+appId :  com.brokendiamond.advance.car.parking.driving.school
+score :  3.9124088
+installs : 50,000,000+
+ratings :  188953
+reviews :  465
+
+title :  Oil Tanker Truck Driving Games
+appId :  com.TopWinGames.OilTanker.TruckSimulatorGames
+score :  4.1268115
+installs : 50,000,000+
+ratings :  205937
+reviews :  567
+
+title :  Crazy Car Transport Truck Game
+appId :  com.real.truck.driving
+score :  4.4950495
+installs : 10,000,000+
+ratings :  21013
+reviews :  188
+
+title :  Kung Fu Karate Fighting Games
+appId :  com.robot.ring.fighting
+score :  4.535519
+installs : 10,000,000+
+ratings :  74100
+reviews :  1187
+
+title :  Flying Car Robot Shooting Game
+appId :  com.flying.car.robot.transformation.extreme.car.driving.games
+score :  3.9826088
+installs : 50,000,000+
+ratings :  62440
+reviews :  506
+
+title :  Fire Hero Robot Rescue Mission
+appId :  com.bbs.grand.fire.robot.hero.fighting.flying.robot.games
+score :  4.43
+installs : 10,000,000+
+ratings :  13525
+reviews :  51
+
+title :  Car Parking 3D : Parking Games
+appId :  com.gamexglobal.ultimate.car.parking
+score :  4.409091
+installs : 1,000,000+
+ratings :  1003
+reviews :  7
+
+title :  Coach Bus Games: Bus Simulator
+appId :  com.tricktalestudio.ultimatebus.racingcoach.driving.simulatorgame
+score :  4.6
+installs : 10,000,000+
+ratings :  12952
+reviews :  205
+
+title :  Flying Prado Car Robot Game
+appId :  com.fgz.futuristic.flying.rocket.transform.robot.fighting.games
+score :  3.5232558
+installs : 10,000,000+
+ratings :  4399
+reviews :  20
+
+title :  Coach Bus Simulator: City Bus
+appId :  com.city.coach.bus.gamerstribe
+score :  3.4186046
+installs : 5,000,000+
+ratings :  6907
+reviews :  18
+
+title :  Kite Game: Kite Flying Games
+appId :  com.cjump.kite.flying.sim.games
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Stick War: Legacy
+appId :  com.maxgames.stickwarlegacy
+score :  4.6606965
+installs : 100,000,000+
+ratings :  2643271
+reviews :  59932
+
+title :  Plants vs. Zombies™
+appId :  com.ea.game.pvzfree_row
+score :  4.195506
+installs : 100,000,000+
+ratings :  5614974
+reviews :  113195
+
+title :  Formula Car Stunt - Car Games
+appId :  com.gameswing.impossible.formula.car.stunts.gt.mega.ramp.games
+score :  4.11
+installs : 50,000,000+
+ratings :  49140
+reviews :  164
+
+title :  Idle Construction 3D
+appId :  com.gpp.idleconstruction
+score :  4.6661124
+installs : 10,000,000+
+ratings :  261233
+reviews :  17401
+
+title :  City Bus Simulator - Bus Drive
+appId :  com.xg.american.xgbus.eurocoach.busdriving.offroadbus.citybus.busdrive.busgames
+score :  4.172414
+installs : 1,000,000+
+ratings :  2612
+reviews :  10
+
+title :  City of Crime: Gang Wars
+appId :  com.fingerfun.coc.gplay
+score :  4.585635
+installs : 1,000,000+
+ratings :  147330
+reviews :  2438
+
+title :  GT Car Stunts - Car Games
+appId :  com.jima.car.stuntmaster.impossibletracks
+score :  4.09901
+installs : 10,000,000+
+ratings :  23414
+reviews :  98
+
+title :  Crazy Car Driving - Car Games
+appId :  com.jimaapps.crazycardriving.impossiblestunt.driving.simulator.games
+score :  3.7524753
+installs : 50,000,000+
+ratings :  65692
+reviews :  185
+
+title :  State.io — Conquer the World
+appId :  io.state.fight
+score :  3.918
+installs : 50,000,000+
+ratings :  486537
+reviews :  15102
+
+title :  Cooking Team: Cooking Games
+appId :  com.cookingteamrestaurant
+score :  4.5708623
+installs : 10,000,000+
+ratings :  226343
+reviews :  2728
+
+title :  Garden Tree: Harvest
+appId :  com.clicktree.garden
+score :  4.340858
+installs : 100,000+
+ratings :  24139
+reviews :  530
+
+title :  Age of Origins
+appId :  com.camelgames.aoz
+score :  3.8568528
+installs : 10,000,000+
+ratings :  486346
+reviews :  21552
+
+title :  Robot Kung Fu Fighting Games
+appId :  com.grand.robot.ring.fighting
+score :  3.96
+installs : 5,000,000+
+ratings :  6351
+reviews :  66
+
+title :  Speed Hero: Superhero Games
+appId :  com.cgs.us.flying.police.robot.speed.hero.crime.city.hero.games
+score :  4.25
+installs : 10,000,000+
+ratings :  25927
+reviews :  123
+
+title :  Wild Animals Transport Truck
+appId :  com.wild.animals.transport.simulator
+score :  4.15
+installs : 10,000,000+
+ratings :  19458
+reviews :  148
+
+title :  Real Dino Hunting: Gun Games
+appId :  com.us.army.transport.truck
+score :  4.27
+installs : 10,000,000+
+ratings :  17590
+reviews :  192
+
+title :  Train Station 2: Railroad Game
+appId :  com.pixelfederation.ts2
+score :  4.2993884
+installs : 10,000,000+
+ratings :  487851
+reviews :  13512
+
+title :  Ambulance Dog Robot Car Game
+appId :  com.fgz.flying.ambulance.air.jet.transform.robot.games
+score :  3.7142856
+installs : 10,000,000+
+ratings :  4417
+reviews :  17
+
+title :  War and Magic: Kingdom Reborn
+appId :  com.stgl.global
+score :  4.283575
+installs : 10,000,000+
+ratings :  367117
+reviews :  7287
+
+title :  Animals Transport Truck Games
+appId :  com.monster.truck.ramp.stunts.racing.mega.ramp.drive
+score :  4.08
+installs : 1,000,000+
+ratings :  2963
+reviews :  32
+
+title :  Flying Bat Robot Bike Game
+appId :  com.rds.bat.bike.robot.transformation.superhero.games
+score :  4.19
+installs : 10,000,000+
+ratings :  16265
+reviews :  117
+
+title :  Limo Robot Car Game:Robot Game
+appId :  com.happy.family.limousine.robot.game
+score :  4.37
+installs : 10,000,000+
+ratings :  17600
+reviews :  129
+
+title :  City Car Driving 3D Car Games
+appId :  com.rs.advance.car.parking.game
+score :  3.8333333
+installs : 500,000+
+ratings :  1022
+reviews :  2
+
+title :  Army Bus Robot Car Game 3d
+appId :  com.appstrend.army.robot.bus.tranform
+score :  4.51
+installs : 10,000,000+
+ratings :  43306
+reviews :  284
+
+title :  US Police Car Transport Truck
+appId :  us.police.cop.car.transporter.truck2019
+score :  4.05
+installs : 5,000,000+
+ratings :  6224
+reviews :  47
+
+title :  Grand Vegas Gang War Simulator
+appId :  com.amg.gangster.crime.bike.simulator.game
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  GT Car Stunt Race Master 3D
+appId :  com.mustardgames.impossiblecarstunts.taxi.car.driving
+score :  4.73
+installs : 5,000,000+
+ratings :  6302
+reviews :  133
+
+title :  Real Construction Simulator
+appId :  com.TopWinGames.HouseWallConstruction.CityBuilderSimulator
+score :  3.8019803
+installs : 10,000,000+
+ratings :  35014
+reviews :  134
+
+title :  Euro Bus Driving Bus Game 3D
+appId :  com.samo.coach.bus.games.simulator
+score :  4
+installs : 1,000,000+
+ratings :  2871
+reviews :  2
+
+title :  Grand Snow Excavator Simulator
+appId :  com.real.snow.blower.excavator
+score :  4.1
+installs : 10,000,000+
+ratings :  21892
+reviews :  120
+
+title :  Cooking Frenzy®️Cooking Game
+appId :  com.dragonplus.cookingfrenzy
+score :  4.6687365
+installs : 10,000,000+
+ratings :  181597
+reviews :  7091
+
+title :  Dino Hunter 3D Hunting Games
+appId :  com.offroad.snow.excavator.simulator.games
+score :  3.7
+installs : 1,000,000+
+ratings :  1253
+reviews :  8
+
+title :  Police Moto Bike Chase Crime
+appId :  com.yhi.police.motorbike.city.cop.extreme.real.gangster.chase
+score :  4.3
+installs : 10,000,000+
+ratings :  19906
+reviews :  173
+
+title :  Car Game 3D & Car Simulator 3d
+appId :  com.epicdrive.bgt.cargames
+score :  3.9166667
+installs : 1,000,000+
+ratings :  1341
+reviews :  18
+
+title :  FPS Commando Shooter Games
+appId :  com.fungames.gun.ops.cs.shoot.free
+score :  3.65
+installs : 1,000,000+
+ratings :  10758
+reviews :  98
+
+title :  Crazy Car Stunts - Mega Ramp
+appId :  com.jockeygames.rampcar.stuntsfree.impossibletracks.stuntdriving.mega.car
+score :  4.6
+installs : 10,000,000+
+ratings :  29337
+reviews :  284
+
+title :  Army Vehicle Transport Games
+appId :  com.us.army.humvee.jeep.car.transporter.parking.game
+score :  3.9444444
+installs : 1,000,000+
+ratings :  3895
+reviews :  26
+
+title :  Top War: Battle Game
+appId :  com.topwar.gp
+score :  3.0604613
+installs : 50,000,000+
+ratings :  716855
+reviews :  23622
+
+title :  Big Tractor Farming Simulator
+appId :  com.city.rickshaw.simulator.auto.rickshaw.driving
+score :  4.7
+installs : 5,000,000+
+ratings :  8816
+reviews :  97
+
+title :  Stick Fight: Endless Battle
+appId :  com.mychi.stickherowar2023
+score :  3.8
+installs : 5,000,000+
+ratings :  19936
+reviews :  363
+
+title :  Car Games 3D Car Racing Games
+appId :  com.playten.topspeed.formula.car.racinggames.drag.race
+score :  3.2173913
+installs : 1,000,000+
+ratings :  3044
+reviews :  10
+
+title :  Cake Maker - Cooking Cake Game
+appId :  com.sms.cake.foood
+score :  4.423729
+installs : 1,000,000+
+ratings :  4617
+reviews :  44
+
+title :  Tractor Driving - Tractor Game
+appId :  com.gp.offroad.jeep.driving.stunt.free.game
+score :  4.75
+installs : 1,000,000+
+ratings :  4403
+reviews :  2
+
+title :  Soccer Kicks Strike Game
+appId :  games.ms.crazy.shoot
+score :  4.5882354
+installs : 5,000,000+
+ratings :  22954
+reviews :  74
+
+title :  City Construction: Snow Games
+appId :  com.real.bumper.car.crash
+score :  4.09
+installs : 10,000,000+
+ratings :  13420
+reviews :  98
+
+title :  Heavy Coach Bus Simulator 2022
+appId :  com.apx.offroad.city.bus.simulator.games
+score :  3.05
+installs : 100,000+
+ratings :  640
+reviews :  13
+
+title :  Clash of Clans
+appId :  com.supercell.clashofclans
+score :  4.5630155
+installs : 500,000,000+
+ratings :  60287108
+reviews :  1967246
+
+title :  Indian Truck Games Simulator
+appId :  com.xg.offroadindiantruck.truckcargo.truckdriving.simulator.truckgames
+score :  4.133333
+installs : 5,000,000+
+ratings :  7768
+reviews :  4
+
+title :  Elite Force Gun Shooting Games
+appId :  com.gt.eliteforce.battle.shooting.game
+score :  4.375
+installs : 100,000+
+ratings :  530
+reviews :  5
+
+title :  Port City: Ship Tycoon 2023
+appId :  com.pixelfederation.portcity.ship.tycoon.strategy.simulation
+score :  4.4433093
+installs : 1,000,000+
+ratings :  106306
+reviews :  2155
+
+title :  Flight Simulator : Plane Games
+appId :  com.bettergames.airplane.game.simulator
+score :  4.3333335
+installs : 1,000,000+
+ratings :  3027
+reviews :  44
+
+title :  BMX Cycle Race: Cycle Stunts
+appId :  com.bmx.cycle.stunt.rider.racing.tracks.adventure.games
+score :  4.47
+installs : 10,000,000+
+ratings :  16120
+reviews :  113
+
+title :  City Coach Bus Driving Master
+appId :  com.aps.modern.bus.parking.game
+score :  3.6860466
+installs : 10,000,000+
+ratings :  24747
+reviews :  42
+
+title :  Wild Dino Hunting: Zoo Hunter
+appId :  com.us.police.limo.transporter.truck2019
+score :  4.36
+installs : 10,000,000+
+ratings :  11227
+reviews :  105
+
+title :  Game of Warriors
+appId :  com.strategygame.gameofwarriors
+score :  4.482295
+installs : 10,000,000+
+ratings :  1287836
+reviews :  29250
+
+title :  Real Car Driving School Games
+appId :  com.twg.drivingschoolgames.carparkingsimulator
+score :  4.26
+installs : 1,000,000+
+ratings :  8182
+reviews :  29
+
+title :  Ludo Chief offline Board Games
+appId :  com.king.offlineludo.free.games.online.mindgames
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Vice Gangstar Mafia Crime Game
+appId :  com.dg.grand.cargo.helicopter.robot.transformation.games
+score :  4.22
+installs : 1,000,000+
+ratings :  2161
+reviews :  56
+
+title :  Offroad SUV Jeep Driving Games
+appId :  com.offroad.suv.driving.adventure
+score :  4.25
+installs : 10,000,000+
+ratings :  20043
+reviews :  124
+
+title :  Offroad Jeep Driving & Parking
+appId :  com.gf.offroad.driving.games
+score :  4.39
+installs : 10,000,000+
+ratings :  27458
+reviews :  297
+
+title :  Lion King: Animal Simulator
+appId :  com.lion.simulator.virtual.animal.games.familysim
+score :  4.08
+installs : 500,000+
+ratings :  543
+reviews :  14
+
+title :  Bike Stunt Games : Bike Games
+appId :  com.stunt.bike.racing.tricks.master
+score :  4.3103447
+installs : 10,000,000+
+ratings :  9975
+reviews :  34
+
+title :  Tractor Farming Games 2023
+appId :  com.tractor.farminggames.simulation
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Real Car Parking Driving Game
+appId :  com.gq.car.parking.lite.games
+score :  3.7692308
+installs : 1,000,000+
+ratings :  2107
+reviews :  15
+
+title :  Xtreme Bike Racing Motor Tour
+appId :  com.fpgs.xtrememotor.bikes.realhighway.bikeracing.motortourgames
+score :  3.6666667
+installs : 1,000,000+
+ratings :  2372
+reviews :  5
+
+title :  Drive Luxury Car Prado Parking
+appId :  com.ivx.advance.crazy.real.dr.parker.games
+score :  3.4444444
+installs : 1,000,000+
+ratings :  5597
+reviews :  16
+
+title :  Bike Stunts Games: Bike Racing
+appId :  com.monstergamesproductions.ramp.moto.rider
+score :  4
+installs : 10,000,000+
+ratings :  71967
+reviews :  264
+
+title :  Dino Robot Car Transform Games
+appId :  com.flying.tractor.simulator
+score :  4.029703
+installs : 10,000,000+
+ratings :  12347
+reviews :  116
+
+title :  US Car Parking School Car Game
+appId :  com.mm.superiorcarparking.car.game
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Animal Crocodile Robot Games
+appId :  com.rlg.euro.train.robot.transform.traingames
+score :  4.792079
+installs : 1,000,000+
+ratings :  8551
+reviews :  101
+
+title :  Truck Games - Driving School
+appId :  com.bettergames.truck.drivingschool.simulator
+score :  4.09
+installs : 1,000,000+
+ratings :  4757
+reviews :  29
+
+title :  Lion Games Animal Simulator 3D
+appId :  com.gp.lion.games.animal.sim
+score :  4.1153846
+installs : 1,000,000+
+ratings :  3984
+reviews :  53
+
+title :  Ant Fight: Conquer the Tower
+appId :  tower.defense.ant.conquer.games
+score :  4.302521
+installs : 500,000+
+ratings :  9586
+reviews :  227
+
+title :  Real Truck Parking Games 3D
+appId :  com.TDE.TruckParkingSimulator.CarDrivingGames
+score :  3.3846154
+installs : 5,000,000+
+ratings :  9162
+reviews :  28
+
+title :  School Driving - Car Games 3D
+appId :  com.ig.car.driving.school.games.simulator
+score :  3.6666667
+installs : 1,000,000+
+ratings :  2031
+reviews :  17
+
+title :  Monster Truck Demolition Derby
+appId :  com.play.io.monster.truck.demolition.derby.crash.stunts
+score :  4.02
+installs : 10,000,000+
+ratings :  30975
+reviews :  251
+
+title :  Cargo Tractor Farming Games 3D
+appId :  com.ss.cargo.tractor.trolley.offroad.tractor.games
+score :  3
+installs : 500,000+
+ratings :  834
+reviews :  4
+
+title :  Mafia City
+appId :  com.yottagames.mafiawar
+score :  4.5086555
+installs : 100,000,000+
+ratings :  1313123
+reviews :  59607
+
+title :  Flying Spider - Hero Sim Games
+appId :  com.flying.spiderhero.sim.games
+score :  3.7307692
+installs : 500,000+
+ratings :  1016
+reviews :  15
+
+title :  Last Shelter: Survival
+appId :  com.more.dayzsurvival.gp
+score :  4.1810994
+installs : 10,000,000+
+ratings :  1638840
+reviews :  113249
+
+title :  World of Airports
+appId :  com.haugland.woa
+score :  4.3066134
+installs : 5,000,000+
+ratings :  83731
+reviews :  1542
+
+title :  Age of Apes
+appId :  com.tap4fun.ape.gplay
+score :  4.471844
+installs : 5,000,000+
+ratings :  296934
+reviews :  6752
+
+title :  Flying Stickman Rope Hero Game
+appId :  com.gb.spider.stickman.ropehero.grandcitycrime
+score :  3.5463414
+installs : 50,000,000+
+ratings :  48326
+reviews :  595
+
+title :  Soldiers Inc: Mobile Warfare
+appId :  com.plarium.military
+score :  4.225446
+installs : 1,000,000+
+ratings :  67204
+reviews :  3112
+
+title :  Sweet Bakery - Girls Cake Game
+appId :  com.sms.bakingames.dessertcooking.cookinggames
+score :  4.514563
+installs : 10,000,000+
+ratings :  39790
+reviews :  519
+
+title :  Horse Racing Game: Horse Games
+appId :  com.frp.horse.racing.championship
+score :  3.7692308
+installs : 5,000,000+
+ratings :  5055
+reviews :  26
+
+title :  Cargo Truck 3D Euro Truck Game
+appId :  com.gq.cargo.delivery.truck.driver
+score :  3.862069
+installs : 1,000,000+
+ratings :  4223
+reviews :  12
+
+title :  Animal Hunter: Hunting Games
+appId :  com.gcd.flying.robot.army
+score :  3.9701493
+installs : 1,000,000+
+ratings :  2144
+reviews :  26
+
+title :  Army Tank Game Robot Car Games
+appId :  com.multi.robot.games.army.truck.robot.cargame
+score :  4.6831684
+installs : 1,000,000+
+ratings :  4066
+reviews :  146
+
+title :  The Grand Mafia
+appId :  com.yottagames.gameofmafia
+score :  4.4465976
+installs : 10,000,000+
+ratings :  225769
+reviews :  13223
+
+title :  Warpath: Ace Shooter
+appId :  com.wondergames.warpath.gp
+score :  4.361021
+installs : 10,000,000+
+ratings :  441754
+reviews :  10865
+
+title :  Open World Car Driving Games
+appId :  com.impp.drivingschool.cardriver2016.test
+score :  3.4
+installs : 1,000,000+
+ratings :  5114
+reviews :  249
+
+title :  Extreme Car Driving Games
+appId :  com.gel.bottle.shooting.game.free
+score :  3.1884058
+installs : 5,000,000+
+ratings :  5149
+reviews :  35
+
+title :  Mountain Climb 4x4 Car Games
+appId :  com.classic.offroad.prado.suv.car.hummer.game
+score :  3.9411764
+installs : 5,000,000+
+ratings :  6110
+reviews :  16
+
+title :  War Planet Online: MMO Game
+appId :  com.gameloft.android.ANMP.GloftW2HM
+score :  4.363
+installs : 10,000,000+
+ratings :  105457
+reviews :  3648
+
+title :  Gangster Vegas Mafia City Game
+appId :  com.gs.real.gangster.vegas.war.games
+score :  3.49
+installs : 1,000,000+
+ratings :  4740
+reviews :  41
+
+title :  Cargo Delivery Truck Games 3D
+appId :  com.DutyToCraftGames.OffroadMulti.CargoTruck
+score :  3.84
+installs : 10,000,000+
+ratings :  66007
+reviews :  343
+
+title :  Call Me Emperor-Collab!
+appId :  com.wsy.google.wansuiye.en
+score :  4.3814435
+installs : 1,000,000+
+ratings :  45173
+reviews :  1899
+
+title :  Multi Animal Robot Car Games
+appId :  com.cradley.elephant.robot.transforming.games
+score :  4.92
+installs : 1,000,000+
+ratings :  4651
+reviews :  97
+
+title :  Crazy Car Stunt: Car Games
+appId :  com.mustardgames.ultimate.car.stunt.impossibletracks
+score :  4.15
+installs : 10,000,000+
+ratings :  17257
+reviews :  166
+
+title :  Coach Bus Simulator Bus Game
+appId :  com.city.coach.bus.driver.simulator.duty
+score :  4.15
+installs : 10,000,000+
+ratings :  19700
+reviews :  64
+
+title :  Kite Flying Festival Challenge
+appId :  com.madcapgames.kiteflyingfestival
+score :  3.6666667
+installs : 1,000,000+
+ratings :  5490
+reviews :  3
+
+title :  Fps Shooting Games: Fire Games
+appId :  com.mc.fps.shootinggame.offlineshootinggames.freefire.combatduty.modern.combat.ops
+score :  4.090909
+installs : 500,000+
+ratings :  661
+reviews :  3
+
+title :  School Bus Robot Car Game
+appId :  com.cgs.flying.school.bus.driving.simulator
+score :  4.02
+installs : 10,000,000+
+ratings :  9753
+reviews :  55
+
+title :  Art of War 3:RTS strategy game
+appId :  com.geargames.aow
+score :  4.453167
+installs : 10,000,000+
+ratings :  384085
+reviews :  5221
+
+title :  Euro Bus Driving Games Sim 3D
+appId :  com.idt.mountain.indian.bus.offroad.parking
+score :  3.9333334
+installs : 5,000,000+
+ratings :  10019
+reviews :  20
+
+title :  Flying Car Robot Game Car Game
+appId :  com.brilliantgamez.underwater.navy.submarine.robotsimulator
+score :  3.5777779
+installs : 1,000,000+
+ratings :  2833
+reviews :  14
+
+title :  Country Balls: World War
+appId :  state.countryballs.dictators.io
+score :  4.2669683
+installs : 5,000,000+
+ratings :  33998
+reviews :  1077
+
+title :  Police Car Chase Car Games
+appId :  com.de.police.prado.chase.real.gangster.crime
+score :  4
+installs : 1,000,000+
+ratings :  1314
+reviews :  9
+
+title :  Pilot Flight Simulator Games
+appId :  com.impp.cityair.plane.driver
+score :  3.4257426
+installs : 10,000,000+
+ratings :  19025
+reviews :  169
+
+title :  Fps Shooting Strike: Gun Games
+appId :  com.mizo.fps.shooting.strike
+score :  4.81
+installs : 10,000,000+
+ratings :  67108
+reviews :  340
+
+title :  Blower - Candle Blower Lite
+appId :  com.siliconproductions.blower
+score :  3.3333333
+installs : 1,000,000+
+ratings :  7902
+reviews :  54
+
+title :  Heroes of War: Idle army game
+appId :  heroes.of.war
+score :  4.5953755
+installs : 1,000,000+
+ratings :  39195
+reviews :  374
+
+title :  City Car Driving - Car Games
+appId :  com.xg.citycardriving.cargames.car.parking.driving.simulator.cardriving.offlinegames
+score :  2.8461537
+installs : 500,000+
+ratings :  1657
+reviews :  19
+
+title :  Superhero Mega Ramp Bike Games
+appId :  com.real.impossible.bike.stunts2019.mega.ramp.games
+score :  3.6818182
+installs : 1,000,000+
+ratings :  2338
+reviews :  26
+
+title :  Euro Coach Bus Simulator 3D
+appId :  com.ps.modern.city.coach.bus.sim
+score :  3.5
+installs : 5,000,000+
+ratings :  24517
+reviews :  61
+
+title :  Fps Battlegrounds Fire Offline
+appId :  com.bgs.fps.special.shooting.ops
+score :  3.2222223
+installs : 100,000+
+ratings :  459
+reviews :  1
+
+title :  Car Racing - Car Games
+appId :  com.mustardgames.topspeed.carracing
+score :  4.4158416
+installs : 10,000,000+
+ratings :  14314
+reviews :  357
+
+title :  Motocross Racing Offline Games
+appId :  com.zb.ultimate.bike.racing.simulator.rider.stunts.fever.real.xtreme.ramps
+score :  3.4565217
+installs : 5,000,000+
+ratings :  1820
+reviews :  11
+
+title :  World of Tanks Blitz - PVP MMO
+appId :  net.wargaming.wot.blitz
+score :  4.095276
+installs : 100,000,000+
+ratings :  4340235
+reviews :  53831
+
+title :  Heavy Truck Simulator Games 3D
+appId :  com.citytrucksimulator.truck.game
+score :  3.5882354
+installs : 500,000+
+ratings :  948
+reviews :  9
+
+title :  Fox Robot Transform Bike Game
+appId :  com.cgs.fox.transform.bike.robot.shooting.robot.games
+score :  3.77
+installs : 10,000,000+
+ratings :  17247
+reviews :  187
+
+title :  Healthy Hospital: ASMR Doctor
+appId :  com.casualjoygames.healthyhospital
+score :  4.0153847
+installs : 1,000,000+
+ratings :  5715
+reviews :  322
+
+title :  Coach Bus Games: Bus Driving
+appId :  com.fundrivegames.citycoach.policebusdriving.simulationgames
+score :  4.3333335
+installs : 100,000+
+ratings :  344
+reviews :  0
+
+title :  Uphill Offroad Bus Simulator
+appId :  com.rs.offroad.dangrious.bus.driving.game
+score :  3.75
+installs : 100,000+
+ratings :  651
+reviews :  4
+
+title :  SIEGE: World War II
+appId :  com.simutronics.b17
+score :  4.2540717
+installs : 1,000,000+
+ratings :  63590
+reviews :  2767
+
+title :  Viking Rise
+appId :  com.igg.android.vikingriseglobal
+score :  4.475987
+installs : 1,000,000+
+ratings :  87836
+reviews :  1632
+
+title :  4x4 Jeep Offroad Car Driving
+appId :  com.fpgs.offroadcargame.jeep.drivingschool.car.driving.games
+score :  3.418182
+installs : 1,000,000+
+ratings :  2393
+reviews :  32
+
+title :  Real Prado Driving: Car Games
+appId :  com.driving.simulator.prado.car.drvivng.parking.game
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Real Car Parking - Car Games
+appId :  com.ig.carparkinggames.advancecar.parkingmania
+score :  3.8811882
+installs : 1,000,000+
+ratings :  10458
+reviews :  67
+
+title :  Stickman War: Stick Fight Army
+appId :  net.percas.stickwar
+score :  4.2525773
+installs : 5,000,000+
+ratings :  15169
+reviews :  406
+
+title :  War Eternal-Divine Battlefield
+appId :  com.and.wareternal
+score :  4.135514
+installs : 5,000,000+
+ratings :  103876
+reviews :  2800
+
+title :  Parking Games - Gadi Wali Game
+appId :  com.ge.modern.car.driving.simulator
+score :  3.5
+installs : 100,000+
+ratings :  406
+reviews :  0
+
+title :  Bid Wars 2: Business Simulator
+appId :  br.com.tapps.bidwars2
+score :  4.32315
+installs : 10,000,000+
+ratings :  1415956
+reviews :  102768
+
+title :  Goat Robot Car Game:Robot Game
+appId :  com.buntoo.goat.robot.games
+score :  4.6
+installs : 1,000,000+
+ratings :  6551
+reviews :  88
+
+title :  Drifting & Driving Honda Civic
+appId :  com.hash.honda.civic.driving.stunt.games
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  City Construction: Sand Games
+appId :  utility.car.driver.sim
+score :  3.4761906
+installs : 1,000,000+
+ratings :  2641
+reviews :  10
+
+title :  Real Mega Ramp Car Stunt Games
+appId :  com.us.mega.ramp.car.driving.impossible.tracks
+score :  4.14
+installs : 5,000,000+
+ratings :  5792
+reviews :  59
+
+title :  Euro Coach Bus:US Bus Sim 2023
+appId :  com.topfreegames.hillbusdrivingsimulator.offroad
+score :  4.1538463
+installs : 1,000,000+
+ratings :  1813
+reviews :  7
+
+title :  Real Bus Simulator: Bus Games
+appId :  com.frp.real.bussimulator.bus.games
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  FPS Encounter Shooting Games
+appId :  com.sgs.counterterrorist.commandostrike3d.free.games
+score :  4.0555553
+installs : 5,000,000+
+ratings :  1191
+reviews :  4
+
+title :  Throne: Kingdom at War
+appId :  com.plarium.throne
+score :  4.1973686
+installs : 5,000,000+
+ratings :  78258
+reviews :  3192
+
+title :  Superhero Kungfu Fighting Game
+appId :  com.us.robot.fighting2019.ring.wrestling.games
+score :  4.45
+installs : 1,000,000+
+ratings :  1835
+reviews :  32
+
+title :  Lords Mobile: Kingdom Wars
+appId :  com.igg.android.lordsmobile
+score :  4.393779
+installs : 100,000,000+
+ratings :  8252330
+reviews :  155842
+
+title :  Whiteout Survival
+appId :  com.gof.global
+score :  4.592796
+installs : 1,000,000+
+ratings :  106636
+reviews :  2414
+
+title :  BMX Cycle Stunt Riding Game
+appId :  com.offroad.bmx.stunt.riding
+score :  4.111111
+installs : 100,000+
+ratings :  1147
+reviews :  7
+
+title :  Car Driving 2022: Car Games 3d
+appId :  com.multi.story.master.real.car.parking.game
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Trojan War: Sparta Warriors
+appId :  com.megaadsgames.trojanwar
+score :  4.3425198
+installs : 5,000,000+
+ratings :  57919
+reviews :  661
+
+title :  Happy Home Dream Idle House 3D
+appId :  com.gs.happy.home.dream.idle.house.decor.games
+score :  4.15
+installs : 1,000,000+
+ratings :  5639
+reviews :  107
+
+title :  Days of Empire
+appId :  and.onemt.boe.tr
+score :  4.1442494
+installs : 5,000,000+
+ratings :  113791
+reviews :  1938
+
+title :  Grow Empire: Rome
+appId :  com.empire.grow.rome
+score :  4.546916
+installs : 10,000,000+
+ratings :  4100563
+reviews :  109710
+
+title :  Spider Tricky Bike Stunt Race
+appId :  com.gv.superhero.trickybike.stuntracing2021
+score :  4.8030305
+installs : 1,000,000+
+ratings :  2381
+reviews :  52
+
+title :  Euro Truck Simulator: Original
+appId :  com.sector7.indian.cargo.truck.transporter.games
+score :  3.6756756
+installs : 1,000,000+
+ratings :  4091
+reviews :  18
+
+title :  VIP Security Simulator Game 3D
+appId :  com.humbly.vip.security.sim.guard.president.chief
+score :  3.875
+installs : 100,000+
+ratings :  343
+reviews :  3
+
+title :  Indian Truck Simulator 3D
+appId :  com.sh.indian.truck.simulator.offroad.driving
+score :  3.5
+installs : 500,000+
+ratings :  1785
+reviews :  8
+
+title :  Stick Rope Hero: Spider Game
+appId :  com.gks.incredible.monster.stickman.ropehero.bigman.games
+score :  4.24
+installs : 10,000,000+
+ratings :  9127
+reviews :  105
+
+title :  Ice Cream Cone-Ice Cream Games
+appId :  com.sms.icecream.cone.maker.frozen.dessert.games
+score :  4.322222
+installs : 1,000,000+
+ratings :  2873
+reviews :  36
+
+title :  FPS Military Commando Shooting
+appId :  com.ghs.sniper.shooter.encounterstrike.shootinggames2020
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Mountain Driving: 4x4 Climb
+appId :  com.madcap.freegames.mountain.climb.stunt.tracks
+score :  3.857143
+installs : 100,000+
+ratings :  607
+reviews :  1
+
+title :  BattleOps | Offline Gun Game
+appId :  com.thg.battleops.shooting.game
+score :  4.438961
+installs : 10,000,000+
+ratings :  110077
+reviews :  1529
+
+title :  Flying Rope Hero - Spider Game
+appId :  com.rlg.future.robot.transform.car.racing
+score :  4.4666667
+installs : 500,000+
+ratings :  649
+reviews :  6
+
+title :  City Car Driving School 2022
+appId :  com.hpg.car.simulator.cardriving.citycardriving
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Commando Mission Battle Ground
+appId :  com.tlb.anitterrorist.realcommando.shootinggames.missionfire
+score :  4.2040815
+installs : 1,000,000+
+ratings :  4690
+reviews :  26
+
+title :  Games 2023: Car Game 2023
+appId :  com.dgamesforfree.carparkinggames
+score :  4.5
+installs : 500,000+
+ratings :  1269
+reviews :  2
+
+title :  Real Gangster Rope Hero City
+appId :  com.rsg.spider.rope.hero
+score :  3.3
+installs : 100,000+
+ratings :  1320
+reviews :  5
+
+title :  ATV Quads Bike Stunt Racing 3D
+appId :  com.GS.Quads.Superheroes.Stunts.Racing
+score :  4.24
+installs : 1,000,000+
+ratings :  4426
+reviews :  101
+
+title :  Hammer Climb Stick man Game
+appId :  com.gf.craft.game.hammar.climb
+score :  3.038961
+installs : 500,000+
+ratings :  689
+reviews :  42
+

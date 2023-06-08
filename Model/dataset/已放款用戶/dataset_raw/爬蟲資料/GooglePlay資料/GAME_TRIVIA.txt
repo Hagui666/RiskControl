@@ -1,0 +1,1393 @@
+title :  Witcoin: Learn & Earn Money
+appId :  com.witcoin.android
+score :  2.59
+installs : 500,000+
+ratings :  4366
+reviews :  138
+
+title :  Brain Test: Tricky Puzzles
+appId :  com.unicostudio.braintest
+score :  4.685611
+installs : 100,000,000+
+ratings :  6270217
+reviews :  102759
+
+title :  Million Golden Deal
+appId :  com.vgames.millionairegoldendeal
+score :  4.4871793
+installs : 5,000,000+
+ratings :  37731
+reviews :  248
+
+title :  Zoom Out 3D
+appId :  com.BanditBears.ZoomOut3D
+score :  4.385991
+installs : 10,000,000+
+ratings :  50627
+reviews :  788
+
+title :  Guess The Drawing
+appId :  com.JaddZayed.GuessTheDrawing
+score :  3.08
+installs : 1,000,000+
+ratings :  2883
+reviews :  161
+
+title :  Guess Their Answer
+appId :  com.qoni.guesstheiranswer
+score :  4.407827
+installs : 10,000,000+
+ratings :  296255
+reviews :  4790
+
+title :  Car Driving Simulator-Car Game
+appId :  com.aj.cargames.cardrivingsimulator.carracing.carparkinggames
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Quiz Lab
+appId :  com.scholarr.chemistryquiz.trivia
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Winnit!
+appId :  com.winnit
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Wild Cash | Quiz to Earn
+appId :  com.bo.hooked
+score :  3.25
+installs : 5,000,000+
+ratings :  58138
+reviews :  274
+
+title :  Quizology
+appId :  com.scholarr.bio.quiz.trivia
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Are U smarter than 6th grader?
+appId :  com.scholarr.areyousmartquiz
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Word Riddles - Offline Word Ga
+appId :  word.riddles.guess.brain.test.tricky.puzzle.quiz.game.free
+score :  4.681471
+installs : 10,000,000+
+ratings :  135718
+reviews :  6086
+
+title :  Pastimes - 21 Mini Games
+appId :  com.tellmewow.senior.pastime
+score :  4.4445944
+installs : 10,000,000+
+ratings :  220601
+reviews :  1765
+
+title :  Brain Test 2: Tricky Stories
+appId :  com.unicostudio.braintest2new
+score :  4.711638
+installs : 50,000,000+
+ratings :  1326330
+reviews :  14650
+
+title :  Trivia Master - Word Quiz Game
+appId :  trivia.master.question.quiz.answer.crack.star.millionaire.free.knowledge
+score :  4.732673
+installs : 5,000,000+
+ratings :  41652
+reviews :  296
+
+title :  Game Show – Live Quiz Pakistan
+appId :  planetbeyond.game_show_app
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Hammer Climber Man: Pot Man 3D
+appId :  com.lightboltstudio.hammer.climber.pot.man
+score :  2.7692308
+installs : 500,000+
+ratings :  2654
+reviews :  49
+
+title :  Quiztopia
+appId :  com.scholarr.geography.quizmaster
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  QuizzLand. Quiz & Trivia game
+appId :  com.xmonetize.quizzland
+score :  4.742357
+installs : 50,000,000+
+ratings :  1054278
+reviews :  29200
+
+title :  Baalveer Returns Game
+appId :  com.SmilePleaseApps.BaalveerReturnsGame
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Brain Test 4: Tricky Friends
+appId :  com.unicostudio.braintest4
+score :  4.769697
+installs : 1,000,000+
+ratings :  17308
+reviews :  352
+
+title :  Hrithik Roshan Movie Names
+appId :  com.vrgroup.hrithikroshanmovienames
+score :  4.111111
+installs : 500,000+
+ratings :  1079
+reviews :  5
+
+title :  Deal Master: Trivia Game
+appId :  com.vgames.dealmaster
+score :  4
+installs : 100,000+
+ratings :  668
+reviews :  11
+
+title :  BaalVeer Returns Game Quiz Gue
+appId :  com.baalveer.returns.game.quiz.baal.veer
+score :  4.5555553
+installs : 500,000+
+ratings :  1715
+reviews :  3
+
+title :  Train your Brain. Memory Games
+appId :  com.tellmewow.senior.memory
+score :  4.593361
+installs : 5,000,000+
+ratings :  87447
+reviews :  2032
+
+title :  Deal To Be A Millionaire
+appId :  com.niceteen.games.dtbam
+score :  4.0135746
+installs : 1,000,000+
+ratings :  6278
+reviews :  551
+
+title :  Million Deal: Win Million
+appId :  com.niceteen.games.milliondeal
+score :  4.1
+installs : 500,000+
+ratings :  2563
+reviews :  191
+
+title :  Bubble Shooter 2
+appId :  classic.bubble.shooter.dragon.two
+score :  4.754717
+installs : 100,000+
+ratings :  1954
+reviews :  92
+
+title :  Play and Win - Win Cash Prizes
+appId :  app.playandwinapp.com
+score :  3.7972972
+installs : 1,000,000+
+ratings :  17269
+reviews :  642
+
+title :  Purple Circle | Play To Earn
+appId :  app.purplecircle.game
+score :  4.72549
+installs : 10,000+
+ratings :  1132
+reviews :  67
+
+title :  Who is? Brain Teaser & Riddles
+appId :  com.unicostudio.whois
+score :  4.665171
+installs : 50,000,000+
+ratings :  1685672
+reviews :  25588
+
+title :  Millionaire Trivia Game Quiz
+appId :  com.submarineapps.mill
+score :  4.6197023
+installs : 50,000,000+
+ratings :  340969
+reviews :  3009
+
+title :  Logo Game: Guess Brand Quiz
+appId :  com.msi.logogame
+score :  4.19689
+installs : 10,000,000+
+ratings :  179860
+reviews :  11301
+
+title :  Flags of All World Countries
+appId :  com.asmolgam.flags
+score :  4.633987
+installs : 10,000,000+
+ratings :  73286
+reviews :  447
+
+title :  Brain Test 3: Tricky Quests
+appId :  com.unicostudio.braintest3
+score :  4.7745337
+installs : 10,000,000+
+ratings :  186983
+reviews :  1314
+
+title :  Daemon  : Trivia Game
+appId :  com.shivarathee.doraemon
+score :  4.2
+installs : 500,000+
+ratings :  2141
+reviews :  0
+
+title :  Pakistan cricketer Quiz
+appId :  com.geekguess.geekguesscricketerpakistan
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Text or Die
+appId :  com.fullfat.textordie
+score :  4.311533
+installs : 10,000,000+
+ratings :  288332
+reviews :  22120
+
+title :  Car Games 2023 - Car Games 3D
+appId :  com.impossible.formula.ramp.car.stunts.cargames
+score :  undefined
+installs : 1,000,000+
+ratings :  undefined
+reviews :  undefined
+
+title :  Muslim Quiz: Path to Allah
+appId :  muslim.quiz.namaz.quran.qibla.path.allah
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Logo Quiz - World Trivia Game
+appId :  com.logoquiz.triviagame
+score :  4.80531
+installs : 1,000,000+
+ratings :  12303
+reviews :  87
+
+title :  Logo Quiz 2023 – Brand Trivia
+appId :  com.joiastudios.logoquiz
+score :  4.4
+installs : 100,000+
+ratings :  840
+reviews :  35
+
+title :  Earn Money Online - Spin & Win
+appId :  com.earn.from.home.cashbuddy
+score :  4.401961
+installs : 500,000+
+ratings :  1794
+reviews :  75
+
+title :  Cube Fusion 2048 3D merge game
+appId :  com.FeedU.CubeFusion
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Daily Bible Trivia Bible Games
+appId :  com.daily.bible.trivia.android
+score :  4.9159026
+installs : 1,000,000+
+ratings :  66168
+reviews :  5464
+
+title :  Kids Car Games For Boys & Girl
+appId :  com.funkidsandtoddlertriviagamesunder6yearold.kids.car.games.race.free
+score :  3.4285715
+installs : 500,000+
+ratings :  655
+reviews :  7
+
+title :  MEGA LOGO QUIZ 2023: Logo game
+appId :  com.logoquiz.guessthelogo.logotriviagame
+score :  4.6138616
+installs : 1,000,000+
+ratings :  4665
+reviews :  184
+
+title :  World Geography - Quiz Game
+appId :  com.age.wgg.appspot
+score :  4.691508
+installs : 10,000,000+
+ratings :  205817
+reviews :  4182
+
+title :  Whose Brand: Video Guess Quiz
+appId :  com.ty.whosebrand
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Trivia Show: TV Word Quiz Game
+appId :  com.clappy.millionairetrivia
+score :  4.625
+installs : 100,000+
+ratings :  271
+reviews :  9
+
+title :  Logo Test: World Brands Quiz
+appId :  com.oyeapps.logotestworld2
+score :  4.687151
+installs : 5,000,000+
+ratings :  123417
+reviews :  4500
+
+title :  Funny Games For Fun
+appId :  com.goostudio.funnygames
+score :  3.4444444
+installs : 50,000+
+ratings :  152
+reviews :  4
+
+title :  Tuk Tuk Rickshaw - Auto Game
+appId :  com.free.trending.games.classic.car.parking.modern
+score :  3.6
+installs : 1,000,000+
+ratings :  2432
+reviews :  15
+
+title :  Party Games for 2 3 4 players
+appId :  com.tellmewow.senior.party
+score :  4.5755396
+installs : 1,000,000+
+ratings :  11804
+reviews :  199
+
+title :  Baal Veer Game Quiz Guess
+appId :  com.baalveer.game.quiz.baal.veer
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Millionaire - Quiz & Trivia
+appId :  com.nuomondo.millionaire.quiz
+score :  4.684647
+installs : 1,000,000+
+ratings :  26520
+reviews :  197
+
+title :  Commando Gun Shooting Games
+appId :  com.games.commando.missions.combat.fury
+score :  4.627451
+installs : 10,000,000+
+ratings :  58240
+reviews :  360
+
+title :  Official Millionaire Game
+appId :  com.sonypicturestelevision.millionaire
+score :  4.535099
+installs : 10,000,000+
+ratings :  238716
+reviews :  27915
+
+title :  Prison Escape- Jail Break Game
+appId :  com.grand.prison.escape.jail.breaker.adventure.game
+score :  3.4
+installs : 1,000,000+
+ratings :  6298
+reviews :  82
+
+title :  Mr Obby's Detention
+appId :  com.sfantasticgames.obbystinkydetention
+score :  3.2857144
+installs : 100,000+
+ratings :  229
+reviews :  1
+
+title :  ToT or Trivia
+appId :  com.YsoCorp.ThisOrThat
+score :  3.3924916
+installs : 1,000,000+
+ratings :  10126
+reviews :  1019
+
+title :  Car Driving School-Car Game 3d
+appId :  com.crazycardriving.carstuntgame.crazy.stunt.parking
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Quiz: Logo game
+appId :  lemmingsatwork.quiz
+score :  4.472713
+installs : 10,000,000+
+ratings :  441681
+reviews :  12951
+
+title :  Spelling Game: Spell the words
+appId :  com.happyverse.spellinggame
+score :  4.742574
+installs : 100,000+
+ratings :  809
+reviews :  62
+
+title :  How Well Do You Know Me?
+appId :  macrostudios.howwelldoyouknowme
+score :  4.414966
+installs : 5,000,000+
+ratings :  35162
+reviews :  1285
+
+title :  TRIVIA STAR Quiz Games Offline
+appId :  com.trivia.star.android
+score :  4.8305507
+installs : 10,000,000+
+ratings :  325800
+reviews :  39060
+
+title :  Escape Baby Bobby
+appId :  com.sfantasticgames.escapebobby
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  ATV Quad Bike Race ATV Offroad
+appId :  com.action.atv.quadbike.race.free.games
+score :  3.68
+installs : 100,000+
+ratings :  309
+reviews :  43
+
+title :  Gangster Vice Robbery Mafia
+appId :  com.sd.gta.robbery.mafia
+score :  4.774194
+installs : 100,000+
+ratings :  802
+reviews :  21
+
+title :  Salman Khan Movie names
+appId :  com.vrgroup.salmankhanmovienames
+score :  4
+installs : 100,000+
+ratings :  454
+reviews :  2
+
+title :  US Heavy Truck Simulator 2023
+appId :  com.aj.ustrucksimulator.truckdrivinggame.truckgame
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Real Cricket Quiz
+appId :  com.bitstorm.cricketquiz
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Math - Quiz Game
+appId :  com.age.math.appspot
+score :  4.6923075
+installs : 1,000,000+
+ratings :  5877
+reviews :  35
+
+title :  Guess The Brand 2023
+appId :  com.lazytrunk.guess.the.brand.logo
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Quiz Games Offline Games Star
+appId :  com.gmail.ramosmarbella.squizme
+score :  4.5855265
+installs : 1,000,000+
+ratings :  7034
+reviews :  1490
+
+title :  Bible Trivia Game: Heroes
+appId :  org.adventist.heroes.ii
+score :  4.63
+installs : 100,000+
+ratings :  2960
+reviews :  56
+
+title :  Fire Diamond: booyah pass
+appId :  kdlzo.sliasm.diamndfall
+score :  3.3333333
+installs : 10,000+
+ratings :  286
+reviews :  4
+
+title :  Quiz Win Earn Real Money
+appId :  com.quizmoney.onlineearning.playquizgame.win
+score :  2.8181818
+installs : 100,000+
+ratings :  486
+reviews :  10
+
+title :  Bollywood Movies Guess - Quiz
+appId :  com.mujaffars.bollywoodkaboss
+score :  4.3
+installs : 100,000+
+ratings :  2021
+reviews :  5
+
+title :  Can you escape the 100 room IV
+appId :  com.escapefun.the100roomiv
+score :  4.465932
+installs : 5,000,000+
+ratings :  189923
+reviews :  4973
+
+title :  URDU KBC Quiz 2022
+appId :  com.kbcquizurduenglish
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  English Skills - Practice and 
+appId :  com.edujoy.skills
+score :  4.52356
+installs : 1,000,000+
+ratings :  43920
+reviews :  545
+
+title :  Catch The Thief: Help Police
+appId :  thief.board.games.checkers.puzzle
+score :  4
+installs : 50,000+
+ratings :  448
+reviews :  2
+
+title :  World Map Quiz
+appId :  com.qbis.guessthecountry
+score :  4.673729
+installs : 5,000,000+
+ratings :  50654
+reviews :  801
+
+title :  Bouncing Balls
+appId :  bouncing.balls.artworks
+score :  4.3168316
+installs : 5,000,000+
+ratings :  17179
+reviews :  347
+
+title :  Guess Pakistani Actress
+appId :  com.hashtech.guesspakistaniactress
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  General Knowledge Quiz
+appId :  dh3games.generalknowledgequiz
+score :  4.4059405
+installs : 100,000+
+ratings :  7831
+reviews :  38
+
+title :  Scary Quiz Horror Movie Trivia
+appId :  com.MarcusFerronGames.ScaryQuiz
+score :  4.38
+installs : 50,000+
+ratings :  270
+reviews :  44
+
+title :  Math Riddles: IQ Test
+appId :  com.deappsign.math
+score :  4.366197
+installs : 500,000+
+ratings :  3462
+reviews :  12
+
+title :  Deal Game: Win A Dream House
+appId :  com.niceteen.dealadreamhouse
+score :  4.6666665
+installs : 10,000+
+ratings :  388
+reviews :  1
+
+title :  Cricket Quiz
+appId :  com.ganesh.cricket_quiz
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Find Prabhas movie names
+appId :  com.vrgroup.findprabhasmovienames
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Riddles - Just 500 Riddles
+appId :  com.knowledgequizgames.justriddles
+score :  4.2268157
+installs : 1,000,000+
+ratings :  39390
+reviews :  4084
+
+title :  Type Sprint: Typing Games, Pra
+appId :  typing.fast.texting.practice.keybord.type.games
+score :  4.1603174
+installs : 10,000,000+
+ratings :  65897
+reviews :  1316
+
+title :  Trivia Crack
+appId :  com.etermax.preguntados.lite
+score :  4.417061
+installs : 100,000,000+
+ratings :  7842276
+reviews :  539731
+
+title :  3D Lucky Craft Huggy Loki PE
+appId :  dede.epic.minicraft.pocket.medieval.village.crafting
+score :  3.62
+installs : 100,000+
+ratings :  1457
+reviews :  51
+
+title :  BFF Friendship Test
+appId :  dh3games.bfffriendshiptest
+score :  4.300066
+installs : 10,000,000+
+ratings :  64064
+reviews :  7694
+
+title :  101 Pics: Photo Quiz
+appId :  com.openmygame.games.android.pics
+score :  4.4158416
+installs : 5,000,000+
+ratings :  55219
+reviews :  387
+
+title :  Escape Rainbow Friends
+appId :  com.hollagames.rainfriends
+score :  3.2307692
+installs : 10,000+
+ratings :  74
+reviews :  6
+
+title :  Flags
+appId :  com.gedev.flags
+score :  4.3151517
+installs : 5,000,000+
+ratings :  65530
+reviews :  624
+
+title :  Quiz: Emoji Game
+appId :  com.kingim.emojiquiz2
+score :  4.640288
+installs : 1,000,000+
+ratings :  15491
+reviews :  523
+
+title :  Quiz - Offline Games
+appId :  com.theangrykraken.trivial
+score :  4.3507853
+installs : 10,000,000+
+ratings :  99029
+reviews :  1494
+
+title :  Baalveer Game
+appId :  com.riyachaoudhary.BaalveerReturnsGameprvt5
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Taarak Mehta Game Quiz: TMKOC 
+appId :  com.fafdajalebidevwada.taarakmehtagame
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Cake or Fake Challenge!
+appId :  com.surprisinggames.cakeorfake
+score :  2.764706
+installs : 10,000+
+ratings :  100
+reviews :  8
+
+title :  Candy Merge - Sweet Puzzle
+appId :  com.puzzlegame.candy.merge
+score :  3.54
+installs : 500,000+
+ratings :  1894
+reviews :  118
+
+title :  Guess the Flag and Country
+appId :  com.quiz_world.flags_country
+score :  3.909091
+installs : 50,000+
+ratings :  393
+reviews :  3
+
+title :  KBC quiz game in Hindi English
+appId :  com.gold.kbc
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Commando Gun Shooting Games 3D
+appId :  com.fps.shooting.counterattack.commandomissiongames
+score :  4.069307
+installs : 10,000,000+
+ratings :  31131
+reviews :  336
+
+title :  Deal The Big Deal
+appId :  com.vmoga.dtbd
+score :  4.03
+installs : 500,000+
+ratings :  1906
+reviews :  79
+
+title :  General Knowledge Quiz
+appId :  com.timleg.quiz
+score :  4.6183205
+installs : 5,000,000+
+ratings :  54603
+reviews :  1652
+
+title :  Game Dev Story 3D Simulator
+appId :  com.crazyfoxstudio.game.dev.story.simulator
+score :  2.4
+installs : 10,000+
+ratings :  99
+reviews :  5
+
+title :  Police Simulator Job Cop Game
+appId :  com.crazyfoxstudio.police.simulator.cop.games
+score :  2.92
+installs : 100,000+
+ratings :  512
+reviews :  11
+
+title :  BTS ARMY GAMES MV SONG QUIZ
+appId :  com.bts.musica.kpop.lyrics.suga.jungkook.v
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Motorcycle Game For Kids: Bike
+appId :  com.freekidsgamesunder6yearoldtoddlergames.moto.bike.race.kids.games.free
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Truth or Dare
+appId :  com.nixgames.truthordare
+score :  4.4420485
+installs : 5,000,000+
+ratings :  73389
+reviews :  1494
+
+title :  Black hole Adventure
+appId :  com.zxcy.bha
+score :  3.5138888
+installs : 1,000,000+
+ratings :  2832
+reviews :  27
+
+title :  Name Place Animal Thing
+appId :  com.zeuscoder69.nameplaceanimalthing
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Into The Backrooms
+appId :  com.oldfashiongames.intobackrooms
+score :  3.4545455
+installs : 100,000+
+ratings :  462
+reviews :  29
+
+title :  Logic Puzzles & Riddles
+appId :  com.tellmewow.senior.logic.quiz
+score :  4.172414
+installs : 10,000+
+ratings :  428
+reviews :  2
+
+title :  Where Logic?
+appId :  by.panko.wherelogic
+score :  4.11
+installs : 5,000,000+
+ratings :  131525
+reviews :  44
+
+title :  GeoGuessr
+appId :  com.geoguessr.app
+score :  3.9935484
+installs : 1,000,000+
+ratings :  14077
+reviews :  527
+
+title :  Emoji DOP:Brain Matching Game
+appId :  com.emojimatch.puzzle.quiz.connect.trivia.master.riddle.brain.game
+score :  4.8636365
+installs : 1,000,000+
+ratings :  1168
+reviews :  6
+
+title :  Gartic.io - Draw, Guess, WIN
+appId :  io.gartic.Gartic
+score :  3.3351955
+installs : 10,000,000+
+ratings :  73080
+reviews :  885
+
+title :  Guess The Soccer Player Quiz
+appId :  com.gryffindorapps.guess.football.player.logo.trivia
+score :  4.6
+installs : 500,000+
+ratings :  1625
+reviews :  4
+
+title :  Logo Quiz
+appId :  logos.quiz.companies.game
+score :  4.1904263
+installs : 50,000,000+
+ratings :  1186113
+reviews :  107747
+
+title :  Emoji Puzzle: Guess The Emoji
+appId :  com.emojipuzzle.emojiconnect.emojimatch
+score :  4.5
+installs : 10,000+
+ratings :  306
+reviews :  7
+
+title :  ThePrizer - Make Money Online
+appId :  com.theprizer.reward
+score :  2.7142856
+installs : 10,000+
+ratings :  143
+reviews :  5
+
+title :  Logo Trivia - Guess Logo Quiz
+appId :  ogo.trivia.quiz.emoji.icon.picture.guess.tricky.brain.test.riddle.puzzle
+score :  4.864865
+installs : 100,000+
+ratings :  556
+reviews :  19
+
+title :  Who is it? Celeb Quiz Trivia
+appId :  com.whoisit.celebquiz
+score :  4.731579
+installs : 100,000+
+ratings :  6744
+reviews :  127
+
+title :  Chainsaw Man Quiz Power Denji
+appId :  com.QuizZzerGames.ChainsawManQuizPowerDenji
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Math Trivia - Quiz Puzzle Game
+appId :  math.trivia.quiz.guess.question.answer.knowledge.test.study.learn.game
+score :  4.57
+installs : 100,000+
+ratings :  899
+reviews :  44
+
+title :  Trivians
+appId :  app.triviastars.android
+score :  4.27
+installs : 1,000,000+
+ratings :  6218
+reviews :  34
+
+title :  Raft Survival 3D Ocean Game
+appId :  com.bluemoongames.raft.survival.ocean.game
+score :  2.95
+installs : 50,000+
+ratings :  696
+reviews :  12
+
+title :  KBC Quiz Game
+appId :  com.newquizmaster.alllanguagesquizgame
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Kpop Quiz Game 2022
+appId :  com.trixtengames.kpopquiz
+score :  4.75
+installs : 10,000+
+ratings :  335
+reviews :  1
+
+title :  Country Flags 2: Quiz Game
+appId :  com.gedev.flagstwo
+score :  4.5
+installs : 1,000,000+
+ratings :  17393
+reviews :  110
+
+title :  Guess Kpop Idol
+appId :  com.gamecasual.guesskpopidol
+score :  4.6153846
+installs : 50,000+
+ratings :  557
+reviews :  4
+
+title :  Find Your Nickname
+appId :  macrostudios.guessmynickname
+score :  3.41
+installs : 500,000+
+ratings :  2474
+reviews :  520
+
+title :  FFH4X mod menu for fire
+appId :  aplic2377143.gcf
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Who is? 2 Brain Puzzle & Chats
+appId :  com.unicostudio.whois2
+score :  4.727041
+installs : 500,000+
+ratings :  18431
+reviews :  625
+
+title :  Universal MCQs Pro
+appId :  com.rajasand.universalmcqspro
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Urdu Quiz
+appId :  com.pakdata.urduquiz
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  QBit - multiplayer brain games
+appId :  com.TheOneMan.puzzle.Qbit.multiplayer.brain.games
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Quigle - Google Feud + Quiz
+appId :  com.quigle.quigle
+score :  3.79
+installs : 500,000+
+ratings :  4559
+reviews :  345
+
+title :  Yes Or No - fun Q&A when bored
+appId :  yesorno.sb.org.yesorno
+score :  3.6606607
+installs : 1,000,000+
+ratings :  23020
+reviews :  2922
+
+title :  Zoom Quiz: Close Up Pics Game
+appId :  com.kingim.zoomquiz
+score :  4.683007
+installs : 5,000,000+
+ratings :  72426
+reviews :  1088
+
+title :  Train your Brain
+appId :  com.tellmewow.senior.brain.training
+score :  4.5992217
+installs : 1,000,000+
+ratings :  78350
+reviews :  1305
+
+title :  Blackpink Quiz Game
+appId :  com.drgabhash.blackpinkquizgame
+score :  4.574468
+installs : 100,000+
+ratings :  2728
+reviews :  19
+
+title :  Quiz Planet
+appId :  com.lotum.quizplanet
+score :  4.3502417
+installs : 1,000,000+
+ratings :  56143
+reviews :  1893
+
+title :  Jet! Airplane Games For Kids
+appId :  com.funkidsandtoddlertriviagamesunder6yearold.jet.airplane.games.kids.free
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Guess The Song From Emoji Quiz
+appId :  com.horizon.guessthesongfromemojiquiz
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Would You Rather Choose?
+appId :  dh3games.wouldyourather
+score :  4.414097
+installs : 100,000+
+ratings :  3980
+reviews :  401
+
+title :  Country Flags Quiz 2
+appId :  com.gryffindorapps.country.flags.capitals.quiz
+score :  4.304348
+installs : 100,000+
+ratings :  602
+reviews :  11
+
+title :  Vanished Anniversary
+appId :  com.abocado.abocado
+score :  4.55
+installs : 100,000+
+ratings :  8820
+reviews :  339
+
+title :  Bible Trivia - Word Quiz Game
+appId :  bible.trivia.quiz.question.answer.spelling.correct.knowledge.test.game
+score :  4.6744576
+installs : 1,000,000+
+ratings :  27765
+reviews :  2088
+
+title :  PUBG Fandom | QnA Game
+appId :  com.pubgfandom
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  TOCA BOCA HOUSE DESIGN IDEAS
+appId :  com.wallpaper.minigame.housedesign
+score :  2.7
+installs : 500,000+
+ratings :  1709
+reviews :  52
+
+title :  Trivia Crush
+appId :  com.zd.answer
+score :  4.7433825
+installs : 500,000+
+ratings :  59201
+reviews :  4035
+
+title :  True or False: Shark game
+appId :  com.floor18.survival.quiz
+score :  3.6
+installs : 10,000+
+ratings :  58
+reviews :  0
+
+title :  Little Singham Quiz Game 2022
+appId :  com.drgabhash.littlesinghamquizgame
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Bird Bed & Breakfast
+appId :  com.runawayplay.birdbnb
+score :  3.81
+installs : 100,000+
+ratings :  1484
+reviews :  101
+
+title :  Brain Puzzle - IQ Test Games
+appId :  braintest.iq.quiz.brain.out.mind.challenge.pass.tricky.puzzles
+score :  4.33
+installs : 1,000,000+
+ratings :  6300
+reviews :  73
+
+title :  QuizUp
+appId :  dragon.games.biequiz
+score :  1
+installs : 5,000+
+ratings :  43
+reviews :  5
+
+title :  Fortune Coin Pusher
+appId :  com.fortunecoin.luckypusher
+score :  4.56
+installs : 50,000+
+ratings :  452
+reviews :  33
+
+title :  King Quiz: Cartoon Photos Quiz
+appId :  com.SacredWalrus.QuizioCartoons
+score :  3.875
+installs : 100,000+
+ratings :  345
+reviews :  6
+
+title :  Messi VS Ronaldo - Quiz Game
+appId :  com.JotaGames.MessiRonaldoQuiz
+score :  3.6
+installs : 50,000+
+ratings :  130
+reviews :  1
+
+title :  Strip Quiz
+appId :  com.smashbros.stripquiz
+score :  1.7
+installs : 10,000+
+ratings :  44
+reviews :  10
+
+title :  Зак Шторм
+appId :  com.RRgame.ZakStormQuiz
+score :  2.7777777
+installs : 100,000+
+ratings :  632
+reviews :  2
+
+title :  Motu Patlu Quiz Game 2023
+appId :  com.kidscartoons.motupatluquizgame
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Brain Test: Tricky Words
+appId :  com.unicostudio.trickywords
+score :  4.607702
+installs : 1,000,000+
+ratings :  33859
+reviews :  702
+
+title :  Guess The Country
+appId :  com.guess.country
+score :  4.076923
+installs : 5,000+
+ratings :  132
+reviews :  2
+
+title :  Qureka: Play Quizzes & Learn
+appId :  qureka.live.game.show
+score :  3.86
+installs : 10,000,000+
+ratings :  303234
+reviews :  51
+
+title :  Guess The Right Answer
+appId :  com.GNEGames.Top10Trivia
+score :  3.3076923
+installs : 10,000+
+ratings :  157
+reviews :  6
+
+title :  Kpop Game: Guess the Kpop Idol
+appId :  com.trixtengames.kpopgame
+score :  4.047619
+installs : 50,000+
+ratings :  486
+reviews :  4
+
+title :  Tarak Mehta Ka Ooltah Chashmah
+appId :  com.deepnext.tmfinal
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Football Quiz - Soccer Trivia
+appId :  com.boldcat.football
+score :  4.2647057
+installs : 1,000,000+
+ratings :  15343
+reviews :  39
+
+title :  Brain Crack
+appId :  com.aquaman.braincrack
+score :  4.126582
+installs : 500,000+
+ratings :  8113
+reviews :  552
+
+title :  My Korean Teacher : Quiz
+appId :  com.beardoor.mykoreanteacher
+score :  4.44
+installs : 1,000,000+
+ratings :  29962
+reviews :  345
+
+title :  Emoji Quiz: Guess the Emoji Pu
+appId :  com.taplane.emojisquiz
+score :  4.3424907
+installs : 1,000,000+
+ratings :  20915
+reviews :  2710
+
+title :  LogoMania: Logo Game and Quiz
+appId :  com.playmania.logomania
+score :  4.5876994
+installs : 1,000,000+
+ratings :  97323
+reviews :  2648
+
+title :  Baldy Huanted House Escape - H
+appId :  com.rg.baldy.hunted.house.escape.game
+score :  3.55
+installs : 100,000+
+ratings :  180
+reviews :  7
+
+title :  Alphabet Hero
+appId :  com.owsg.alphabethero
+score :  4
+installs : 100,000+
+ratings :  74
+reviews :  0
+
+title :  Cartton :trivia Game
+appId :  com.shivarathee.guessthecartoonname
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Ultimate Science Quiz 2023
+appId :  com.damtechdesigns.quiz.science
+score :  4.22
+installs : 500,000+
+ratings :  10954
+reviews :  190
+
+title :  Blackpink Quiz
+appId :  com.quizmaniab.blackpinkquiz
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Police Car Ambulance Firetruck
+appId :  com.zggs.police.car.firetruck.ambulance.three.d
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Earth Quiz
+appId :  com.games4earth.EarthQuizGlobalChallenges
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Quiz Game: Fun Trivia Question
+appId :  com.GK.General.Knowledge.Questions.And.Answers.Quiz.Trivia.who.wants.to.be.a.millionaire.game.free.offline.online
+score :  3.375
+installs : 100,000+
+ratings :  289
+reviews :  2
+
+title :  Logo Game - Brand Quiz
+appId :  com.wangcheng.logo
+score :  4.367461
+installs : 1,000,000+
+ratings :  24255
+reviews :  2387
+
+title :  Find Hidden Cats—Detective Mio
+appId :  com.onenone.miothedetective
+score :  4.1
+installs : 100,000+
+ratings :  4150
+reviews :  70
+
+title :  Guess Logo Quiz Cup 2022
+appId :  com.dooso.worldcup.logoquiz
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Smart Brain: Mind-Blowing Game
+appId :  game.mind.teaser.smartbrain
+score :  4.3540983
+installs : 5,000,000+
+ratings :  124939
+reviews :  808
+
+title :  Daily Bible Trivia Quiz Games
+appId :  com.biblestudios.bibletrivia
+score :  4.7944446
+installs : 500,000+
+ratings :  23360
+reviews :  137
+
+title :  Quiz of Knowledge Game
+appId :  com.educ8s.triviaquiz2015
+score :  4.483146
+installs : 5,000,000+
+ratings :  36852
+reviews :  1018
+
+title :  Flags of the World Quiz Game
+appId :  com.appsvolume.flagsoftheworldquizgame
+score :  3.7169812
+installs : 100,000+
+ratings :  1651
+reviews :  15
+
+title :  Guess the Celebrities
+appId :  com.kingim.celebquiz
+score :  4.671378
+installs : 1,000,000+
+ratings :  26235
+reviews :  966
+
+title :  Movie Trivia - Quiz Puzzle
+appId :  movie.trivia.film.quiz.guess.star.question.answer.knowledge.test.game
+score :  4.80198
+installs : 100,000+
+ratings :  1660
+reviews :  186
+

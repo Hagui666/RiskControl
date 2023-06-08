@@ -1,0 +1,28 @@
+title :  Google Photos
+appId :  com.google.android.apps.photos
+score :  4.4981976
+installs : 5,000,000,000+
+ratings :  47684584
+reviews :  1257488
+
+title :  KakaoTalk : Messenger
+appId :  com.kakao.talk
+score :  4.2806935
+installs : 100,000,000+
+ratings :  3169913
+reviews :  38994
+
+title :  TIMEFLIK Watch Face
+appId :  com.apposter.watchmaker
+score :  4.269159
+installs : 5,000,000+
+ratings :  52740
+reviews :  2185
+
+title :  Facer Watch Faces
+appId :  com.jeremysteckling.facerrel
+score :  4.199532
+installs : 10,000,000+
+ratings :  138010
+reviews :  13727
+

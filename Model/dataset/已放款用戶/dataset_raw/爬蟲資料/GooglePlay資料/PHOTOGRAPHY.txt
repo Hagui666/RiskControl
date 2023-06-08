@@ -1,0 +1,1393 @@
+title :  Video Editor & Maker - InShot
+appId :  com.camerasideas.instashot
+score :  4.8288684
+installs : 500,000,000+
+ratings :  17638406
+reviews :  199824
+
+title :  Picsart AI Photo Editor, Video
+appId :  com.picsart.studio
+score :  4.0488153
+installs : 1,000,000,000+
+ratings :  11768549
+reviews :  452795
+
+title :  Remini - AI Photo Enhancer
+appId :  com.bigwinepot.nwdn.international
+score :  4.1113887
+installs : 100,000,000+
+ratings :  2591864
+reviews :  16641
+
+title :  ArtistA: Cartoon Photo Editor
+appId :  com.lyrebirdstudio.art
+score :  4.2867894
+installs : 10,000,000+
+ratings :  325423
+reviews :  2970
+
+title :  Lightroom Photo & Video Editor
+appId :  com.adobe.lrmobile
+score :  4.5462165
+installs : 100,000,000+
+ratings :  1885799
+reviews :  11379
+
+title :  B612 Camera&Photo/Video Editor
+appId :  com.linecorp.b612.android
+score :  4.307582
+installs : 500,000,000+
+ratings :  7472533
+reviews :  20395
+
+title :  Beauty Camera -Selfie, Sticker
+appId :  photo.filter.selfie.beauty.camera
+score :  4.4915257
+installs : 10,000,000+
+ratings :  42134
+reviews :  411
+
+title :  Snapseed
+appId :  com.niksoftware.snapseed
+score :  4.36087
+installs : 100,000,000+
+ratings :  1631058
+reviews :  19147
+
+title :  Collage Maker | Photo Editor
+appId :  photoeditor.layout.collagemaker
+score :  4.916578
+installs : 100,000,000+
+ratings :  2655363
+reviews :  31967
+
+title :  Google Photos
+appId :  com.google.android.apps.photos
+score :  4.4982014
+installs : 5,000,000,000+
+ratings :  47684580
+reviews :  1257488
+
+title :  BeautyPlus - Retouch, Filters
+appId :  com.commsource.beautyplus
+score :  4.4056277
+installs : 100,000,000+
+ratings :  4901837
+reviews :  31370
+
+title :  FaceApp: Face Editor
+appId :  io.faceapp
+score :  4.440755
+installs : 100,000,000+
+ratings :  4765514
+reviews :  68541
+
+title :  Photo Lab Picture Editor & Art
+appId :  vsin.t16_funny_photo
+score :  4.6388016
+installs : 100,000,000+
+ratings :  3665820
+reviews :  97578
+
+title :  Photo Background Changer: Edit
+appId :  com.lyrebirdstudio.photo_background_changer
+score :  4.3404713
+installs : 10,000,000+
+ratings :  208610
+reviews :  1030
+
+title :  Photo Editor Pro - Polish
+appId :  photo.editor.photoeditor.photoeditorpro
+score :  4.881972
+installs : 100,000,000+
+ratings :  3676172
+reviews :  64865
+
+title :  Night Camera Mode Photo Video
+appId :  com.rivatech.nightmodecameranew
+score :  4.3069305
+installs : 1,000,000+
+ratings :  4512
+reviews :  149
+
+title :  Beauty Camera - Selfie Camera
+appId :  photo.beauty.sticker.ar.camera
+score :  4.482993
+installs : 10,000,000+
+ratings :  69826
+reviews :  584
+
+title :  PixelLab - Text on pictures
+appId :  com.imaginstudio.imagetools.pixellab
+score :  4.1287804
+installs : 100,000,000+
+ratings :  487717
+reviews :  5105
+
+title :  Eid Mubarak Photo Frame Dp
+appId :  com.hlnsoft.eid.mubarak.photo.frames.eid_cards
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Aibi Photo: AI Photo Enhancer
+appId :  com.aiphotoeditor.photoenhance.restorephoto
+score :  3.876923
+installs : 5,000,000+
+ratings :  6272
+reviews :  20
+
+title :  FaceLab Face Aging Gender Swap
+appId :  com.lyrebirdstudio.facelab
+score :  4.1395707
+installs : 10,000,000+
+ratings :  536950
+reviews :  2961
+
+title :  Background Eraser - Pics Blend
+appId :  photo.editor.background.eraser.blend.pic
+score :  4.79
+installs : 500,000+
+ratings :  1835
+reviews :  30
+
+title :  AirBrush: Easy Photo Editor
+appId :  com.magicv.airbrush
+score :  4.236836
+installs : 50,000,000+
+ratings :  1518716
+reviews :  28672
+
+title :  Photo Editor - Collage Maker
+appId :  photocollage.photoeditor.collagemaker
+score :  4.9114437
+installs : 50,000,000+
+ratings :  870079
+reviews :  18239
+
+title :  HD Camera for Android
+appId :  photo.android.hd.camera
+score :  4.358788
+installs : 50,000,000+
+ratings :  551088
+reviews :  17416
+
+title :  Footej Camera - PRO HD Camera
+appId :  com.footej.camera2
+score :  4.396154
+installs : 5,000,000+
+ratings :  91367
+reviews :  587
+
+title :  Photo Editor - Lumii
+appId :  photo.editor.photoeditor.filtersforpictures
+score :  4.8344517
+installs : 50,000,000+
+ratings :  791354
+reviews :  19430
+
+title :  Hypic - Photo Editor & AI Art
+appId :  com.xt.retouchoversea
+score :  4.5066667
+installs : 500,000+
+ratings :  1196
+reviews :  28
+
+title :  HD Camera
+appId :  hd.camera
+score :  4.61941
+installs : 100,000,000+
+ratings :  307307
+reviews :  3516
+
+title :  HD Camera Pro 2023
+appId :  com.media.photo.pro.selfie.camera
+score :  4.5049505
+installs : 1,000,000+
+ratings :  8034
+reviews :  71
+
+title :  Meitu- Photo Editor & AI Art
+appId :  com.mt.mtxx.mtxx
+score :  4.478277
+installs : 50,000,000+
+ratings :  920196
+reviews :  6567
+
+title :  Photo Album Book Collage Maker
+appId :  com.xenstudio.books.photo.frame.collage
+score :  4.612069
+installs : 10,000,000+
+ratings :  86886
+reviews :  902
+
+title :  YouCam Makeup - Selfie Editor
+appId :  com.cyberlink.youcammakeup
+score :  4.412923
+installs : 100,000,000+
+ratings :  4168368
+reviews :  90274
+
+title :  Blur Photo Editor (Blur Image)
+appId :  com.caomobile.blurphoto
+score :  3.909091
+installs : 500,000+
+ratings :  1474
+reviews :  5
+
+title :  Private Photo Vault
+appId :  com.enchantedcloud.photovault
+score :  4.717465
+installs : 10,000,000+
+ratings :  167045
+reviews :  3410
+
+title :  Eid Photo frame 2023 : Ramadan
+appId :  com.appwallet.eidphotoframes2018
+score :  4.2244897
+installs : 1,000,000+
+ratings :  5477
+reviews :  9
+
+title :  PhotoShot - Photo Editor
+appId :  com.vyroai.photoeditorone
+score :  3.6764705
+installs : 5,000,000+
+ratings :  26718
+reviews :  224
+
+title :  Eid Mubarak Photo Editor 2023
+appId :  com.eidmubarakphotoframes2023.eidphotoframes_eidmubarak_dp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Photoshop Express Photo Editor
+appId :  com.adobe.psmobile
+score :  4.347661
+installs : 100,000,000+
+ratings :  1921164
+reviews :  52794
+
+title :  PhotoRoom AI Photo Editor
+appId :  com.photoroom.app
+score :  4.7342157
+installs : 10,000,000+
+ratings :  1022462
+reviews :  5281
+
+title :  Candy Camera - photo editor
+appId :  com.joeware.android.gpulumera
+score :  4.4912243
+installs : 100,000,000+
+ratings :  3510509
+reviews :  47885
+
+title :  Background Eraser
+appId :  com.handycloset.android.eraser
+score :  4.6212025
+installs : 100,000,000+
+ratings :  901371
+reviews :  26048
+
+title :  AI Gallery
+appId :  com.gallery20
+score :  4.2126436
+installs : 100,000,000+
+ratings :  166919
+reviews :  367
+
+title :  Photo Frames : Photo Editor
+appId :  com.xenstudio.photo.frame.pic.editor
+score :  4.2727275
+installs : 100,000+
+ratings :  347
+reviews :  3
+
+title :  Gallery - Photo Gallery, Vault
+appId :  com.ai.gallery.android
+score :  4.158416
+installs : 500,000+
+ratings :  7143
+reviews :  62
+
+title :  Background Eraser - Remove BG
+appId :  photoeditor.cutout.backgrounderaser
+score :  4.86014
+installs : 10,000,000+
+ratings :  436762
+reviews :  6815
+
+title :  AI Enhancer, AI Photo Enhancer
+appId :  ai.photo.enhancer.photoclear
+score :  4.5672045
+installs : 5,000,000+
+ratings :  151009
+reviews :  3854
+
+title :  Mens Police Suits Photo Editor
+appId :  com.sticker.police.photo.editor
+score :  4.409091
+installs : 500,000+
+ratings :  847
+reviews :  3
+
+title :  Camera iphone 14 - OS15 Camera
+appId :  com.camera12.iphone12
+score :  4.6690307
+installs : 10,000,000+
+ratings :  287299
+reviews :  1557
+
+title :  Alphabet Letter Wallpaper HD
+appId :  com.rndmedia.alphabetswallpaper
+score :  4.5
+installs : 500,000+
+ratings :  1050
+reviews :  3
+
+title :  Background Changer of Photo AI
+appId :  com.apptrends.nature.photo.editor.background.changer.eraser.nature.photo.frames
+score :  3.36
+installs : 5,000,000+
+ratings :  13984
+reviews :  50
+
+title :  Open Camera
+appId :  net.sourceforge.opencamera
+score :  4.1052933
+installs : 50,000,000+
+ratings :  261229
+reviews :  7005
+
+title :  Smarty Man - Suit Photo Editor
+appId :  com.hmbl.smart.beard.suits.hairstyles
+score :  4.37931
+installs : 500,000+
+ratings :  1242
+reviews :  5
+
+title :  True Love Photo Frames Editor
+appId :  com.xenstudio.romantic.love.photoframe
+score :  4.5268292
+installs : 10,000,000+
+ratings :  58763
+reviews :  905
+
+title :  Sweet Selfie: Camera & Editor
+appId :  com.cam001.selfie
+score :  4.4715753
+installs : 100,000,000+
+ratings :  2381362
+reviews :  10830
+
+title :  Gallery - Vault, Photo Gallery
+appId :  gallery.photogallery.pictures.vault.album
+score :  4.592233
+installs : 100,000+
+ratings :  3889
+reviews :  85
+
+title :  VFly Lite-Magic Effects Editor
+appId :  com.ai.ifly
+score :  4.134146
+installs : 1,000,000+
+ratings :  9342
+reviews :  29
+
+title :  Enhancer - AI Photo Enhance
+appId :  com.enhancer.app
+score :  4.7272725
+installs : 1,000,000+
+ratings :  4488
+reviews :  24
+
+title :  Beautycam-Beautify & AI Artist
+appId :  com.meitu.meiyancamera
+score :  4.258348
+installs : 50,000,000+
+ratings :  444981
+reviews :  3174
+
+title :  Background remover - remove.bg
+appId :  bg.remove.android
+score :  4.039604
+installs : 10,000,000+
+ratings :  39581
+reviews :  482
+
+title :  Focus &DSLR Blur–ReLens Camera
+appId :  com.accordion.pro.camera
+score :  4.633663
+installs : 1,000,000+
+ratings :  8589
+reviews :  122
+
+title :  Fire Text Photo Frames App
+appId :  com.bpva.firetext.photoframes.photoeffects
+score :  4.2168674
+installs : 10,000,000+
+ratings :  62952
+reviews :  717
+
+title :  Eid Mubarak Stickers
+appId :  com.Eidmobarak.EidsaidStickers
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Beauty Photo Editor Selfie Cam
+appId :  com.ra.facechange.app
+score :  3.7317073
+installs : 1,000,000+
+ratings :  2639
+reviews :  14
+
+title :  Camera for Android
+appId :  com.photo.android.camera
+score :  4.2179084
+installs : 5,000,000+
+ratings :  104712
+reviews :  3757
+
+title :  Photo Collage Maker & Editor
+appId :  com.lyrebirdstudio.collage
+score :  4.567959
+installs : 100,000,000+
+ratings :  1344705
+reviews :  10079
+
+title :  Photo Retouch- Object Removal
+appId :  com.ror.removal
+score :  4.23
+installs : 1,000,000+
+ratings :  23477
+reviews :  316
+
+title :  Collage Maker- Photo Collage
+appId :  com.baiwang.stylephotocollage
+score :  4.80226
+installs : 10,000,000+
+ratings :  66205
+reviews :  804
+
+title :  Pretty Makeup - Beauty Camera
+appId :  photo.photoeditor.snappycamera.prettymakeup
+score :  4.752222
+installs : 50,000,000+
+ratings :  180542
+reviews :  3494
+
+title :  Gallery
+appId :  com.google.android.apps.photosgo
+score :  4.366013
+installs : 500,000,000+
+ratings :  217177
+reviews :  3546
+
+title :  Remove It-Remove Objects
+appId :  com.vyroai.objectremover
+score :  3.9509804
+installs : 5,000,000+
+ratings :  26883
+reviews :  223
+
+title :  HD Camera iphone Beauty Camera
+appId :  photo.selfie.beauty.hd.camera
+score :  4.4411764
+installs : 1,000,000+
+ratings :  21126
+reviews :  241
+
+title :  TextArt - Add Text To Photo
+appId :  com.text.art.addtext.textonphoto
+score :  4.6189623
+installs : 10,000,000+
+ratings :  212507
+reviews :  3158
+
+title :  Gallery - photos gallery
+appId :  com.gallery.editphoto.photoeditor.video.photo.retouchphoto
+score :  4.0416665
+installs : 50,000+
+ratings :  66
+reviews :  3
+
+title :  Facetune AI Photo/Video Editor
+appId :  com.lightricks.facetune.free
+score :  4.3095174
+installs : 50,000,000+
+ratings :  502213
+reviews :  9959
+
+title :  Sticker Maker - WAStickers
+appId :  com.photoappworld.photo.sticker.creator.wastickerapps
+score :  4.6469345
+installs : 10,000,000+
+ratings :  443755
+reviews :  1409
+
+title :  Tattoo my Photo 2.0
+appId :  com.mobile.bizo.tattoo.two
+score :  4.362048
+installs : 10,000,000+
+ratings :  297676
+reviews :  3216
+
+title :  AI Photo Enhancer - HitPaw
+appId :  com.hitpaw.photo.enhancer
+score :  4.587156
+installs : 100,000+
+ratings :  2703
+reviews :  122
+
+title :  Blend Me Photo Editor
+appId :  com.photoeditor.blendmephotoeditor
+score :  4.5150094
+installs : 10,000,000+
+ratings :  151078
+reviews :  4689
+
+title :  PREQUEL AI Filter Photo Editor
+appId :  com.prequel.app
+score :  4.3513513
+installs : 10,000,000+
+ratings :  248158
+reviews :  5439
+
+title :  Family Dual Photo Frames
+appId :  com.dual.familyphotoframes
+score :  4.5287356
+installs : 5,000,000+
+ratings :  6998
+reviews :  15
+
+title :  YuFace: Makeup Cam, Face App
+appId :  com.yuapp.beautycamera.selfie.makeup
+score :  4.388235
+installs : 10,000,000+
+ratings :  117079
+reviews :  1232
+
+title :  12Camera Selfie Beauty Camera
+appId :  selfie.photo.editor.photoeditor.collagemaker
+score :  4.02
+installs : 10,000,000+
+ratings :  21936
+reviews :  60
+
+title :  Presets for Lightroom - Koloro
+appId :  com.cerdillac.persetforlightroom
+score :  4.637838
+installs : 10,000,000+
+ratings :  283157
+reviews :  1228
+
+title :  Romantic Photo Blending Frames
+appId :  com.xenstudio.valentine.day.love.frames
+score :  4.24
+installs : 5,000,000+
+ratings :  18523
+reviews :  344
+
+title :  Pixel Go: AI Photo Enhancer
+appId :  ai.photo.enhancer.photoeditor
+score :  4.25
+installs : 100,000+
+ratings :  747
+reviews :  2
+
+title :  ToonMe photo cartoon maker
+appId :  com.vicman.toonmeapp
+score :  4.5843415
+installs : 50,000,000+
+ratings :  1122200
+reviews :  8498
+
+title :  Photo Video Maker with Song™
+appId :  com.alishroot.photovideomakerwithsong
+score :  4.4950495
+installs : 10,000,000+
+ratings :  52722
+reviews :  96
+
+title :  Nature photo frames & editor
+appId :  com.ashar.naturedual
+score :  3.86
+installs : 10,000,000+
+ratings :  42104
+reviews :  73
+
+title :  Becoco: Selfie Camera & Editor
+appId :  com.cherisher.face.beauty.editor
+score :  4.72
+installs : 1,000,000+
+ratings :  6406
+reviews :  124
+
+title :  Family photo frame
+appId :  com.highsecure.familyphotoframe
+score :  4.70778
+installs : 10,000,000+
+ratings :  103284
+reviews :  2083
+
+title :  Beauty Plus Cam -Selfie Editor
+appId :  com.pixlud.beautypluscam
+score :  4.625
+installs : 5,000,000+
+ratings :  14104
+reviews :  0
+
+title :  Auto blur: blur background
+appId :  com.judi.autoblur
+score :  4.654902
+installs : 10,000,000+
+ratings :  298311
+reviews :  2198
+
+title :  Nature Photo Editor BG Changer
+appId :  com.mm.nature.photo.editor
+score :  3.2333333
+installs : 500,000+
+ratings :  1209
+reviews :  13
+
+title :  HD Camera - Filter Cam Editor
+appId :  filter.camera.snap.photo.video.panorama
+score :  4.546832
+installs : 10,000,000+
+ratings :  163287
+reviews :  2854
+
+title :  Selfie Camera - Beauty Camera
+appId :  beauty.selfie.camera
+score :  4.42
+installs : 10,000,000+
+ratings :  64358
+reviews :  339
+
+title :  YouCam Perfect - Photo Editor
+appId :  com.cyberlink.youperfect
+score :  4.3806696
+installs : 100,000,000+
+ratings :  2084664
+reviews :  38102
+
+title :  EPIK - Photo Editor
+appId :  com.snowcorp.epik
+score :  4.5692306
+installs : 50,000,000+
+ratings :  477199
+reviews :  582
+
+title :  Remove Unwanted Object
+appId :  vn.remove.photo.content
+score :  3.8468368
+installs : 10,000,000+
+ratings :  270562
+reviews :  4215
+
+title :  Cut and Paste Photos
+appId :  com.photoappworld.cut.paste.photo
+score :  4.606791
+installs : 10,000,000+
+ratings :  205580
+reviews :  2551
+
+title :  Sweet Face: beauty face camera
+appId :  com.ufotosoft.justshot
+score :  4.3615384
+installs : 100,000,000+
+ratings :  1099793
+reviews :  6412
+
+title :  Time Cut : Smooth Slow Motion
+appId :  com.accarunit.slowmotion
+score :  4.4851484
+installs : 1,000,000+
+ratings :  30907
+reviews :  543
+
+title :  Nature Photo Frames & Editor
+appId :  com.Square.Photo.Frame.Collection.NaturephotoFrame
+score :  4.360656
+installs : 1,000,000+
+ratings :  5383
+reviews :  14
+
+title :  Photo Editor pro SquarePic Lab
+appId :  com.baiwang.styleinstaboxsnap
+score :  4.7939563
+installs : 10,000,000+
+ratings :  133137
+reviews :  1075
+
+title :  Logo Maker Plus - Logo Creator
+appId :  com.logopit.logoplus
+score :  4.530038
+installs : 10,000,000+
+ratings :  193391
+reviews :  6965
+
+title :  ToonApp AI Cartoon Picture App
+appId :  com.lyrebirdstudio.cartoon
+score :  4.340269
+installs : 50,000,000+
+ratings :  2216790
+reviews :  9323
+
+title :  PhotoTune - AI Photo Enhancer
+appId :  com.vyroai.photoenhancer
+score :  4.5940595
+installs : 1,000,000+
+ratings :  42875
+reviews :  377
+
+title :  Love photo Frames Photo Editor
+appId :  com.soft.clickers.love.Frames
+score :  4.6
+installs : 10,000,000+
+ratings :  56791
+reviews :  1037
+
+title :  Vertical Gallery
+appId :  com.mobsnake.verticalgallery
+score :  4.269231
+installs : 10,000,000+
+ratings :  75239
+reviews :  443
+
+title :  Photo Editor-SquarePic Collage
+appId :  squarepic.blur.effect.photoeditor
+score :  4.7009344
+installs : 1,000,000+
+ratings :  22353
+reviews :  251
+
+title :  Nature Photo Frames and Editor
+appId :  com.vihas.naturephotoeditor.nature.photo.frames.editor
+score :  4.06
+installs : 10,000,000+
+ratings :  32476
+reviews :  112
+
+title :  HD Camera for Android: XCamera
+appId :  xprocamera.hd.camera
+score :  4.7715554
+installs : 5,000,000+
+ratings :  112502
+reviews :  3872
+
+title :  Blur photo - background editor
+appId :  com.kkachur.blur
+score :  4.5860467
+installs : 10,000,000+
+ratings :  125738
+reviews :  403
+
+title :  HD Camera - Filter Beauty Cam
+appId :  camera.pro.video.beauty.camera
+score :  4.6535435
+installs : 1,000,000+
+ratings :  33374
+reviews :  454
+
+title :  Man Bike Rider Photo Editor
+appId :  bikephotoframe.mensuit.photo.editor
+score :  5
+installs : 500,000+
+ratings :  1415
+reviews :  1
+
+title :  Nature Photo Frame Editing App
+appId :  com.xenstudio.waterfallphoto.collagesmaker
+score :  4.69
+installs : 1,000,000+
+ratings :  10452
+reviews :  143
+
+title :  AI Photo Enhancer - BlurBuster
+appId :  intechsolutions.photoenhancer
+score :  4.453704
+installs : 1,000,000+
+ratings :  96405
+reviews :  883
+
+title :  Time Warp Scan - Face Scan
+appId :  timewarpscanner.facescan.timewarp.timewarpscan
+score :  4.6574073
+installs : 1,000,000+
+ratings :  6140
+reviews :  221
+
+title :  Canon Camera Connect
+appId :  jp.co.canon.ic.cameraconnect
+score :  2.715528
+installs : 10,000,000+
+ratings :  114834
+reviews :  4650
+
+title :  PiP camera collage maker
+appId :  com.kvadgroup.pipcamera
+score :  4.7
+installs : 10,000,000+
+ratings :  26014
+reviews :  480
+
+title :  VSCO: Photo & Video Editor
+appId :  com.vsco.cam
+score :  3.4235117
+installs : 100,000,000+
+ratings :  1321437
+reviews :  19890
+
+title :  Eid Mubarak Photo Editor 2023
+appId :  photoeditortoolsmedia.photoframe2k20.eidphotoeditor2k20
+score :  4
+installs : 100,000+
+ratings :  927
+reviews :  2
+
+title :  Collage Maker - Photo Editor
+appId :  collage.maker.photoeditor
+score :  4.9064417
+installs : 10,000,000+
+ratings :  243627
+reviews :  2045
+
+title :  TikiPic: Photo Editor, Camera
+appId :  com.tikipiceditor.android.photoeditapp
+score :  3.737705
+installs : 1,000,000+
+ratings :  2771
+reviews :  14
+
+title :  Nature Photo Editor
+appId :  com.ethinkstore.naturephotoeditor
+score :  4.3095236
+installs : 5,000,000+
+ratings :  13070
+reviews :  8
+
+title :  Beauty Selfie Camera - Papaya
+appId :  sweet.selfie.beauty.camera
+score :  4.41
+installs : 10,000,000+
+ratings :  51182
+reviews :  227
+
+title :  Photo Background Change Editor
+appId :  com.vyroai.AutoCutCut
+score :  4.0604396
+installs : 10,000,000+
+ratings :  236321
+reviews :  2327
+
+title :  AI Photo Editor, Collage-Fotor
+appId :  com.everimaging.photoeffectstudio
+score :  4.349565
+installs : 10,000,000+
+ratings :  641006
+reviews :  19306
+
+title :  Waterfall Photo Frames
+appId :  com.appbites.waterfallphotoframes
+score :  4.5925927
+installs : 1,000,000+
+ratings :  2197
+reviews :  2
+
+title :  Face Changer Camera
+appId :  com.vysionapps.face28
+score :  4.4304934
+installs : 10,000,000+
+ratings :  79066
+reviews :  1749
+
+title :  Photo Frames - Editing Photo
+appId :  bestfreelivewallpapers.new_year_2015_fireworks
+score :  4.4696355
+installs : 10,000,000+
+ratings :  69508
+reviews :  632
+
+title :  Photo Gallery - Album, Vault
+appId :  photo.manager.private.photogallery
+score :  4.6146436
+installs : 10,000,000+
+ratings :  100718
+reviews :  1670
+
+title :  PicShot: Photo Editor Neon Cam
+appId :  com.lyrebirdstudio.photo_editor_pro
+score :  4.379368
+installs : 10,000,000+
+ratings :  361008
+reviews :  3411
+
+title :  Gallery- Photo Album & Gallery
+appId :  photo.video.private.photogallery
+score :  4.695167
+installs : 1,000,000+
+ratings :  58878
+reviews :  825
+
+title :  Eid Mubarak Photo Frame 2023
+appId :  com.eid.photo_frame
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Gallery – Photos & Videos
+appId :  com.gallery.photo.video.photoediting.videodownloader
+score :  5
+installs : 10,000+
+ratings :  10
+reviews :  1
+
+title :  Vintage Camera-Retro, Editor
+appId :  com.camerafilter.ulook
+score :  4.537736
+installs : 10,000,000+
+ratings :  45412
+reviews :  328
+
+title :  Cartoon Yourself, Toonme, Face
+appId :  com.cartoonphoto.toonapp.cartoonavatar
+score :  4.14
+installs : 1,000,000+
+ratings :  11099
+reviews :  241
+
+title :  Photo Suite Background Changer
+appId :  com.hangoverstudios.photo.suit.editor
+score :  4.283951
+installs : 5,000,000+
+ratings :  7264
+reviews :  12
+
+title :  Pencil Sketch
+appId :  com.dumplingsandwich.pencilsketch
+score :  4.6428065
+installs : 50,000,000+
+ratings :  434993
+reviews :  10896
+
+title :  Photo Editor - Collage Maker
+appId :  piccollage.collagemaker.photoeditor
+score :  4.64
+installs : 5,000,000+
+ratings :  60843
+reviews :  387
+
+title :  Eid Cards Maker Photo Editor
+appId :  com.eidmubarak.photoframes.eid2020.eidmubarakwishes
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Love Collage - Photo Editor
+appId :  com.etoolkit.lovecollage
+score :  4.6791553
+installs : 50,000,000+
+ratings :  381576
+reviews :  8432
+
+title :  Cut Cut: Photo Editor & CutOut
+appId :  com.xprodev.cutcam
+score :  4.356531
+installs : 50,000,000+
+ratings :  522264
+reviews :  4348
+
+title :  Hair Style Photo Editor
+appId :  com.bhima.hairstylephoto
+score :  3.49
+installs : 1,000,000+
+ratings :  10730
+reviews :  54
+
+title :  Girls Hairstyle Step By Step
+appId :  com.sunstarphotomedia.girlshairstylestepbystep
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Police Suits - AI Photo Editor
+appId :  com.abl.commando.photosuit.police.uniform.photoeditor.maker
+score :  4.45
+installs : 1,000,000+
+ratings :  1900
+reviews :  0
+
+title :  FotoCollage Maker Photo Editor
+appId :  mobi.charmer.fotocollage
+score :  4.878645
+installs : 50,000,000+
+ratings :  921322
+reviews :  20316
+
+title :  Lightleap by Lightricks
+appId :  com.lightricks.quickshot
+score :  3.8611112
+installs : 10,000,000+
+ratings :  59299
+reviews :  1885
+
+title :  Beauty Camera X, Selfie Camera
+appId :  com.camera.x
+score :  4.8044443
+installs : 5,000,000+
+ratings :  39505
+reviews :  702
+
+title :  NeonArt Photo Editor & Effects
+appId :  com.lyrebirdstudio.neon_art
+score :  4.2064714
+installs : 10,000,000+
+ratings :  279751
+reviews :  1144
+
+title :  Scoompa Video: Slideshow Maker
+appId :  com.scoompa.slideshow
+score :  4.5059705
+installs : 10,000,000+
+ratings :  703330
+reviews :  15139
+
+title :  Transparent Photo Background
+appId :  com.desa.transparentphotobackground
+score :  4.4545455
+installs : 100,000+
+ratings :  1422
+reviews :  14
+
+title :  Gallery - photo gallery, album
+appId :  gallery.photomanager.picturegalleryapp.imagegallery
+score :  4.7231717
+installs : 10,000,000+
+ratings :  299273
+reviews :  8952
+
+title :  iGallery OS 16 - Photo Editor
+appId :  com.igallery.iphotos.collectiongallery
+score :  4
+installs : 1,000,000+
+ratings :  15085
+reviews :  150
+
+title :  Camera for iphone 14 Pro OS 16
+appId :  com.cameraforiphone.hdcamera
+score :  3.83
+installs : 5,000,000+
+ratings :  21635
+reviews :  210
+
+title :  Frame
+appId :  com.CheerUp.frame
+score :  3.95
+installs : 10,000,000+
+ratings :  29589
+reviews :  178
+
+title :  Family Photo Frame Maker
+appId :  com.photowork.familyphotoframemakere
+score :  4.111111
+installs : 50,000+
+ratings :  217
+reviews :  3
+
+title :  HD Camera Selfie Beauty Camera
+appId :  photo.selfie.beauty.candy.camera
+score :  4.211009
+installs : 10,000,000+
+ratings :  54572
+reviews :  331
+
+title :  Photo Editor Pro - PicEditor
+appId :  com.baiwang.piceditor
+score :  4.859712
+installs : 10,000,000+
+ratings :  164996
+reviews :  3974
+
+title :  HD Camera with Beauty Camera
+appId :  hd.camera.filter
+score :  4.6177473
+installs : 10,000,000+
+ratings :  74427
+reviews :  1130
+
+title :  Text Art - Add Text On Photo
+appId :  io.textonphoto.quotecreator.textart
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Collage Maker - Photo Editor
+appId :  com.wisdomlogix.photo.collage.maker.pic.grid.editor
+score :  4.214286
+installs : 100,000+
+ratings :  1300
+reviews :  2
+
+title :  PhotoScan by Google Photos
+appId :  com.google.android.apps.photos.scanner
+score :  4.208414
+installs : 50,000,000+
+ratings :  182625
+reviews :  5583
+
+title :  HDR Max - Photo Editor
+appId :  com.r22software.hdred
+score :  4.310559
+installs : 10,000,000+
+ratings :  43681
+reviews :  693
+
+title :  Photo frame, Photo collage
+appId :  com.lsla.photoframe
+score :  4.834123
+installs : 10,000,000+
+ratings :  139335
+reviews :  1079
+
+title :  Pencil Photo Sketch : Drawing
+appId :  com.hqgames.pencil.sketch.photo
+score :  4.661818
+installs : 50,000,000+
+ratings :  292604
+reviews :  6813
+
+title :  Marshmello Mask Photo Editor
+appId :  com.androappsltd.marshmelloeditor
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Nature Photo Editor - Collage
+appId :  naturephotoframe.naturephotoeditor
+score :  4.2181816
+installs : 10,000,000+
+ratings :  36923
+reviews :  18
+
+title :  Ultra Zoom Telescope HD Camera
+appId :  com.spiderapps.telescope
+score :  4.8039217
+installs : 1,000,000+
+ratings :  6742
+reviews :  432
+
+title :  Collage Maker - Selfie Camera
+appId :  photo.collage.maker.selfie.beautycamera
+score :  4.3287673
+installs : 1,000,000+
+ratings :  11943
+reviews :  24
+
+title :  Beauty Camera - Selfie Camera
+appId :  hd.filter.camera
+score :  4.223214
+installs : 10,000,000+
+ratings :  64426
+reviews :  406
+
+title :  Square Fit - Blur Photo Editor
+appId :  com.musicvideo.photoeditor.squarefit
+score :  4.7268906
+installs : 10,000,000+
+ratings :  115670
+reviews :  722
+
+title :  PhotoDirector: AI Photo Editor
+appId :  com.cyberlink.photodirector
+score :  4.3983536
+installs : 50,000,000+
+ratings :  928171
+reviews :  22179
+
+title :  Wild Animal Photo Frames
+appId :  com.appbites.wildanimalphotoframes
+score :  4.0588236
+installs : 10,000,000+
+ratings :  8301
+reviews :  6
+
+title :  Collage Maker - Photo Collage
+appId :  com.photopro.collagemaker
+score :  4.8686275
+installs : 10,000,000+
+ratings :  89256
+reviews :  975
+
+title :  Film Maker Pro - Movie Maker
+appId :  com.cerdillac.filmmaker
+score :  4.633173
+installs : 10,000,000+
+ratings :  563703
+reviews :  16919
+
+title :  Blur Image Background Editor
+appId :  com.prinext.image.blur
+score :  4.2658887
+installs : 10,000,000+
+ratings :  224118
+reviews :  2764
+
+title :  ProCam X - Lite :HD Camera Pro
+appId :  com.intermedia.hd.camera.professional
+score :  4.2777777
+installs : 10,000,000+
+ratings :  26598
+reviews :  504
+
+title :  Auto Background Changer
+appId :  com.visu.backgroundchanger.eraser
+score :  3.7857144
+installs : 100,000+
+ratings :  664
+reviews :  7
+
+title :  One S20 Camera, beauty selfie
+appId :  camera.one.s20.camera
+score :  4.32
+installs : 1,000,000+
+ratings :  12569
+reviews :  101
+
+title :  Preset & Filters For Lightroom
+appId :  com.sajjadit.freepreset
+score :  4.18
+installs : 1,000,000+
+ratings :  65935
+reviews :  322
+
+title :  Cinema FV-5 Lite
+appId :  com.flavionet.android.cinema.lite
+score :  3.8
+installs : 5,000,000+
+ratings :  35337
+reviews :  547
+
+title :  AI Enhancer-AI Photo Enhancer
+appId :  com.skyline.aiphotoenhancer
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Simple Gallery
+appId :  com.simplemobiletools.gallery
+score :  2.154018
+installs : 10,000,000+
+ratings :  301010
+reviews :  7628
+
+title :  Smart Gallery - Photo Manager
+appId :  com.eagle.gallery.photos.videos.album.hd.gallery.editor
+score :  4.4366198
+installs : 1,000,000+
+ratings :  39108
+reviews :  899
+
+title :  Photo Editor Pro Photo Effects
+appId :  com.baiwang.instabokeh
+score :  4.871767
+installs : 5,000,000+
+ratings :  83928
+reviews :  2034
+
+title :  Neon Effects Photo Editor
+appId :  net.arcticstudio.photo_editor_pro_neon
+score :  4.75
+installs : 50,000+
+ratings :  908
+reviews :  5
+
+title :  Music Show - Video Slideshow
+appId :  com.km.musicslideshow
+score :  4.34375
+installs : 100,000+
+ratings :  1109
+reviews :  4
+
+title :  PicCut - Photo Edit Easy
+appId :  com.ai.piccut
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  BeautyAI - Perfect Selfies Cam
+appId :  com.camera.galaxyx
+score :  4.254417
+installs : 10,000,000+
+ratings :  81039
+reviews :  1019
+
+title :  InstaSquare Photo Editor
+appId :  instasquare.photoeditor.effect.cutout
+score :  4.85
+installs : 1,000,000+
+ratings :  12129
+reviews :  107
+
+title :  Flower Photo Frames
+appId :  titan.flower.frames
+score :  4.29
+installs : 1,000,000+
+ratings :  4802
+reviews :  57
+
+title :  Square Pic: Photo Editor
+appId :  nocrop.photoeditor.squarepic
+score :  4.7163463
+installs : 5,000,000+
+ratings :  58230
+reviews :  543
+
+title :  Camera360 :Photo Editor&Selfie
+appId :  vStudio.Android.Camera360
+score :  4.412582
+installs : 100,000,000+
+ratings :  5055690
+reviews :  112903
+
+title :  Presets for Lightroom - FLTR
+appId :  com.feelty
+score :  4.620413
+installs : 10,000,000+
+ratings :  330436
+reviews :  770
+
+title :  Camera for Android - HD Camera
+appId :  photo.hd.camera.beauty.camera
+score :  4.5
+installs : 500,000+
+ratings :  4454
+reviews :  56
+
+title :  Square Fit-Blur Photo Editor
+appId :  photogrid.photocollagemaker.photoeditor.squarepic
+score :  4.8533335
+installs : 5,000,000+
+ratings :  73805
+reviews :  688
+
+title :  3DLUT mobile
+appId :  com.lutmobile.lut
+score :  3.9
+installs : 10,000,000+
+ratings :  26707
+reviews :  123
+

@@ -1,0 +1,1400 @@
+title :  Breaking News: Local & Alerts
+appId :  ma.safe.bn
+score :  4.502909
+installs : 10,000,000+
+ratings :  404693
+reviews :  3122
+
+title :  Twitter Lite
+appId :  com.twitter.android.lite
+score :  3.94
+installs : 10,000,000+
+ratings :  212768
+reviews :  188
+
+title :  ARY NEWS
+appId :  com.aryservices.arynews.en
+score :  3.6538463
+installs : 1,000,000+
+ratings :  10056
+reviews :  19
+
+title :  Geo News
+appId :  com.snr
+score :  3.8995073
+installs : 10,000,000+
+ratings :  55413
+reviews :  1881
+
+title :  Quora: the knowledge platform
+appId :  com.quora.android
+score :  4.645962
+installs : 10,000,000+
+ratings :  985002
+reviews :  26825
+
+title :  Urdu News
+appId :  com.bbc.urdu.news
+score :  4.25
+installs : 100,000+
+ratings :  1224
+reviews :  5
+
+title :  Google News - Daily Headlines
+appId :  com.google.android.apps.magazines
+score :  4.137179
+installs : 1,000,000,000+
+ratings :  1782088
+reviews :  54332
+
+title :  mjunoon.tv: Live News, Dramas
+appId :  com.convex.mjunoon.TV
+score :  3.8656716
+installs : 1,000,000+
+ratings :  5890
+reviews :  25
+
+title :  PTV Network
+appId :  com.viralandroid.slidingmenu
+score :  4.571429
+installs : 1,000,000+
+ratings :  3742
+reviews :  1
+
+title :  News 9
+appId :  com.griffincommunications.droid.news9
+score :  4.59375
+installs : 5,000,000+
+ratings :  25047
+reviews :  745
+
+title :  Urdu Calendar 2023 Islamic
+appId :  com.itechappsstudio.islamic.calendar.urdu.english.urducalendar2018
+score :  4.4
+installs : 1,000,000+
+ratings :  6558
+reviews :  8
+
+title :  PAK NEWS LIVE
+appId :  pk.threedteck.paknewslive
+score :  3.857143
+installs : 10,000+
+ratings :  165
+reviews :  2
+
+title :  ARY NEWS URDU
+appId :  com.aryservices.aryud
+score :  3.4666667
+installs : 1,000,000+
+ratings :  3003
+reviews :  10
+
+title :  Samaa News App
+appId :  com.vectracom.samaanews
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  BOL News
+appId :  com.bolnews
+score :  4.3333335
+installs : 100,000+
+ratings :  689
+reviews :  2
+
+title :  joomusic
+appId :  io.ionic.joomusic
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Times of India - TOI News App
+appId :  com.toi.reader.activities
+score :  3.9639902
+installs : 10,000,000+
+ratings :  594994
+reviews :  17206
+
+title :  ZEE 24 Taas: Marathi News Live
+appId :  com.zee24taas.news
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  92 News HD
+appId :  com.news92.live
+score :  4.0487804
+installs : 1,000,000+
+ratings :  3440
+reviews :  10
+
+title :  Medium
+appId :  com.medium.reader
+score :  4.6966095
+installs : 10,000,000+
+ratings :  287641
+reviews :  10835
+
+title :  UrduPoint.com
+appId :  com.urdupoint.mobile
+score :  4.2727275
+installs : 100,000+
+ratings :  2229
+reviews :  8
+
+title :  TNAOT - Khmer Content Platform
+appId :  com.tnaot.newspro
+score :  4.5365853
+installs : 1,000,000+
+ratings :  10882
+reviews :  14
+
+title :  Urdu News
+appId :  com.unews.urdu
+score :  4.2
+installs : 50,000+
+ratings :  554
+reviews :  1
+
+title :  FRANCE 24 - Live news 24/7
+appId :  com.france24.androidapp
+score :  3.9391305
+installs : 10,000,000+
+ratings :  71838
+reviews :  756
+
+title :  Aaj Tak Hindi News Live TV App
+appId :  in.AajTak.headlines
+score :  3.80226
+installs : 50,000,000+
+ratings :  276781
+reviews :  1427
+
+title :  franceinfo: actualités et info
+appId :  fr.francetv.apps.info
+score :  4.68
+installs : 1,000,000+
+ratings :  97135
+reviews :  119
+
+title :  Khabri – Local Pakistan News
+appId :  exp.khabri
+score :  4.285714
+installs : 10,000+
+ratings :  117
+reviews :  6
+
+title :  Flipboard: The Social Magazine
+appId :  flipboard.app
+score :  3.8983185
+installs : 500,000,000+
+ratings :  1426047
+reviews :  136083
+
+title :  DUNYA NEWS - DUNYA TV
+appId :  com.nationalcommunicationservices.dunyatv
+score :  3.6727273
+installs : 1,000,000+
+ratings :  12498
+reviews :  222
+
+title :  Roshan Pakistan   (Urdu versio
+appId :  pitc.com.smartptw.roshanpakistan
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Opera News Lite - Less Data, M
+appId :  com.opera.app.newslite
+score :  4.15
+installs : 10,000,000+
+ratings :  55935
+reviews :  233
+
+title :  14F
+appId :  kr.co.mbc.mbc14f
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  EBL Web
+appId :  br.com.netpoint.estanciabahia
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Loop: Read, Think & Write
+appId :  com.flutter.loopmedia
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  BBC News
+appId :  bbc.mobile.news.ww
+score :  4.342914
+installs : 10,000,000+
+ratings :  427581
+reviews :  30614
+
+title :  24 News HD Channel
+appId :  com.sprint.news
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Podcast Go
+appId :  sanity.podcast.freak
+score :  4.164512
+installs : 1,000,000+
+ratings :  61177
+reviews :  3101
+
+title :  Le Monde, Actualités en direct
+appId :  com.lemonde.androidapp
+score :  4.573276
+installs : 5,000,000+
+ratings :  114745
+reviews :  687
+
+title :  Al Jazeera
+appId :  com.aljazeera.mobile
+score :  4.7395577
+installs : 1,000,000+
+ratings :  28516
+reviews :  554
+
+title :  Opera News: breaking & local
+appId :  com.opera.app.news
+score :  4.5391207
+installs : 100,000,000+
+ratings :  466198
+reviews :  7446
+
+title :  Express News TV
+appId :  com.liveexpressnews
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Magazine Lockscreen XOS
+appId :  com.transsion.magazineservice.xos
+score :  4.4
+installs : 10,000,000+
+ratings :  845
+reviews :  2
+
+title :  Daily Express Urdu Newspaper
+appId :  com.wasiullah.dailyexpress1
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  日経クロストレンド マーケティング・経済のニュース アプリ
+appId :  jp.co.nikkeibp.trend.online.android
+score :  4.4
+installs : 100,000+
+ratings :  150
+reviews :  1
+
+title :  Pakistani Newspapers / Pakista
+appId :  com.pakistanurdunews.newsindia
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Pakistan News All
+appId :  pakistan.news9
+score :  4.111111
+installs : 50,000+
+ratings :  297
+reviews :  1
+
+title :  Manorama Online News & Videos
+appId :  com.online.AndroidManorama
+score :  2.8626761
+installs : 1,000,000+
+ratings :  50907
+reviews :  513
+
+title :  Microsoft Start: News & more
+appId :  com.microsoft.amp.apps.bingnews
+score :  4.2794695
+installs : 5,000,000+
+ratings :  199766
+reviews :  11033
+
+title :  Magazine Lockscreen HiOS
+appId :  com.transsion.magazineservice.hios
+score :  5
+installs : 10,000,000+
+ratings :  315
+reviews :  0
+
+title :  Jobs Bazaar | Daily Job Alert
+appId :  jobsbazaar.pk
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  بی بی سی اردو - BBC Urdu News
+appId :  com.itmyti.bbcurdu
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Pak commodities
+appId :  my.app.pakcommodity
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Podcast Player
+appId :  com.podcast.podcasts
+score :  4.5869493
+installs : 10,000,000+
+ratings :  241947
+reviews :  31415
+
+title :  Urdu News: Daily Pakistan News
+appId :  com.flip.dailypakistan
+score :  4.11
+installs : 100,000+
+ratings :  2684
+reviews :  39
+
+title :  PhoneBunch - All About Phones
+appId :  com.phonebunch
+score :  4.121212
+installs : 50,000+
+ratings :  764
+reviews :  11
+
+title :  Dawn - Official News App
+appId :  com.eyriscraft.dawn
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  CNN Breaking US & World News
+appId :  com.cnn.mobile.android.phone
+score :  4.656364
+installs : 50,000,000+
+ratings :  576561
+reviews :  107280
+
+title :  POEX NEWS -  VIRAL VIDEOS
+appId :  com.poexvideomedia.app
+score :  4.5555553
+installs : 50,000+
+ratings :  215
+reviews :  1
+
+title :  Urdu Khbrain تازہ اردو خبریں
+appId :  com.reacttive.urdunews
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  The New York Times
+appId :  com.nytimes.android
+score :  4.3269625
+installs : 10,000,000+
+ratings :  133682
+reviews :  18433
+
+title :  KTN NEWS
+appId :  standardmedia.co.ke.ktn_news
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Dagbladet
+appId :  no.db.app
+score :  4
+installs : 100,000+
+ratings :  3468
+reviews :  3
+
+title :  GSMArena
+appId :  com.gsmarena.android
+score :  4.43
+installs : 500,000+
+ratings :  8309
+reviews :  143
+
+title :  JobsAlert Pakistan–Search jobs
+appId :  com.jobs.alert.pakistan.app
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Jang Newspaper
+appId :  com.snr.jang.pk
+score :  4
+installs : 100,000+
+ratings :  2942
+reviews :  152
+
+title :  Khyber News
+appId :  com.avtchannels.KhyberNewsTV
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Insider - Business News & More
+appId :  com.freerange360.mpp.businessinsider
+score :  3.4922097
+installs : 1,000,000+
+ratings :  38967
+reviews :  3950
+
+title :  Pakistan Jobs - Jobs.com.pk
+appId :  ninja.wpapp.paperjobscom
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Opinions, Articles, Authors
+appId :  com.qoshe
+score :  4.4166665
+installs : 100,000+
+ratings :  3710
+reviews :  14
+
+title :  Economic Times : Business News
+appId :  com.et.reader.activities
+score :  4.5081735
+installs : 10,000,000+
+ratings :  256802
+reviews :  2812
+
+title :  Economist
+appId :  com.economist.lamarr
+score :  4.7452087
+installs : 1,000,000+
+ratings :  64295
+reviews :  1282
+
+title :  CBC News
+appId :  ca.cbc.mobile.android.cbcnewsandroidwebview
+score :  4.617577
+installs : 1,000,000+
+ratings :  74213
+reviews :  1608
+
+title :  The ePresse kiosk
+appId :  fr.epresse.android
+score :  3.125
+installs : 1,000,000+
+ratings :  4045
+reviews :  6
+
+title :  Urdu News 2023 - اردو خبریں
+appId :  com.pakdata.urdunewsplus
+score :  3.9761906
+installs : 100,000+
+ratings :  3831
+reviews :  2
+
+title :  KP Government
+appId :  pk.gov.kpdata.dgipr.newsapp
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  GNN HD
+appId :  com.news.gnn
+score :  4.8333335
+installs : 100,000+
+ratings :  610
+reviews :  5
+
+title :  Geo News Urdu
+appId :  com.imm.android.geourdu
+score :  4.0857143
+installs : 1,000,000+
+ratings :  2455
+reviews :  9
+
+title :  Foreign Affairs Magazine
+appId :  com.foreignaffairs.magazine
+score :  4.83
+installs : 100,000+
+ratings :  1463
+reviews :  70
+
+title :  English News Paper Pakistan / 
+appId :  com.pakistannewspaperenglish.newsindia
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Al Jazeera English
+appId :  net.aljazeera.english
+score :  4.0246577
+installs : 5,000,000+
+ratings :  35296
+reviews :  2930
+
+title :  Financial Times
+appId :  com.ft.news
+score :  4.5636363
+installs : 1,000,000+
+ratings :  43858
+reviews :  2312
+
+title :  Pashto News - د پښتو خبرونه
+appId :  com.pakdata.pashtonews
+score :  4.571429
+installs : 10,000+
+ratings :  334
+reviews :  1
+
+title :  PC Games
+appId :  de.computec.cdp
+score :  2.871795
+installs : 100,000+
+ratings :  1518
+reviews :  35
+
+title :  Daily Jobs in Pakistan
+appId :  com.suman.dailyjob
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  PAK NEWS - 24/7
+appId :  pk.paknews.paknews24
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Rome Reports Premium
+appId :  com.romereportsespanol
+score :  4.25
+installs : 10,000+
+ratings :  235
+reviews :  10
+
+title :  Dunya News For Android Tv
+appId :  com.dunyatvnews.androidtv
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Vote for Pakistan Election2023
+appId :  pakvote.com.pv
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Bloomberg: Finance Market News
+appId :  com.bloomberg.android.plus
+score :  3.7559755
+installs : 10,000,000+
+ratings :  77642
+reviews :  5969
+
+title :  Tech News
+appId :  it.pinenuts.technews
+score :  4.07563
+installs : 500,000+
+ratings :  7032
+reviews :  429
+
+title :  Zee News: Live News in Hindi
+appId :  com.zeenews.hindinews
+score :  4.56
+installs : 10,000,000+
+ratings :  83543
+reviews :  162
+
+title :  Editorji - Latest Video news
+appId :  com.app.editorji
+score :  4.352941
+installs : 1,000,000+
+ratings :  3560
+reviews :  4
+
+title :  Dailyhunt: Xpresso News Videos
+appId :  com.eterno
+score :  4.297105
+installs : 100,000,000+
+ratings :  2228302
+reviews :  18985
+
+title :  Sindhi News Papers
+appId :  com.sindhinews
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ritmu al kuwait
+appId :  tv.alkuwait
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Pocket: Save. Read. Grow.
+appId :  com.ideashower.readitlater.pro
+score :  4.6435037
+installs : 10,000,000+
+ratings :  308970
+reviews :  23500
+
+title :  Punjab Land Records (Online Ja
+appId :  com.dj.punjabland
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Pakistan News / Pakistani News
+appId :  com.pakistannews.newsindia
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Inshorts - News in 60 words
+appId :  com.nis.app
+score :  4.3263783
+installs : 10,000,000+
+ratings :  561853
+reviews :  1871
+
+title :  IshaatulHadith: Zubair Alizai
+appId :  com.ishaatulhadith
+score :  5
+installs : 10,000+
+ratings :  1207
+reviews :  6
+
+title :  Hindi News Live TV - Live News
+appId :  com.brogrammer.hindinewslive
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Local News - Latest & Smart
+appId :  com.local.news.plus
+score :  4.3650517
+installs : 5,000,000+
+ratings :  16704
+reviews :  2525
+
+title :  USA - World Newspapers
+appId :  y.h.y.newspapers
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  CGTN – China Global TV Network
+appId :  com.imib.cctv
+score :  4.479452
+installs : 10,000,000+
+ratings :  21681
+reviews :  368
+
+title :  Hindi News Live TV - Live News
+appId :  com.livehindinewstvapp
+score :  4.142857
+installs : 500,000+
+ratings :  10631
+reviews :  4
+
+title :  New Jobs in Pakistan 2023
+appId :  com.nextupapps.newjobsinpunjab
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  DD Free Dish
+appId :  com.ddfree.dish
+score :  4
+installs : 500,000+
+ratings :  917
+reviews :  2
+
+title :  Pakistan News App - Qaasid
+appId :  com.appsfornexus.qaasidnews
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Times Now Live News LiveTV App
+appId :  com.timesnowmobile.TimesNow
+score :  2.15
+installs : 1,000,000+
+ratings :  21105
+reviews :  118
+
+title :  Mint - Business & Market News
+appId :  com.htmedia.mint
+score :  4.49
+installs : 5,000,000+
+ratings :  36536
+reviews :  116
+
+title :  USA TODAY
+appId :  com.usatoday.android.news
+score :  3.7809904
+installs : 5,000,000+
+ratings :  57924
+reviews :  14812
+
+title :  Lahore News HD TV
+appId :  lahorenews.tv
+score :  3.9166667
+installs : 100,000+
+ratings :  1102
+reviews :  7
+
+title :  Jobs In Saudi Arabia
+appId :  com.allinone.jobs.saudiarabia
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  VOA News
+appId :  gov.bbg.voa
+score :  4.0677967
+installs : 1,000,000+
+ratings :  25777
+reviews :  1132
+
+title :  PTI Updates
+appId :  com.imran.khan.pti
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  The Guardian - News & Sport
+appId :  com.guardian
+score :  4.7551613
+installs : 5,000,000+
+ratings :  397140
+reviews :  20242
+
+title :  Ubqari
+appId :  com.ubqari
+score :  5
+installs : 100,000+
+ratings :  2533
+reviews :  6
+
+title :  Friendly For Twitter
+appId :  io.friendly.twitter
+score :  3.1875
+installs : 100,000+
+ratings :  6027
+reviews :  508
+
+title :  Cointelegraph: Crypto News
+appId :  cointelegraph.com
+score :  4.24
+installs : 100,000+
+ratings :  1467
+reviews :  67
+
+title :  Fox News - Daily Breaking News
+appId :  com.foxnews.android
+score :  2.5913777
+installs : 10,000,000+
+ratings :  288264
+reviews :  91625
+
+title :  Ps2 64bit Plugins arm64
+appId :  com.kunpo88.baba2.tay
+score :  3.96875
+installs : 100,000+
+ratings :  431
+reviews :  11
+
+title :  Khaleej Times
+appId :  com.khaleejtimes
+score :  4.41
+installs : 100,000+
+ratings :  12622
+reviews :  72
+
+title :  eChallan Status - Punjab Safe 
+appId :  com.tregix.echallan
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Scooper News: Trending& Viral
+appId :  com.hatsune.eagleee
+score :  4.49
+installs : 10,000,000+
+ratings :  91985
+reviews :  334
+
+title :  The Epoch Times: Breaking News
+appId :  com.theepochtimes.news
+score :  4.6995173
+installs : 1,000,000+
+ratings :  77723
+reviews :  13386
+
+title :  Voice News : Local News App
+appId :  com.voice.voicenews
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  ABP LIVE Official App
+appId :  com.winit.starnews.hin
+score :  3.3951614
+installs : 10,000,000+
+ratings :  205567
+reviews :  2211
+
+title :  KL.lt
+appId :  lt.diena.klaipeda
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  BBC World Service
+appId :  com.audionowdigital.player.bbcworld
+score :  4.5194807
+installs : 1,000,000+
+ratings :  15338
+reviews :  926
+
+title :  Earthquake Alarm
+appId :  com.tarkarn.earthquake
+score :  3.7391305
+installs : 50,000+
+ratings :  126
+reviews :  5
+
+title :  All English Newspapers Daily -
+appId :  onanmobilesoftware.newspaper
+score :  4.3
+installs : 100,000+
+ratings :  2688
+reviews :  4
+
+title :  dailyjobs.pk - Job Search App
+appId :  pk.dailypak.govtjobs
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Mashaal Radio
+appId :  org.rferl.pk
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  HACK for Hacker News Tech
+appId :  com.pranapps.hack
+score :  4.66
+installs : 50,000+
+ratings :  328
+reviews :  8
+
+title :  News18 Live tv & Breaking News
+appId :  com.divum.ibn
+score :  3.1216216
+installs : 5,000,000+
+ratings :  22550
+reviews :  569
+
+title :  PAK DAILY NEWS URDU
+appId :  com.blackcat.pkdailynews
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Khadim Hussain Rizvi Wallpaper
+appId :  com.khadimhussainrizvi.wkhadimwhussainw
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Neo TV
+appId :  com.publishrr.neotv
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Roznama Dunya Newspaper
+appId :  dunya.com.pk
+score :  4.3448277
+installs : 100,000+
+ratings :  1139
+reviews :  3
+
+title :  India All Live News Tv Channel
+appId :  com.ramanujjay.newstvapp
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Hindi News Live TV Channels
+appId :  com.Hindi_News_Live_TV.Aaj_Tak_News_Live.Hindi_News_TV_Channel.Republic_Bharat.CNBC_Awaaz_live.India_TV_live
+score :  4.0416665
+installs : 100,000+
+ratings :  8807
+reviews :  0
+
+title :  HUM NEWS
+appId :  pk.humnews.navapp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Urdu News
+appId :  com.shabab.urdunews
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Beloud: Local News & Opinions
+appId :  com.beloud
+score :  4.3398056
+installs : 100,000+
+ratings :  1192
+reviews :  14
+
+title :  Haystack News: Local TV News
+appId :  com.haystack.android
+score :  4.35518
+installs : 1,000,000+
+ratings :  7851
+reviews :  2106
+
+title :  Gusto Payroll Login
+appId :  com.appdroid.gusto_payroll_login
+score :  4.2
+installs : 100+
+ratings :  5
+reviews :  2
+
+title :  Foreign Policy
+appId :  com.foreignpolicy.android
+score :  4.35
+installs : 10,000+
+ratings :  250
+reviews :  33
+
+title :  ZINIO Unlimited
+appId :  com.zinio.mobile.android.zu
+score :  4.326923
+installs : 5,000+
+ratings :  96
+reviews :  16
+
+title :  Jang Akhbars
+appId :  com.wasiullah.DailyJang
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Zee News Live TV, Latest News
+appId :  com.zeenews.tv
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Al Arabiya - العربية
+appId :  net.alarabiya.android.bo.activity
+score :  3.532258
+installs : 1,000,000+
+ratings :  17160
+reviews :  358
+
+title :  Saudi TV-Saudi Channels
+appId :  com.sauditv.aicha11
+score :  4.625
+installs : 50,000+
+ratings :  689
+reviews :  3
+
+title :  نبض Nabd - اخبار العالم ، عاجل
+appId :  com.waveline.nabd
+score :  4.4997373
+installs : 10,000,000+
+ratings :  741502
+reviews :  5021
+
+title :  Urdu News Live اردو خبریں
+appId :  com.news.urdu.live.dt
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Science News, Every Daily News
+appId :  com.relevanpress.atomo
+score :  4.8
+installs : 10,000+
+ratings :  485
+reviews :  27
+
+title :  Pocket Casts - Podcast Player
+appId :  au.com.shiftyjelly.pocketcasts
+score :  3.9971654
+installs : 1,000,000+
+ratings :  72756
+reviews :  16846
+
+title :  News on Android™
+appId :  it.pinenuts.androidnoticias
+score :  4.358871
+installs : 100,000+
+ratings :  9818
+reviews :  1267
+
+title :  Sky News: Breaking, UK & World
+appId :  com.bskyb.skynews.android
+score :  4.466981
+installs : 5,000,000+
+ratings :  54074
+reviews :  784
+
+title :  Urdu Point
+appId :  com.news.urdu_point
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Suno Tv HD
+appId :  com.bwc.sunotv
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Urdu Columns
+appId :  com.wazeem.urducolumns
+score :  4.2
+installs : 10,000+
+ratings :  657
+reviews :  2
+
+title :  The Wall Street Journal.
+appId :  wsj.reader_sp
+score :  4.3888345
+installs : 1,000,000+
+ratings :  78176
+reviews :  19478
+
+title :  PakLive
+appId :  pk.noclient.paklive
+score :  3.7272727
+installs : 10,000+
+ratings :  124
+reviews :  4
+
+title :  The Express Tribune
+appId :  com.expressdigital.tribune
+score :  3.7435896
+installs : 100,000+
+ratings :  2827
+reviews :  15
+
+title :  Express News Pakistan
+appId :  com.expressdigital.expressnews
+score :  4.5925927
+installs : 500,000+
+ratings :  1704
+reviews :  11
+
+title :  BBC History Magazine
+appId :  com.immediatemedia.bbchistorymag
+score :  2.925926
+installs : 50,000+
+ratings :  278
+reviews :  17
+
+title :  Dunya News USA
+appId :  tv.dunyanews.usa
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  ABC News: Stream Breaking News
+appId :  com.abc.abcnews
+score :  3.6857872
+installs : 5,000,000+
+ratings :  24364
+reviews :  5743
+
+title :  OTV-Odisha TV
+appId :  com.news.odisha_tv
+score :  4.2941175
+installs : 1,000,000+
+ratings :  7007
+reviews :  3
+
+title :  DW - Breaking World News
+appId :  com.idmedia.android.newsportal
+score :  3.8742857
+installs : 1,000,000+
+ratings :  24252
+reviews :  565
+
+title :  Hamariweb : Urdu News | Live T
+appId :  com.hamariweb.android.newsntv
+score :  4.285714
+installs : 100,000+
+ratings :  1191
+reviews :  7
+
+title :  ProPakistani
+appId :  com.propakistani
+score :  3.2
+installs : 50,000+
+ratings :  409
+reviews :  3
+
+title :  الحدث - Al Hadath
+appId :  net.alarabiya.android.alhadath
+score :  4.17
+installs : 1,000,000+
+ratings :  13385
+reviews :  117
+
+title :  World News: Breaking News App
+appId :  com.world.news.alap
+score :  4.25
+installs : 100,000+
+ratings :  712
+reviews :  53
+
+title :  Daily Mashriq Newspaper Pesh
+appId :  com.wasiullah.newspaper1
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Jadu ka Tor - Quran se ilaj
+appId :  com.itechappsstudio.jadookailaj
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Washington Post
+appId :  com.washingtonpost.android
+score :  4.3849206
+installs : 1,000,000+
+ratings :  84578
+reviews :  22122
+
+title :  Samaa News TV
+appId :  com.livesamaanews
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Send To Kindle
+appId :  com.luciosoft.sendtokindle
+score :  3.68
+installs : 100,000+
+ratings :  2581
+reviews :  141
+
+title :  TRT World
+appId :  com.trtworld.android
+score :  4.3913045
+installs : 100,000+
+ratings :  1284
+reviews :  19
+
+title :  Discovery Channel Magazine
+appId :  com.magzter.discoverychannelmagazineindia
+score :  4.25
+installs : 1,000,000+
+ratings :  3449
+reviews :  50
+
+title :  SmartNews: Local Breaking News
+appId :  jp.gocro.smartnews.android
+score :  4.026718
+installs : 50,000,000+
+ratings :  642659
+reviews :  109199
+
+title :  Urdu 24 News HD
+appId :  com.urdu24newshd
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Pakistan News
+appId :  app.pakistan.news
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Bloomberg
+appId :  com.bloomberg.btva
+score :  2.925926
+installs : 500,000+
+ratings :  99
+reviews :  13
+
+title :  Reuters News
+appId :  com.thomsonreuters.reuters
+score :  2.8429751
+installs : 1,000,000+
+ratings :  19340
+reviews :  1939
+
+title :  Feedly - Smarter News Reader
+appId :  com.devhd.feedly
+score :  4.1313305
+installs : 5,000,000+
+ratings :  311078
+reviews :  36666
+
+title :  Atualização Rebaixados Elite B
+appId :  reb.att
+score :  5
+installs : 100,000+
+ratings :  212
+reviews :  1
+
+title :  South Asia Index
+appId :  com.appia.southasiaindex
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Live Urdu News
+appId :  com.gsoft.urdushort
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Earthquake Alert!
+appId :  com.joshclemm.android.quake
+score :  4.5708036
+installs : 1,000,000+
+ratings :  45522
+reviews :  7721
+
+title :  Instapaper
+appId :  com.instapaper.android
+score :  4.665441
+installs : 500,000+
+ratings :  9897
+reviews :  759
+
+title :  Battery health 2023
+appId :  com.golstonapp.ultracharging
+score :  4.581818
+installs : 100,000+
+ratings :  3304
+reviews :  23
+
+title :  Shahrukh Khan Wallpaperz
+appId :  com.shahrukhkhan.wshahrukhwkhanw
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  NBC News: Breaking News & Live
+appId :  com.zumobi.msnbc
+score :  4.167625
+installs : 5,000,000+
+ratings :  85027
+reviews :  21879
+
+title :  WION News - World News Live
+appId :  esselgroup.zeemedia.wionews
+score :  4.5929203
+installs : 500,000+
+ratings :  35505
+reviews :  920
+
+title :  PTI News Alert
+appId :  com.metaverseplanner.pti_news_alert
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  phoenix
+appId :  de.phoenix.app
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  The New Yorker
+appId :  com.condenast.thenewyorker.android
+score :  3.39
+installs : 100,000+
+ratings :  654
+reviews :  194
+
+title :  92 News Show Time
+appId :  com.talkshows.news92.vod
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+

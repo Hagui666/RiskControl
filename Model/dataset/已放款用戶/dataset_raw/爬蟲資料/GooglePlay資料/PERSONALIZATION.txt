@@ -1,0 +1,1400 @@
+title :  Background Wallpaper
+appId :  com.ctsbackground.wallpaper
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  KTM 1290 Super Duke Wallpapers
+appId :  com.car_wallpapers_collection.KTM_1290_Super_Duke_R_Wallpapers
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Photo Lock App - Hide Pictures
+appId :  vault.gallery.lock
+score :  4.246563
+installs : 50,000,000+
+ratings :  503345
+reviews :  3148
+
+title :  Fingerprint Live Animation
+appId :  app.lock.fingerprint.animation.live
+score :  4.42
+installs : 500,000+
+ratings :  8006
+reviews :  16
+
+title :  Photo Collage Maker & Editor
+appId :  photocollage.photomaker.piccollage6
+score :  4.633333
+installs : 5,000,000+
+ratings :  61272
+reviews :  180
+
+title :  Daily Screen Wallpapers
+appId :  com.wallscreen.wandroidrctscr.wallpaper.daily
+score :  3.14
+installs : 500,000+
+ratings :  788
+reviews :  44
+
+title :  Door Screen Lock
+appId :  com.screenappslock.doorscreenlock
+score :  4.1
+installs : 500,000+
+ratings :  15841
+reviews :  13
+
+title :  ZEDGE™ Wallpapers & Ringtones
+appId :  net.zedge.android
+score :  4.6384206
+installs : 500,000,000+
+ratings :  12665765
+reviews :  924666
+
+title :  Suzuki GSX650F Wallpapers
+appId :  com.car_wallpapers_collection.Suzuki_GSX650F_Bike_Wallpapers
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Fake Video Call, Prank Call
+appId :  com.leolegaltechapps.edgelightinglighting
+score :  4.31
+installs : 5,000,000+
+ratings :  13383
+reviews :  127
+
+title :  Cleanup Your Phone
+appId :  phone.speedup.cleanup
+score :  4.5109034
+installs : 10,000,000+
+ratings :  110448
+reviews :  598
+
+title :  Velociraptor
+appId :  com.velociraptor.claw.swift
+score :  4.681818
+installs : 1,000,000+
+ratings :  2295
+reviews :  2
+
+title :  Snowman Sled
+appId :  com.snowman.sled.running
+score :  3.9310346
+installs : 1,000,000+
+ratings :  1708
+reviews :  5
+
+title :  Bird Wallpaper HD
+appId :  com.HdWallpaper.BirdWalppaper
+score :  4.5454545
+installs : 500,000+
+ratings :  1144
+reviews :  12
+
+title :  Launcher for iOS 16 Style
+appId :  com.system.launcher.ios14
+score :  4.67
+installs : 1,000,000+
+ratings :  9774
+reviews :  103
+
+title :  Broken screen wallpaper HD
+appId :  com.HdWallpaper.broken.cracked.dcreen.wallpaper
+score :  4
+installs : 500,000+
+ratings :  1023
+reviews :  8
+
+title :  Photo Keyboard Themes
+appId :  mrctotrsev.trsev.trsevnewkeyboardthemes
+score :  4.347826
+installs : 500,000+
+ratings :  1283
+reviews :  7
+
+title :  Pika! Charging show
+appId :  com.qlsmobile.chargingshow
+score :  3.88
+installs : 10,000,000+
+ratings :  34152
+reviews :  275
+
+title :  Animals: Ringtones
+appId :  com.dream_studio.animalringtones
+score :  4.731512
+installs : 50,000,000+
+ratings :  262081
+reviews :  8906
+
+title :  Wallpaper 4K, HD – Wallcraft
+appId :  com.wallpaperscraft.wallpaper
+score :  4.380058
+installs : 100,000,000+
+ratings :  632237
+reviews :  8219
+
+title :  iphone wallpaper 4k
+appId :  com.wallpaper.iphonewallpaper
+score :  4.148148
+installs : 100,000+
+ratings :  1210
+reviews :  8
+
+title :  Amazing Water Live Wallpaper
+appId :  com.wallpaper.sam.tim997.S10
+score :  3.9
+installs : 1,000,000+
+ratings :  11976
+reviews :  37
+
+title :  Pixel 4D™ Live Wallpapers
+appId :  helectronsoft.com.live.wallpaper.pixel4d
+score :  4.5824356
+installs : 50,000,000+
+ratings :  987291
+reviews :  10951
+
+title :  Launcher iOS 16
+appId :  com.ioslauncher.launcherios
+score :  4.666189
+installs : 10,000,000+
+ratings :  290475
+reviews :  2444
+
+title :  Eid Mubarak GIF
+appId :  com.sensetter.eidmubarakgif
+score :  4.6153846
+installs : 50,000+
+ratings :  512
+reviews :  5
+
+title :  Gallery
+appId :  com.photo.gallery.photo.albums
+score :  4.318644
+installs : 5,000,000+
+ratings :  50521
+reviews :  10953
+
+title :  HD Wallpapers (Backgrounds)
+appId :  info.androidstation.hdwallpaper
+score :  4.608527
+installs : 10,000,000+
+ratings :  105203
+reviews :  1852
+
+title :  Touch Lock Screen - Touch Phot
+appId :  com.touch.lock.screen.password.security
+score :  4
+installs : 5,000,000+
+ratings :  9477
+reviews :  31
+
+title :  Edge Lighting - Borderlight
+appId :  com.pixelkraft.edgelighting
+score :  4.528002
+installs : 10,000,000+
+ratings :  548401
+reviews :  7939
+
+title :  Stylish Fonts Keyboard
+appId :  com.monotype.android.font.simprosys.stylishfonts
+score :  3.8968701
+installs : 10,000,000+
+ratings :  325310
+reviews :  5576
+
+title :  Fonts Keyboard
+appId :  com.fontskeyboard.fonts
+score :  4.175827
+installs : 100,000,000+
+ratings :  1248654
+reviews :  15968
+
+title :  Emoji Lock Screen
+appId :  com.applock.vibes.emojii.pattern.lock.screen
+score :  4.4347825
+installs : 100,000+
+ratings :  1603
+reviews :  6
+
+title :  Heart Zipper Screen Lock
+appId :  com.heart.bestzippers.lockscreen.zipperlock.gold.zipper.lovelock.screenlock
+score :  4.6923075
+installs : 100,000+
+ratings :  1628
+reviews :  3
+
+title :  Fonts Keyboard & Emoji No ROOT
+appId :  fonts.keyboard.fontboard.stylish
+score :  4.694737
+installs : 10,000,000+
+ratings :  108319
+reviews :  1092
+
+title :  Photo Filter - Editor Pro
+appId :  md.twentyslowmusichard.countthreenew
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Launcher xPhone
+appId :  com.xos.iphonex.iphone.applelauncher
+score :  4.6241546
+installs : 10,000,000+
+ratings :  295120
+reviews :  4379
+
+title :  10000 Nature Wallpapers
+appId :  com.ancientdevelopers.naturewallpaperz
+score :  4.7002926
+installs : 10,000,000+
+ratings :  74162
+reviews :  2888
+
+title :  Nickname Fire: Nickfinder App
+appId :  com.happyverse.nicknameforgamers
+score :  4.7048345
+installs : 10,000,000+
+ratings :  282084
+reviews :  1985
+
+title :  Wallpapers
+appId :  info.androidstation.qhdwallpaper
+score :  4.6161137
+installs : 10,000,000+
+ratings :  75021
+reviews :  1538
+
+title :  Best Wallpaper HD - Offline
+appId :  com.hdwallpapers.hdbackgrounds.offlinewallpaper.awesomepictures
+score :  4.4117646
+installs : 100,000+
+ratings :  917
+reviews :  16
+
+title :  Photo Filter - Pro Effects
+appId :  pt.affections.displaytwo
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Love Stickers for WhatsApp
+appId :  com.kirito.app.wasticker.love
+score :  5
+installs : 100,000+
+ratings :  519
+reviews :  7
+
+title :  Gold lock screen
+appId :  com.bestzippers.gold.lockscreen.zipper
+score :  4.068441
+installs : 10,000,000+
+ratings :  325139
+reviews :  326
+
+title :  Girly M Wallpaper
+appId :  com.girly.m.wallpaper.high.definition.apps
+score :  4.8421054
+installs : 500,000+
+ratings :  1744
+reviews :  7
+
+title :  Yamaha MT15 Wallpapers
+appId :  com.car_wallpapers_collection.Yamaha_MT15_Bike_Wallpapers
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  TIMEFLIK Watch Face
+appId :  com.apposter.watchmaker
+score :  4.269159
+installs : 5,000,000+
+ratings :  52740
+reviews :  2185
+
+title :  Fish Live Wallpaper Aquarium
+appId :  com.dg.fish.simulator.wallpapers.koipond.freeapp
+score :  4.2178216
+installs : 10,000,000+
+ratings :  40952
+reviews :  246
+
+title :  Water drops live wallpaper
+appId :  waterdrops.live.wallpaperHD
+score :  4.4098363
+installs : 5,000,000+
+ratings :  21137
+reviews :  489
+
+title :  Themes
+appId :  com.thegosa.miuithemes
+score :  3.6698112
+installs : 10,000,000+
+ratings :  76794
+reviews :  372
+
+title :  Water Garden Live Wallpaper
+appId :  com.ist.lwp.koipond
+score :  4.579392
+installs : 10,000,000+
+ratings :  164352
+reviews :  3051
+
+title :  LED Keyboard: Emoji, Fonts
+appId :  com.flashkeyboard.leds
+score :  4.644308
+installs : 50,000,000+
+ratings :  500587
+reviews :  10769
+
+title :  Urdu sticker for Whatsapp
+appId :  com.urdustickers.funnystickers.urdustickersforwhatsapp
+score :  4.8333335
+installs : 100,000+
+ratings :  456
+reviews :  4
+
+title :  Animated Sticker Maker for WA
+appId :  com.nut.id.sticker
+score :  4.411683
+installs : 10,000,000+
+ratings :  302610
+reviews :  1146
+
+title :  Amazing Water Live Wallpaper
+appId :  com.wallpaper.sam.tim997.mi10
+score :  4.1408453
+installs : 500,000+
+ratings :  5310
+reviews :  15
+
+title :  Cool Chat Styler for Whatsapp
+appId :  com.cooltechngt.stylishchat
+score :  4.5
+installs : 100,000+
+ratings :  2157
+reviews :  10
+
+title :  Fake Video Call, Prank Call
+appId :  com.edgelighting.videocall.colorcall.messangers
+score :  5
+installs : 50,000+
+ratings :  155
+reviews :  6
+
+title :  Photo Room - Background Editor
+appId :  pt.fortyenhancer.twofilters
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Sexy Girls in Bikini Photos
+appId :  com.clupartioj.girlsinbikini
+score :  4.5625
+installs : 10,000+
+ratings :  262
+reviews :  3
+
+title :  Ultra Junk Cleaner
+appId :  ujc.junkcleaner.app
+score :  4.290718
+installs : 50,000,000+
+ratings :  346645
+reviews :  1302
+
+title :  Multi Space
+appId :  com.dualspace.multispace.android
+score :  4.4594593
+installs : 10,000,000+
+ratings :  165486
+reviews :  480
+
+title :  GIF2Sticker Animated Stickers
+appId :  es.transfinite.gif2sticker
+score :  4.58
+installs : 5,000,000+
+ratings :  21746
+reviews :  164
+
+title :  WASticker: Love Emoji Stickers
+appId :  com.wastickerapps.loveemoji
+score :  4.84
+installs : 100,000+
+ratings :  751
+reviews :  6
+
+title :  Super Browser - Mini Browser
+appId :  com.socialmediaapps.samchoiceapps
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Parallel Space - Multiple acco
+appId :  com.lbe.parallel.intl
+score :  4.2436323
+installs : 100,000,000+
+ratings :  5036036
+reviews :  34721
+
+title :  Revolver Fire Lock Screen 2023
+appId :  gunshooting.screenlock.sggroups
+score :  4.909091
+installs : 100,000+
+ratings :  546
+reviews :  4
+
+title :  BTS Wallpapers 2022 - HD 2K 4K
+appId :  jp.funkostudio.BTSwallpaper
+score :  4.7777777
+installs : 100,000+
+ratings :  931
+reviews :  5
+
+title :  4K Wallpaper & Live Background
+appId :  com.kiva.apps.wallpapers
+score :  4.47
+installs : 100,000+
+ratings :  1542
+reviews :  28
+
+title :  Easy English Voice Keyboard
+appId :  com.easyenglishkeyboard.speechtotextconverter.voicetyping.englishspeakingapp
+score :  4.1666665
+installs : 500,000+
+ratings :  1213
+reviews :  4
+
+title :  Fire Lion Wallpaper + Keyboard
+appId :  fire.wallpaper.live.keyboard.fire.lion
+score :  4.85
+installs : 1,000,000+
+ratings :  7928
+reviews :  99
+
+title :  Neon LED Keyboard: RGB & Emoji
+appId :  com.cutestudio.neonledkeyboard
+score :  4.704494
+installs : 50,000,000+
+ratings :  594651
+reviews :  10500
+
+title :  Color Phone - Nice Call Screen
+appId :  com.callscreen.colorphone.calltheme.callscreener.callerscreenapp
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Stylish Text- Letter Style Art
+appId :  com.happyverse.stylishtext
+score :  4.42
+installs : 1,000,000+
+ratings :  36706
+reviews :  232
+
+title :  Front Fingerprint Lock Monitor
+appId :  com.frontfingerprint.fingerprintlockscreen
+score :  4.6666665
+installs : 10,000+
+ratings :  433
+reviews :  5
+
+title :  Anime World Wallpapers
+appId :  com.neonstudio.anime.world.wallpapers
+score :  4.728155
+installs : 1,000,000+
+ratings :  10561
+reviews :  118
+
+title :  My Name Ringtone Maker
+appId :  com.phone.caller.ringtone.my.name.ringtone.maker
+score :  4.57
+installs : 10,000,000+
+ratings :  30077
+reviews :  218
+
+title :  Battery Charging Animation 3D
+appId :  com.mobilebattery.charginganimation
+score :  4.5849056
+installs : 500,000+
+ratings :  13256
+reviews :  114
+
+title :  Rose Wallpaper: Rosely
+appId :  com.myroses.roseswallpaperhd
+score :  4.5742574
+installs : 5,000,000+
+ratings :  18415
+reviews :  153
+
+title :  Photo Filter - Deep Art Effect
+appId :  pt.developingnearmethirty.nineeditor
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Heart Zipper Screen Lock
+appId :  com.heart.lockscreen.bestzippers.gold.zipper.lovelock.screenlock.zipperlock
+score :  4.8333335
+installs : 500,000+
+ratings :  1742
+reviews :  6
+
+title :  Ultra Volume Control Styles
+appId :  com.treydev.volume
+score :  4.381232
+installs : 10,000,000+
+ratings :  136185
+reviews :  984
+
+title :  Diamond Live Wallpaper HD
+appId :  com.wave.keyboard.theme.diamondanimatedkeyboard
+score :  4.676558
+installs : 10,000,000+
+ratings :  148655
+reviews :  1992
+
+title :  Black Wallpaper HD Background
+appId :  com.black.wallpaper.amold.dark.wallpaper
+score :  4.3762374
+installs : 100,000+
+ratings :  3278
+reviews :  12
+
+title :  App Hider-Hide Apps and Photos
+appId :  com.app.hider.master.pro
+score :  4.142984
+installs : 10,000,000+
+ratings :  436539
+reviews :  4847
+
+title :  iOS Launcher iPhone 14
+appId :  com.ioslauncher.luutinhios
+score :  4.64
+installs : 1,000,000+
+ratings :  12040
+reviews :  105
+
+title :  Sticker Maker for WhatsApp
+appId :  stickermaker.stickercreater.whatsappstickers.stickermakerforwhatsapp
+score :  4.83
+installs : 10,000,000+
+ratings :  204469
+reviews :  1040
+
+title :  Battery Charging Animation 4D
+appId :  com.azanstudio.batterycharginganimation.chargingshow.batterylife.batterywidget
+score :  4.3627453
+installs : 1,000,000+
+ratings :  27557
+reviews :  120
+
+title :  Tip
+appId :  com.app.p.game.hm
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Phone Call Screen, Color Theme
+appId :  com.my.photo.phone.dialer.color.call.background
+score :  4.677778
+installs : 500,000+
+ratings :  2856
+reviews :  11
+
+title :  GB What Plus 2023
+appId :  com.latestversion.gbversion.gbwhatsnewstatus.gbwhats
+score :  4.11
+installs : 1,000,000+
+ratings :  5511
+reviews :  27
+
+title :  Love Launcher: lovely launcher
+appId :  com.love.launcher.heart
+score :  4.45
+installs : 1,000,000+
+ratings :  9277
+reviews :  73
+
+title :  Photo Editor - Collage Maker
+appId :  md.certifiedtwenty.fxphotoeditsixturbo
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Always On: Edge Music Lighting
+appId :  com.sparkine.muvizedge
+score :  4.609231
+installs : 1,000,000+
+ratings :  33817
+reviews :  897
+
+title :  Photo Collage Maker
+appId :  com.artysoul.photoeditor.collagemaker.image.editor
+score :  3.6336634
+installs : 5,000,000+
+ratings :  4005
+reviews :  75
+
+title :  Metal Wallpapers
+appId :  com.andromo.dev623844.app688465
+score :  4.754717
+installs : 100,000+
+ratings :  494
+reviews :  19
+
+title :  2 Minute Me Aadhar Loan Guide
+appId :  com.personalmin2loan.adharloan
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Royal Door Lock Screen
+appId :  com.a2xstudio.royal.door.lock.screen.free
+score :  4.3
+installs : 1,000,000+
+ratings :  7850
+reviews :  37
+
+title :  App Locker - Lock App
+appId :  com.app.hider.master.locker
+score :  4.18
+installs : 1,000,000+
+ratings :  35430
+reviews :  273
+
+title :  Analog Clock Live Wallpaper
+appId :  com.yadavapp.analogclocklivewallpaper
+score :  4.474684
+installs : 5,000,000+
+ratings :  83959
+reviews :  693
+
+title :  Launcher iOS16 - iLauncher
+appId :  com.launcheros15.ilauncher
+score :  4.51
+installs : 1,000,000+
+ratings :  33299
+reviews :  260
+
+title :  3D Wallpaper + Keyboard Sci Fi
+appId :  cyberpunk.wallpaper.live.keyboard.sci.fi
+score :  4.58
+installs : 1,000,000+
+ratings :  10599
+reviews :  123
+
+title :  Launcher for Mac OS Style
+appId :  com.themestime.mac.ui.launcher
+score :  4.7731094
+installs : 5,000,000+
+ratings :  45895
+reviews :  785
+
+title :  Ringtones Songs For Android
+appId :  com.ringpro.popular.freerings
+score :  4.8008604
+installs : 10,000,000+
+ratings :  105326
+reviews :  8355
+
+title :  Edge Lighting Colors - Border
+appId :  com.edgeround.lightingcolors.rgb
+score :  4.388768
+installs : 10,000,000+
+ratings :  395490
+reviews :  7794
+
+title :  Live Wallpapers, 4K Wallpapers
+appId :  hd.uhd.live.wallpapers.topwallpapers
+score :  4.599214
+installs : 5,000,000+
+ratings :  37479
+reviews :  1687
+
+title :  Transparent Camera Screen
+appId :  com.raisingapps.transparentlauncher.screenlivewallpaper
+score :  4.126866
+installs : 10,000,000+
+ratings :  33408
+reviews :  845
+
+title :  CMM Launcher
+appId :  com.launcher.smart.android
+score :  4.4666038
+installs : 10,000,000+
+ratings :  193638
+reviews :  3849
+
+title :  Gold Lock Screen
+appId :  com.zipper.lock.screen.gold.lockscreen.royal.ziplock.screenlock
+score :  4.428571
+installs : 100,000+
+ratings :  1663
+reviews :  6
+
+title :  Caller Name Announcer App
+appId :  calleridannounce.callernameannouncer.announcer.speaker
+score :  4.15
+installs : 10,000,000+
+ratings :  153739
+reviews :  514
+
+title :  Glitter Live Wallpaper
+appId :  com.galaxy.glitter.live.wallpaper
+score :  4.5954823
+installs : 10,000,000+
+ratings :  113806
+reviews :  1782
+
+title :  Fonts Keyboard & Emoji
+appId :  emoji.cute.led.keyboard
+score :  4.3230767
+installs : 100,000+
+ratings :  7056
+reviews :  25
+
+title :  Make Money: Play & Earn Cash
+appId :  us.current.android
+score :  4.1829143
+installs : 10,000,000+
+ratings :  2795640
+reviews :  212004
+
+title :  Hyde App Hider - Hide Apps
+appId :  hyde.android.launcher3
+score :  4.4685316
+installs : 1,000,000+
+ratings :  65763
+reviews :  443
+
+title :  MobCup Ringtones & Wallpapers
+appId :  net.mobcup.android
+score :  4.298077
+installs : 10,000,000+
+ratings :  248317
+reviews :  117
+
+title :  Cool waterfall wallpaper hd
+appId :  com.shaker.waterfall.wallpaper
+score :  5
+installs : 100,000+
+ratings :  175
+reviews :  1
+
+title :  Aesthetic Bathroom Ideas Toca
+appId :  com.tocaboca.aestheticbathroomideatocaboca
+score :  3.7735848
+installs : 1,000,000+
+ratings :  1715
+reviews :  11
+
+title :  Caller ID And Location Tracker
+appId :  com.gffaar.three.two.cnmetrackas
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  SmartClock - LED Digital Clock
+appId :  com.zhekapps.leddigitalclock
+score :  4.425952
+installs : 10,000,000+
+ratings :  270126
+reviews :  1534
+
+title :  Fingerprint BloodPressure clue
+appId :  com.fingerprint.bloodpressureclue
+score :  3.58
+installs : 50,000+
+ratings :  1515
+reviews :  55
+
+title :  Power Shade: Notification Bar
+appId :  com.treydev.pns
+score :  4.091195
+installs : 5,000,000+
+ratings :  61845
+reviews :  1603
+
+title :  Facemoji Emoji Keyboard&Fonts
+appId :  com.simejikeyboard
+score :  4.6723185
+installs : 100,000,000+
+ratings :  1229673
+reviews :  64832
+
+title :  Battery Charging Animation
+appId :  com.mobilefastcharger.chargingshow.flashing.batterycharginganimationscreen.charginganimationeffects.chargingapp
+score :  4.5155277
+installs : 1,000,000+
+ratings :  57412
+reviews :  385
+
+title :  Name style: Nickname Generator
+appId :  nickname.generator.gamingname
+score :  4.4745765
+installs : 1,000,000+
+ratings :  6790
+reviews :  18
+
+title :  Lock Screen Clock Wallpapers
+appId :  com.liveclockwallpaper.analogclock.digitalclock
+score :  4.3960395
+installs : 500,000+
+ratings :  6482
+reviews :  15
+
+title :  2023 Keyboard
+appId :  com.redraw.keyboard
+score :  4.517822
+installs : 10,000,000+
+ratings :  420918
+reviews :  19379
+
+title :  Sexy Bikini Girls HD Photo
+appId :  com.clupartiobb.bikinigirlshd
+score :  4.625
+installs : 10,000+
+ratings :  110
+reviews :  3
+
+title :  Visionary Launcher 2023
+appId :  com.lwsipl.visionarylauncher
+score :  4.589309
+installs : 5,000,000+
+ratings :  205399
+reviews :  3352
+
+title :  Apex Launcher
+appId :  com.anddoes.launcher
+score :  4.115929
+installs : 10,000,000+
+ratings :  361164
+reviews :  18895
+
+title :  Romantic Love Photo Frames
+appId :  com.app2game.romantic.photo.frames
+score :  4.75
+installs : 10,000,000+
+ratings :  50329
+reviews :  211
+
+title :  GB Version Status Saver 2022
+appId :  com.classgb.gbgbwhatsappgbversion.gbgbwhatslatestgb
+score :  4.5510206
+installs : 1,000,000+
+ratings :  7721
+reviews :  33
+
+title :  150,000+ Indian Actress Photos
+appId :  com.therootunix.indianactresswallpapers
+score :  4
+installs : 100,000+
+ratings :  1371
+reviews :  3
+
+title :  Edge Lighting - Border Light
+appId :  com.tool.edgelight.borderlight
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Mi Control Center
+appId :  com.treydev.micontrolcenter
+score :  4.4831805
+installs : 10,000,000+
+ratings :  231968
+reviews :  2296
+
+title :  Call Screen: Color Call Theme
+appId :  com.apero.calltheme.colorscreen.callflash
+score :  3.3333333
+installs : 500,000+
+ratings :  244
+reviews :  4
+
+title :  iphone 14 pro max launcher
+appId :  com.amir.atif.iphone14promaxlauncher.iphone.launcher
+score :  4.4814816
+installs : 100,000+
+ratings :  1418
+reviews :  8
+
+title :  Anime Wallpapers Z 2021
+appId :  com.app.anime
+score :  4.4
+installs : 1,000,000+
+ratings :  7572
+reviews :  85
+
+title :  Romantic Kiss Stickers
+appId :  com.lovewastickers.romanticcouplestickers
+score :  4.6
+installs : 100,000+
+ratings :  185
+reviews :  2
+
+title :  Love Photo Keyboard Theme 2021
+appId :  tomrctregt.tregt.lovephotokeyboardthemes
+score :  4.6
+installs : 50,000+
+ratings :  133
+reviews :  1
+
+title :  Lock Screen Note 20 Style
+appId :  com.silkyapps.note10lock
+score :  4.05
+installs : 1,000,000+
+ratings :  12566
+reviews :  75
+
+title :  iphone 14 Ringtone
+appId :  com.pearls.ringtone.for.iphone.android
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Launcher iOS 16
+appId :  com.babydola.launcherios
+score :  4.489837
+installs : 5,000,000+
+ratings :  138693
+reviews :  784
+
+title :  Transparent Live Wallpaper
+appId :  com.Transparent.Screen.Live.Wallpaper
+score :  4.121212
+installs : 5,000,000+
+ratings :  15720
+reviews :  634
+
+title :  I love you live wallpaper
+appId :  hdwallpaperthemes.iloveyou.live.wallpaper
+score :  4.308642
+installs : 10,000,000+
+ratings :  58566
+reviews :  388
+
+title :  Ultra Charging Animation App
+appId :  com.ils.charginganimator
+score :  4.3584905
+installs : 1,000,000+
+ratings :  42005
+reviews :  213
+
+title :  Roses Stickers for WhatsApp
+appId :  wastickerapps.roses.stickers.stickermaker.rosesstickersforwhatsapp
+score :  4.8095236
+installs : 100,000+
+ratings :  1209
+reviews :  9
+
+title :  Gold live wallpaper
+appId :  live.wallpapers.gold2019
+score :  4.59
+installs : 1,000,000+
+ratings :  12667
+reviews :  70
+
+title :  Call Screen Themes - Blingcall
+appId :  com.colorflash.callerscreen
+score :  4.457265
+installs : 10,000,000+
+ratings :  112566
+reviews :  605
+
+title :  Eiffel Tower Pin Lock Screen
+appId :  com.androsoul.eiffeltowerlocker
+score :  4.2112675
+installs : 100,000+
+ratings :  3150
+reviews :  5
+
+title :  Games & Apps APK App Tricks
+appId :  com.happy.mod.tips.happymood.mods
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Live wallpaper - Transparent
+appId :  wallpaper.transparent
+score :  4.5149813
+installs : 10,000,000+
+ratings :  307083
+reviews :  2135
+
+title :  Eid Mubarak Wallpapers HD
+appId :  com.sensetter.eidmubarakwallpapers
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Keyboard Latest and Stylish
+appId :  com.visu.fancy.keyboard.stylish.photo
+score :  4.275862
+installs : 1,000,000+
+ratings :  5577
+reviews :  28
+
+title :  Wallpaper for iPhone 14
+appId :  com.iphonexs.xr.wallpapers
+score :  4.56
+installs : 1,000,000+
+ratings :  24241
+reviews :  235
+
+title :  Transparent Live Wallpaper 4K
+appId :  com.transparent.livewallpaper.screen.transparentwallpaper.digitalclock
+score :  4.4210525
+installs : 50,000+
+ratings :  387
+reviews :  3
+
+title :  Kawasaki Ninja ZX10r Wallpaper
+appId :  com.car_wallpapers_collection.Kawasaki_Ninja_ZX_10r_Wallpapers
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  iphone 14 Ringtone
+appId :  com.iphone13.ringtone.iphonringtone
+score :  4.234694
+installs : 500,000+
+ratings :  4159
+reviews :  27
+
+title :  iPhone Call - iOS Dialer
+appId :  com.dialer.colorscreen.iphone.ios
+score :  4.4666667
+installs : 500,000+
+ratings :  2113
+reviews :  20
+
+title :  Computer Launcher Pro
+appId :  com.protheme.launcher.winx2.launcher
+score :  4.74
+installs : 100,000+
+ratings :  6684
+reviews :  105
+
+title :  Horse Wallpaper
+appId :  com.khamarnache.horsewallpaper.offline
+score :  5
+installs : 100,000+
+ratings :  297
+reviews :  1
+
+title :  Wallpapers For Oppo - HD - 4K
+appId :  com.appsfactory.oppowallpapers
+score :  4.8235292
+installs : 100,000+
+ratings :  1107
+reviews :  15
+
+title :  Launcher for Galaxy S23 style
+appId :  com.excel.apps.galaxy.launcher
+score :  4.669207
+installs : 10,000,000+
+ratings :  165861
+reviews :  2348
+
+title :  Punjab Police Pakistan
+appId :  pk.pitb.gov.ppcma
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Wallpapers - 4K Wallpapers
+appId :  com.eco.wallpaper.background
+score :  4.158416
+installs : 1,000,000+
+ratings :  7529
+reviews :  344
+
+title :  3D My Name Live Wallpaper
+appId :  com.mynamecubeapps.myname
+score :  4.6755447
+installs : 10,000,000+
+ratings :  247228
+reviews :  8480
+
+title :  Console Launcher
+appId :  com.k2.consolelauncher
+score :  4.02
+installs : 1,000,000+
+ratings :  2266
+reviews :  119
+
+title :  XOS Launcher 2023-Cool Stylish
+appId :  com.transsion.XOSLauncher
+score :  4.373968
+installs : 100,000,000+
+ratings :  1042686
+reviews :  6104
+
+title :  Keypad Lock - Phone Secure
+appId :  tool.keypad.locker.lockscreen
+score :  4.3038673
+installs : 5,000,000+
+ratings :  40899
+reviews :  646
+
+title :  Spring Wallpaper
+appId :  com.spring.wallpaper.beautifulwallpaper.backgroundwallpapers.backgrounds.springphotos
+score :  4.9
+installs : 100,000+
+ratings :  353
+reviews :  19
+
+title :  Horoscope Launcher - star sign
+appId :  aries.horoscope.launcher
+score :  4.6372547
+installs : 1,000,000+
+ratings :  12602
+reviews :  185
+
+title :  Broken Screen Wallpaper‏
+appId :  omarapps22.broken.screen.wallpaper
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Microsoft Launcher
+appId :  com.microsoft.launcher
+score :  4.697208
+installs : 50,000,000+
+ratings :  1539723
+reviews :  60797
+
+title :  Wallpaper Live 4k 3D Magic HD
+appId :  com.wallpaper_4k.live.wallpapers.magicwallpaper.parallax
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Cute Aesthetic backgrounds
+appId :  com.shaker.aesthetic.backgrounds
+score :  4.56
+installs : 100,000+
+ratings :  902
+reviews :  55
+
+title :  Beauty Women Sexy Wallpaper HD
+appId :  galjobs.sexy.women.beauty.wallpaper
+score :  4.4333334
+installs : 50,000+
+ratings :  362
+reviews :  6
+
+title :  The Robot boy games wallpapers
+appId :  com.tisagames.therobotboywallpapers
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  GB Version Tool 2023
+appId :  com.gbversion10scren.statussaver
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Transparent Camera Wallpaper
+appId :  com.transparent.camera.livewallpaper.transparentscreen
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Always On AMOLED
+appId :  com.tomer.alwayson
+score :  3.74942
+installs : 10,000,000+
+ratings :  123845
+reviews :  2090
+
+title :  Edge Lighting : Live Wallpaper
+appId :  com.edgelighting.borderlighting.ledborderlight.roundedborderlight.borderlightwallpaper
+score :  4.56
+installs : 100,000+
+ratings :  781
+reviews :  4
+
+title :  Black Wallpapers in HD, 4K
+appId :  com.hdw.blackwallpapers
+score :  4.5307693
+installs : 10,000,000+
+ratings :  47361
+reviews :  426
+
+title :  Real Followers & Likes via Tag
+appId :  com.redcherry.hotquotes.hot.followers
+score :  4.8059735
+installs : 5,000,000+
+ratings :  940254
+reviews :  23620
+
+title :  4k wallpaper Full HD wallpaper
+appId :  com.hdwallpaper.wallpaper
+score :  4.482313
+installs : 10,000,000+
+ratings :  585815
+reviews :  2452
+
+title :  iOS Lock Screen iPhone 14
+appId :  com.notificationsios.lockscreenios
+score :  4.6534653
+installs : 500,000+
+ratings :  6378
+reviews :  79
+
+title :  Profile Picture Border Frame
+appId :  com.circle.profile.picture.border.maker.dp.instagram
+score :  4.525
+installs : 1,000,000+
+ratings :  46176
+reviews :  292
+
+title :  Gold rose live wallpaper
+appId :  gold.rose.live.wallpaperHD
+score :  4.15
+installs : 5,000,000+
+ratings :  26132
+reviews :  260
+
+title :  HD Background: 4k Wallpaper
+appId :  com.livewallpaper.changer.theme4k
+score :  4.1
+installs : 500,000+
+ratings :  813
+reviews :  8
+
+title :  Nokia Launcher
+appId :  com.com.sounthern.nlauncher
+score :  4.1
+installs : 100,000+
+ratings :  1165
+reviews :  6
+
+title :  NotifyBuddy - Notification LED
+appId :  com.xander.android.notifybuddy
+score :  4.0656934
+installs : 5,000,000+
+ratings :  41253
+reviews :  562
+
+title :  QuickShortcutMaker
+appId :  com.LauncheriOS.QuickShortcutMaker
+score :  3.0192308
+installs : 100,000+
+ratings :  24825
+reviews :  72
+
+title :  Launcher 2023
+appId :  com.launcher.launcher2022
+score :  4.55
+installs : 1,000,000+
+ratings :  14576
+reviews :  135
+
+title :  Vivo Themes
+appId :  com.khunsoe.bbktheme
+score :  3.66
+installs : 5,000,000+
+ratings :  24368
+reviews :  52
+
+title :  Multiple language keyboard
+appId :  com.adyala.multiple.language.keyboard.dual.language.typing
+score :  3.85
+installs : 1,000,000+
+ratings :  14142
+reviews :  102
+
+title :  Urdu Stickers for Whatsapp - F
+appId :  com.tunixtech.urdustickersforwhatsapp.urdustickers.funnystickers
+score :  4.428571
+installs : 500,000+
+ratings :  800
+reviews :  2
+
+title :  WhatsApp Urdu Stickers Funny
+appId :  com.kode_funny_urdu_stickers.stickers
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Waterfall Wallpaper
+appId :  com.waterfallwallpaper.sceneryfalls.mountainswaterfall.naturelandscape.backgrounds.cascade.awesomewallpapers
+score :  4.5
+installs : 100,000+
+ratings :  303
+reviews :  7
+
+title :  4K Wallpapers - Auto Changer
+appId :  hd.uhd.wallpapers.best.quality
+score :  4.5736303
+installs : 10,000,000+
+ratings :  174406
+reviews :  1737
+
+title :  Nova Launcher
+appId :  com.teslacoilsw.launcher
+score :  4.393109
+installs : 50,000,000+
+ratings :  1314659
+reviews :  72968
+
+title :  Ertugrul Gazi Ringtones MP3
+appId :  ertugrulgazi.ringtones.turkishringtones.ertugrulghaziinurdu
+score :  4.2
+installs : 500,000+
+ratings :  2310
+reviews :  9
+
+title :  Koi Fish Live Wallpaper 3D
+appId :  com.dg.fish.simulator.wallpapers.live.hd.freeapp
+score :  4.18
+installs : 5,000,000+
+ratings :  15722
+reviews :  279
+
+title :  Door Lock Screen
+appId :  qt.door
+score :  4.53
+installs : 10,000,000+
+ratings :  40466
+reviews :  116
+
+title :  Fonts Art: Keyboard Font Maker
+appId :  cool.fonts.symbol.keyboard.custom.fancy.text.editor
+score :  4.0747824
+installs : 10,000,000+
+ratings :  75318
+reviews :  1630
+

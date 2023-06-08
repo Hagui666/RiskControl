@@ -1,0 +1,1393 @@
+title :  Car Games 3D: Car Racing
+appId :  com.dino.race.master
+score :  4.481159
+installs : 50,000,000+
+ratings :  88747
+reviews :  742
+
+title :  Bike Race 3D: Bike Racing
+appId :  com.dino.moto.race.master
+score :  4.4215684
+installs : 1,000,000+
+ratings :  1597
+reviews :  31
+
+title :  Hill Climb Racing
+appId :  com.fingersoft.hillclimb
+score :  4.572051
+installs : 500,000,000+
+ratings :  10758651
+reviews :  384804
+
+title :  Traffic Racer
+appId :  com.skgames.trafficracer
+score :  4.5613875
+installs : 100,000,000+
+ratings :  6292009
+reviews :  133511
+
+title :  Extreme Car Driving Simulator
+appId :  com.aim.racing
+score :  4.2962456
+installs : 500,000,000+
+ratings :  4441065
+reviews :  121820
+
+title :  Racing in Car 2
+appId :  com.ffgames.racingincar2
+score :  4.087473
+installs : 100,000,000+
+ratings :  939778
+reviews :  7540
+
+title :  Traffic Rider
+appId :  com.skgames.trafficrider
+score :  4.283955
+installs : 500,000,000+
+ratings :  8323703
+reviews :  78832
+
+title :  Drive for Speed: Simulator
+appId :  com.mastercomlimited.cardriving_t
+score :  4.4409184
+installs : 100,000,000+
+ratings :  557272
+reviews :  6114
+
+title :  Asphalt 8 - Car Racing Game
+appId :  com.gameloft.android.ANMP.GloftA8HM
+score :  4.478267
+installs : 100,000,000+
+ratings :  10798335
+reviews :  285361
+
+title :  Car Driving Master Racing 3D
+appId :  com.bc10c.racing.car.master.crazy
+score :  4.7058825
+installs : 1,000,000+
+ratings :  668
+reviews :  8
+
+title :  GT Car Stunts 3D: Car Games
+appId :  com.jura.car.stunt.master
+score :  4.1285715
+installs : 10,000,000+
+ratings :  49647
+reviews :  570
+
+title :  Need for Speed™ No Limits
+appId :  com.ea.game.nfs14_row
+score :  4.38601
+installs : 100,000,000+
+ratings :  4976394
+reviews :  112311
+
+title :  Dr. Driving
+appId :  com.ansangha.drdriving
+score :  4.40158
+installs : 500,000,000+
+ratings :  6449153
+reviews :  206805
+
+title :  Hill Climb Racing 2
+appId :  com.fingersoft.hcr2
+score :  4.507896
+installs : 100,000,000+
+ratings :  4520698
+reviews :  143027
+
+title :  Top Speed: Drag & Fast Racing
+appId :  com.tbegames.and.top_speed_racing
+score :  4.7289634
+installs : 50,000,000+
+ratings :  910292
+reviews :  29749
+
+title :  Bike Race：Motorcycle Games
+appId :  com.topfreegames.bikeracefreeworld
+score :  4.5284233
+installs : 100,000,000+
+ratings :  3100140
+reviews :  329780
+
+title :  Coffee Stack
+appId :  markergame.coffeestack
+score :  4.561421
+installs : 10,000,000+
+ratings :  200241
+reviews :  3432
+
+title :  Bike Racing: GT Spider Moto
+appId :  com.jura.motor.stunt.master
+score :  3.8910892
+installs : 10,000,000+
+ratings :  12884
+reviews :  84
+
+title :  Street Racing HD
+appId :  com.ivy.streetracing.hd
+score :  4.336049
+installs : 50,000,000+
+ratings :  150889
+reviews :  1684
+
+title :  Real Racing  3
+appId :  com.ea.games.r3_row
+score :  4.341958
+installs : 100,000,000+
+ratings :  7020719
+reviews :  71959
+
+title :  Real Car Race 3D Games Offline
+appId :  com.gamexis.racing.ferocity.apps
+score :  4.17029
+installs : 100,000,000+
+ratings :  193865
+reviews :  1116
+
+title :  Race Master 3D - Car Racing
+appId :  com.easygames.race
+score :  4.357496
+installs : 100,000,000+
+ratings :  1510900
+reviews :  6264
+
+title :  Bus Simulator Games: Bus Games
+appId :  com.gzl.drivebus.parking.game
+score :  4.4271846
+installs : 100,000,000+
+ratings :  122861
+reviews :  477
+
+title :  Bus Arrival
+appId :  com.games.bus.arrival
+score :  4.1520467
+installs : 10,000,000+
+ratings :  79124
+reviews :  146
+
+title :  Mega Car Crash Simulator
+appId :  com.jura.car.crashes
+score :  3.8921568
+installs : 10,000,000+
+ratings :  13048
+reviews :  303
+
+title :  Mad Skills Motocross 3
+appId :  com.turborilla.bike.racing.madskillsmotocross3
+score :  4.393543
+installs : 10,000,000+
+ratings :  85174
+reviews :  4864
+
+title :  Bike Racing: 3D Bike Race Game
+appId :  com.kn.trafficracer.bikeracegames
+score :  4.382353
+installs : 1,000,000+
+ratings :  6030
+reviews :  19
+
+title :  Top Speed 2: Drag Rivals Race
+appId :  com.tbegames.and.top_speed_drag_racing2
+score :  4.7092786
+installs : 10,000,000+
+ratings :  75498
+reviews :  3135
+
+title :  GT Bike Racing- Moto Bike Game
+appId :  com.fg.crazy.bike.traffic.racer.free
+score :  4.14
+installs : 10,000,000+
+ratings :  65458
+reviews :  307
+
+title :  Real Bike Racing
+appId :  com.wordsmobile.RealBikeRacing
+score :  4.2155066
+installs : 100,000,000+
+ratings :  1108364
+reviews :  5774
+
+title :  Stunt Car Extreme
+appId :  com.hyperkani.stuntcarextreme
+score :  4.543058
+installs : 10,000,000+
+ratings :  86756
+reviews :  1648
+
+title :  RACE: Rocket Arena Car Extreme
+appId :  com.smokoko.race
+score :  4.4822335
+installs : 10,000,000+
+ratings :  116081
+reviews :  672
+
+title :  Traffic Driving Car Simulator
+appId :  com.bc23.traffic.car.driving.city.game3D
+score :  4.78125
+installs : 500,000+
+ratings :  764
+reviews :  6
+
+title :  Car Crash Compilation Game
+appId :  com.jura.car.crash
+score :  3.4011629
+installs : 10,000,000+
+ratings :  21185
+reviews :  752
+
+title :  Mini Car Racing Game Offline
+appId :  com.ht.mini.car.raceway.endless.drive
+score :  4.4451613
+installs : 50,000,000+
+ratings :  123134
+reviews :  792
+
+title :  Fun Race 3D
+appId :  com.slippy.linerusher
+score :  4.1718197
+installs : 100,000,000+
+ratings :  2519151
+reviews :  31457
+
+title :  Real Sports Racing: Car Games
+appId :  com.sa.extreme.real.car.racing.simulator.games.offline
+score :  4.3958335
+installs : 1,000,000+
+ratings :  2298
+reviews :  21
+
+title :  Turbo Stars - Rival Racing
+appId :  com.turbo.stars
+score :  4.6033316
+installs : 100,000,000+
+ratings :  1042651
+reviews :  37480
+
+title :  Motorcycle Real Simulator
+appId :  com.cerebelliumapps.motoextremeracing
+score :  4.4796276
+installs : 10,000,000+
+ratings :  101838
+reviews :  3853
+
+title :  Asphalt Nitro
+appId :  com.gameloft.android.ANMP.GloftAGHM
+score :  4.3578925
+installs : 100,000,000+
+ratings :  1829705
+reviews :  16811
+
+title :  Car Racing Games: Car Games 3D
+appId :  com.lf.real.extreme.suv.offroad.drive.games.free
+score :  3.8811882
+installs : 10,000,000+
+ratings :  79114
+reviews :  330
+
+title :  Ultimate Car Driving Simulator
+appId :  com.sir.racing.ultimatecardrivingsimulator
+score :  4.0730195
+installs : 100,000,000+
+ratings :  623529
+reviews :  18914
+
+title :  Shiva Winter Biking Tales
+appId :  com.tangiappsit.shiva.racing.hero
+score :  3.6111112
+installs : 10,000,000+
+ratings :  7285
+reviews :  3
+
+title :  Mountain Bike Xtreme
+appId :  com.PixelJoy.MountainBikeXtreme
+score :  4.257426
+installs : 5,000,000+
+ratings :  27547
+reviews :  275
+
+title :  Off Road 4x4 Driving Simulator
+appId :  offroad.racing.game
+score :  4.3863635
+installs : 10,000,000+
+ratings :  40902
+reviews :  499
+
+title :  Car Games: Kar Gadi Wala Game
+appId :  com.mustardgames.impossible.tracks.mountain.stuntracing.monstertruck
+score :  3.89
+installs : 50,000,000+
+ratings :  54323
+reviews :  100
+
+title :  Moto Rider GO: Highway Traffic
+appId :  com.tbegames.and.best_moto_race
+score :  4.4050455
+installs : 100,000,000+
+ratings :  871427
+reviews :  9893
+
+title :  City Driving School Car Games
+appId :  com.bettergames.real.drivingschool.simulator
+score :  3.7875
+installs : 10,000,000+
+ratings :  123730
+reviews :  773
+
+title :  Plug Head Race
+appId :  jp.co.goodroid.hyper.plugheadrace
+score :  4.233645
+installs : 5,000,000+
+ratings :  17348
+reviews :  370
+
+title :  Monster Truck Stunt - Car Game
+appId :  com.jura.monster.truck.stunt
+score :  3.9019608
+installs : 10,000,000+
+ratings :  6592
+reviews :  179
+
+title :  Bike Racing Games - Bike Game
+appId :  com.gameswing.crazyspeed.bikeracing.motorider.multiplayerracing
+score :  3.64
+installs : 5,000,000+
+ratings :  13507
+reviews :  79
+
+title :  MMX Hill Dash 2 – Offroad Truc
+appId :  com.hutchgames.hilldash2
+score :  4.199794
+installs : 10,000,000+
+ratings :  123157
+reviews :  5888
+
+title :  Moto X3M Bike Race Game
+appId :  air.com.aceviral.motox3m
+score :  4.582508
+installs : 100,000,000+
+ratings :  499412
+reviews :  28785
+
+title :  Real City Car Driving
+appId :  com.ScnStudios.RealCityCarDriver3D
+score :  3.6456704
+installs : 50,000,000+
+ratings :  457303
+reviews :  18561
+
+title :  Mountain Driving Jeep Games
+appId :  com.doit.fun.games.offroad.rally.truck.apps
+score :  4.811881
+installs : 10,000,000+
+ratings :  27578
+reviews :  115
+
+title :  Xtreme Motorbikes
+appId :  com.mehdirabiee.XtremeMotorbikes
+score :  4.5062895
+installs : 10,000,000+
+ratings :  316487
+reviews :  1430
+
+title :  Earn to Die 2
+appId :  com.notdoppler.earntodie2
+score :  4.444006
+installs : 100,000,000+
+ratings :  1944690
+reviews :  40991
+
+title :  Money Run 3D
+appId :  com.money.run.hypercasual3d
+score :  4.078717
+installs : 50,000,000+
+ratings :  192354
+reviews :  611
+
+title :  Exion Hill Racing
+appId :  com.exiongames.exionhillracing
+score :  4.2158117
+installs : 50,000,000+
+ratings :  237014
+reviews :  1273
+
+title :  Formula Racing: Car Games
+appId :  com.jura.formula.race.master
+score :  4.267327
+installs : 5,000,000+
+ratings :  7330
+reviews :  200
+
+title :  Bike Racing 3D
+appId :  com.wordmobiles.bikeRacing
+score :  4.342989
+installs : 100,000,000+
+ratings :  1142289
+reviews :  16143
+
+title :  Mountain Climb 4x4 : Car Drive
+appId :  com.dagtirmanma.oyunu
+score :  4.211506
+installs : 100,000,000+
+ratings :  410719
+reviews :  4198
+
+title :  car racing games 3d
+appId :  com.fungames.high.speed.real.car.racing
+score :  4.36
+installs : 10,000,000+
+ratings :  63556
+reviews :  289
+
+title :  Racing Limits
+appId :  com.sbkgames.RacingLimits
+score :  4.3946786
+installs : 50,000,000+
+ratings :  338977
+reviews :  1801
+
+title :  Street Racing 3D
+appId :  com.combineinc.streetracing.driftthreeD
+score :  4.431147
+installs : 100,000,000+
+ratings :  1701129
+reviews :  23050
+
+title :  Ultimate Motorcycle Simulator
+appId :  com.sir.racing.ultimatemotorcyclesimulator
+score :  4.009804
+installs : 50,000,000+
+ratings :  176992
+reviews :  3860
+
+title :  Racing Fever: Moto
+appId :  mobi.gameguru.racingfevermoto
+score :  4.373913
+installs : 100,000,000+
+ratings :  670361
+reviews :  4301
+
+title :  Speed Car Race 3D - Car Games
+appId :  com.car.racing.asphaltairborne
+score :  3.72
+installs : 10,000,000+
+ratings :  32482
+reviews :  146
+
+title :  Riding Extreme 3D
+appId :  com.ducky.bikehill3d
+score :  4.138377
+installs : 50,000,000+
+ratings :  446989
+reviews :  1871
+
+title :  Drift for Life
+appId :  com.ambratorgames.Hajwalahlife
+score :  4.59
+installs : 500,000+
+ratings :  10178
+reviews :  125
+
+title :  Subway Motorbike Runner
+appId :  com.phong.subway.biker
+score :  4.1764708
+installs : 1,000,000+
+ratings :  2722
+reviews :  13
+
+title :  Epic Race 3D
+appId :  com.gym.racegame
+score :  4.268596
+installs : 100,000,000+
+ratings :  394240
+reviews :  7002
+
+title :  CarX Highway Racing
+appId :  com.CarXTech.highWay
+score :  4.6648307
+installs : 50,000,000+
+ratings :  1467350
+reviews :  15114
+
+title :  Beach Buggy Racing
+appId :  com.vectorunit.purple.googleplay
+score :  4.473271
+installs : 100,000,000+
+ratings :  2564713
+reviews :  33100
+
+title :  Rebel Racing
+appId :  com.hutchgames.rebelracing
+score :  4.5108156
+installs : 50,000,000+
+ratings :  709032
+reviews :  25452
+
+title :  Mannequin Downhill
+appId :  com.kayac.mannequinDownhill
+score :  4.5304346
+installs : 5,000,000+
+ratings :  19458
+reviews :  216
+
+title :  Bike Game - Bike Stunt Games
+appId :  com.kn.bike.race.free.games
+score :  4.257426
+installs : 10,000,000+
+ratings :  30604
+reviews :  293
+
+title :  Blocky Moto Racing: Bike Rider
+appId :  com.mobadu.BlockyMotoRacing
+score :  4.2150536
+installs : 50,000,000+
+ratings :  79038
+reviews :  483
+
+title :  Rally Fury - Extreme Racing
+appId :  com.refuelgames.rally
+score :  4.433428
+installs : 100,000,000+
+ratings :  789762
+reviews :  5298
+
+title :  Realistic Toyota Drag Racing
+appId :  com.xtremecar.dragtoyota
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Highway Drifter
+appId :  com.madboxgames.drifter
+score :  4.111111
+installs : 10,000,000+
+ratings :  92349
+reviews :  950
+
+title :  Drift Games: Drift and Driving
+appId :  com.gs.car.drifting.games
+score :  3.118421
+installs : 1,000,000+
+ratings :  1595
+reviews :  38
+
+title :  Dr. Parking 4
+appId :  com.ansangha.drparking4
+score :  4.119294
+installs : 100,000,000+
+ratings :  784963
+reviews :  6335
+
+title :  Extreme SUV Driving Simulator
+appId :  com.aim.rallyhum
+score :  4.2914248
+installs : 50,000,000+
+ratings :  248028
+reviews :  4120
+
+title :  Car Race 3D - Racing Master
+appId :  com.bc10b.top.racing.car.master.game3d
+score :  4.78
+installs : 1,000,000+
+ratings :  5660
+reviews :  38
+
+title :  Mini Racing Adventures
+appId :  com.minimo.miniracingadventures
+score :  4.213675
+installs : 10,000,000+
+ratings :  261210
+reviews :  4621
+
+title :  Gadi wala game Car 3D
+appId :  com.Techmination.RangeRoverRacingSimulator
+score :  3.75
+installs : 1,000,000+
+ratings :  11838
+reviews :  115
+
+title :  Dr. Driving 2
+appId :  com.ansangha.drjb
+score :  4.2708573
+installs : 50,000,000+
+ratings :  768748
+reviews :  3997
+
+title :  Mini Car Racing Offline Games
+appId :  com.tb.minicar.rush.racing.drivinggames
+score :  4.5531917
+installs : 500,000+
+ratings :  1007
+reviews :  21
+
+title :  Race.io
+appId :  com.vive.riderleague
+score :  4.3346643
+installs : 50,000,000+
+ratings :  300320
+reviews :  5906
+
+title :  Drift Max Pro Car Racing Game
+appId :  com.tiramisu.driftmax2
+score :  4.6982546
+installs : 50,000,000+
+ratings :  1830850
+reviews :  39409
+
+title :  Mad Skills Snocross
+appId :  com.turborilla.snowmobile.sled.racing.mad.skills.snocross
+score :  4.1372547
+installs : 1,000,000+
+ratings :  3231
+reviews :  254
+
+title :  Car Game: Street Racing 3D
+appId :  com.sgs.cargames.drivingsimulator
+score :  4.212121
+installs : 500,000+
+ratings :  1417
+reviews :  18
+
+title :  Hill Racing – Offroad Hill Adv
+appId :  com.ninjagames.hill
+score :  4.22
+installs : 5,000,000+
+ratings :  13535
+reviews :  51
+
+title :  MadOut2 Big City Online
+appId :  com.MadOut.BIG
+score :  4.0548286
+installs : 10,000,000+
+ratings :  764266
+reviews :  8484
+
+title :  Blocky Farm Racing & Simulator
+appId :  com.mobadu.BlockyFarmRacing
+score :  4.4
+installs : 10,000,000+
+ratings :  60851
+reviews :  320
+
+title :  Real Moto 2
+appId :  com.dreamplay.realmoto2.google
+score :  4.2475247
+installs : 5,000,000+
+ratings :  48522
+reviews :  240
+
+title :  Motor Tour: Bike racing game
+appId :  com.wolvesinteractive.motortour
+score :  4.009804
+installs : 10,000,000+
+ratings :  28528
+reviews :  203
+
+title :  Traffic Tour Car Racer game
+appId :  com.wolvesinteractive.traffictour
+score :  3.8803828
+installs : 50,000,000+
+ratings :  397247
+reviews :  4015
+
+title :  Indian Bike Wala Game 3D Real
+appId :  cor.indian.bikegame
+score :  4.2
+installs : 1,000,000+
+ratings :  2679
+reviews :  0
+
+title :  Renegade Racing
+appId :  com.notdoppler.renegaderacing
+score :  4.4056225
+installs : 10,000,000+
+ratings :  72253
+reviews :  540
+
+title :  SRGT－Racing & Car Driving Game
+appId :  com.herocraft.game.drag.auto.street.racing.heat
+score :  4.5833335
+installs : 5,000,000+
+ratings :  26657
+reviews :  238
+
+title :  Construction Ramp Jumping
+appId :  com.construction.ramp.jumping
+score :  3.9796216
+installs : 10,000,000+
+ratings :  41364
+reviews :  2185
+
+title :  Bike Race Master: Bike Racing
+appId :  com.duck07.mega.ramp.bike.master.racing.simulator
+score :  4.818182
+installs : 500,000+
+ratings :  426
+reviews :  3
+
+title :  Gravity Rider: Space Bike Race
+appId :  com.gravity.rider.balance.run.bike
+score :  4.476596
+installs : 10,000,000+
+ratings :  108061
+reviews :  1604
+
+title :  Drive Club: Car Parking Games
+appId :  com.OpenWorldGames.DriveClubMultiPlayer
+score :  3.7237763
+installs : 5,000,000+
+ratings :  32504
+reviews :  2259
+
+title :  Car Race 3D - Race in Car Game
+appId :  com.gamescapes.ultimate.car.driving.school.racing.drift.simulator
+score :  3.79
+installs : 1,000,000+
+ratings :  10590
+reviews :  94
+
+title :  Top Drives – Car Cards Racing
+appId :  com.hutchgames.cccg
+score :  4.3714223
+installs : 10,000,000+
+ratings :  389847
+reviews :  16528
+
+title :  Turbo Driving Racing 3D
+appId :  com.doodle.turboracing3d
+score :  4.404791
+installs : 100,000,000+
+ratings :  735607
+reviews :  12472
+
+title :  Racing Xtreme 2: Monster Truck
+appId :  com.tbegames.and.best_monster_racing
+score :  4.7999
+installs : 10,000,000+
+ratings :  178431
+reviews :  11331
+
+title :  Prime Peaks
+appId :  com.a25apps.HillClimber
+score :  4.4759326
+installs : 10,000,000+
+ratings :  169339
+reviews :  4993
+
+title :  Car games flying car driving
+appId :  flying.car.driving
+score :  3.95
+installs : 1,000,000+
+ratings :  6793
+reviews :  101
+
+title :  Rush Rally Origins Demo
+appId :  brownmonster.app.game.rushrallyremastereddemo
+score :  3.8641975
+installs : 1,000,000+
+ratings :  4207
+reviews :  27
+
+title :  School Bus Simulator Driving
+appId :  com.games2win.superschooldriver
+score :  4.251982
+installs : 10,000,000+
+ratings :  75951
+reviews :  4657
+
+title :  Crazy Rush 3D: Race Master
+appId :  car.smash.drive
+score :  3.66
+installs : 10,000,000+
+ratings :  7204
+reviews :  77
+
+title :  Muscle Race 3D
+appId :  jp.co.goodroid.hyper.muscle
+score :  3.1992753
+installs : 50,000,000+
+ratings :  84118
+reviews :  1465
+
+title :  Motu Patlu Speed Bike Racing
+appId :  com.sanvitechgamesstudio.motupatlubikeracinggame
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  4x4 Off Road Parking Simulator
+appId :  com.gks.flying.police.robot.bike.futuristic.city.wars
+score :  3.9146342
+installs : 500,000+
+ratings :  1718
+reviews :  42
+
+title :  GT Racing 2: real car game
+appId :  com.gameloft.android.ANMP.GloftRAHM
+score :  4.406718
+installs : 10,000,000+
+ratings :  1806457
+reviews :  67791
+
+title :  XCars Street Driving
+appId :  com.filaret.xcarxneedforstreet
+score :  3.01
+installs : 1,000,000+
+ratings :  5552
+reviews :  92
+
+title :  Car Parkour: Sky Racing 3D
+appId :  com.xd.car.parkour
+score :  4.3854165
+installs : 1,000,000+
+ratings :  1674
+reviews :  9
+
+title :  Crazy for Speed
+appId :  com.racing.car.crash.turbo
+score :  4.401721
+installs : 50,000,000+
+ratings :  491480
+reviews :  10977
+
+title :  Asphalt 9: Legends
+appId :  com.gameloft.android.ANMP.GloftA9HM
+score :  4.443294
+installs : 100,000,000+
+ratings :  2648733
+reviews :  66992
+
+title :  Civic Driving Games
+appId :  com.bbqgames.civic
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Top Bike: Racing & Moto Drag
+appId :  com.tbegames.and.new_motor_racing
+score :  4.538634
+installs : 10,000,000+
+ratings :  86495
+reviews :  2163
+
+title :  City Racing 3D
+appId :  com.racergame.cityracing3d
+score :  4.6830964
+installs : 50,000,000+
+ratings :  1561493
+reviews :  32853
+
+title :  Car Games 3D - Gadi Wali Game
+appId :  com.ge.highway.car.driving.game
+score :  4.375
+installs : 500,000+
+ratings :  611
+reviews :  5
+
+title :  Real Car Racing Games Offline
+appId :  com.gg.car.racing.games.offline.games
+score :  3.8
+installs : 1,000,000+
+ratings :  1787
+reviews :  7
+
+title :  Line Race: Police Pursuit
+appId :  car.line.race
+score :  4.6103897
+installs : 10,000,000+
+ratings :  32541
+reviews :  714
+
+title :  Superhero Run - Epic Race 3D
+appId :  com.unicorn.superhero.run
+score :  4.1
+installs : 10,000,000+
+ratings :  3808
+reviews :  44
+
+title :  Trial Xtreme 4 Bike Racing
+appId :  com.x3m.tx4
+score :  3.9926248
+installs : 50,000,000+
+ratings :  751896
+reviews :  13390
+
+title :  Car Parking - Driving School
+appId :  com.racinggames_city.car.racing_Free
+score :  4.4215684
+installs : 5,000,000+
+ratings :  21891
+reviews :  176
+
+title :  Car Stunt Racing: Stunt Master
+appId :  com.kn.car.stunt.master.gtcar.games
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Truck Racer
+appId :  com.ffgames.racingintruck
+score :  3.9503546
+installs : 10,000,000+
+ratings :  77159
+reviews :  451
+
+title :  Motu Patlu Cycling Adventure
+appId :  com.tangiappsit.motupatlu.cycling.adventure
+score :  3.8
+installs : 5,000,000+
+ratings :  6090
+reviews :  4
+
+title :  Downhill Climb Racing
+appId :  com.gamesofts2dio.downhill.climb.racing
+score :  4.25
+installs : 100,000+
+ratings :  378
+reviews :  5
+
+title :  Type Spin
+appId :  com.kayac.type_spin
+score :  4.334737
+installs : 10,000,000+
+ratings :  93340
+reviews :  870
+
+title :  Crazy Speed-Car Master
+appId :  com.crazy.speed.car.master
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Car Stunt Races: Mega Ramps
+appId :  com.aim.stunts
+score :  4.3924665
+installs : 10,000,000+
+ratings :  114286
+reviews :  2602
+
+title :  Drag Battle 2:  Race World
+appId :  com.IceStorm.DB2
+score :  3.81
+installs : 1,000,000+
+ratings :  4566
+reviews :  142
+
+title :  European Luxury Cars
+appId :  com.DominikKotlarEULC
+score :  4.3213644
+installs : 10,000,000+
+ratings :  139871
+reviews :  2590
+
+title :  Superhero Bridge Race 3D
+appId :  com.unicorn.superhero.bridge
+score :  3.9375
+installs : 1,000,000+
+ratings :  1270
+reviews :  8
+
+title :  Beach Buggy Racing 2
+appId :  com.vectorunit.cobalt.googleplay
+score :  4.2202086
+installs : 50,000,000+
+ratings :  684765
+reviews :  8945
+
+title :  Racing Motorist : Bike Game
+appId :  com.phoenix.xtrememotorist
+score :  3.821782
+installs : 5,000,000+
+ratings :  10895
+reviews :  62
+
+title :  City Bikers
+appId :  com.phoenix.citybikersonline
+score :  4.318182
+installs : 500,000+
+ratings :  392
+reviews :  8
+
+title :  Uphill Rush Water Park Racing
+appId :  com.spilgames.UphillRush
+score :  4.2462406
+installs : 100,000,000+
+ratings :  724519
+reviews :  13007
+
+title :  Kids Monster Truck
+appId :  com.PSVStudio.HippoMonstarTruck
+score :  4.5914636
+installs : 10,000,000+
+ratings :  15835
+reviews :  237
+
+title :  US Prado Car Driving: Car Game
+appId :  com.dg.police.parkingultimate.driving.simulator
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Moto Traffic Race
+appId :  com.extremefungames.mototrafficrace
+score :  3.9081967
+installs : 10,000,000+
+ratings :  188354
+reviews :  790
+
+title :  Pickup Hilux: Toyota Off Road
+appId :  xcars.racing.simulator.toyota.hilux.suv
+score :  3
+installs : 100,000+
+ratings :  463
+reviews :  1
+
+title :  Demolition Derby 2
+appId :  com.BeerMoneyGames.Demolition2
+score :  4.703847
+installs : 50,000,000+
+ratings :  1114442
+reviews :  106853
+
+title :  Speed Runner
+appId :  com.Funtop.SpeedRunner
+score :  3.1764705
+installs : 10,000+
+ratings :  117
+reviews :  15
+
+title :  Bike Rider
+appId :  com.supercharge.bikerush.moto.traffic.rider
+score :  4.4444447
+installs : 100,000+
+ratings :  909
+reviews :  18
+
+title :  3d Bike Racing Bike Race Games
+appId :  com.bike.games.highway.rider.traffic.racer.master.motorbike.racing.stuntgame.stunt.bikeracing
+score :  4.8
+installs : 500,000+
+ratings :  1746
+reviews :  12
+
+title :  Go To Car Driving 3
+appId :  com.filaret.gotocardriving3
+score :  3.75
+installs : 1,000,000+
+ratings :  18450
+reviews :  151
+
+title :  Torque Drift
+appId :  leagueofmonkeys.torquedrift
+score :  4.4029617
+installs : 5,000,000+
+ratings :  86434
+reviews :  5636
+
+title :  CarX Drift Racing 2
+appId :  com.carxtech.carxdr2
+score :  4.4296994
+installs : 10,000,000+
+ratings :  619958
+reviews :  13334
+
+title :  Blocky Car Racer - racing game
+appId :  com.mobadu.BlockyCarRacer
+score :  4.3055553
+installs : 10,000,000+
+ratings :  41294
+reviews :  486
+
+title :  Motu Patlu Car Game
+appId :  com.tangiappsit.motupatlu.cargame
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Driving Academy Car Simulator
+appId :  com.games2win.drivingacademy
+score :  4.3105497
+installs : 10,000,000+
+ratings :  198256
+reviews :  7955
+
+title :  Trials Frontier
+appId :  com.ubisoft.redlynx.trialsfrontier.ggp
+score :  4.306256
+installs : 50,000,000+
+ratings :  1134137
+reviews :  27818
+
+title :  Dubai Drift 2
+appId :  com.dubaipolice.uaedrifting
+score :  4.283541
+installs : 10,000,000+
+ratings :  341644
+reviews :  5578
+
+title :  Gravity Rider Zero
+appId :  com.vividgames.gravity.rider.zero.bike
+score :  4.3069053
+installs : 10,000,000+
+ratings :  40459
+reviews :  1134
+
+title :  Crazy Car Racing Games Offline
+appId :  com.fungames.highway.traffic.race
+score :  4.424
+installs : 50,000,000+
+ratings :  111171
+reviews :  598
+
+title :  Race the Traffic
+appId :  com.mastercomlimited.racethetraffic
+score :  4.1377983
+installs : 50,000,000+
+ratings :  295899
+reviews :  5768
+
+title :  Racing Ball Master 3D
+appId :  com.jura.ball.racing.master
+score :  4.06
+installs : 5,000,000+
+ratings :  3874
+reviews :  38
+
+title :  Road Crash
+appId :  com.gezellig.roadcrash
+score :  4.3728814
+installs : 10,000,000+
+ratings :  52816
+reviews :  2420
+
+title :  Car Driving Online
+appId :  com.maleo.cardrivingonline
+score :  4.7419353
+installs : 1,000,000+
+ratings :  58434
+reviews :  502
+
+title :  Horizon Chase – Arcade Racing
+appId :  com.aquiris.horizonchase
+score :  4.538545
+installs : 10,000,000+
+ratings :  245310
+reviews :  2632
+
+title :  Zombie Derby 2
+appId :  com.herocraft.game.zombiederby2
+score :  4.4206643
+installs : 10,000,000+
+ratings :  74727
+reviews :  878
+
+title :  City Car Driver 2020
+appId :  com.MobimiGames.RealCityCarDriver2017
+score :  4.2881355
+installs : 10,000,000+
+ratings :  73022
+reviews :  732
+
+title :  32 Secs: Traffic Rider
+appId :  com.istomgames.carsone
+score :  4.21
+installs : 1,000,000+
+ratings :  9621
+reviews :  73
+
+title :  Gadi Wala Game | Car Simulator
+appId :  com.mustardgames.impossiblecarstunts.mega.ramp.carstunts.racing
+score :  3.91
+installs : 10,000,000+
+ratings :  19953
+reviews :  56
+
+title :  Racing Fever
+appId :  mobi.gameguru.racingfever
+score :  4.485114
+installs : 50,000,000+
+ratings :  1482513
+reviews :  10600
+
+title :  Traffic Racer Pro : Car Games
+appId :  com.tojgames.trafficracer
+score :  4.65
+installs : 1,000,000+
+ratings :  20898
+reviews :  191
+
+title :  CarX Street
+appId :  com.carxtech.sr
+score :  4.125
+installs : 1,000,000+
+ratings :  102697
+reviews :  1517
+
+title :  Uphill Rush 2 USA Racing
+appId :  com.spilgames.UphillRushNewYork
+score :  4.1638417
+installs : 10,000,000+
+ratings :  52987
+reviews :  818
+
+title :  Rebel Gears Drag Bike CSR Moto
+appId :  com.EasytapGames.Rebel_Drag_Bike_game
+score :  4.73
+installs : 500,000+
+ratings :  2334
+reviews :  104
+
+title :  Offroad car driving games 2023
+appId :  com.offroad.realhillclimbdriving
+score :  5
+installs : 100,000+
+ratings :  493
+reviews :  1
+
+title :  Happy Wheels
+appId :  com.fancyforce.happywheels
+score :  4.2865496
+installs : 10,000,000+
+ratings :  345644
+reviews :  11342
+
+title :  Real Car Driving Games 2023 3D
+appId :  com.titisoftware.europecardrivingsimulator
+score :  3.63
+installs : 1,000,000+
+ratings :  5320
+reviews :  45
+
+title :  They Are Coming
+appId :  com.luna.theyarecoming
+score :  3.1319797
+installs : 10,000,000+
+ratings :  36546
+reviews :  2516
+
+title :  OTR - Offroad Car Driving Game
+appId :  com.dogbytegames.offtheroad
+score :  4.5585184
+installs : 50,000,000+
+ratings :  430062
+reviews :  9073
+
+title :  Jeep Offroad 4x4 Car Game Mud
+appId :  com.CertainGames.OffroadSimulator4x4
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Moto Traffic Bike Race Game 3d
+appId :  com.fffgames.bikeRacing.bikeRide
+score :  3.7777777
+installs : 1,000,000+
+ratings :  3067
+reviews :  26
+
+title :  Driving School 2017
+appId :  com.ovilex.drivingschool2017
+score :  4.451986
+installs : 10,000,000+
+ratings :  679787
+reviews :  24584
+
+title :  Wheel Scale!
+appId :  com.AnderK.WheelScale
+score :  2.7370243
+installs : 10,000,000+
+ratings :  42986
+reviews :  883
+
+title :  Train Racing Games 3D 2 Player
+appId :  com.mtsfreegames.trainracingmultiplayer
+score :  4.360502
+installs : 50,000,000+
+ratings :  247661
+reviews :  959
+
+title :  MR RACER -Multiplayer Car game
+appId :  com.chennaigames.mrracer
+score :  4.4174757
+installs : 10,000,000+
+ratings :  53489
+reviews :  178
+
+title :  Assoluto Racing
+appId :  com.infinityvector.assolutoracing
+score :  4.1131854
+installs : 10,000,000+
+ratings :  177119
+reviews :  4521
+
+title :  Nitro Nation: Car Racing Game
+appId :  com.creativemobile.nno
+score :  4.4873257
+installs : 50,000,000+
+ratings :  1593414
+reviews :  69205
+
+title :  Motorsport Manager Racing
+appId :  com.playsportgames.mmo
+score :  3.9141717
+installs : 5,000,000+
+ratings :  91683
+reviews :  1598
+
+title :  Traffic Racing 2023-Car Games
+appId :  com.gamingdoctorine.ctr
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Torque Burnout
+appId :  leagueofmonkeys.torqueburnout
+score :  4.237037
+installs : 10,000,000+
+ratings :  282815
+reviews :  7428
+
+title :  Thomas & Friends: Go Go Thomas
+appId :  com.budgestudios.ThomasAndFriendsGoGoThomas
+score :  4.1416736
+installs : 50,000,000+
+ratings :  220492
+reviews :  3357
+
+title :  Driving School Sim - 2020
+appId :  com.ovilex.drivingschoolsim
+score :  4.558739
+installs : 10,000,000+
+ratings :  318821
+reviews :  5456
+
+title :  Drag Racing Challenge
+appId :  com.phoenix.drc
+score :  4.2619047
+installs : 100,000+
+ratings :  259
+reviews :  9
+
+title :  Real Moto
+appId :  com.dreamplay.realmoto.google
+score :  3.9641943
+installs : 10,000,000+
+ratings :  199674
+reviews :  1392
+
+title :  Racing in Car
+appId :  com.ffgames.racingincar
+score :  4.43236
+installs : 100,000,000+
+ratings :  1305240
+reviews :  36827
+

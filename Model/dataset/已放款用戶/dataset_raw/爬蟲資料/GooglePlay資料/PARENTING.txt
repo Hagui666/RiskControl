@@ -1,0 +1,1400 @@
+title :  Little Stories: Bedtime Books
+appId :  com.diveomedia.little.stories.bedtime.books.kids
+score :  4.5
+installs : 1,000,000+
+ratings :  5572
+reviews :  301
+
+title :  Find My Kids: Location Tracker
+appId :  org.findmykids.app
+score :  4.65585
+installs : 10,000,000+
+ratings :  1030438
+reviews :  7338
+
+title :  BabyCloud
+appId :  com.adwaitaeducare.parenting
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Glow Baby Milestone Tracker
+appId :  com.glow.android.baby
+score :  3.937063
+installs : 1,000,000+
+ratings :  13742
+reviews :  3548
+
+title :  작명 어플 네이머 이름짓기, 이름풀이, 이름추천, 개명
+appId :  com.tings.goodnaming
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Porn Blocker : Safe Search
+appId :  com.kawkaw.pornblocker.safebrowser.up
+score :  4.24
+installs : 1,000,000+
+ratings :  4981
+reviews :  104
+
+title :  BabySleep: Whitenoise lullaby
+appId :  com.urbandroid.babysleep
+score :  4.5908003
+installs : 5,000,000+
+ratings :  73005
+reviews :  6665
+
+title :  Diana and Roma Videos
+appId :  com.glance.glancemobile
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Fruits and Vegetables for Kids
+appId :  net.cleverbit.VegeFruits
+score :  4.269231
+installs : 5,000,000+
+ratings :  24830
+reviews :  205
+
+title :  Paint and Learn Animals
+appId :  com.sunny.paint.learn.animals
+score :  4.32
+installs : 5,000,000+
+ratings :  6213
+reviews :  31
+
+title :  Pregnancy Tracker
+appId :  com.easymobs.pregnancy
+score :  4.896301
+installs : 5,000,000+
+ratings :  358809
+reviews :  9249
+
+title :  AirDroid Parental Control
+appId :  com.sand.airdroidkidp
+score :  4.4174757
+installs : 1,000,000+
+ratings :  8527
+reviews :  195
+
+title :  Mommy Baby Care Nursery
+appId :  com.sms.caregame
+score :  4.1386137
+installs : 1,000,000+
+ratings :  1727
+reviews :  62
+
+title :  WaLog Online Last Seen Tracker
+appId :  com.whatlogapp
+score :  3.67
+installs : 1,000,000+
+ratings :  22727
+reviews :  98
+
+title :  FamiSafe-Parental Control App
+appId :  com.wondershare.famisafe
+score :  3.5079365
+installs : 5,000,000+
+ratings :  22240
+reviews :  2380
+
+title :  Pregnancy + | Tracker App
+appId :  com.hp.pregnancy.lite
+score :  4.7268467
+installs : 10,000,000+
+ratings :  2237157
+reviews :  19633
+
+title :  Islamic Names Dictionary
+appId :  com.zhystudio.IslamicUrduNamesDictionary
+score :  4.1666665
+installs : 100,000+
+ratings :  499
+reviews :  3
+
+title :  Pregnancy Calendar, Baby Track
+appId :  com.pregnancytracker.daybydaypregnancy.womenhealth
+score :  4.5238094
+installs : 100,000+
+ratings :  1171
+reviews :  11
+
+title :  Pregnancy App & Baby Tracker
+appId :  com.babycenter.pregnancytracker
+score :  4.8588696
+installs : 10,000,000+
+ratings :  1384041
+reviews :  87654
+
+title :  WaTracker: Online Tracker
+appId :  com.watracker.status.tracker.lastseen
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Magic Board - Doodle & Color
+appId :  com.orange.magic.board.doodle.coloring
+score :  4.12
+installs : 1,000,000+
+ratings :  5187
+reviews :  86
+
+title :  Pregnancy tracker week by week
+appId :  com.pregnancy.tracker.due.date.countdown.contraction.timer
+score :  4.7722774
+installs : 1,000,000+
+ratings :  48841
+reviews :  276
+
+title :  Pregnancy Calculator, Calendar
+appId :  com.pregnancy.due.date.calculator.tracker
+score :  4.476744
+installs : 1,000,000+
+ratings :  4922
+reviews :  30
+
+title :  Pregnancy Tracker
+appId :  com.timskiy.pregnancy
+score :  4.7588234
+installs : 1,000,000+
+ratings :  59435
+reviews :  358
+
+title :  Happy Kids Timer Chores
+appId :  com.evoprox.morningroutines
+score :  4.3271027
+installs : 1,000,000+
+ratings :  20715
+reviews :  1502
+
+title :  Kids Mode - Child lock
+appId :  com.kidzoye.parentalcontrol
+score :  3.79
+installs : 100,000+
+ratings :  1015
+reviews :  47
+
+title :  Pregnancy tracker week by week
+appId :  pregnancy.tracker.eva
+score :  4.89
+installs : 500,000+
+ratings :  11779
+reviews :  25
+
+title :  Baby Rattle: Giggles & Lullaby
+appId :  com.bebi.family.baby.rattle
+score :  4.6
+installs : 100,000+
+ratings :  950
+reviews :  135
+
+title :  Pregnancy Tracker and Baby
+appId :  com.zoobagames.android.hamilelik
+score :  4.373134
+installs : 1,000,000+
+ratings :  14659
+reviews :  11
+
+title :  My Family - Family Locator
+appId :  family.tracker.my
+score :  4.5249457
+installs : 5,000,000+
+ratings :  83476
+reviews :  936
+
+title :  Pregnancy and Due Date Tracker
+appId :  com.wachanga.pregnancy
+score :  4.6308413
+installs : 5,000,000+
+ratings :  143267
+reviews :  520
+
+title :  Story Book English Fairy Tales
+appId :  com.ufdtech.kidsstories.english.stories
+score :  4
+installs : 100,000+
+ratings :  314
+reviews :  2
+
+title :  Be Closer: Share your location
+appId :  com.becloser
+score :  4.561111
+installs : 10,000,000+
+ratings :  104929
+reviews :  1710
+
+title :  WA Agent: Online Tracker
+appId :  com.waagentplus
+score :  3.84
+installs : 500,000+
+ratings :  8302
+reviews :  60
+
+title :  Microsoft Family Safety
+appId :  com.microsoft.familysafety
+score :  3.413284
+installs : 1,000,000+
+ratings :  17042
+reviews :  969
+
+title :  Family Tracker by Phone Number
+appId :  com.family.locator.find.my.kids
+score :  4.6826925
+installs : 5,000,000+
+ratings :  90311
+reviews :  797
+
+title :  Pregnancy Tracker & Baby App
+appId :  com.wte.view
+score :  4.8217564
+installs : 5,000,000+
+ratings :  101873
+reviews :  16969
+
+title :  Ovulation Calendar & Fertility
+appId :  maybebaby.getpregnant.getbaby.flo
+score :  4.869898
+installs : 1,000,000+
+ratings :  44289
+reviews :  1016
+
+title :  Speech Blubs: Language Therapy
+appId :  org.blubblub.app.speechblubs
+score :  4.5319695
+installs : 1,000,000+
+ratings :  9751
+reviews :  979
+
+title :  LastLog - Last Seen Online Tra
+appId :  com.lastlogapp
+score :  3.96
+installs : 500,000+
+ratings :  18932
+reviews :  62
+
+title :  Kids Videos and Songs
+appId :  com.thoc.kidsvideos
+score :  4.037037
+installs : 1,000,000+
+ratings :  2185
+reviews :  19
+
+title :  Baby Name - Boys & Girls Names
+appId :  com.anwaarulquran.babyname
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Baby Language
+appId :  com.enbyin.babylanguage
+score :  3.66
+installs : 500,000+
+ratings :  1688
+reviews :  80
+
+title :  Family Tracker by Phone Number
+appId :  com.ironlab.familylocationtracker
+score :  4.5555553
+installs : 5,000+
+ratings :  336
+reviews :  14
+
+title :  Baby Maker: Baby Generator App
+appId :  com.vv.facebaby
+score :  3.45
+installs : 100,000+
+ratings :  2020
+reviews :  56
+
+title :  Rewarded Family
+appId :  com.co.rewardedFamily
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  FamiSafe Jr - App for kids
+appId :  com.wondershare.famisafe.kids
+score :  1.7425742
+installs : 500,000+
+ratings :  2273
+reviews :  116
+
+title :  Bedtime Stories for Kids Sleep
+appId :  com.stanislau.bedtime.audio.stories.kids
+score :  4.5346537
+installs : 100,000+
+ratings :  2774
+reviews :  90
+
+title :  KinderMate Kids Videos
+appId :  com.kindermate.kai
+score :  4.4
+installs : 100,000+
+ratings :  215
+reviews :  3
+
+title :  WaSoos - Family Online Tracker
+appId :  com.mak.wasoos
+score :  5
+installs : 1,000+
+ratings :  542
+reviews :  11
+
+title :  amma Pregnancy & Baby Tracker
+appId :  ru.mobiledimension.kbr
+score :  4.6989617
+installs : 10,000,000+
+ratings :  337370
+reviews :  1902
+
+title :  Phone Tracker By Number
+appId :  com.antonio.family.locator.phone.tracker
+score :  4.6612678
+installs : 1,000,000+
+ratings :  93606
+reviews :  3718
+
+title :  Baby Gallery: Picture Editor
+appId :  bebi.family.baby.photo.album
+score :  4.7058825
+installs : 10,000+
+ratings :  486
+reviews :  10
+
+title :  Baby tracker - feeding, sleep
+appId :  com.amila.parenting
+score :  4.871483
+installs : 1,000,000+
+ratings :  98814
+reviews :  8731
+
+title :  Baby Sleep Sounds
+appId :  com.dreamstudio.babysleepsounds
+score :  4.64
+installs : 1,000,000+
+ratings :  19800
+reviews :  89
+
+title :  Parent Center 360 - Family App
+appId :  com.yazidane.parentcenter360
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Qustodio Parental Control App
+appId :  com.qustodio.family.parental.control.app.screentime
+score :  4.2584743
+installs : 1,000,000+
+ratings :  10224
+reviews :  830
+
+title :  BabySparks - Development Activ
+appId :  com.babysparks.babysparks
+score :  4.267327
+installs : 1,000,000+
+ratings :  13454
+reviews :  866
+
+title :  FamilyTime Parental Control
+appId :  io.familytime.dashboard
+score :  3.5839162
+installs : 1,000,000+
+ratings :  10733
+reviews :  2476
+
+title :  Kids 360 – parental control
+appId :  app.kids360.parent
+score :  4.05
+installs : 1,000,000+
+ratings :  12720
+reviews :  39
+
+title :  Parental Control Kroha
+appId :  ua.com.tim_berners.parental_control
+score :  4.04902
+installs : 1,000,000+
+ratings :  19915
+reviews :  519
+
+title :  Healofy -Pregnancy & Parenting
+appId :  com.healofy
+score :  4.37
+installs : 10,000,000+
+ratings :  106775
+reviews :  61
+
+title :  Baby + | Your Baby Tracker
+appId :  com.hp.babyapp
+score :  4.657534
+installs : 5,000,000+
+ratings :  71073
+reviews :  710
+
+title :  FamilyAlbum - Photo Sharing
+appId :  us.mitene
+score :  4.8440323
+installs : 5,000,000+
+ratings :  198531
+reviews :  4401
+
+title :  Online Tracker For Whatsapp
+appId :  com.frk.famytracket
+score :  4.6285715
+installs : 5,000+
+ratings :  2436
+reviews :  14
+
+title :  Movy - Safe Videos and Cartoon
+appId :  com.matlapp.movyint
+score :  3.2857144
+installs : 100,000+
+ratings :  576
+reviews :  3
+
+title :  Pregnancy Day by Day
+appId :  com.kksal55.pregnancydaybyday
+score :  4.7156863
+installs : 500,000+
+ratings :  3372
+reviews :  134
+
+title :  Baby Rattle Toy
+appId :  sk.forbis.babygames
+score :  1.7142857
+installs : 50,000+
+ratings :  125
+reviews :  6
+
+title :  Family360 - GPS Live Location
+appId :  com.testlab.family360
+score :  4.168103
+installs : 1,000,000+
+ratings :  6445
+reviews :  334
+
+title :  WhatsA Online Tracker
+appId :  com.walogs.watrack
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  My Pregnancy - Baby Tracker
+appId :  com.neiman.pregnancy
+score :  4.80198
+installs : 1,000,000+
+ratings :  46255
+reviews :  173
+
+title :  Safe Surfer: Block Porn & Apps
+appId :  com.safesurfer
+score :  3.64
+installs : 500,000+
+ratings :  4341
+reviews :  372
+
+title :  Hubble Connected for Motorola
+appId :  com.blinkhd
+score :  4.027233
+installs : 1,000,000+
+ratings :  24857
+reviews :  5015
+
+title :  Latest Baby Names 2023
+appId :  com.latestbabynames.names
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Baby Tracker - Newborn Feeding
+appId :  com.kksal55.babytracker
+score :  4.740741
+installs : 100,000+
+ratings :  675
+reviews :  12
+
+title :  Pregnancy Tracker, Maternity
+appId :  com.women.pregnancytrackerapp22
+score :  4.2941175
+installs : 1,000,000+
+ratings :  7562
+reviews :  54
+
+title :  Wa Recorder: Online Tracker
+appId :  com.warecorder
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Parental Control Kid Security
+appId :  kz.sirius.kidssecurity
+score :  4.23
+installs : 1,000,000+
+ratings :  31671
+reviews :  239
+
+title :  waDasta - Whatsapp Tracker
+appId :  com.wadasta.lastseen.family.online.tracker
+score :  3.6538463
+installs : 100,000+
+ratings :  5436
+reviews :  43
+
+title :  Offine Kids Song Video
+appId :  com.innara.video.anakengglish
+score :  3.8
+installs : 10,000+
+ratings :  239
+reviews :  3
+
+title :  Glow Nurture Pregnancy Tracker
+appId :  com.glow.android.nurture
+score :  4.46851
+installs : 1,000,000+
+ratings :  26657
+reviews :  6355
+
+title :  Baby phone for toddlers 2022
+appId :  com.AntonBergov.ZvukiSnaMalisha
+score :  3.7272727
+installs : 500,000+
+ratings :  1327
+reviews :  1
+
+title :  Puzzle Play: Building Blocks
+appId :  de.wonderkind.puzzleplay
+score :  4.4
+installs : 10,000+
+ratings :  57
+reviews :  1
+
+title :  Location Tracker - Track Phone
+appId :  com.phtracker.gpslogger
+score :  3.5544555
+installs : 10,000+
+ratings :  129
+reviews :  36
+
+title :  The Log: Potty Training + EC
+appId :  com.mamaworx.godiaperfree
+score :  4.1153846
+installs : 10,000+
+ratings :  44
+reviews :  21
+
+title :  iMumz - Pregnancy & Parenting
+appId :  com.pruoo.pruoo_app
+score :  4.4666667
+installs : 500,000+
+ratings :  2751
+reviews :  9
+
+title :  Mom or Dad Face App - Baby loo
+appId :  com.kiroglue.lookalikemomordadsimilarityparents
+score :  4
+installs : 500,000+
+ratings :  5456
+reviews :  32
+
+title :  BabyCam - Baby Monitor Camera
+appId :  com.arjonasoftware.babycam
+score :  4.428571
+installs : 1,000,000+
+ratings :  22245
+reviews :  528
+
+title :  Baby Sound Sleeper-White Noise
+appId :  com.baby.sleepsounds
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Baby Mam - Your Pregnancy
+appId :  it.babymam
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Baby sleep sounds White noise
+appId :  com.whisperarts.white.noise.whispy
+score :  4.25
+installs : 10,000+
+ratings :  422
+reviews :  3
+
+title :  Sacred
+appId :  com.meenar.sacred
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Pregnancy Weeks Calculator
+appId :  com.facemama.gestograma
+score :  4.5901637
+installs : 1,000,000+
+ratings :  3231
+reviews :  21
+
+title :  Pregnancy Calendar
+appId :  ru.fedr.pregnancy
+score :  4.2
+installs : 1,000,000+
+ratings :  26630
+reviews :  44
+
+title :  Norton Family Parental Control
+appId :  com.symantec.familysafety
+score :  3.2772963
+installs : 1,000,000+
+ratings :  23743
+reviews :  2304
+
+title :  Baby Name Together
+appId :  com.BabyName.start
+score :  4.5
+installs : 1,000,000+
+ratings :  4790
+reviews :  194
+
+title :  MMGuardian Parental Control
+appId :  com.mmguardian.parentapp
+score :  4.1400313
+installs : 1,000,000+
+ratings :  24932
+reviews :  9448
+
+title :  WaMob Online Lastseen Tracker
+appId :  com.wamob.lastseen.family.online.tracker
+score :  4.5384617
+installs : 5,000+
+ratings :  1041
+reviews :  10
+
+title :  Baby Tracker - Breastfeeding
+appId :  simple.babytracker.newbornfeeding.babycare
+score :  4.77
+installs : 500,000+
+ratings :  6851
+reviews :  87
+
+title :  Prodigy Baby - Parenting App
+appId :  com.raising.prodigy
+score :  3.6710527
+installs : 500,000+
+ratings :  9031
+reviews :  54
+
+title :  GeoLocator — We Link Family
+appId :  app.geoloc
+score :  4.41
+installs : 1,000,000+
+ratings :  15352
+reviews :  351
+
+title :  Safes - Parental Control
+appId :  de.sternx.safes
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Mophy - Online Tracker Pro
+appId :  com.mophy.logger
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Mylo Pregnancy & Parenting App
+appId :  in.mylo.pregnancy.baby.app
+score :  4.6960783
+installs : 5,000,000+
+ratings :  132884
+reviews :  358
+
+title :  WaStatus: Online Tracker
+appId :  com.wastatus.status.tracker.lastseen
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Screen Time - Parental Control
+appId :  com.screentime.rc
+score :  3.4726331
+installs : 1,000,000+
+ratings :  50029
+reviews :  9501
+
+title :  Familog - Online Last Seen
+appId :  com.familog
+score :  3.42
+installs : 1,000,000+
+ratings :  16220
+reviews :  94
+
+title :  Angel - Baby heart beat
+appId :  com.baby.heartbeat.angle
+score :  3.3023255
+installs : 50,000+
+ratings :  185
+reviews :  23
+
+title :  Baby Connect: Newborn Tracker
+appId :  com.seacloud.bc
+score :  4.050193
+installs : 100,000+
+ratings :  10361
+reviews :  2454
+
+title :  TELL - A world of stories
+appId :  com.tellapp
+score :  4.25
+installs : 50,000+
+ratings :  290
+reviews :  3
+
+title :  Pregnancy Tracker & Baby Guide
+appId :  com.pregnancyapp.babyinside
+score :  4.71
+installs : 1,000,000+
+ratings :  41584
+reviews :  88
+
+title :  Bebememo - Smart Baby Journal
+appId :  com.liveyap.timehut.bbmemo
+score :  4.25
+installs : 100,000+
+ratings :  1000
+reviews :  11
+
+title :  Purbis - Online Tracker
+appId :  com.familyeta.purbis
+score :  5
+installs : 100,000+
+ratings :  888
+reviews :  111
+
+title :  CryAnalyzer
+appId :  jp.firstascent.cryanalyzer
+score :  2.8
+installs : 100,000+
+ratings :  573
+reviews :  30
+
+title :  Kids Mode
+appId :  ttb.com.kidmode
+score :  2.5
+installs : 100,000+
+ratings :  217
+reviews :  10
+
+title :  Kaspersky SafeKids with GPS
+appId :  com.kaspersky.safekids
+score :  3.3631284
+installs : 1,000,000+
+ratings :  44328
+reviews :  962
+
+title :  Parental Control - Kids Mode
+appId :  com.parental.control.kids.control
+score :  3.1052632
+installs : 50,000+
+ratings :  398
+reviews :  17
+
+title :  Huckleberry Sleep Baby Tracker
+appId :  com.huckleberry_labs.app
+score :  4.6198936
+installs : 500,000+
+ratings :  15425
+reviews :  2302
+
+title :  20,000+ Islamic Names
+appId :  com.namesapp.islamic_names_dictionary
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Solid Starts
+appId :  com.digitas.solidstarts
+score :  2.7524753
+installs : 100,000+
+ratings :  1553
+reviews :  362
+
+title :  Hello Kitty Baby Wristband
+appId :  com.bronze.cubaltum2
+score :  4.2
+installs : 10,000+
+ratings :  60
+reviews :  1
+
+title :  Baby photo editor
+appId :  com.twoweeksapps.baby
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  WhatsDoggie
+appId :  com.wtwm.whatsdoggie
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Leeloo AAC - Autism Speech App
+appId :  org.dreamoriented.leeloo
+score :  3.79
+installs : 100,000+
+ratings :  662
+reviews :  93
+
+title :  world Names Dictionary
+appId :  com.Roshiappstudio.worldnamedictionary
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Fun Routine - Visual schedules
+appId :  br.com.phaneronsoft.rotinadivertida
+score :  3.2380953
+installs : 100,000+
+ratings :  1231
+reviews :  24
+
+title :  WhatsA Last Seen
+appId :  com.walogs.lastseen
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Conjunctivitis & Pinkeye Help
+appId :  com.OneLife2Care.KidsPinkeyeConjunctivitis
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  HiMommy Pregnancy Tracker App
+appId :  androidgecko.com.himommy
+score :  4.3710938
+installs : 500,000+
+ratings :  16003
+reviews :  806
+
+title :  Pregnancy calculator, symptoms
+appId :  com.klapp.pregnancycalandcal
+score :  3.375
+installs : 50,000+
+ratings :  216
+reviews :  2
+
+title :  Breastfeeding Newborn tracker
+appId :  com.whisperarts.kids.breastfeeding
+score :  4.59
+installs : 1,000,000+
+ratings :  10945
+reviews :  354
+
+title :  Llamada de Bruja para Niños
+appId :  com.elbuscator.llamadadebrujaparaninos
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  LogWhat - WA Online Tracker
+appId :  com.logwhat
+score :  3.8695652
+installs : 1,000,000+
+ratings :  12174
+reviews :  33
+
+title :  4 to 12 months baby food chart
+appId :  com.babyfoodchart.bsa
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Breastfeeding tracker Pump log
+appId :  com.whisperarts.erby
+score :  4.6666665
+installs : 100,000+
+ratings :  4935
+reviews :  25
+
+title :  GabaG AplikASI
+appId :  com.gabag.app
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Baby Tracker - Newborn Log
+appId :  com.nighp.babytracker_android
+score :  4.9
+installs : 1,000,000+
+ratings :  46168
+reviews :  4302
+
+title :  Pregnancy Tracker & Calculator
+appId :  com.my.pregnancy.tracker.calculator.calendar.pregnant
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Baby Daybook－Tracker, Schedule
+appId :  com.drillyapps.babydaybook
+score :  4.781113
+installs : 1,000,000+
+ratings :  56472
+reviews :  7020
+
+title :  Annie Baby Monitor: Nanny Cam
+appId :  cz.masterapp.annie3
+score :  4.5784316
+installs : 100,000+
+ratings :  852
+reviews :  45
+
+title :  Personal Story Creator: AI Bot
+appId :  com.kiddoware.ai.little.kids.bedtime.story.books.generator
+score :  3.8888888
+installs : 5,000+
+ratings :  30
+reviews :  5
+
+title :  Heena Health
+appId :  com.appdid.heenahealth
+score :  4.3333335
+installs : 100,000+
+ratings :  1598
+reviews :  5
+
+title :  Baby Monitor Saby. 3G BabyCam
+appId :  com.saby.babymonitor3g
+score :  4.38
+installs : 1,000,000+
+ratings :  16961
+reviews :  351
+
+title :  Eden Baby - Boy or Girl?
+appId :  com.dtcreation.edenapp
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  My Pregnancy App Offline
+appId :  com.mypregnancyapp.duedatetracker.weekbyweek
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Growth Book - Baby Development
+appId :  com.inikworld.growthbook
+score :  3.6930692
+installs : 100,000+
+ratings :  2470
+reviews :  78
+
+title :  Pregnancy Tracking
+appId :  com.ninutek.pregnancy
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Okhai Memon Jamat (OMJ)
+appId :  com.pixcile.theomj
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Miko 3 Parent
+appId :  com.miko3.app
+score :  4.098039
+installs : 10,000+
+ratings :  655
+reviews :  203
+
+title :  Feed Baby - Baby Tracker
+appId :  au.com.penguinapps.android.babyfeeding.client.android
+score :  4.4635353
+installs : 1,000,000+
+ratings :  84870
+reviews :  17515
+
+title :  Sound for kids - Baby touch
+appId :  com.AntonBergov.SoundsAll
+score :  3.875
+installs : 100,000+
+ratings :  861
+reviews :  2
+
+title :  Bedtime Stories - HeyKids
+appId :  ro.heykids.povesti.desene.app
+score :  4.4444447
+installs : 1,000,000+
+ratings :  775
+reviews :  2
+
+title :  Homey - Chores and Allowance
+appId :  com.homey.app
+score :  2.63
+installs : 50,000+
+ratings :  567
+reviews :  220
+
+title :  Cbabyc
+appId :  com.cbabyc
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Safes Kid
+appId :  de.sternx.safes.kid
+score :  4.2
+installs : 1,000+
+ratings :  28
+reviews :  3
+
+title :  Pregnancy Calculator Calendar
+appId :  pregnancy.calculator.calendar.smiko
+score :  4.663158
+installs : 1,000,000+
+ratings :  8523
+reviews :  39
+
+title :  Lullaby for Babies
+appId :  com.dreamstudio.lullabies
+score :  4.7647057
+installs : 1,000,000+
+ratings :  19552
+reviews :  404
+
+title :  Birth & Beyond
+appId :  org.globalhealthmedia.ghmpvideos
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Simple Nanny - Baby Monitor
+appId :  pl.metasoft.babymonitor
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Parent Sense: Daily Baby Care
+appId :  tech.bitcube.parentsense
+score :  2.7857144
+installs : 50,000+
+ratings :  335
+reviews :  6
+
+title :  Family Locator Tracker GPS
+appId :  ar.com.megaingenieria.emobi.locator
+score :  4.23
+installs : 500,000+
+ratings :  4730
+reviews :  142
+
+title :  White Noise: Baby Sleep Sounds
+appId :  pl.trpaslik.babynoise
+score :  4.3168316
+installs : 500,000+
+ratings :  8870
+reviews :  407
+
+title :  Bedtime Story for sleeping
+appId :  com.simka.ai.children.bed.stories.android
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  babybubble: for mothers (FREE)
+appId :  hr.apps.n199186
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Pregnancy Week By Week
+appId :  com.kksal55.haftahaftagebelik
+score :  4.5
+installs : 100,000+
+ratings :  3809
+reviews :  93
+
+title :  Parental Control App - Mobicip
+appId :  mobicip.com.safeBrowserff
+score :  2.2017543
+installs : 100,000+
+ratings :  2238
+reviews :  656
+
+title :  Contraction Timer & Counter 9m
+appId :  com.neiman.contractions
+score :  4.808
+installs : 1,000,000+
+ratings :  56004
+reviews :  573
+
+title :  HubbleClub By Hubble Connected
+appId :  com.hubblebaby.nursery
+score :  4
+installs : 100,000+
+ratings :  1936
+reviews :  551
+
+title :  Napper: Baby Sleep & Parenting
+appId :  com.napper
+score :  4.3536587
+installs : 10,000+
+ratings :  668
+reviews :  41
+
+title :  ESET Parental Control
+appId :  com.eset.parental
+score :  3.82
+installs : 1,000,000+
+ratings :  24754
+reviews :  331
+
+title :  Cute Unicorn Care Babysitter
+appId :  com.hg.unicorngames.caregames.daycarenursery
+score :  3.8333333
+installs : 100,000+
+ratings :  300
+reviews :  2
+
+title :  شرطة الأطفال - مكالمة وهمية
+appId :  com.oubapps.po.ch
+score :  4.0477815
+installs : 10,000,000+
+ratings :  147631
+reviews :  831
+
+title :  Baby Exercises & Activities
+appId :  dat1.videoplatform.android.babyapp
+score :  2.6875
+installs : 10,000+
+ratings :  163
+reviews :  6
+
+title :  OffenderWatch App
+appId :  com.watchsystems.svnparent
+score :  2.86
+installs : 50,000+
+ratings :  155
+reviews :  61
+
+title :  Baby Development & Parenting
+appId :  com.babyg
+score :  4.4375
+installs : 100,000+
+ratings :  1948
+reviews :  30
+
+title :  FamilyTime Jr.
+appId :  io.familytime.parentalcontrol
+score :  1.52
+installs : 100,000+
+ratings :  1144
+reviews :  244
+
+title :  Sleepy Toys: Bedtime Stories f
+appId :  com.devgame.goodnight.girls.sweetdreams.boys.nightynight.little.childrens
+score :  4.181818
+installs : 50,000+
+ratings :  128
+reviews :  6
+
+title :  Namly - Baby Boy and Girl Name
+appId :  xyz.gilliy.android.apps.namly
+score :  3.4444444
+installs : 50,000+
+ratings :  161
+reviews :  13
+
+title :  Asianparent: Pregnancy & Baby
+appId :  com.tickledmedia.ParentTown
+score :  4.79
+installs : 5,000,000+
+ratings :  314266
+reviews :  106
+
+title :  280days: Pregnancy Diary
+appId :  com.amanefactory.totsukitoka
+score :  4.41
+installs : 1,000,000+
+ratings :  39560
+reviews :  423
+
+title :  Kinedu: Baby Development Plan
+appId :  com.kinedu.appkinedu
+score :  4.765854
+installs : 5,000,000+
+ratings :  34325
+reviews :  654
+
+title :  kids police - fake call app
+appId :  com.fakevideocallapps.policecallaesf
+score :  2.5
+installs : 50,000+
+ratings :  105
+reviews :  2
+
+title :  Notify - Online Tracker
+appId :  com.frk.wafamy
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  LittlePicasso Kids art storage
+appId :  com.kiwistudio.littlepicasso
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Motorola by Hubble Connected
+appId :  com.hubble.care
+score :  3.8968253
+installs : 100,000+
+ratings :  2205
+reviews :  488
+
+title :  BLW Meals: How to Start Solids
+appId :  com.n51951dd8177.app
+score :  4.1136365
+installs : 50,000+
+ratings :  176
+reviews :  16
+
+title :  Night Vision Mod for Minecraft
+appId :  com.nightvisionmod.mcpefornightvision
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  My baby firework
+appId :  com.dokdoapps.mybabyfirework
+score :  3.6424582
+installs : 1,000,000+
+ratings :  5212
+reviews :  376
+
+title :  lowa - LastSeen Online Tracker
+appId :  com.lowa.lastseen.family.online.tracker
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Scrnlink Kids App
+appId :  com.mobile.scrnlinkkids
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Baby Sleep Sounds
+appId :  com.premiumsoftware.gotosleepbaby
+score :  4.768421
+installs : 100,000+
+ratings :  4109
+reviews :  44
+
+title :  Baby Name Game
+appId :  com.bestbabynamegame
+score :  4.3333335
+installs : 10,000+
+ratings :  37
+reviews :  8
+
+title :  FamilyAura Kin - Parental App
+appId :  com.familyaura.kin
+score :  0
+installs : 10+
+ratings :  0
+reviews :  0
+
+title :  Bablr Mother & Baby Program
+appId :  com.neosap_global.bablr
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Dumb Ways to Sleep
+appId :  au.com.metrotrains.dwtdsleep
+score :  4.3333335
+installs : 10,000+
+ratings :  60
+reviews :  4
+
+title :  Maxcraft Castle Cube Builder
+appId :  max.craft.maxcraft.crafting.exploration.survival
+score :  3.5764706
+installs : 500,000+
+ratings :  1920
+reviews :  44
+
+title :  Kick Counter - Track your baby
+appId :  app.pregnancy.kick.counter.free
+score :  4.1034484
+installs : 100,000+
+ratings :  354
+reviews :  10
+
+title :  Nayatel N Watch (TV)
+appId :  com.nayatel.hp.nwatch
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Origami for kids: easy schemes
+appId :  com.womanoka.origkids
+score :  4.3333335
+installs : 100,000+
+ratings :  2125
+reviews :  15
+
+title :  Mommy Maternity Newborn Twins 
+appId :  com.Girls.Fashion.Entertainment.Mommy.Maternity.Newborn.Twins.Babies.Nursery
+score :  3.5238094
+installs : 1,000,000+
+ratings :  3115
+reviews :  36
+

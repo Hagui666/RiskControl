@@ -1,0 +1,1400 @@
+title :  Dating and Chat - SweetMeet
+appId :  ru.fotostrana.sweetmeet
+score :  3.9645214
+installs : 50,000,000+
+ratings :  252209
+reviews :  4786
+
+title :  Live Talk - Girls Video Call
+appId :  com.livetalk.randomvideocall.videocall.stranger.call.video.chat
+score :  4.375
+installs : 100,000+
+ratings :  1174
+reviews :  13
+
+title :  Live Video chat
+appId :  com.livetalkcall.livevideochat.freevideocalls.randomchat
+score :  4.259259
+installs : 100,000+
+ratings :  1438
+reviews :  11
+
+title :  Dating with singles - iHappy
+appId :  com.ihappydate
+score :  4.0772443
+installs : 10,000,000+
+ratings :  58155
+reviews :  1829
+
+title :  Clover - Live Stream Dating
+appId :  co.clover.clover
+score :  4.0786633
+installs : 5,000,000+
+ratings :  70495
+reviews :  17571
+
+title :  GB App latest Version 2023
+appId :  com.k.version.gb_pro_latest
+score :  4.638889
+installs : 500,000+
+ratings :  1857
+reviews :  16
+
+title :  LP: Dating Video Chat Live
+appId :  ru.loveplanet.app
+score :  4.1460505
+installs : 10,000,000+
+ratings :  154634
+reviews :  1151
+
+title :  Dating and Chat - Evermatch
+appId :  com.evermatch
+score :  4.164835
+installs : 10,000,000+
+ratings :  110932
+reviews :  2411
+
+title :  online sexy girls live chat
+appId :  online.bangladeshigirlchatmeet
+score :  3.661017
+installs : 1,000,000+
+ratings :  2553
+reviews :  19
+
+title :  Charis – Video chat online
+appId :  com.charis.social
+score :  3.6
+installs : 100,000+
+ratings :  362
+reviews :  2
+
+title :  Muslima: Arab & Muslim Dating
+appId :  com.cupidmedia.wrapper.muslima
+score :  4.3063064
+installs : 1,000,000+
+ratings :  30622
+reviews :  375
+
+title :  AI Girlfriend - Chatbot Friend
+appId :  com.aichat.virtual.chatbot.bb
+score :  2.2857144
+installs : 5,000+
+ratings :  25
+reviews :  3
+
+title :  real sexy girl live video chat
+appId :  sexy.girlswhatsappnumberforfriendship
+score :  3.9142857
+installs : 1,000,000+
+ratings :  1830
+reviews :  11
+
+title :  Muzz - formerly muzmatch
+appId :  com.muzmatch.muzmatchapp
+score :  4.4227886
+installs : 5,000,000+
+ratings :  93286
+reviews :  2006
+
+title :  Tinder: Dating app. Meet. Chat
+appId :  com.tinder
+score :  3.554919
+installs : 100,000,000+
+ratings :  5673078
+reviews :  249765
+
+title :  RishtaPak
+appId :  com.fahad.rishtapak
+score :  4.1875
+installs : 100,000+
+ratings :  3038
+reviews :  19
+
+title :  Sexy Girls Live Video Call App
+appId :  mirchi.livevideo.chat
+score :  4.0833335
+installs : 1,000,000+
+ratings :  5027
+reviews :  0
+
+title :  Yo Watssapp 2023 Version
+appId :  com.yo.watssapp
+score :  3.8214285
+installs : 1,000,000+
+ratings :  3424
+reviews :  26
+
+title :  Sexy girls live video chat
+appId :  sexy.girlslivevideochat6
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Live Video Call With Girls
+appId :  com.PIPEditor.PhotoMaker
+score :  4.352941
+installs : 1,000,000+
+ratings :  2010
+reviews :  19
+
+title :  Bumble: Dating & Friends app
+appId :  com.bumble.app
+score :  3.9931219
+installs : 50,000,000+
+ratings :  693892
+reviews :  71749
+
+title :  Uluv-Indian Girls Video Chat
+appId :  com.uluv.indiangirlsvideochat
+score :  4.8
+installs : 50,000+
+ratings :  322
+reviews :  2
+
+title :  HD X Live Video Call
+appId :  com.Video123.livecallabc
+score :  4.25
+installs : 100,000+
+ratings :  696
+reviews :  3
+
+title :  Badoo - Dating. Chat. Meet.
+appId :  com.badoo.mobile
+score :  3.996515
+installs : 100,000,000+
+ratings :  6177587
+reviews :  202242
+
+title :  Dating and chat - Maybe You
+appId :  com.maybeyou
+score :  4.0592103
+installs : 10,000,000+
+ratings :  38096
+reviews :  1154
+
+title :  Sexy Girl Live Video Call
+appId :  com.thingsx.videochat
+score :  4.69
+installs : 100,000+
+ratings :  8516
+reviews :  69
+
+title :  Sexy Video Call & Sexy Live
+appId :  com.lightcode.sexyvideochat.sexylive
+score :  4.5544553
+installs : 100,000+
+ratings :  20885
+reviews :  151
+
+title :  Girls online Video Call Chat
+appId :  com.girls.live.video.call.random
+score :  4.785714
+installs : 100,000+
+ratings :  726
+reviews :  6
+
+title :  Real Girls Number For Chat
+appId :  com.aadevelopers.prank_chatting
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  join girls whats group links
+appId :  com.girllive.videochat
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Live Talk: Live Video Call App
+appId :  us.livevideocall.randomchat.livetalk
+score :  4.2277226
+installs : 1,000,000+
+ratings :  5024
+reviews :  31
+
+title :  Hot Indian Girls Video Chat - 
+appId :  com.deccanappz.livechat.indianchat
+score :  3.8415842
+installs : 10,000,000+
+ratings :  29801
+reviews :  38
+
+title :  Sexy Girl Live Video Call
+appId :  com.videocalling.smartcallingg
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  uk sexy girls live video chat
+appId :  ladke.sebaatkarnewalaapp2
+score :  3.3333333
+installs : 100,000+
+ratings :  460
+reviews :  0
+
+title :  Sexy Pakistani Girls Live Chat
+appId :  com.pakistani.girls.live.chat.hot.pakistani.aurum
+score :  4.571429
+installs : 10,000+
+ratings :  332
+reviews :  2
+
+title :  Global Video call Random Cally
+appId :  com.videocall.live.globalcall.randomcall.chat
+score :  4.45
+installs : 500,000+
+ratings :  946
+reviews :  8
+
+title :  Ladki Se Baat Karne Wala App
+appId :  com.Jk12J.LiveCall
+score :  3
+installs : 100,000+
+ratings :  1004
+reviews :  3
+
+title :  Indian Sexy Girls Video Call
+appId :  com.free.indiangirlschat
+score :  3.9375
+installs : 100,000+
+ratings :  1529
+reviews :  14
+
+title :  Livetalk - Live Video Chat
+appId :  com.infobox.videocall.livevideocall.randomcall2022
+score :  4.5
+installs : 100,000+
+ratings :  353
+reviews :  2
+
+title :  Sexy Girls Mobile Number for w
+appId :  sexy.girlsphonenumbersforwahchat
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  CUPI CHAT: dating, flirt, meet
+appId :  com.cupichat.android
+score :  4.2327585
+installs : 5,000,000+
+ratings :  30942
+reviews :  210
+
+title :  Ladki se Baat Karne Wala App
+appId :  app.chat.ladkisebaatkarnewala
+score :  4.025641
+installs : 500,000+
+ratings :  8964
+reviews :  6
+
+title :  Pakistani Girl Live Video Chat
+appId :  com.pakistani.girlslivechat
+score :  4.33
+installs : 100,000+
+ratings :  7657
+reviews :  45
+
+title :  Sexy Girls Chat - Video Call
+appId :  com.free.girlschatz
+score :  4.0987654
+installs : 500,000+
+ratings :  2487
+reviews :  44
+
+title :  real sexy girls video call
+appId :  com.hsy.livetalk.sexygirlsvideocall
+score :  4.611111
+installs : 500,000+
+ratings :  1997
+reviews :  2
+
+title :  Live Talk - Girls Video Call
+appId :  com.lvc.live.talk.video.call.chat.random.stranger
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Girls Mobile Number
+appId :  girls.mobilenumber3
+score :  4.9411764
+installs : 50,000+
+ratings :  572
+reviews :  14
+
+title :  Real girls Number for Chat
+appId :  com.appdev.prankchatapp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Pakistani Girls Whats Numbers
+appId :  com.pakistani_girls.mobile_numbers_chat_2023
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Hotty Girl Video Call
+appId :  com.Video31.livecall31
+score :  2.8
+installs : 50,000+
+ratings :  225
+reviews :  2
+
+title :  Girlfriend Boyfriend Questions
+appId :  my.love.questoaskgirlsoftlaps
+score :  4.3333335
+installs : 100,000+
+ratings :  656
+reviews :  18
+
+title :  ZEEBEE - Dating and Video Chat
+appId :  com.dvappz.zeebeevideocall.videochat
+score :  3.8
+installs : 100,000+
+ratings :  767
+reviews :  0
+
+title :  Sexy Girls Mobile Numbers For 
+appId :  real.desigirlsmobilenumberforchatmeet
+score :  3.1111112
+installs : 500,000+
+ratings :  1085
+reviews :  4
+
+title :  Join Girls Whatsp Groups Link
+appId :  com.joingirlswhatsgroups.linksappset
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Join Girls Whats Group Links
+appId :  join.girlswhatsgroup.links
+score :  3.857143
+installs : 100,000+
+ratings :  2667
+reviews :  8
+
+title :  Y Hookup App FWB Adult dating
+appId :  com.tabooapp.dating
+score :  4.316165
+installs : 1,000,000+
+ratings :  115132
+reviews :  1645
+
+title :  Join Girls Whatsp Groups Links
+appId :  com.grlswhatsgroupslinksjoin.android
+score :  4.5
+installs : 50,000+
+ratings :  236
+reviews :  8
+
+title :  Stranger Girls Random Chat App
+appId :  com.hsdroid.chatbuddy
+score :  2.609756
+installs : 500,000+
+ratings :  2399
+reviews :  40
+
+title :  Jini Video Chat - Live Talk
+appId :  com.livicall.livevideoliviapps
+score :  4.56
+installs : 500,000+
+ratings :  3858
+reviews :  15
+
+title :  CooMeet: Video Chat with Girls
+appId :  com.coomeet.app
+score :  4.05
+installs : 1,000,000+
+ratings :  4243
+reviews :  47
+
+title :  Online Desi Girls Video Chat
+appId :  online.desi.girlsmet
+score :  4.3454547
+installs : 1,000,000+
+ratings :  5834
+reviews :  36
+
+title :  Sexy Video Call Sexy Live
+appId :  com.sexylive.sexyvideocallsexylive
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Mingle2: Dating, Chat & Meet
+appId :  mingle.android.mingle2
+score :  4.4350915
+installs : 10,000,000+
+ratings :  303303
+reviews :  33115
+
+title :  Live video Chat-Global Call
+appId :  call.globalcall.livetalk.random.live.video.chat
+score :  4.34
+installs : 100,000+
+ratings :  956
+reviews :  5
+
+title :  Random Chat (Stranger Chat)
+appId :  kr.jungrammer.randomchat
+score :  3.38
+installs : 1,000,000+
+ratings :  5388
+reviews :  370
+
+title :  Live Video Dating Chat - Choco
+appId :  ru.chocoapp.app
+score :  4.341743
+installs : 5,000,000+
+ratings :  76793
+reviews :  1030
+
+title :  Sexy Girls Live Video Call
+appId :  com.videocall.sexygirlsvideocall
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Chat America
+appId :  chatamerica.net
+score :  4.122807
+installs : 1,000,000+
+ratings :  35376
+reviews :  392
+
+title :  Online Video Call
+appId :  com.calltwo6.vids.call.tallkss
+score :  4.2
+installs : 100,000+
+ratings :  423
+reviews :  0
+
+title :  Sexy Video Call Sexy Live
+appId :  com.sexy.sexylive
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Random Video Call - Live
+appId :  com.vc.live.flix.live_video
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Ladki se call karne wala app
+appId :  com.callten.video.calll.romancee.hot
+score :  3.8235295
+installs : 1,000,000+
+ratings :  3303
+reviews :  1
+
+title :  Online Girls Chat Meet
+appId :  girls.chatmet
+score :  3.3030303
+installs : 1,000,000+
+ratings :  5663
+reviews :  46
+
+title :  Ladki Se Baat Karne Wala App
+appId :  com.YXCa4l2l.WbLivevideo
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Girls Mobile Number
+appId :  com.girls.mobile.number.app
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Online Girls Live Chat
+appId :  livegirls.met
+score :  3.7575758
+installs : 1,000,000+
+ratings :  2646
+reviews :  23
+
+title :  Pakistani Chat for Singles
+appId :  datingapp.freedatingapp.girlsdatingapp.datingwebsite.pakistanigirlsdating.desigirls
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Roulette Chat Video Omegle Ome
+appId :  chat.roulette
+score :  4.6594486
+installs : 1,000,000+
+ratings :  110696
+reviews :  460
+
+title :  Live video call
+appId :  com.misoj.livevideocallchat
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Sexy Girl Video Call: SexyLive
+appId :  com.thingsx.livevideocall.livevideochat.sexygirl.sexylive
+score :  4.4950495
+installs : 100,000+
+ratings :  4152
+reviews :  29
+
+title :  Sexy Girls Video Call
+appId :  com.indiangirls.videocall.svc
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  FilipinoCupid: Filipino Dating
+appId :  com.cupidmedia.wrapper.filipinocupid
+score :  4.4028435
+installs : 1,000,000+
+ratings :  24791
+reviews :  403
+
+title :  Sexy Girls Phone Numbers For w
+appId :  girls.phone.numbersapz
+score :  3.6666667
+installs : 1,000,000+
+ratings :  2803
+reviews :  2
+
+title :  Match and Meet - Dating app
+appId :  com.theystream
+score :  4.3347826
+installs : 100,000+
+ratings :  30919
+reviews :  285
+
+title :  Sexy Real Girls Video Chat- Da
+appId :  com.videocallfree.girlsvideochat
+score :  4.9
+installs : 100,000+
+ratings :  820
+reviews :  5
+
+title :  Indian Girls Random Video Chat
+appId :  com.vistudio.livechat.hotvideos.indianbhabhi
+score :  3.95
+installs : 1,000,000+
+ratings :  3036
+reviews :  3
+
+title :  Girls Live Video Call
+appId :  com.ugirlslive.videochat
+score :  4.36
+installs : 500,000+
+ratings :  35689
+reviews :  35
+
+title :  RandoChat - Chat roulette
+appId :  com.random.chat.app
+score :  2.8629737
+installs : 10,000,000+
+ratings :  73293
+reviews :  1839
+
+title :  Sexy Girls video live chat
+appId :  online.girlslivechat2
+score :  3.9411764
+installs : 500,000+
+ratings :  2989
+reviews :  32
+
+title :  Sexy Girls Live Video Chat - O
+appId :  com.shineapps.onlinegirls.videochat
+score :  3.7959185
+installs : 1,000,000+
+ratings :  3461
+reviews :  8
+
+title :  Pleasant Talk
+appId :  com.pleasant.talkiing
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Pakistani Girls,  Chat & Date
+appId :  com.pakistani.girls.live.chat.dating.ab
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Sexy Pakistani Girls Numbers
+appId :  com.pakistanigirlsmobile.whatsappnumbersapp
+score :  4.6153846
+installs : 100,000+
+ratings :  1348
+reviews :  4
+
+title :  Girly-Indian Girl Phone Number
+appId :  com.girly.indiangirlsvideocall
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Meet4U - Chat, Love, Singles!
+appId :  com.wildec.dating.meet4u
+score :  4.1722546
+installs : 5,000,000+
+ratings :  70198
+reviews :  3344
+
+title :  Online Girls Chat with Boys
+appId :  online.girlschat.meetgirls
+score :  3.5
+installs : 500,000+
+ratings :  755
+reviews :  13
+
+title :  PearUp - Chat & Dating App
+appId :  com.pearapi.pearup
+score :  3.31
+installs : 100,000+
+ratings :  570
+reviews :  280
+
+title :  Online Video Calling
+appId :  com.digixo.livevideocall04dd
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  XV Live Video Call
+appId :  com.ynj_vj.ndvnwatching
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Camgo - Dating Chat with Girls
+appId :  com.datingonline.chat
+score :  4.7
+installs : 100,000+
+ratings :  317
+reviews :  25
+
+title :  Gay guys chat & dating app
+appId :  gayfriendly.gay.dating.app
+score :  3.85
+installs : 1,000,000+
+ratings :  9297
+reviews :  387
+
+title :  MeetNow Random Chat Girls.
+appId :  com.random.chat.meetnow
+score :  2.8888888
+installs : 100,000+
+ratings :  681
+reviews :  11
+
+title :  Pakistani Lounge Dating
+appId :  com.pakistanilounge.erosapp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Sexy Girl Live Video Call
+appId :  com.ZzZ6GgTt8Yy.videocall
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Sexy Girl Live video call
+appId :  com.Gertski.videicalllike
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Sexy Pakistani Girls Live Chat
+appId :  com.sexy.pakistani.livechat.aurumlife.tech
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Zarorat e Rishta , Free Rishta
+appId :  com.zaroraterishta
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ladki Ka Number Dene Wala App
+appId :  com.grilphonenumberfree.ladkikanumberwalaapp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Girls Mobile Number Video Chat
+appId :  com.girlsmobilenumber.videocallingapp
+score :  4.4
+installs : 10,000+
+ratings :  176
+reviews :  2
+
+title :  Sexy Girls Phone Numbers Chat
+appId :  com.callgirls.mobilenumbers
+score :  3.9333334
+installs : 100,000+
+ratings :  511
+reviews :  6
+
+title :  Online Video Call
+appId :  com.BbFf.GgFf
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Sexy Girls Video Chat
+appId :  com.lightcode.sexylive.sexyvideocall
+score :  4.694737
+installs : 10,000+
+ratings :  2408
+reviews :  26
+
+title :  Ome - Live Video Call 2023
+appId :  com.flix.ome
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Girls Live Video Call
+appId :  com.MariyentJumbo.MJCall
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Random Video Call - Live Talk
+appId :  in.livetalk.randomvideocall
+score :  4.3333335
+installs : 100,000+
+ratings :  5267
+reviews :  11
+
+title :  Meli - Live Video Chat
+appId :  com.fbapps.random.video.chat
+score :  3.6857142
+installs : 100,000+
+ratings :  1489
+reviews :  12
+
+title :  Girls Live Video Call
+appId :  com.angel.videoplayer
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Indian Sexy Girls Whats Number
+appId :  com.indiansexygirls.wpnumbers
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Indian Girls Number For Whatsp
+appId :  online.indiangirlslivechatmeet2
+score :  3.68
+installs : 500,000+
+ratings :  6704
+reviews :  10
+
+title :  Dating and Chat - Only Spark
+appId :  com.onlyspark
+score :  4.212766
+installs : 100,000+
+ratings :  616
+reviews :  13
+
+title :  BeboLive: Live Video Calling
+appId :  com.weblinkstech.bebolive
+score :  4.125
+installs : 100,000+
+ratings :  647
+reviews :  2
+
+title :  Ladki se baat karne wala apps
+appId :  ladki.sesexybaatkarnewalaapps
+score :  4
+installs : 500,000+
+ratings :  1037
+reviews :  3
+
+title :  Sexy Girl Live Video Call
+appId :  com.Hh6Nnmmcall.videocall
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Dating and chat - Likerro
+appId :  com.panda.likerro
+score :  4.237288
+installs : 5,000,000+
+ratings :  17850
+reviews :  346
+
+title :  Ladki se baat karne wala app
+appId :  com.Video25.livecall25
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Rex Lite: Live Video Chat
+appId :  com.rexlee.lite
+score :  4.6060605
+installs : 50,000+
+ratings :  130
+reviews :  43
+
+title :  Anonymous Chat Rooms, Dating
+appId :  com.antiland
+score :  3.9351852
+installs : 5,000,000+
+ratings :  52192
+reviews :  2818
+
+title :  sexy girl live video call chat
+appId :  sexy.girlslivevideocallchat5
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Sweety Girl - Live Video Talk
+appId :  com.Video789.livecallghi
+score :  2.6
+installs : 50,000+
+ratings :  138
+reviews :  2
+
+title :  Single Girls Numbers
+appId :  com.single.girls.number.hd
+score :  2.2
+installs : 10,000+
+ratings :  103
+reviews :  3
+
+title :  Honey Talk - Random Chat
+appId :  kr.jungrammer.honeytalk
+score :  2.85
+installs : 500,000+
+ratings :  1012
+reviews :  44
+
+title :  Indian Girls Video Chat App
+appId :  com.free.video.call.livechat.indian.bhabhi
+score :  4.071429
+installs : 1,000,000+
+ratings :  1982
+reviews :  1
+
+title :  Mamba - Online Dating and Chat
+appId :  ru.mamba.client
+score :  4.067241
+installs : 10,000,000+
+ratings :  673100
+reviews :  3879
+
+title :  AsianDating: Asian Dating
+appId :  com.cupidmedia.wrapper.asiandating
+score :  3.62
+installs : 1,000,000+
+ratings :  6058
+reviews :  323
+
+title :  Live Video Call
+appId :  com.videocall.meet.people
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Girls Number Video Call Chat
+appId :  girls.mobilenumber.chat
+score :  4.4117646
+installs : 50,000+
+ratings :  942
+reviews :  5
+
+title :  Zoosk - Social Dating App
+appId :  com.zoosk.zoosk
+score :  3.3508708
+installs : 10,000,000+
+ratings :  626901
+reviews :  104081
+
+title :  Live Video Call - Video Chat
+appId :  com.videocall.adrandomvideocall
+score :  4.75
+installs : 100,000+
+ratings :  942
+reviews :  1
+
+title :  Sexy Girl Live Video Call
+appId :  com.Joj6jj5gthl.videocall
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Wooglu - Like. Pair. Date.
+appId :  com.woogludating.wooglu
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Pakistani Girl Video Call Chat
+appId :  com.pakistanigirl.videocallchat
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Livetalk - Live Video Chat
+appId :  com.livetalk.videocalling.randomchat.message.random.people.global
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Indian Sexy Girls Join Groups 
+appId :  com.indiansexygirls.joingroupslinkforwhats
+score :  4.5757575
+installs : 100,000+
+ratings :  1306
+reviews :  21
+
+title :  Sexy Girl Live Video Call
+appId :  com.live.livecall0011
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  MeetEZ - Chat & find your love
+appId :  com.mdd.dating
+score :  4.4
+installs : 1,000,000+
+ratings :  15442
+reviews :  916
+
+title :  Galachat: Avatars & Chat Rooms
+appId :  me.ingala.galachat
+score :  3.9230769
+installs : 100,000+
+ratings :  485
+reviews :  4
+
+title :  iFlirts – Flirt, Dating & Chat
+appId :  com.appspartner.iflirts
+score :  3.5922039
+installs : 1,000,000+
+ratings :  16033
+reviews :  3436
+
+title :  Totok : Video Calls & Voice
+appId :  com.TOTOK.facetime.call
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  TWINK - Gay Chat Live
+appId :  gaychat.partnerapp.dating
+score :  4.387097
+installs : 500,000+
+ratings :  26548
+reviews :  221
+
+title :  Indian Girls Live Video Call
+appId :  com.w1indiangirls.videocall
+score :  4.1666665
+installs : 10,000+
+ratings :  189
+reviews :  1
+
+title :  وتس ادم بلس الاسود | اخر اصدار
+appId :  com.amorynam.apk
+score :  4.3
+installs : 500,000+
+ratings :  6503
+reviews :  49
+
+title :  Live Talk - Video call
+appId :  com.Video60.livecall60
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Join Girls Whats Group Links
+appId :  com.randomgirls.live
+score :  3.5833333
+installs : 100,000+
+ratings :  1118
+reviews :  4
+
+title :  USA Girls Live Video Chat
+appId :  usa.girlslivevideochat
+score :  4.1698112
+installs : 500,000+
+ratings :  3579
+reviews :  26
+
+title :  Sexy Girl Video Call
+appId :  com.videocall.randomHotBhabhiVideoAndChat
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  LiveHub - Video Chat & Meet
+appId :  com.livehub.app
+score :  4
+installs : 10,000+
+ratings :  33
+reviews :  1
+
+title :  Girls Whats Groups Links Join
+appId :  com.girlswhatsgroupslinks.joinandroidapp
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Video Call Random Chat - Live 
+appId :  com.videocall.randomcallapps
+score :  3.83
+installs : 5,000,000+
+ratings :  8890
+reviews :  26
+
+title :  Bhabi Cam Live - Video Calling
+appId :  random.clouddate.xyz
+score :  4.4827585
+installs : 1,000,000+
+ratings :  3848
+reviews :  5
+
+title :  Goodnight - Random Voice Chat
+appId :  com.one.goodnight
+score :  3.7596898
+installs : 5,000,000+
+ratings :  93341
+reviews :  563
+
+title :  Ladki se baat krne vala app
+appId :  com.call4.live.romantic.video
+score :  4.6666665
+installs : 500,000+
+ratings :  1390
+reviews :  0
+
+title :  Live Video Call App: Live Talk
+appId :  io.livetalk.videocallapp
+score :  3.9
+installs : 100,000+
+ratings :  1142
+reviews :  1
+
+title :  YouFlirt - flirt & chat app
+appId :  com.grandview.youflirt
+score :  3.08
+installs : 500,000+
+ratings :  2102
+reviews :  204
+
+title :  Secret - Dating Nearby Casual
+appId :  ru.taboo.app
+score :  4.8137417
+installs : 1,000,000+
+ratings :  37899
+reviews :  3441
+
+title :  Video Call Random Chat - Live
+appId :  com.bdvideocall.randomvideocall
+score :  4.194175
+installs : 10,000,000+
+ratings :  47147
+reviews :  100
+
+title :  Online Video Call
+appId :  com.ydnj.dnva
+score :  4.1666665
+installs : 10,000+
+ratings :  115
+reviews :  0
+
+title :  Alo - Social Random Chat
+appId :  com.videochat.alo
+score :  4.26
+installs : 100,000+
+ratings :  16098
+reviews :  36
+
+title :  xBrowser - Proxy Browser & VPN
+appId :  com.xxnxx.browser.proxy.vpn
+score :  4.263158
+installs : 500,000+
+ratings :  5695
+reviews :  12
+
+title :  Dating Girls Call Random Chat
+appId :  com.random.chat.sandyapp
+score :  5
+installs : 50,000+
+ratings :  211
+reviews :  4
+
+title :  Sexy Ladki Video Call
+appId :  com.Li8VeUt.KL8I8Ve
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  InternationalCupid: Dating
+appId :  com.cupidmedia.wrapper.internationalcupid
+score :  4.509804
+installs : 1,000,000+
+ratings :  19387
+reviews :  243
+
+title :  Curvy Singles Dating
+appId :  com.curvydating
+score :  4.369942
+installs : 1,000,000+
+ratings :  11717
+reviews :  726
+
+title :  Pakistani Girls Live Chat J.M
+appId :  pakistani.girlslivechatmuskan2
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Girls Talk - Live Video Call
+appId :  com.girlslivevideocalling.freelivevideochat.randomvideocall.app
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Live Video Call
+appId :  com.IndianPenal.IPc
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Live Talk - Random Video Chat
+appId :  com.livetalk.calladvice.girlvideocall.randomcall
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  جي بي واتساب
+appId :  com.algebealchat.app
+score :  4.352941
+installs : 50,000+
+ratings :  142
+reviews :  3
+
+title :  Live Chat Video Call - LiveFun
+appId :  com.momex.livevideocall.randomvideochat
+score :  4.16
+installs : 1,000,000+
+ratings :  4455
+reviews :  22
+
+title :  US sexy girls video call
+appId :  com.sexygirls.ussexygirlsvideocall
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Bhabi Cam Live - Video Calling
+appId :  com.shararasharara.callmehoon
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Sigma Uni
+appId :  com.sigmauni.psihopa
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Hollywood English Hindi Dubbed
+appId :  com.arb.onlinedate.datewithgril
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  real sexy girl live video chat
+appId :  com.real.sexyyygirlslivevideochatdf
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Threesome Swingers App - 3way
+appId :  app.threesome.dating
+score :  4.6943398
+installs : 500,000+
+ratings :  8773
+reviews :  1773
+
+title :  Stranger Talk (Random Chat)
+appId :  kr.jungrammer.strangertalk
+score :  2.7333333
+installs : 100,000+
+ratings :  254
+reviews :  8
+
+title :  Video Call App With Sexy Girls
+appId :  com.playertest.videocallappwithsexygirlstest
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Join Girls Whatsp Groups Link
+appId :  com.randomgirls.whatspgrouplinksjoin
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Join - Meet & Live chat
+appId :  com.videochat.dateu.online
+score :  4.3960395
+installs : 1,000,000+
+ratings :  32240
+reviews :  281
+
+title :  WhiteG - Gay Call & Chat
+appId :  com.taki.lgbt.whiteg
+score :  4.25
+installs : 50,000+
+ratings :  243
+reviews :  4
+
+title :  Casual Dating: Local Meetup
+appId :  one.night.casual.secret.adult.singles.dating.meet.match.chat.free.video.hook.up
+score :  4.1
+installs : 500,000+
+ratings :  3365
+reviews :  211
+
+title :  FastMeet: Chat, Dating, Love
+appId :  com.wildec.fastmeet
+score :  4.292096
+installs : 5,000,000+
+ratings :  49796
+reviews :  5031
+
+title :  Girls Online
+appId :  chat.girlsonline
+score :  4.42
+installs : 1,000,000+
+ratings :  12377
+reviews :  193
+
+title :  Girls Whats Social Group Links
+appId :  com.girlswhats.socialgrouplinksre
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Yuyyu : Dating app. Meet. Chat
+appId :  com.yuyyu.horoscopematch
+score :  4.4444447
+installs : 50,000+
+ratings :  1200
+reviews :  8
+
+title :  Sexy Hot Girls Mobile Numbers 
+appId :  com.girlsnumbers.girlsmobilenumbers.girlswhatsappnumbersprankchat
+score :  3.1666667
+installs : 10,000+
+ratings :  150
+reviews :  1
+
+title :  Girls Video Calling - Live
+appId :  com.aamardevs.calllive10jjvideo
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Chathub Stranger Chat No Login
+appId :  com.strangers.chat_developers.strangerschatapp
+score :  3.1981132
+installs : 1,000,000+
+ratings :  5624
+reviews :  417
+
+title :  FlirtMe – Flirt & Chat App
+appId :  com.appspartner.flirtme
+score :  3.24
+installs : 100,000+
+ratings :  2124
+reviews :  171
+
+title :  Sexy Ladki Live Video Call
+appId :  com.VCLlive26Gt.pLivecallvideou
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  VideoMate - Girls Live Video
+appId :  com.cricmedia.videomate
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+

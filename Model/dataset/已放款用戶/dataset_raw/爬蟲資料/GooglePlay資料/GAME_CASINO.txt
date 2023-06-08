@@ -1,0 +1,1400 @@
+title :  DT Game
+appId :  com.tu9gh.pllcnm
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Teen Patti Gold Poker & Rummy
+appId :  com.teenpatti.hd.gold
+score :  4.2614822
+installs : 100,000,000+
+ratings :  1805267
+reviews :  5876
+
+title :  Cash Master : Coin Pusher Game
+appId :  free.cash.dozer.master.pusher.reward.real.money
+score :  4.306818
+installs : 1,000,000+
+ratings :  7876
+reviews :  645
+
+title :  Lucky Chests
+appId :  com.fortunechests.luckycatcher
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Coin Dozer: Sweepstakes
+appId :  com.leftover.CoinDozer
+score :  4.376137
+installs : 50,000,000+
+ratings :  1520426
+reviews :  206729
+
+title :  Cash Master - Carnival Prizes
+appId :  free.prizes.cash.carnival.coin.dozer.pusher
+score :  4.614035
+installs : 100,000+
+ratings :  1770
+reviews :  156
+
+title :  Coin Carnival Cash Pusher Game
+appId :  coin.free.cash.pusher.dozer.carnival
+score :  4.8292685
+installs : 50,000+
+ratings :  181
+reviews :  9
+
+title :  Slotomania™ Slots Casino Games
+appId :  air.com.playtika.slotomania
+score :  4.4163046
+installs : 50,000,000+
+ratings :  2106129
+reviews :  380519
+
+title :  Lucky Cash Pusher Coin Games
+appId :  com.triwin.lucky.dozer
+score :  4.5416203
+installs : 1,000,000+
+ratings :  27124
+reviews :  2112
+
+title :  Teen Patti Royal - 3 Patti
+appId :  com.byte3d.teenpatti
+score :  4.18
+installs : 5,000,000+
+ratings :  32158
+reviews :  30
+
+title :  GAMEE Prizes: Real Money Games
+appId :  com.gameeapp.android.app
+score :  4.4390497
+installs : 10,000,000+
+ratings :  569091
+reviews :  5795
+
+title :  Lucky Luck
+appId :  com.chundra.luckyluck
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  3patti Tiger - Rummy
+appId :  seetiger.seelast.seewind
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Cash Carnival Coin Pusher Game
+appId :  free.cash.dozer.pusher.reward.real.money
+score :  4.458861
+installs : 10,000,000+
+ratings :  45899
+reviews :  3301
+
+title :  Teenpatti Ace Pro -poker,rummy
+appId :  com.acdsldgs.aceprotp
+score :  4.0491805
+installs : 500,000+
+ratings :  3288
+reviews :  28
+
+title :  Match To Win: Real Money Games
+appId :  com.trpz.travel
+score :  4.323034
+installs : 5,000,000+
+ratings :  361165
+reviews :  86027
+
+title :  Carrom Games
+appId :  carrom.games
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Teen Patti Flush: 3 Patti Poke
+appId :  com.games.poker.teenpatti
+score :  4.39
+installs : 1,000,000+
+ratings :  22849
+reviews :  48
+
+title :  Vegas Craps by Pokerist
+appId :  com.kamagames.craps
+score :  4.3887043
+installs : 100,000+
+ratings :  4181
+reviews :  610
+
+title :  Pharaoh's Tomb
+appId :  com.precede.pharaohstomb
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ludo - Teen Patti & Variations
+appId :  com.ludo.patti.teen.game
+score :  4
+installs : 10,000+
+ratings :  366
+reviews :  1
+
+title :  Big Time Cash - Make Money
+appId :  com.winrgames.bigtime
+score :  4.312584
+installs : 10,000,000+
+ratings :  456757
+reviews :  12451
+
+title :  Roulette Royale - Grand Casino
+appId :  com.mw.rouletteroyale
+score :  4.457113
+installs : 10,000,000+
+ratings :  228299
+reviews :  7705
+
+title :  Teen Patti Go - 3 Patti Online
+appId :  com.ogottlnorbertbaspenc.kk887
+score :  3.857143
+installs : 1,000,000+
+ratings :  1552
+reviews :  2
+
+title :  Teen Patti Game - 3Patti Poker
+appId :  com.teenpattithreecardspoker
+score :  4.7069445
+installs : 5,000,000+
+ratings :  69969
+reviews :  5533
+
+title :  Taash Gold - Teen Patti Rung
+appId :  com.tash.pak
+score :  4.3333335
+installs : 500,000+
+ratings :  1997
+reviews :  5
+
+title :  Fulpot Poker : Texas Holdem
+appId :  com.me2on.fulpotgenius
+score :  3.94
+installs : 100,000+
+ratings :  15738
+reviews :  151
+
+title :  MONOPOLY Slots - Casino Games
+appId :  com.scientificgames.monopolyslots
+score :  4.6647935
+installs : 5,000,000+
+ratings :  211871
+reviews :  45573
+
+title :  Casino Roulette: Roulettist
+appId :  com.kamagames.roulettist
+score :  4.4839506
+installs : 5,000,000+
+ratings :  59622
+reviews :  1007
+
+title :  UTP - Ultimate Teen Patti (3 P
+appId :  com.games24x7.teenpatti.playstore
+score :  4.079208
+installs : 10,000,000+
+ratings :  215885
+reviews :  84
+
+title :  Royal Teenpatti - RTP
+appId :  com.rtp.royalteenpatti
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Vegas Casino & Slots: Slottist
+appId :  com.kamagames.slotist
+score :  4.5378704
+installs : 1,000,000+
+ratings :  65368
+reviews :  1056
+
+title :  Cash Bubble Win Real Money
+appId :  com.vblgames.bubblegames
+score :  4.006024
+installs : 100,000+
+ratings :  7600
+reviews :  400
+
+title :  Bingo Frenzy-Live Bingo Games
+appId :  com.cooking.bingo.ldkwh
+score :  4.6748676
+installs : 1,000,000+
+ratings :  101256
+reviews :  11582
+
+title :  Lucky Spin Casino: slot games
+appId :  com.casino.slots.bingo.poker.free.jackpot.spins
+score :  4.630435
+installs : 1,000,000+
+ratings :  7505
+reviews :  537
+
+title :  DoubleDown Casino Vegas Slots
+appId :  com.ddi
+score :  4.1395454
+installs : 10,000,000+
+ratings :  459499
+reviews :  103703
+
+title :  麻將 明星3缺1-16張Mahjong、Slot、Poker
+appId :  com.igs.mjstar31
+score :  3.77
+installs : 5,000,000+
+ratings :  324601
+reviews :  650
+
+title :  Lounge777 - Online Casino
+appId :  net.whow.lounge777
+score :  4.66
+installs : 100,000+
+ratings :  4782
+reviews :  127
+
+title :  Jackpot World™ - Slots Casino
+appId :  com.grandegames.slots.dafu.casino
+score :  4.569751
+installs : 10,000,000+
+ratings :  582680
+reviews :  50953
+
+title :  Shark Slots - Animal Mario Slo
+appId :  org.hhhhhh.fqzscocos
+score :  3.5833333
+installs : 100,000+
+ratings :  574
+reviews :  4
+
+title :  Take Your Diamond
+appId :  com.glu.disneyga
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Carrom King - Multiplayer
+appId :  caroom.play
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Teen Patti Live!
+appId :  com.octro.teenpattilive
+score :  4.12
+installs : 5,000,000+
+ratings :  62922
+reviews :  32
+
+title :  Quick Hit Casino Slot Games
+appId :  com.ballytechnologies.quickhitslots
+score :  4.6659093
+installs : 10,000,000+
+ratings :  541121
+reviews :  133300
+
+title :  Fire Game 2022: Gun Fire Games
+appId :  com.topshooting_games.free.battleground.firing.squad.commando.survival
+score :  4.285714
+installs : 500,000+
+ratings :  1417
+reviews :  4
+
+title :  Mega Win Slots
+appId :  com.carnival.slot.treasure.slotparty
+score :  undefined
+installs : 500,000+
+ratings :  undefined
+reviews :  undefined
+
+title :  Slots of Vegas
+appId :  com.banditmovie.slotsofvegas
+score :  4.5897436
+installs : 1,000,000+
+ratings :  42633
+reviews :  2069
+
+title :  MAGIC CHEST
+appId :  com.omfusion.magichest
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Huuuge Casino Slots Vegas 777
+appId :  com.huuuge.casino.slots
+score :  4.3610096
+installs : 10,000,000+
+ratings :  808104
+reviews :  95183
+
+title :  Baccarat Online: Baccarist
+appId :  com.kamagames.baccarat
+score :  4.4
+installs : 500,000+
+ratings :  4621
+reviews :  84
+
+title :  Slot Mate - Vegas Slot Casino
+appId :  com.playlinks.slotmate
+score :  4.5086207
+installs : 100,000+
+ratings :  2117
+reviews :  208
+
+title :  Jackpot Party Casino Slots
+appId :  com.williamsinteractive.jackpotparty
+score :  4.559402
+installs : 10,000,000+
+ratings :  1064723
+reviews :  239655
+
+title :  Teen Patti Offline:3 Patti
+appId :  india.poker.teenpatti.free
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Words to Win: Real Money Games
+appId :  com.wordgame.words.towin.cash.rewardify
+score :  4.341654
+installs : 500,000+
+ratings :  25223
+reviews :  5438
+
+title :  Win Robux Spinner
+appId :  robux.spinner.ars
+score :  3.928
+installs : 1,000,000+
+ratings :  31102
+reviews :  2747
+
+title :  Mega Slots: 777 casino games
+appId :  casino.slots.slot.machine
+score :  4.7058825
+installs : 1,000,000+
+ratings :  17302
+reviews :  334
+
+title :  Wolf Bonus Casino - Slots
+appId :  com.foxcubgames.wolfbonuscasino
+score :  4.3416667
+installs : 100,000+
+ratings :  3590
+reviews :  680
+
+title :  Winning Jackpot Slots Casino
+appId :  com.winning.jackpot.slots.casino.mania.slotmachines.free
+score :  4.722365
+installs : 5,000,000+
+ratings :  52956
+reviews :  921
+
+title :  Poker Offline
+appId :  com.byte3d.poker
+score :  4.3357825
+installs : 5,000,000+
+ratings :  98582
+reviews :  5427
+
+title :  Kite Festival Jackpot : Casino
+appId :  com.monkgamesstudio.kitefestival.indianfestivalspecial.lasvegas.jackpot.casino.slot
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Caesars Slots: Casino Games
+appId :  com.playtika.caesarscasino
+score :  4.4970684
+installs : 10,000,000+
+ratings :  699125
+reviews :  127745
+
+title :  Oceanking fishing table online
+appId :  app.oceanking.fishing
+score :  4.069307
+installs : 100,000+
+ratings :  2636
+reviews :  310
+
+title :  Spin to Win Earn Money
+appId :  com.earninghelper.spintowin
+score :  4.590909
+installs : 100,000+
+ratings :  1270
+reviews :  14
+
+title :  Slots 777 - Slot Machine Games
+appId :  casino.free.slots.slot.machines
+score :  4.6732674
+installs : 1,000,000+
+ratings :  13073
+reviews :  54
+
+title :  777 Slots - Vegas Casino Slot!
+appId :  com.aaagame.slots777
+score :  4.7255983
+installs : 500,000+
+ratings :  12364
+reviews :  1556
+
+title :  Teen Patti Max
+appId :  com.osinskmilesholson.uoy121
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  PhoenixCasino fish game table
+appId :  com.fishgametable.app
+score :  4.188679
+installs : 100,000+
+ratings :  3106
+reviews :  334
+
+title :  Jackpot Master™ Slots
+appId :  com.jmsgame.jackpotmastercasino
+score :  4.605169
+installs : 5,000,000+
+ratings :  147482
+reviews :  21059
+
+title :  Lotsa Slots - Casino Games
+appId :  com.diamondlife.slots.vegas.free
+score :  4.5924106
+installs : 10,000,000+
+ratings :  525593
+reviews :  72719
+
+title :  Jackpot Friends™ Slots
+appId :  com.jackpotfriends.slots
+score :  4.745659
+installs : 500,000+
+ratings :  12033
+reviews :  2323
+
+title :  Dragon Tiger Predict Tool
+appId :  com.dhstudio.tigerdragonpredict
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Teen Patti Star
+appId :  india.hxvup.ydqp200003
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Fruity Land
+appId :  com.frootrawl.fruiityland
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Roulette VIP - Casino Wheel
+appId :  sk.inlogic.rouletteprovip.android
+score :  4.5758514
+installs : 1,000,000+
+ratings :  21674
+reviews :  906
+
+title :  Slots Vegas Magic Casino 777
+appId :  com.vegas.magic.slots
+score :  4.5816646
+installs : 1,000,000+
+ratings :  46054
+reviews :  6771
+
+title :  Scatter Slots - Slot Machines
+appId :  com.murka.scatterslots
+score :  4.593986
+installs : 10,000,000+
+ratings :  1455939
+reviews :  260328
+
+title :  Lucky Match - Win Real Money
+appId :  com.lucky.sweepstakes.match.cash.paypal.win
+score :  4.33342
+installs : 1,000,000+
+ratings :  141436
+reviews :  26559
+
+title :  DoubleU Casino™ - Vegas Slots
+appId :  com.doubleugames.DoubleUCasino
+score :  4.388576
+installs : 10,000,000+
+ratings :  741736
+reviews :  181175
+
+title :  Cash Frenzy™ - Casino Slots
+appId :  slots.pcg.casino.games.free.android
+score :  4.37287
+installs : 10,000,000+
+ratings :  952706
+reviews :  191671
+
+title :  Casino Real Money: Win Cash
+appId :  com.ri.spinroy
+score :  3.5841584
+installs : 100,000+
+ratings :  2676
+reviews :  201
+
+title :  zumba games free
+appId :  com.appcup.hero
+score :  4.6
+installs : 1,000,000+
+ratings :  4253
+reviews :  105
+
+title :  捷游娱乐城-无充值高倍率赢得爽！
+appId :  com.jieyougames.cd.zjh
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Teen Patti by Pokerist
+appId :  com.kamagames.teenpatti
+score :  4
+installs : 500,000+
+ratings :  3513
+reviews :  16
+
+title :  Club Vegas Slots: Casino Games
+appId :  com.bagelcode.slots1
+score :  4.8022985
+installs : 10,000,000+
+ratings :  518907
+reviews :  78725
+
+title :  Dragon Vs Tiger Master
+appId :  com.ncworld.dragonvstigermaster
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Robux Loto 3D Pro
+appId :  com.ppsht.loto
+score :  4.3783784
+installs : 1,000,000+
+ratings :  84096
+reviews :  1197
+
+title :  Maximulla
+appId :  com.maximulla
+score :  4.5423727
+installs : 10,000+
+ratings :  2037
+reviews :  13
+
+title :  GamePoint Bingo - Bingo games
+appId :  com.gamepoint.bingo
+score :  4.361851
+installs : 1,000,000+
+ratings :  31996
+reviews :  1722
+
+title :  Jackpot Magic - Casino Slots
+appId :  com.bigfishgames.jackpotcityslotsf2pgoogle
+score :  4.2891784
+installs : 5,000,000+
+ratings :  127402
+reviews :  31514
+
+title :  Teen Patti Dhani - Andar Bahar
+appId :  com.collinsofb.r556
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Slots Royale: 777 Vegas Casino
+appId :  com.aemobile.games.casino
+score :  4.1745214
+installs : 1,000,000+
+ratings :  30218
+reviews :  2824
+
+title :  Lucky Day
+appId :  com.luckyday.app
+score :  4.0361376
+installs : 10,000,000+
+ratings :  1036679
+reviews :  329367
+
+title :  Elite Win pass Diamonds Fire
+appId :  com.free.diamond.feltite.fire.game.co
+score :  3.6666667
+installs : 10,000+
+ratings :  340
+reviews :  2
+
+title :  Dragon Vs Tiger Practice
+appId :  com.nc.dragonvstigerpractice
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Teen Patti Sweet - 3 Patti
+appId :  com.genevievereed78.tps02
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Online 3 Patti Casino Game
+appId :  com.kuoruan.bomberman
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  POP! Slots™ Vegas Casino Games
+appId :  com.playstudios.popslots
+score :  4.7481194
+installs : 10,000,000+
+ratings :  432134
+reviews :  61797
+
+title :  Teen Patti Master
+appId :  com.tradeenergy.myapplication
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Daily Pusher Slots 777
+appId :  com.pusher.daily.and
+score :  4.4545455
+installs : 10,000+
+ratings :  335
+reviews :  1
+
+title :  Gold Fish Casino Slot Games
+appId :  com.williamsinteractive.goldfish
+score :  4.8104253
+installs : 10,000,000+
+ratings :  644604
+reviews :  130016
+
+title :  Golden Story of Egypt
+appId :  com.ahoygames.oke
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Poker Heat™ Texas Holdem Poker
+appId :  com.bigblueparrot.pokerfriends
+score :  4.388725
+installs : 5,000,000+
+ratings :  388080
+reviews :  52254
+
+title :  Roulette - Casino game
+appId :  com.chakra.roulette.casino.gaming.free
+score :  3.0833333
+installs : 10,000+
+ratings :  131
+reviews :  13
+
+title :  Crash Mania: Truco & Poker
+appId :  com.playcrashmania.game
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Most-Bet Casino & Slots App
+appId :  com.mostbetonlinecasinogamegappsa.mostbetcasino
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Solitaire Showdown - Live game
+appId :  com.delux.solitaire.showdown
+score :  4.722772
+installs : 50,000+
+ratings :  3241
+reviews :  47
+
+title :  Double Win Vegas Slots
+appId :  ppl.unity.cubeslots
+score :  4.300298
+installs : 1,000,000+
+ratings :  23831
+reviews :  3961
+
+title :  My Mini Casino
+appId :  casino.mini.arcade
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  BTC - Crypto Blocks Bitcoin
+appId :  com.gamesfi.cryptoblocks.btc.eth.sol
+score :  4.204819
+installs : 10,000+
+ratings :  1210
+reviews :  35
+
+title :  Golden HoYeah- Casino Slots
+appId :  com.igs.fafafa
+score :  4.407945
+installs : 10,000,000+
+ratings :  467519
+reviews :  17476
+
+title :  Rock N' Cash Vegas Slot Casino
+appId :  net.flysher.rockncash
+score :  4.521655
+installs : 5,000,000+
+ratings :  218998
+reviews :  28085
+
+title :  Cash Storm Slots Games
+appId :  com.cashstorm.slots
+score :  4.726698
+installs : 5,000,000+
+ratings :  145335
+reviews :  17104
+
+title :  Roulette Casino - Lucky Wheel
+appId :  sk.inlogic.roulettepro.android
+score :  4.7663817
+installs : 1,000,000+
+ratings :  42374
+reviews :  1844
+
+title :  Rolling Luck: Win Real Money
+appId :  com.rolling.lucky.slots.coin
+score :  4.6170335
+installs : 1,000,000+
+ratings :  70638
+reviews :  13043
+
+title :  Best Bet Casino™ Slot Games
+appId :  com.rubyseven.bestbetcasino
+score :  4.551913
+installs : 500,000+
+ratings :  7530
+reviews :  1429
+
+title :  Xtreme Bingo! Slots Bingo Game
+appId :  net.odasoft.xtremebingo
+score :  4.28
+installs : 50,000+
+ratings :  1346
+reviews :  112
+
+title :  Coin Dozer: Casino
+appId :  com.gamecircus.CoinDozerJackpot
+score :  4.52553
+installs : 5,000,000+
+ratings :  196594
+reviews :  28838
+
+title :  Roulette All Star: Casino Game
+appId :  sk.inlogic.casino.roulette.allstar
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  TeenPatti Star
+appId :  com.tpstar3.gzddr.thpp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Slots online: Fruit Machines
+appId :  casino.slot.machines.slots.free
+score :  4.63
+installs : 1,000,000+
+ratings :  6468
+reviews :  38
+
+title :  Roulette Live - Real Casino Ro
+appId :  com.abzorbagames.roulette
+score :  4.324786
+installs : 1,000,000+
+ratings :  17514
+reviews :  1808
+
+title :  Casino 777 - Slot Pagcor Games
+appId :  com.hyt67bhg.k2jzdg
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Lightning Link Casino Slots
+appId :  com.productmadness.lightninglink
+score :  4.409946
+installs : 5,000,000+
+ratings :  163273
+reviews :  26881
+
+title :  Crash Rocket Gambling
+appId :  com.ChaseAndTheRocketeers.CrashRocketGambling
+score :  4.029703
+installs : 100,000+
+ratings :  1608
+reviews :  15
+
+title :  Super Juice
+appId :  com.elladagames.niffelheimf2
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Billionaire Casino Slots 777
+appId :  com.huuuge.casino.texas
+score :  4.3997045
+installs : 10,000,000+
+ratings :  305307
+reviews :  44468
+
+title :  Fun Texas Hold'em
+appId :  com.luckystargame.texaspoker
+score :  4.5458717
+installs : 500,000+
+ratings :  33529
+reviews :  1035
+
+title :  Hot Shot Casino Slot Games
+appId :  com.williamsinteractive.hotshotcasino
+score :  4.4588323
+installs : 5,000,000+
+ratings :  209643
+reviews :  37572
+
+title :  Lucky Fruit
+appId :  com.qxcx.luckyfruit
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Classic 777 Slot Machine
+appId :  com.duksel.classic777.slots.free
+score :  4.67
+installs : 500,000+
+ratings :  6087
+reviews :  150
+
+title :  Coin Pusher
+appId :  com.CoinGame.CoinPusher
+score :  4.6584525
+installs : 1,000,000+
+ratings :  96349
+reviews :  20893
+
+title :  Baba Wild Slots - Casino Games
+appId :  com.bws
+score :  4.7541285
+installs : 1,000,000+
+ratings :  41144
+reviews :  7067
+
+title :  Roulette Bet Counter Predictor
+appId :  com.pzs.roulette2
+score :  4.43
+installs : 100,000+
+ratings :  1748
+reviews :  52
+
+title :  One Night Casino - Slots 777
+appId :  pl.pompateam.nightcasino
+score :  4.51
+installs : 500,000+
+ratings :  90199
+reviews :  72
+
+title :  Slots Wolf Magic Mobile Casino
+appId :  com.slots.wolf.magic
+score :  4.55226
+installs : 1,000,000+
+ratings :  43361
+reviews :  6695
+
+title :  Viva Slots Vegas: Casino Slots
+appId :  com.RocketGames.ClassicSlots
+score :  4.6948347
+installs : 5,000,000+
+ratings :  202599
+reviews :  45461
+
+title :  Video Poker Plus
+appId :  com.sunbeach.videopoker
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Money Slots: Win real money
+appId :  com.cash.frenzy.slots.make.money.cashapp
+score :  4.4653463
+installs : 50,000+
+ratings :  637
+reviews :  90
+
+title :  Game of Thrones Slots Casino
+appId :  com.zynga.gotslots
+score :  4.6113896
+installs : 1,000,000+
+ratings :  126195
+reviews :  25285
+
+title :  Money Bingo: Win real cash
+appId :  com.money.bingo.games.win.real.cash
+score :  4.4947367
+installs : 100,000+
+ratings :  3935
+reviews :  673
+
+title :  Golden Casino - Vegas Slots
+appId :  com.slotslimited.goldencasino
+score :  4.8154254
+installs : 1,000,000+
+ratings :  78404
+reviews :  8588
+
+title :  Aviator predictor online
+appId :  com.aviator.super.win.luxury
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Bingo Blackout real money game
+appId :  bingo.blackout.bigrun.real.cash
+score :  4.4117646
+installs : 5,000+
+ratings :  255
+reviews :  16
+
+title :  Roulette - Casino Games
+appId :  com.vivuga.roulette
+score :  4.1707315
+installs : 10,000+
+ratings :  232
+reviews :  14
+
+title :  Pool PayDay Win Real Cash
+appId :  com.gamespayday.poolpay
+score :  2.8
+installs : 10,000+
+ratings :  149
+reviews :  32
+
+title :  Slots 7777 -Slot Machine 77777
+appId :  casino.tinysoft.slot.machines.slots
+score :  4.8
+installs : 1,000,000+
+ratings :  7836
+reviews :  43
+
+title :  Slots Real Money: Win Cash
+appId :  com.ninefeet.slots.real.money.win.cash
+score :  4.4851484
+installs : 50,000+
+ratings :  406
+reviews :  67
+
+title :  Roulette - Live Casino
+appId :  com.sunbeach.roulette
+score :  3.2790697
+installs : 100,000+
+ratings :  687
+reviews :  18
+
+title :  Cash Billionaire - VIP Slots
+appId :  com.bagelcode.slots3
+score :  4.8069015
+installs : 1,000,000+
+ratings :  58635
+reviews :  7434
+
+title :  Double Win Slots- Vegas Casino
+appId :  com.huge.slots.casino.vegas.android.avidly
+score :  4.7172155
+installs : 5,000,000+
+ratings :  247950
+reviews :  48899
+
+title :  88 Fortunes Slots Casino Games
+appId :  com.ballytechnologies.f88
+score :  4.2886896
+installs : 5,000,000+
+ratings :  228711
+reviews :  31360
+
+title :  Gold Party Casino : Slot Games
+appId :  com.purplekiwii.goldparty
+score :  4.38
+installs : 100,000+
+ratings :  3132
+reviews :  300
+
+title :  Luck of Cleopatra
+appId :  com.king.diamonddiariessag
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Slots: Casino & slot games
+appId :  casino.games.slot.machines.free
+score :  4.6776314
+installs : 1,000,000+
+ratings :  22684
+reviews :  461
+
+title :  Tongits Go - Sabong, Pusoy
+appId :  com.tongitsgo.play
+score :  3.9843137
+installs : 10,000,000+
+ratings :  520050
+reviews :  1026
+
+title :  RewardLeo - Earn money online 
+appId :  com.earningapp.rewardleo
+score :  4.6761904
+installs : 50,000+
+ratings :  4146
+reviews :  327
+
+title :  Gambino Slots: Online Casino
+appId :  gambino.android
+score :  4.7430243
+installs : 1,000,000+
+ratings :  43096
+reviews :  7494
+
+title :  Roulette - Casino Style!
+appId :  com.rnftechs.roulette.activities
+score :  4.1725354
+installs : 1,000,000+
+ratings :  10267
+reviews :  543
+
+title :  Bingo Arena-Live Bingo Game
+appId :  com.realgame.bingoarena
+score :  4.7831326
+installs : 1,000,000+
+ratings :  38305
+reviews :  1315
+
+title :  Vegas Teen Patti - 3 Card Poke
+appId :  com.wittygames.teenpatti
+score :  4
+installs : 1,000,000+
+ratings :  1386
+reviews :  0
+
+title :  Wild Triple 777 Slots
+appId :  air.com.wildtripleslots
+score :  4.677713
+installs : 500,000+
+ratings :  18437
+reviews :  3442
+
+title :  Bingo Blackout Win Real Money
+appId :  com.BlackoutBingooCompany.BingoBlackout
+score :  4.39
+installs : 10,000+
+ratings :  881
+reviews :  30
+
+title :  Casino Deluxe Vegas - Slots, P
+appId :  com.igg.android.casinodeluxebyigg
+score :  4.234763
+installs : 1,000,000+
+ratings :  36808
+reviews :  5094
+
+title :  Teen Patti Master
+appId :  com.jhgfd.jhrnuDS
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Cash Bubble: Win real cash
+appId :  com.virualcasinolabs.cashbubble
+score :  3.695238
+installs : 10,000+
+ratings :  366
+reviews :  53
+
+title :  Jackpot Cash Casino Slots
+appId :  com.godlike.slotcasio
+score :  4.6455226
+installs : 50,000+
+ratings :  5097
+reviews :  219
+
+title :  Online Casino - Vegas Slots
+appId :  com.wild.classic.slots.vegas.casino.games
+score :  4.4121623
+installs : 500,000+
+ratings :  16108
+reviews :  1722
+
+title :  Galaxy Casino Live - Slots
+appId :  com.nurigames.casinolive
+score :  4.456101
+installs : 1,000,000+
+ratings :  65773
+reviews :  8621
+
+title :  7 Up 7 Down
+appId :  com.ncworld.a7up7down
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Roulette Tracker - Analysis & 
+appId :  com.app.rouletteroyaletracker
+score :  4.3717947
+installs : 100,000+
+ratings :  2113
+reviews :  31
+
+title :  Scratch Off Lottery Casino
+appId :  com.LuckyPlanetGames.Scratchers.Mega.Lottery.Bingo.Casino
+score :  4.5138736
+installs : 100,000+
+ratings :  11597
+reviews :  670
+
+title :  SuperFishing Casino- Slots 777
+appId :  com.superfishing.cxx.hw
+score :  4.54
+installs : 100,000+
+ratings :  3553
+reviews :  25
+
+title :  Dragon Tiger Slot Casino Game
+appId :  com.softcompany.dragontiger.slot
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Dr. Bingo - VideoBingo + Slots
+appId :  com.gamesmartltd.doctorbingo
+score :  4.4356437
+installs : 1,000,000+
+ratings :  59247
+reviews :  131
+
+title :  Lightning of Olympus
+appId :  lt.lemonlabs.android.payser
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Roulette Casino Vegas Games
+appId :  com.luckyjackpot.roulette.casino.games.free
+score :  4.8
+installs : 100,000+
+ratings :  5024
+reviews :  284
+
+title :  Blackjack Showdown
+appId :  com.cubeage.blackjack.app
+score :  4.3846154
+installs : 10,000+
+ratings :  97
+reviews :  1
+
+title :  Diamond Cash Slots Casino
+appId :  diamond.cash.slots.casino
+score :  4.5538845
+installs : 1,000,000+
+ratings :  36444
+reviews :  414
+
+title :  MEGA888 Slot Online Malaysia
+appId :  mega888apk.slot.online
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Diamond Sky Casino: Slot Games
+appId :  com.DesignWorks.DscAndroid
+score :  4.7402596
+installs : 100,000+
+ratings :  3352
+reviews :  499
+
+title :  House of Fun™ - Casino Slots
+appId :  com.pacificinteractive.HouseOfFun
+score :  4.5308766
+installs : 10,000,000+
+ratings :  1556205
+reviews :  314816
+
+title :  Money global-poker Casino
+appId :  com.Titanmazestudio.MoneyglobalpokerCasino
+score :  4.266667
+installs : 500+
+ratings :  86
+reviews :  2
+
+title :  BlackJack 21--Casino Online
+appId :  wowo.game.blackjack
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Chillax
+appId :  com.arimisa_2332.io
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Bingo: Play Lucky Bingo Games
+appId :  com.theotino.bingo.luckybingo.wonderland
+score :  4.668962
+installs : 1,000,000+
+ratings :  74308
+reviews :  11318
+
+title :  Tokens Hodl'em Poker
+appId :  com.macondo.poker
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Bingo Win Cash - Lucky Bingo
+appId :  com.fun.games.bingo.fairytale
+score :  4.337176
+installs : 500,000+
+ratings :  7048
+reviews :  795
+
+title :  Teen patti kota
+appId :  com.teenpatti.kota
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Classic Slots™ - Casino Games
+appId :  com.aaagame.aaacasino
+score :  4.7463126
+installs : 1,000,000+
+ratings :  108259
+reviews :  25926
+
+title :  Big jackpot win
+appId :  com.jaiin.spots
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Sic Bo (Tai Xiu) - Multiplayer
+appId :  com.sunbeach.sicbo
+score :  3.857143
+installs : 50,000+
+ratings :  434
+reviews :  7
+
+title :  Roulette Car: Casino Game
+appId :  com.rjx.prop.hbyh
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  777 Slots™ Huge Win Slots
+appId :  com.classicslots.vegas.casino.games
+score :  4.49
+installs : 50,000+
+ratings :  943
+reviews :  72
+
+title :  All Satta
+appId :  com.allsatta.app
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Coin Pusher - Vegas Dozer
+appId :  com.vivuga.coindozer
+score :  4.614679
+installs : 10,000+
+ratings :  1372
+reviews :  86
+
+title :  Truth or Dare Online
+appId :  onlinegm.takplayer.truth
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Money Coming Slot-TaDa Games
+appId :  com.fufafa.jogo.coming.free.games
+score :  4.5544553
+installs : 10,000+
+ratings :  3850
+reviews :  10
+
+title :  Fruit Machine - Mario Slots
+appId :  fruit.machine.online.casino.slots.llgame
+score :  4.0833335
+installs : 500,000+
+ratings :  1344
+reviews :  5
+
+title :  Money Wheel :Earn Real Money
+appId :  com.web.fwheel
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Aviator game predictor
+appId :  io.aviagames.tekuhp
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+

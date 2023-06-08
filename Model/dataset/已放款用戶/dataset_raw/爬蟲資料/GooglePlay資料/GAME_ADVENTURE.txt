@@ -1,0 +1,1386 @@
+title :  FPS Commando Shooting Games
+appId :  com.sgs.antiterrorism.counterattack.commandomissiongame
+score :  4.171492
+installs : 100,000,000+
+ratings :  407800
+reviews :  1528
+
+title :  Karate Fighter: Fighting Games
+appId :  com.fa.tag.karate.fighting
+score :  4.47027
+installs : 50,000,000+
+ratings :  201829
+reviews :  1762
+
+title :  Street Chaser
+appId :  com.igoldtech.streetchaser
+score :  4.4850187
+installs : 100,000,000+
+ratings :  322506
+reviews :  2102
+
+title :  Advance Car Parking: Car Games
+appId :  com.brokendiamond.advance.car.parking.car.driver.simulator
+score :  4.0991735
+installs : 50,000,000+
+ratings :  132802
+reviews :  431
+
+title :  Island Questaway - Jungle Farm
+appId :  com.xgamesgroup.puzzleisland
+score :  4.232643
+installs : 1,000,000+
+ratings :  55349
+reviews :  2194
+
+title :  School Party Craft
+appId :  com.candyroom.clubcraft
+score :  4.453305
+installs : 50,000,000+
+ratings :  744910
+reviews :  9828
+
+title :  Car Games - Car Parking Games
+appId :  com.ghive.jeep.parking.car.free.game.master.apps
+score :  4.460154
+installs : 50,000,000+
+ratings :  167212
+reviews :  1021
+
+title :  Bermuda Adventures Farm Island
+appId :  com.samfinaco.paradise
+score :  4.5152736
+installs : 10,000,000+
+ratings :  266232
+reviews :  10085
+
+title :  Roblox
+appId :  com.roblox.client
+score :  4.4331675
+installs : 500,000,000+
+ratings :  34366751
+reviews :  3285827
+
+title :  Prison Break: Stickman Story
+appId :  com.MegaJoy.PrisonBreak68
+score :  4.6204453
+installs : 50,000,000+
+ratings :  317057
+reviews :  1300
+
+title :  Real Formula Car Racing Games
+appId :  com.monstergamesproductions.formula.racing
+score :  4.480392
+installs : 10,000,000+
+ratings :  43131
+reviews :  191
+
+title :  Farm Land - Farming life game
+appId :  com.loltap.farmland
+score :  4.5460377
+installs : 10,000,000+
+ratings :  343991
+reviews :  2791
+
+title :  Gun Strike: FPS Shooting Games
+appId :  com.devgame66.csshot
+score :  4.2959185
+installs : 100,000,000+
+ratings :  162490
+reviews :  1434
+
+title :  Ninja Arashi
+appId :  com.blackpanther.ninjaarashi
+score :  4.6162467
+installs : 50,000,000+
+ratings :  601219
+reviews :  9180
+
+title :  Jungle Deer Hunting Simulator
+appId :  com.apex.jungle.deer.hunter.real.hunting.game
+score :  4.04
+installs : 10,000,000+
+ratings :  24894
+reviews :  205
+
+title :  Super Bino Go:Adventure Jungle
+appId :  com.superbinogo.jungleboyadventure
+score :  4.2742734
+installs : 100,000,000+
+ratings :  523437
+reviews :  5287
+
+title :  House Designer : Fix & Flip
+appId :  com.kgs.housedesigner
+score :  4.6704063
+installs : 100,000,000+
+ratings :  905763
+reviews :  18499
+
+title :  Bodybuilder GYM Fighting Game
+appId :  com.fa.gym.fighting.game
+score :  4.4280443
+installs : 100,000,000+
+ratings :  236668
+reviews :  1271
+
+title :  Anti-Terrorist Shooting Game
+appId :  com.frenzygames.fgs.shooting.anti.terrorism.combat.mission
+score :  4.587156
+installs : 10,000,000+
+ratings :  76617
+reviews :  323
+
+title :  Ninja warrior: legend of adven
+appId :  com.tohsoft.arashi.ninja.shadow
+score :  4.3994293
+installs : 50,000,000+
+ratings :  429564
+reviews :  3209
+
+title :  Modern Rickshaw Driving Games
+appId :  com.jima.modern.tuktuk.auto.rickshaw.driving.game.simulator
+score :  4.03
+installs : 50,000,000+
+ratings :  108665
+reviews :  362
+
+title :  Log Transporter Truck Driving
+appId :  com.TopWinGames.OffroadTruckSimulator.OffroadTruckGames
+score :  3.88
+installs : 10,000,000+
+ratings :  17232
+reviews :  85
+
+title :  Muscle Car Robot Car Game
+appId :  com.ags.flying.muscle.car.transform.robot.war.robot.games
+score :  3.89
+installs : 10,000,000+
+ratings :  10083
+reviews :  38
+
+title :  Unicorn Dash: Fun Runner 2023
+appId :  com.mtsfreegames.unicorn.runner.magical.little.ponyrun
+score :  4.11
+installs : 10,000,000+
+ratings :  23146
+reviews :  172
+
+title :  Rescue The Lover
+appId :  com.MegaJoy.Rescue
+score :  4.5213675
+installs : 10,000,000+
+ratings :  109912
+reviews :  490
+
+title :  Battle Shooting Game 3D
+appId :  com.bg.battle.shooting.players
+score :  3.945946
+installs : 1,000,000+
+ratings :  6715
+reviews :  10
+
+title :  Shark Robot Car Transform Game
+appId :  com.cgs.us.police.transform.robot.shark.game
+score :  4.2
+installs : 10,000,000+
+ratings :  12206
+reviews :  220
+
+title :  Coach Bus Driving Simulator
+appId :  com.DutyToCraftGames.BusDriver.SimulatorGames
+score :  4.111111
+installs : 1,000,000+
+ratings :  5045
+reviews :  8
+
+title :  Ertugrul Gazi 2
+appId :  com.umuro.ertugrulgazi
+score :  4.35
+installs : 10,000,000+
+ratings :  36913
+reviews :  128
+
+title :  Dark Riddle
+appId :  com.neighbors.darkriddle
+score :  4.2029915
+installs : 50,000,000+
+ratings :  225572
+reviews :  1605
+
+title :  Real Crime Gangster Game 3D
+appId :  com.sgs.regal.gangster.battletown
+score :  3.597015
+installs : 1,000,000+
+ratings :  2508
+reviews :  23
+
+title :  Pop's World - Running game
+appId :  com.one.m1.world
+score :  4.3773007
+installs : 10,000,000+
+ratings :  38935
+reviews :  399
+
+title :  Nick's Sprint - Escape Miss T
+appId :  com.zatg.teacherrunner
+score :  4.368421
+installs : 1,000,000+
+ratings :  483
+reviews :  2
+
+title :  Craftsman vs Alphabet Lore
+appId :  com.xd.craft.alphabet
+score :  4.05
+installs : 1,000,000+
+ratings :  3306
+reviews :  12
+
+title :  Murder in Alps: Hidden Mystery
+appId :  com.nordcurrent.murderinalps
+score :  4.2589855
+installs : 10,000,000+
+ratings :  969456
+reviews :  38689
+
+title :  Ninja Arashi 2
+appId :  com.blackpanther.ninjaarashi2
+score :  4.6175117
+installs : 10,000,000+
+ratings :  258548
+reviews :  2805
+
+title :  Manor Matters
+appId :  com.playrix.manormatters
+score :  4.6611614
+installs : 10,000,000+
+ratings :  674287
+reviews :  15762
+
+title :  Adventure Escape Mysteries
+appId :  com.haiku.adventure.escape.game.mystery.stories
+score :  4.344064
+installs : 5,000,000+
+ratings :  105230
+reviews :  7166
+
+title :  Super Matino - Adventure Game
+appId :  com.geda.matino
+score :  4.32
+installs : 5,000,000+
+ratings :  11626
+reviews :  201
+
+title :  Extreme Balancer 3
+appId :  com.enteriosoft.extremebalancer3
+score :  4.0415225
+installs : 50,000,000+
+ratings :  201670
+reviews :  1147
+
+title :  Shiva Cycling Adventure
+appId :  com.tangiappsit.shiva.cyclingadventure
+score :  4
+installs : 10,000,000+
+ratings :  14818
+reviews :  1
+
+title :  FPS Encounter Strike Offline
+appId :  com.ff.specialforces.free.shootinggames.offline.war3d
+score :  4.768116
+installs : 1,000,000+
+ratings :  4887
+reviews :  59
+
+title :  Jungle Adventures 3
+appId :  com.renderedideas.jungleadventures3
+score :  4.745946
+installs : 10,000,000+
+ratings :  87956
+reviews :  1254
+
+title :  Bus Driving School : Bus Games
+appId :  com.bettergames.Bus.driving.school
+score :  4.1
+installs : 5,000,000+
+ratings :  16912
+reviews :  74
+
+title :  Ice Scream 4: Rod's Factory
+appId :  com.keplerians.icescream4
+score :  4.256781
+installs : 10,000,000+
+ratings :  146704
+reviews :  2435
+
+title :  Fps Commando Gun Games 3D
+appId :  com.pt.fps.offline.shooting.games.free.fire.battleground
+score :  4
+installs : 5,000,000+
+ratings :  11829
+reviews :  88
+
+title :  Honkai: Star Rail
+appId :  com.HoYoverse.hkrpgoversea
+score :  4.385366
+installs : 1,000,000+
+ratings :  30454
+reviews :  589
+
+title :  Sonic Forces - Running Battle
+appId :  com.sega.sprint
+score :  4.432349
+installs : 100,000,000+
+ratings :  951656
+reviews :  60017
+
+title :  Dino Transform Robot Car Game
+appId :  com.cgs.futuristic.flying.dino.transform.robot.games
+score :  3.77
+installs : 10,000,000+
+ratings :  11497
+reviews :  63
+
+title :  Hello Neighbor
+appId :  com.tinybuildgames.helloneighbor
+score :  3.9771063
+installs : 50,000,000+
+ratings :  493092
+reviews :  19154
+
+title :  City Bus Simulator 3D Offline
+appId :  com.ripcyber.gym.fighting.newgame
+score :  3.4285715
+installs : 500,000+
+ratings :  1019
+reviews :  3
+
+title :  Eyes Horror & Coop Multiplayer
+appId :  com.eyesthegame.eyes
+score :  4.40283
+installs : 50,000,000+
+ratings :  788300
+reviews :  15008
+
+title :  Evil Nun 2 : Origins
+appId :  com.keplerians.evilnun2
+score :  4.2537313
+installs : 10,000,000+
+ratings :  119609
+reviews :  1538
+
+title :  Gunship Combat Helicopter Game
+appId :  com.spirit.air.gunship.strike.apps
+score :  3.65
+installs : 1,000,000+
+ratings :  6219
+reviews :  32
+
+title :  Bob's World - Super Run Game
+appId :  free.os.jump.superbros.adventure.world
+score :  4.504992
+installs : 100,000,000+
+ratings :  614064
+reviews :  8123
+
+title :  Glorious Resolve FPS Army Game
+appId :  com.rockvillegames.thegreatarmy
+score :  4.07
+installs : 5,000,000+
+ratings :  48216
+reviews :  266
+
+title :  Crafting and Building
+appId :  com.mmircil.cnb2
+score :  4.0112696
+installs : 50,000,000+
+ratings :  1090286
+reviews :  14132
+
+title :  Offroad Jeep 4x4 Driving Games
+appId :  com.spirit.jeep.stunt.drive.challenge.apps
+score :  3.6744187
+installs : 1,000,000+
+ratings :  5954
+reviews :  24
+
+title :  Atss Offline Gun Shooting Game
+appId :  com.thg.antiterroristsquadshooting
+score :  4.517321
+installs : 10,000,000+
+ratings :  128303
+reviews :  1334
+
+title :  Ice Scream 6 Friends: Charlie
+appId :  com.keplerians.icescream6
+score :  3.9832401
+installs : 10,000,000+
+ratings :  55423
+reviews :  783
+
+title :  Railway Train Simulator Games
+appId :  com.gp.offroad.hill.trainsimulator
+score :  3.6105263
+installs : 1,000,000+
+ratings :  3205
+reviews :  49
+
+title :  Jay's World - Super Adventure
+appId :  com.vorun.superjaysworld
+score :  4.43
+installs : 1,000,000+
+ratings :  8064
+reviews :  118
+
+title :  Play for Granny part 4 Grandpa
+appId :  com.Avecom.PlayforGrannyorGrandpaorSlendrina
+score :  4.642857
+installs : 100,000+
+ratings :  563
+reviews :  9
+
+title :  Osman Ghazi 22: Fighting games
+appId :  com.fgs.osman.ghazi.mount.blade.fighting
+score :  3.3636363
+installs : 100,000+
+ratings :  865
+reviews :  5
+
+title :  Gun Shooting Games 3D Offline
+appId :  com.idreams.fps.counter.attack.terrorist.shooting.games
+score :  4.25
+installs : 5,000,000+
+ratings :  14310
+reviews :  73
+
+title :  Pokémon GO
+appId :  com.nianticlabs.pokemongo
+score :  4.15354
+installs : 100,000,000+
+ratings :  15445615
+reviews :  990476
+
+title :  Hotel Frenzy: ASMR Salon
+appId :  com.techvision.hotelfrenzy
+score :  4.7952023
+installs : 5,000,000+
+ratings :  133505
+reviews :  2673
+
+title :  Harry Potter: Hogwarts Mystery
+appId :  com.tinyco.potter
+score :  4.4542084
+installs : 50,000,000+
+ratings :  2686699
+reviews :  153277
+
+title :  Super Bear Adventure
+appId :  com.Earthkwak.Platformer
+score :  4.4261956
+installs : 50,000,000+
+ratings :  298166
+reviews :  4788
+
+title :  Osman Gazi
+appId :  com.umuro.osman
+score :  4.4
+installs : 1,000,000+
+ratings :  17066
+reviews :  63
+
+title :  Jungle Adventures 2
+appId :  com.renderedideas.jungleadventures2
+score :  4.714286
+installs : 10,000,000+
+ratings :  125732
+reviews :  744
+
+title :  RealmCraft 3D Mine Block World
+appId :  com.tellurionmobile.realmcraft
+score :  3.9055042
+installs : 100,000,000+
+ratings :  639886
+reviews :  9894
+
+title :  Bike Race: Bike Stunt Game
+appId :  com.ghive.endless.car.race.traffic.drive.apps
+score :  3.89
+installs : 5,000,000+
+ratings :  13310
+reviews :  67
+
+title :  Wild Animal Hunting Games FPS
+appId :  com.sgs.animal.hunting.jungle.africa.safari.apps
+score :  4.633663
+installs : 5,000,000+
+ratings :  19322
+reviews :  255
+
+title :  Hollywood Story®: Fashion Star
+appId :  org.nanobit.hollywood
+score :  4.5005054
+installs : 10,000,000+
+ratings :  511073
+reviews :  19483
+
+title :  Bike Attack Racing: Bike Games
+appId :  com.newera.death.racing.gang.stunt.moto
+score :  4
+installs : 5,000,000+
+ratings :  28222
+reviews :  96
+
+title :  Sniper Games Offline Game 2022
+appId :  com.apgs.SniperShootingGamesOfflineNewGames2021
+score :  3.82
+installs : 1,000,000+
+ratings :  6791
+reviews :  37
+
+title :  World Craft: Block Craftsman
+appId :  com.craftgames.worldcrft
+score :  3.7037454
+installs : 10,000,000+
+ratings :  645541
+reviews :  41461
+
+title :  Ice Scream 5 Friends: Mike
+appId :  com.keplerians.icescream5
+score :  4.409091
+installs : 10,000,000+
+ratings :  64716
+reviews :  901
+
+title :  Nob's World - Super Run Game
+appId :  org.game69studio.nobworld
+score :  4.4863386
+installs : 10,000,000+
+ratings :  66852
+reviews :  593
+
+title :  PK XD: Fun, friends & games
+appId :  com.movile.playkids.pkxd
+score :  4.5857983
+installs : 100,000,000+
+ratings :  4706822
+reviews :  61473
+
+title :  Ninja Raiden Revenge
+appId :  com.TendaGames.NewNinjaRaidenRevenge
+score :  4.48
+installs : 5,000,000+
+ratings :  30108
+reviews :  348
+
+title :  Ertuğrul Gazi-Sword Fight game
+appId :  com.cgs.ertugrulgazi.games2020.realmount.bladefight
+score :  4.375
+installs : 500,000+
+ratings :  4170
+reviews :  13
+
+title :  Planet Craft: Block Craftsman
+appId :  com.craftgames.plntcrft
+score :  4.2668366
+installs : 10,000,000+
+ratings :  206516
+reviews :  9334
+
+title :  Ertugrul Gazi 3
+appId :  com.umuro.ertugrul3
+score :  3.65
+installs : 100,000+
+ratings :  2877
+reviews :  9
+
+title :  Super Run World: Jump Platform
+appId :  com.dreamcoolgame.google.animalrun
+score :  4.594488
+installs : 1,000,000+
+ratings :  24487
+reviews :  250
+
+title :  Stickman Warriors Duel
+appId :  com.bravestars.redandblue.stickman.adventure
+score :  4.19
+installs : 1,000,000+
+ratings :  1239
+reviews :  4
+
+title :  Westland Survival: Cowboy Game
+appId :  com.heliogames.westland
+score :  4.1292853
+installs : 10,000,000+
+ratings :  427243
+reviews :  14540
+
+title :  Jungle Adventures
+appId :  com.renderedideas.jungleadventures
+score :  4.712737
+installs : 50,000,000+
+ratings :  180985
+reviews :  1011
+
+title :  Animal Master: Hardcore Safari
+appId :  animal.summon.master
+score :  4.82
+installs : 5,000,000+
+ratings :  5759
+reviews :  176
+
+title :  Save the Doge
+appId :  com.onegame.petsave.doggame.drawpuzzle
+score :  5
+installs : 100,000+
+ratings :  193
+reviews :  5
+
+title :  Police Car Games - Police Game
+appId :  com.sugs.police.highway.chase
+score :  4.27
+installs : 10,000,000+
+ratings :  36922
+reviews :  312
+
+title :  Tree garden - Grow your Tree!
+appId :  com.appearnings.moneytree
+score :  4.544554
+installs : 50,000+
+ratings :  5807
+reviews :  28
+
+title :  Gun Games 3d Offline Shooting
+appId :  com.gs.gungames.offline.shooting.fpsgames.combat.duty.modern.strike.fps
+score :  4.2352943
+installs : 500,000+
+ratings :  1083
+reviews :  7
+
+title :  Build Craft - Crafting & Build
+appId :  com.buildtownn.skimlyblock
+score :  4.2254696
+installs : 10,000,000+
+ratings :  78723
+reviews :  2339
+
+title :  Blocky Castle: Tower Climb
+appId :  com.istomgames.blockycastle
+score :  4.079208
+installs : 1,000,000+
+ratings :  10454
+reviews :  245
+
+title :  Save the Guy: Funny Choice
+appId :  com.miniit.save.the.guy.game
+score :  4.1469593
+installs : 1,000,000+
+ratings :  37074
+reviews :  252
+
+title :  Death Park 2: Horror Clown
+appId :  com.eg.deathpark2
+score :  4.625219
+installs : 10,000,000+
+ratings :  256922
+reviews :  4239
+
+title :  TPS Army Secret Mission Game
+appId :  com.mmg.tps.army.secret.mission.shootinggames
+score :  4.130435
+installs : 100,000+
+ratings :  751
+reviews :  11
+
+title :  Nick & Tani : Funny Story
+appId :  com.zatg.nick.tani.lovepuzzle
+score :  3.99
+installs : 1,000,000+
+ratings :  3796
+reviews :  41
+
+title :  Ball V - Red Boss Challenge
+appId :  com.mgif.ball.v
+score :  4.4
+installs : 500,000+
+ratings :  1818
+reviews :  7
+
+title :  Offline Gun Shooting Games 3D
+appId :  com.id.fps.gun.shooting.games
+score :  3.9882352
+installs : 1,000,000+
+ratings :  7956
+reviews :  53
+
+title :  Wild Animal Hunting Games 3D
+appId :  com.ge.wild.animal.hunting.game
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Prison Escape Puzzle Adventure
+appId :  biggiant.prisonescape
+score :  4.4122634
+installs : 10,000,000+
+ratings :  223238
+reviews :  3660
+
+title :  FPS Games: Shooting Games 2023
+appId :  com.tg.fps.shooting.commando.mission
+score :  4.2222223
+installs : 1,000,000+
+ratings :  3888
+reviews :  13
+
+title :  Rope Spider Hero: Spider Games
+appId :  com.fgs.panther.superhero.robot.game2022
+score :  4.4
+installs : 100,000+
+ratings :  405
+reviews :  3
+
+title :  Airport Madness 3D: Volume 2
+appId :  com.bigfatsimulations.airportmadness3d
+score :  4.079208
+installs : 1,000,000+
+ratings :  20709
+reviews :  335
+
+title :  Critical Action:Gun Strike Ops
+appId :  com.bl.critical.strike
+score :  4.355301
+installs : 50,000,000+
+ratings :  215993
+reviews :  1126
+
+title :  Scary Mansion: Horror Game 3D
+appId :  com.skytecgames.horrorhouse
+score :  3.89
+installs : 5,000,000+
+ratings :  20334
+reviews :  336
+
+title :  India Vs Pakistan Kite Fly 3D
+appId :  com.DaharStudio.IndiaVsPakistan.KiteFlying
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Shiva Skater Hero
+appId :  com.tangiappsit.shiva.skaterhero
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Criminal Case
+appId :  com.prettysimple.criminalcaseandroid
+score :  4.600107
+installs : 100,000,000+
+ratings :  4356788
+reviews :  109591
+
+title :  Anti Terrorist Shooting Games
+appId :  com.sgs.antiterrorism.counterattack.commandomission
+score :  3.94
+installs : 10,000,000+
+ratings :  28618
+reviews :  134
+
+title :  Flying Rope Hero Man Spider
+appId :  gamesaxis.ropehero.spidergames
+score :  3.75
+installs : 100,000+
+ratings :  476
+reviews :  2
+
+title :  Special Forces Ops :Gun Action
+appId :  com.offline.commando.strike.black
+score :  3.87
+installs : 10,000,000+
+ratings :  38018
+reviews :  196
+
+title :  Charlie Charlie challenge 3d
+appId :  com.rzerogames.charliechalle
+score :  3.0592105
+installs : 10,000,000+
+ratings :  104480
+reviews :  2538
+
+title :  Fire Game 2023 Fire Games 2023
+appId :  com.noveltygames.cover.shooting.a02
+score :  4.15
+installs : 500,000+
+ratings :  2017
+reviews :  5
+
+title :  Tricky Doors
+appId :  com.fivebn.trickydoors
+score :  4.362676
+installs : 1,000,000+
+ratings :  30792
+reviews :  1115
+
+title :  Bob's World 2 - Running game
+appId :  com.os.falcon.bob2.adventure.world
+score :  4.364865
+installs : 10,000,000+
+ratings :  60412
+reviews :  967
+
+title :  Commando Battle Shooting Games
+appId :  com.ugs.commando.shooting.gun.games.offline
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Farm Day Farming Offline Games
+appId :  com.bag.farm.day.village.farming.games
+score :  4.1440444
+installs : 10,000,000+
+ratings :  76514
+reviews :  1426
+
+title :  Ertugrul Gazi : Ertugrul Game
+appId :  com.MHEntertainment.Ertugrulthewarrior
+score :  5
+installs : 100,000+
+ratings :  431
+reviews :  2
+
+title :  MultiCraft — Build and Mine!
+appId :  com.multicraft.game
+score :  4.295096
+installs : 50,000,000+
+ratings :  333654
+reviews :  9649
+
+title :  Choo Horror Spider Train Game
+appId :  com.evil.night.huggy.escape.playtime
+score :  3.2765958
+installs : 500,000+
+ratings :  1151
+reviews :  20
+
+title :  Offline Fps Gun Strike Games
+appId :  com.misols.offline.commando.combat.mission.adventure.survival3D
+score :  3.625
+installs : 100,000+
+ratings :  948
+reviews :  3
+
+title :  Scary Hidden Spider Train Game
+appId :  com.gl.evil.train.forest.game.chu.chu.charles.simulator
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  June's Journey: Hidden Objects
+appId :  net.wooga.junes_journey_hidden_object_mystery_game
+score :  4.517082
+installs : 10,000,000+
+ratings :  1119544
+reviews :  84772
+
+title :  Ocean Is Home :Island Life Sim
+appId :  com.birdydogstudio.oceanishome.islandlife
+score :  4.248175
+installs : 10,000,000+
+ratings :  42600
+reviews :  722
+
+title :  Bottle Shooting : Games 2023
+appId :  com.ggs.bottle.shooting.game
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Dino Hunter 3D - Hunting Games
+appId :  com.doortogames.real.dinohunter.jurassicworld.survivalgames
+score :  3.94
+installs : 5,000,000+
+ratings :  9492
+reviews :  55
+
+title :  Secret Call Of IGI Commando
+appId :  com.fgs.secret.igi.commando
+score :  3.9
+installs : 100,000+
+ratings :  549
+reviews :  3
+
+title :  Wrestling Champions Game 2022
+appId :  com.revolution.wrestling.games.real.wrestling.champions2022
+score :  4.159091
+installs : 500,000+
+ratings :  1140
+reviews :  20
+
+title :  Short Life
+appId :  com.gametornado.short_life
+score :  3.9416666
+installs : 10,000,000+
+ratings :  110839
+reviews :  1781
+
+title :  Bubble Freedom
+appId :  freedom.bubble
+score :  4.3915253
+installs : 10,000,000+
+ratings :  116258
+reviews :  9295
+
+title :  Dark Riddle 2 - Story mode
+appId :  com.darkriddle2.storymode
+score :  3.94
+installs : 5,000,000+
+ratings :  24445
+reviews :  89
+
+title :  Fighter City Jail Miami
+appId :  com.citygangstergame.mafiagamecity39
+score :  3.2142856
+installs : 100,000+
+ratings :  937
+reviews :  4
+
+title :  Car Games 3d Offline Racing
+appId :  com.zam.car.racing.games
+score :  4.722772
+installs : 1,000,000+
+ratings :  2627
+reviews :  152
+
+title :  Elden Souls
+appId :  com.OmniLith.EldenSouls
+score :  2.97
+installs : 100,000+
+ratings :  1256
+reviews :  86
+
+title :  Real Dino Hunting Gun Games
+appId :  com.apex.dinohunter.adventuregame.jusassic3d
+score :  3.97
+installs : 10,000,000+
+ratings :  12740
+reviews :  79
+
+title :  Cars games for kids, toddlers
+appId :  com.imayi.toycars
+score :  4.26
+installs : 1,000,000+
+ratings :  6651
+reviews :  19
+
+title :  Lost Lands 8
+appId :  com.fivebn.ll8.f2p
+score :  4.4772725
+installs : 1,000,000+
+ratings :  16862
+reviews :  508
+
+title :  Oli'sCongoRiverRun2
+appId :  com.taqaentertainment.olicongoriverrun2
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  IGI Commando Mission Games
+appId :  com.rh.origins.mission.counter.terrorist.igi
+score :  4.111111
+installs : 100,000+
+ratings :  1501
+reviews :  3
+
+title :  Scary Train Escape
+appId :  com.chooescapehorror
+score :  2.8611112
+installs : 1,000,000+
+ratings :  3853
+reviews :  15
+
+title :  Peek a Phone - Detective Game
+appId :  com.peekaphone.app
+score :  4.7848835
+installs : 1,000,000+
+ratings :  30140
+reviews :  4331
+
+title :  Good Pizza Cooking Madness
+appId :  com.kfs.pizza.burger.maker.make.kitchen.chef.cooking.bake.fever.factory
+score :  3.97
+installs : 5,000,000+
+ratings :  9399
+reviews :  70
+
+title :  Super Jake's Adventure
+appId :  com.rocklio.superjakesadventure
+score :  4.64486
+installs : 10,000,000+
+ratings :  42418
+reviews :  434
+
+title :  Horror Hidden Train Adventure
+appId :  com.scary.hidden.train.horror.adventure.game
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Egg Wars
+appId :  com.sandboxol.indiegame.eggwars
+score :  3.897143
+installs : 10,000,000+
+ratings :  282052
+reviews :  4029
+
+title :  True Fear: Forsaken Souls 1
+appId :  com.Goblinz.TrueFear
+score :  4.55
+installs : 5,000,000+
+ratings :  119133
+reviews :  6073
+
+title :  Super Machino: adventure game
+appId :  com.adventure.super.machino.go
+score :  4.462025
+installs : 10,000,000+
+ratings :  29121
+reviews :  441
+
+title :  Level Up Balls!
+appId :  com.TinyverseGames.LevelUpBalls
+score :  4.5451126
+installs : 1,000,000+
+ratings :  14938
+reviews :  227
+
+title :  Crazy Car Stunt : Racing Games
+appId :  com.las.carstunt.master.racing.cargame
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Bull Fighting Game: Bull Games
+appId :  com.taycoongames.bullfighter.offline.game
+score :  4.6
+installs : 500,000+
+ratings :  337
+reviews :  0
+
+title :  Alpha Guns
+appId :  com.renderedideas.alphaguns
+score :  4.27
+installs : 10,000,000+
+ratings :  103826
+reviews :  365
+
+title :  Masha and the Bear Child Games
+appId :  com.indigokids.mim
+score :  4.0841584
+installs : 50,000,000+
+ratings :  320661
+reviews :  1096
+
+title :  Osman Gazi 23: Sword Fighting
+appId :  com.rrg.osman.gazi.rise.ottoman.empire.games
+score :  4.294872
+installs : 500,000+
+ratings :  6330
+reviews :  41
+
+title :  Real Gangster Crime City War
+appId :  com.xsimulation.real.gangster.crime.city.war.gangster.crime.game
+score :  3.3333333
+installs : 100,000+
+ratings :  1453
+reviews :  6
+
+title :  Mikecraft
+appId :  com.mmikey.mi1
+score :  3.9707317
+installs : 5,000,000+
+ratings :  86130
+reviews :  1056
+
+title :  Batman - The Telltale Series
+appId :  com.telltalegames.batman100
+score :  4.07957
+installs : 1,000,000+
+ratings :  41341
+reviews :  1855
+
+title :  Doctor Game : hospital games
+appId :  com.gmrs.car.parking.driver
+score :  3.68
+installs : 1,000,000+
+ratings :  2803
+reviews :  8
+
+title :  Motu Patlu Horse Riding
+appId :  com.tangiappsit.motupatlu.horseriding
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  FPS Gun Shooting games 3D
+appId :  com.ps.sharpshooter.fps.game
+score :  3.212766
+installs : 1,000,000+
+ratings :  9156
+reviews :  23
+
+title :  Dark Riddle: Classic
+appId :  com.darkriddle.classic
+score :  3.91
+installs : 5,000,000+
+ratings :  24621
+reviews :  174
+
+title :  Garten of Banban
+appId :  com.euphoricbrothersgames.gartenofbanban
+score :  3.6923077
+installs : 1,000,000+
+ratings :  28714
+reviews :  1110
+
+title :  Police Car Driving Game 3d
+appId :  com.ud.luxury.police.car.parking.driving.arena
+score :  3.06
+installs : 1,000,000+
+ratings :  3220
+reviews :  121
+
+title :  Train Hidden Escape
+appId :  com.TrainHiddenEscape
+score :  3.76
+installs : 1,000,000+
+ratings :  4695
+reviews :  9
+
+title :  Hamster Maze
+appId :  com.armnomads.hamstermazer
+score :  4.4107695
+installs : 10,000,000+
+ratings :  72523
+reviews :  1000
+
+title :  Spider Train Charlie Escape
+appId :  com.ts.choochoo.spider.train.charlie.escape
+score :  3.142857
+installs : 500,000+
+ratings :  1029
+reviews :  2
+
+title :  Super City Superman Game Hero
+appId :  com.ljrus.qusgame
+score :  3.875
+installs : 1,000,000+
+ratings :  1015
+reviews :  1
+
+title :  Kaiju Brawl
+appId :  com.Xadetechnologies.com.GodzillaKongAlliances
+score :  3.69
+installs : 1,000,000+
+ratings :  3312
+reviews :  233
+
+title :  Model Fashion Makeover Dressup
+appId :  com.kidsfunmedia.modelfashion.makeoverdressup.games
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Airplane Game Flight Simulator
+appId :  com.al.airport
+score :  4.301587
+installs : 1,000,000+
+ratings :  18571
+reviews :  972
+
+title :  Star Equestrian - Horse Ranch
+appId :  com.FoxieVentures.EquestrianHorseRidingGame
+score :  3.9607842
+installs : 100,000+
+ratings :  6206
+reviews :  423
+
+title :  Ertugrul Gazi Bow Hunting 3D
+appId :  com.DharTech.Ertugrul.Hunting.Game
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Super City
+appId :  air.SuperCity
+score :  4.271437
+installs : 10,000,000+
+ratings :  244696
+reviews :  16929
+
+title :  Unicorn Kingdom: Running Games
+appId :  com.ws.unicorn.runner.kingdom
+score :  4.3818183
+installs : 100,000+
+ratings :  280
+reviews :  6
+
+title :  Call Of IGI Commando: Mob Duty
+appId :  com.bf.call.commando.shooting.games
+score :  3.910891
+installs : 1,000,000+
+ratings :  19305
+reviews :  135
+
+title :  Horror Adventure Games
+appId :  com.horror.games.haunted.house.scary.hospital.survival
+score :  4.3333335
+installs : 100,000+
+ratings :  252
+reviews :  2
+
+title :  Cooking Love - Chef Restaurant
+appId :  com.cscmobi.cooking.love.free
+score :  4.70202
+installs : 1,000,000+
+ratings :  37351
+reviews :  1482
+
+title :  Horror Barby Granny V1.8 Scary
+appId :  com.barbieprincess.tonyboyandgirlprincess.barbiegranny
+score :  4.0840335
+installs : 10,000,000+
+ratings :  56036
+reviews :  516
+
+title :  Horror Tale 1: Kidnapper
+appId :  com.eg.horrortale
+score :  4.572727
+installs : 1,000,000+
+ratings :  34511
+reviews :  564
+
+title :  IGI FPS Shooting Offline Games
+appId :  com.rockvillegames.battlefield
+score :  4.0454545
+installs : 1,000,000+
+ratings :  4838
+reviews :  29
+
+title :  Ertugrul Gazi
+appId :  com.umuro.ertugrul
+score :  4.01
+installs : 5,000,000+
+ratings :  46395
+reviews :  151
+
+title :  Offline Race Game Car Games 3D
+appId :  com.jb.car.stunt.game
+score :  3.7777777
+installs : 1,000,000+
+ratings :  1178
+reviews :  2
+
+title :  Car Games : Formula Car Racing
+appId :  com.gamebunch.formula.racing
+score :  4.101124
+installs : 1,000,000+
+ratings :  3121
+reviews :  21
+
+title :  Indian Truck Driving Games OTR
+appId :  com.spirit.extreme.road.drive.real.apps
+score :  3.6216216
+installs : 1,000,000+
+ratings :  6035
+reviews :  12
+
+title :  Spider Rope Hero Man Games
+appId :  com.sgh.wilddeer.hunting
+score :  3.892857
+installs : 500,000+
+ratings :  889
+reviews :  17
+
+title :  Osman Gazi 21- Fighting Games
+appId :  com.cgs.osmanghazi.dirilis.ertugrul.gazi.newgames
+score :  4.41
+installs : 1,000,000+
+ratings :  7542
+reviews :  45
+
+title :  Spider-Man Rope Superhero Game
+appId :  com.MegaTuneGames.SpiderSuperheroRopeHero
+score :  3.5454545
+installs : 1,000,000+
+ratings :  1334
+reviews :  20
+
+title :  Animal Tiger Robot Car Games
+appId :  com.multi.robot.games.bmx.transform
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Ninja Assassin Shadow Master
+appId :  com.cgs.ninja.assassin.shadow.master.creed.fighter.games
+score :  4.13
+installs : 1,000,000+
+ratings :  8668
+reviews :  50
+
+title :  Bus Simulator : bus games 2023
+appId :  com.tg.bus.simulator.game
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Swordigo
+appId :  com.touchfoo.swordigo
+score :  4.5748835
+installs : 10,000,000+
+ratings :  790308
+reviews :  15178
+
+title :  Fire and Water Stickman 2
+appId :  com.one.water.and.fire
+score :  4.195402
+installs : 1,000,000+
+ratings :  2518
+reviews :  16
+
+title :  LOST in BLUE
+appId :  com.volcanoforce.lost.global
+score :  4.333831
+installs : 10,000,000+
+ratings :  635066
+reviews :  15016
+
+title :  Cooking Marina - cooking games
+appId :  com.cscmobi.cookingmarina
+score :  4.6498194
+installs : 10,000,000+
+ratings :  40337
+reviews :  729
+
+title :  Charles Scary Home Choo Game
+appId :  com.RedLightGame.JumpIt
+score :  1.5625
+installs : 100,000+
+ratings :  539
+reviews :  12
+

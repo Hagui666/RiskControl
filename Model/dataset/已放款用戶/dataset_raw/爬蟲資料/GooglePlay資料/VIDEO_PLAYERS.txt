@@ -1,0 +1,1386 @@
+title :  CapCut - Video Editor
+appId :  com.lemon.lvoverseas
+score :  4.5276256
+installs : 500,000,000+
+ratings :  6257108
+reviews :  53135
+
+title :  SnackVideo
+appId :  com.kwai.bulldog
+score :  4.55547
+installs : 100,000,000+
+ratings :  8318451
+reviews :  3341
+
+title :  PLAYit-All in One Video Player
+appId :  com.playit.videoplayer
+score :  4.575209
+installs : 100,000,000+
+ratings :  5144551
+reviews :  16931
+
+title :  MX Player
+appId :  com.mxtech.videoplayer.ad
+score :  4.4020047
+installs : 1,000,000,000+
+ratings :  12183946
+reviews :  166884
+
+title :  CandyCut - Video Editor
+appId :  com.candycut.video.editor
+score :  4.6534653
+installs : 500,000+
+ratings :  4585
+reviews :  13
+
+title :  KineMaster-Video Editor&Maker
+appId :  com.nexstreaming.app.kinemasterfree
+score :  4.0924397
+installs : 100,000,000+
+ratings :  5409607
+reviews :  87905
+
+title :  Photo Video Maker with Music
+appId :  slideshow.photo.video.videomaker
+score :  4.5608463
+installs : 10,000,000+
+ratings :  122031
+reviews :  389
+
+title :  YouTube
+appId :  com.google.android.youtube
+score :  4.208728
+installs : 10,000,000,000+
+ratings :  148373278
+reviews :  2834355
+
+title :  Video & Music Downloader
+appId :  com.mp4avi
+score :  4.641361
+installs : 10,000,000+
+ratings :  135690
+reviews :  563
+
+title :  CutMate - Video Editor Maker
+appId :  com.video.editor.mate
+score :  4.775
+installs : 100,000+
+ratings :  2121
+reviews :  7
+
+title :  X Sexy Video Downloader
+appId :  free.xnxx.hot.video.downloader
+score :  4.4329004
+installs : 10,000,000+
+ratings :  161694
+reviews :  3964
+
+title :  YouTube Studio
+appId :  com.google.android.apps.youtube.creator
+score :  4.2462587
+installs : 100,000,000+
+ratings :  1800352
+reviews :  33209
+
+title :  All Video Downloader
+appId :  indigo.max.downloader
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Pi Video Player - Media Player
+appId :  com.project100pi.videoplayer.video.player
+score :  4.732673
+installs : 1,000,000+
+ratings :  7602
+reviews :  128
+
+title :  YouCut - Video Editor & Maker
+appId :  com.camerasideas.trimmer
+score :  4.850885
+installs : 100,000,000+
+ratings :  6296849
+reviews :  107920
+
+title :  Video Editor & Maker VideoShow
+appId :  com.xvideostudio.videoeditor
+score :  4.5520973
+installs : 100,000,000+
+ratings :  5948209
+reviews :  101305
+
+title :  Video Downloader - Downloader
+appId :  free.video.downloader.freevideodownloader
+score :  4.697395
+installs : 100,000,000+
+ratings :  454388
+reviews :  3409
+
+title :  All Video Downloader
+appId :  com.allvideodownloaderfast.vodeodownloadfast
+score :  4.188119
+installs : 1,000,000+
+ratings :  4345
+reviews :  21
+
+title :  Video Maker Music Video Editor
+appId :  com.funcamerastudio.videomaker
+score :  4.4261413
+installs : 100,000,000+
+ratings :  1247150
+reviews :  15452
+
+title :  All Video Downloader
+appId :  starflash.vidmate.downloader
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  VN Video Editor Maker VlogNow
+appId :  com.frontrow.vlog
+score :  4.502986
+installs : 100,000,000+
+ratings :  2061423
+reviews :  10824
+
+title :  VLC for Android
+appId :  org.videolan.vlc
+score :  4.1080065
+installs : 100,000,000+
+ratings :  1781797
+reviews :  21857
+
+title :  Private Video Downloader
+appId :  com.privatebrowser.videodownloader
+score :  4.26
+installs : 1,000,000+
+ratings :  2549
+reviews :  17
+
+title :  Photo Video Maker with Song
+appId :  slideshow.videomaker.photovideo
+score :  4.48
+installs : 10,000,000+
+ratings :  79239
+reviews :  23
+
+title :  All In One HD Video Play
+appId :  ganna.live.player
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Screen Recorder - XRecorder
+appId :  videoeditor.videorecorder.screenrecorder
+score :  4.798745
+installs : 100,000,000+
+ratings :  6298839
+reviews :  99682
+
+title :  All in One HD Video Downloader
+appId :  com.fastmediadownloadr.allsocialdownloadr
+score :  3.8139534
+installs : 500,000+
+ratings :  2490
+reviews :  8
+
+title :  HD Video Downloader App 2022
+appId :  hdvideo.mediaplayer.video.player
+score :  4.35
+installs : 1,000,000+
+ratings :  7551
+reviews :  36
+
+title :  HD Video Player
+appId :  com.HDvideoplayer.audioplayer.mediaplayer
+score :  4.5555553
+installs : 1,000,000+
+ratings :  2133
+reviews :  15
+
+title :  Video Downloader
+appId :  video.downloader.videodownloader
+score :  4.767194
+installs : 100,000,000+
+ratings :  1694038
+reviews :  35765
+
+title :  Slideshow - Slideshow Maker
+appId :  com.vtool.photovideomaker.slideshow.videoeditor
+score :  4.6830707
+installs : 10,000,000+
+ratings :  123287
+reviews :  1955
+
+title :  Downloader - Video Downloader
+appId :  downloader.vitmate.downloaderapp
+score :  4.659711
+installs : 50,000,000+
+ratings :  277078
+reviews :  2320
+
+title :  Photo Video Maker with Music
+appId :  com.videomedia.photovideomaker.slideshow
+score :  3.9607842
+installs : 10,000,000+
+ratings :  41800
+reviews :  94
+
+title :  Video downloader for Facebook
+appId :  facebook.video.downloader.savefrom.fb
+score :  4.7908497
+installs : 10,000,000+
+ratings :  755531
+reviews :  8055
+
+title :  Video Downloader & Video Saver
+appId :  hd.video.downloader.allvideodownloader.app
+score :  4.25
+installs : 1,000,000+
+ratings :  9816
+reviews :  50
+
+title :  Video Player
+appId :  com.mine.videoplayer
+score :  4.527321
+installs : 10,000,000+
+ratings :  180951
+reviews :  5176
+
+title :  REC - Screen | Video Recorder
+appId :  us.rec.screen
+score :  4.0890055
+installs : 10,000,000+
+ratings :  133510
+reviews :  1799
+
+title :  Video Maker
+appId :  videoeditor.videomaker.videoeditorforyoutube
+score :  4.821402
+installs : 50,000,000+
+ratings :  2496573
+reviews :  34649
+
+title :  Video Downloader: All Socials
+appId :  com.all.social.video.downloader
+score :  3.41
+installs : 1,000,000+
+ratings :  10029
+reviews :  73
+
+title :  All Video Downloader App
+appId :  com.mediastudio.allvideodownloader.downloadvideoshd.bestdownloader
+score :  4.1873965
+installs : 10,000,000+
+ratings :  241231
+reviews :  778
+
+title :  EasyCut - Video Editor & Maker
+appId :  com.video.editor.greattalent
+score :  4.2985077
+installs : 10,000,000+
+ratings :  201556
+reviews :  1506
+
+title :  Lyrical.ly Video Status Maker
+appId :  com.opex.makemyvideostatus
+score :  4.009901
+installs : 50,000,000+
+ratings :  320253
+reviews :  160
+
+title :  Video Player All Format
+appId :  video.player.videoplayer
+score :  4.7785273
+installs : 50,000,000+
+ratings :  1464208
+reviews :  27578
+
+title :  Video Downloader: Video Player
+appId :  com.video.player.videoplayervideodownloader
+score :  4.23
+installs : 1,000,000+
+ratings :  2229
+reviews :  23
+
+title :  All Video Downloader App
+appId :  com.video.download.videodownloader.storydownloader.savevideos
+score :  4.32
+installs : 5,000,000+
+ratings :  14839
+reviews :  102
+
+title :  HD Video Player All Formats
+appId :  com.rocks.music.videoplayer
+score :  4.312098
+installs : 10,000,000+
+ratings :  173665
+reviews :  3876
+
+title :  Mivo: Face swap video deepfake
+appId :  ins.story.unfold
+score :  3.9214876
+installs : 50,000,000+
+ratings :  396875
+reviews :  1969
+
+title :  Video Editor - Video Effects
+appId :  glitchvideoeditor.videoeffects.glitchvideoeffect
+score :  4.809883
+installs : 50,000,000+
+ratings :  985047
+reviews :  11372
+
+title :  Video Downloader - Save Videos
+appId :  free.files.downloader.save.video.manager
+score :  4.280617
+installs : 10,000,000+
+ratings :  78347
+reviews :  2768
+
+title :  Photo video maker
+appId :  com.photo.video.editor.slideshow.videomaker
+score :  4.537037
+installs : 10,000,000+
+ratings :  131227
+reviews :  1813
+
+title :  HD Video Player All Format
+appId :  maxplayer.mediaplayer.videoplayer
+score :  4.5454545
+installs : 100,000+
+ratings :  2170
+reviews :  31
+
+title :  HD Video Downloader App - 2022
+appId :  hd.video.downloader.app.hdvideodownloaderapp
+score :  4.6685605
+installs : 100,000,000+
+ratings :  284278
+reviews :  2303
+
+title :  Filmora: Movie & Video Editor
+appId :  com.wondershare.filmorago
+score :  4.666369
+installs : 50,000,000+
+ratings :  829447
+reviews :  17123
+
+title :  X Sexy Video Downloader Pro
+appId :  com.hdvideodownloader.vidmatedownloader
+score :  3.625
+installs : 100,000+
+ratings :  364
+reviews :  1
+
+title :  Video Player All Media Player
+appId :  com.xenstudios.allformate.videoplay.hdvideoplayer
+score :  4.29
+installs : 1,000,000+
+ratings :  3270
+reviews :  29
+
+title :  Calculator - photo vault
+appId :  com.hld.anzenbokusucal
+score :  4.8696923
+installs : 10,000,000+
+ratings :  420949
+reviews :  10466
+
+title :  VivaVideo - Video Editor&Maker
+appId :  com.quvideo.xiaoying
+score :  4.434044
+installs : 500,000,000+
+ratings :  12786788
+reviews :  147190
+
+title :  Alight Motion
+appId :  com.alightcreative.motion
+score :  3.4608803
+installs : 50,000,000+
+ratings :  875061
+reviews :  8962
+
+title :  Tikmate: No Watermark Download
+appId :  downloader.tiktokdownloader.tik.ttplayer.tok.videodownload
+score :  4.90625
+installs : 100,000+
+ratings :  5419
+reviews :  25
+
+title :  Video Cutter, Merger & Editor
+appId :  com.meberty.videotrimmer
+score :  3.5238094
+installs : 1,000,000+
+ratings :  7392
+reviews :  19
+
+title :  Slow Motion Video Maker
+appId :  com.vtool.slowmotion.fastmotion.video
+score :  4.47
+installs : 10,000,000+
+ratings :  35795
+reviews :  201
+
+title :  Video downloader, download all
+appId :  free.video.downloader.converter.music
+score :  4.4835167
+installs : 10,000,000+
+ratings :  68316
+reviews :  1124
+
+title :  Video Editor & Maker AndroVid
+appId :  com.androvid
+score :  4.2532873
+installs : 50,000,000+
+ratings :  350499
+reviews :  11229
+
+title :  TikSaver : Watermark Remover
+appId :  repost.share.tiktok.nowatermark.videosave.download.videodownloader.saver
+score :  4.625
+installs : 100,000+
+ratings :  5456
+reviews :  46
+
+title :  background video recorder
+appId :  com.camera.secretvideorecorder
+score :  4.0096617
+installs : 10,000,000+
+ratings :  153312
+reviews :  3029
+
+title :  µTorrent®- Torrent Downloader
+appId :  com.utorrent.client
+score :  4.6205587
+installs : 100,000,000+
+ratings :  5072276
+reviews :  149352
+
+title :  V2Art: Video Effects & Filters
+appId :  com.mobile.bizo.videofilters
+score :  4.353612
+installs : 1,000,000+
+ratings :  32042
+reviews :  969
+
+title :  All HD Video Downloader
+appId :  com.hdvideodownload.freevideodownloader
+score :  4.268293
+installs : 100,000+
+ratings :  1380
+reviews :  7
+
+title :  All Format Video Player - Mixx
+appId :  com.mixplayer.video.music
+score :  4.42
+installs : 500,000+
+ratings :  6623
+reviews :  85
+
+title :  All Video HD Downloader App
+appId :  com.downloader.videodownloader.hdvideo.anyvideodownloader
+score :  4.16
+installs : 10,000,000+
+ratings :  55014
+reviews :  170
+
+title :  xBrowser - Video Downloader
+appId :  com.smarttools.xbrowser.videodownloader
+score :  4.52
+installs : 1,000,000+
+ratings :  6140
+reviews :  69
+
+title :  Download video no watermark
+appId :  tiktok.video.downloader.nowatermark.tiktokdownload
+score :  4.6649485
+installs : 10,000,000+
+ratings :  365532
+reviews :  1394
+
+title :  SnapTok: TT Video Downloader
+appId :  com.snapmate.tiktokdownloadernowatermark
+score :  4.6843596
+installs : 5,000,000+
+ratings :  417184
+reviews :  1877
+
+title :  Mivi :Music & Beat Video Maker
+appId :  com.picslab.neon.editor
+score :  4.3826714
+installs : 50,000,000+
+ratings :  533305
+reviews :  1014
+
+title :  Download Hub, Video Downloader
+appId :  com.tradron.hdvideodownloader
+score :  4.5875
+installs : 1,000,000+
+ratings :  18655
+reviews :  645
+
+title :  Photo Slideshow With Music
+appId :  com.acarmobile.photovideomaker.slideshowmaker
+score :  4.181818
+installs : 100,000+
+ratings :  1505
+reviews :  5
+
+title :  All Video Downloader - V
+appId :  all.video.downloader.allvideodownloader
+score :  4.6611085
+installs : 100,000,000+
+ratings :  962930
+reviews :  9669
+
+title :  Slow motion - slow mo, fast mo
+appId :  slowmotion.speedup.slowdown.fastmotion
+score :  4.1386137
+installs : 1,000,000+
+ratings :  14789
+reviews :  64
+
+title :  Full HD Video Player
+appId :  com.sceurevideoplayer.xyzhdvideoplaer
+score :  4.2613635
+installs : 1,000,000+
+ratings :  2907
+reviews :  15
+
+title :  Video downloader for Instagram
+appId :  instasaver.instagram.video.downloader.photo
+score :  4.8096576
+installs : 50,000,000+
+ratings :  1233793
+reviews :  15703
+
+title :  Video Player
+appId :  com.allformat.hdvideoplayer.mp4player
+score :  4.2021856
+installs : 1,000,000+
+ratings :  16793
+reviews :  318
+
+title :  Video Downloader - Story Saver
+appId :  instasaver.videodownloader.photodownloader.repost
+score :  4.520651
+installs : 10,000,000+
+ratings :  504810
+reviews :  5525
+
+title :  Screen Recorder - AZ Recorder
+appId :  com.hecorat.screenrecorder.free
+score :  4.4555373
+installs : 50,000,000+
+ratings :  1662100
+reviews :  52150
+
+title :  Music Video Maker
+appId :  com.bigsoft.videoeditor.musicvideomaker
+score :  4.58
+installs : 5,000,000+
+ratings :  18859
+reviews :  148
+
+title :  Video to MP3 Converter
+appId :  mp3videoconverter.videotomp3converter.audioconverter
+score :  4.690407
+installs : 50,000,000+
+ratings :  549463
+reviews :  2905
+
+title :  VITA - Video Editor & Maker
+appId :  com.snowcorp.vita
+score :  4.3677363
+installs : 100,000,000+
+ratings :  717203
+reviews :  5866
+
+title :  Video Slideshow Maker
+appId :  com.video.slideshowmaker
+score :  4.1666665
+installs : 500,000+
+ratings :  1240
+reviews :  1
+
+title :  Photo Slideshow
+appId :  com.jenilcreation.photoslideshow
+score :  4.2
+installs : 5,000,000+
+ratings :  10358
+reviews :  28
+
+title :  Slow Motion Video Editor
+appId :  vivi.video.camera
+score :  3.77
+installs : 5,000,000+
+ratings :  25334
+reviews :  178
+
+title :  Vidmark : Video Downloader
+appId :  com.video.download.allvideodownloader.videodownloader
+score :  4.571429
+installs : 500,000+
+ratings :  1179
+reviews :  4
+
+title :  All Tube Video Download
+appId :  com.blitz.protubevideodownloader
+score :  4.735849
+installs : 500,000+
+ratings :  14898
+reviews :  317
+
+title :  Screen Recorder+Video Recorder
+appId :  screenrecorder.videorecorder.rec.video.screen.recorder
+score :  4.45
+installs : 1,000,000+
+ratings :  33679
+reviews :  415
+
+title :  Snack Point Video Status Maker
+appId :  lyrical.status.maker.video.maker
+score :  4.6904764
+installs : 1,000,000+
+ratings :  5155
+reviews :  31
+
+title :  Video Downloader for Twitter
+appId :  downloadtwittervideo.twitterdownloader.twittervideodownloader.twittersaver
+score :  4.4383564
+installs : 1,000,000+
+ratings :  34421
+reviews :  518
+
+title :  Video Downloader & Video Saver
+appId :  downloader.video.download.free
+score :  4.419033
+installs : 10,000,000+
+ratings :  254250
+reviews :  7455
+
+title :  HD Video Player
+appId :  com.hdvideoplayer.multimedeaplayer.videoplayerallformat
+score :  5
+installs : 50,000+
+ratings :  142
+reviews :  3
+
+title :  Video to MP3 - Video to Audio
+appId :  mp3videoconverter.videotomp3.videotomp3converter
+score :  4.8345914
+installs : 50,000,000+
+ratings :  510096
+reviews :  6852
+
+title :  Video Editor & Video Maker App
+appId :  com.videoshakestudio.videoshake
+score :  5
+installs : 100,000+
+ratings :  2045
+reviews :  3
+
+title :  Gallery Vault-Hide Photo Video
+appId :  com.thinkyeah.galleryvault
+score :  4.5110455
+installs : 10,000,000+
+ratings :  595476
+reviews :  13105
+
+title :  Video Maker with Music 2023
+appId :  ph.app.photovideomakerwithmusic
+score :  4.436893
+installs : 5,000,000+
+ratings :  16519
+reviews :  102
+
+title :  Slow motion video fast&slow mo
+appId :  com.mobile.bizo.slowmotion
+score :  4.360481
+installs : 10,000,000+
+ratings :  344928
+reviews :  4159
+
+title :  Blur Video and Photo Editor
+appId :  com.bongasoft.blurimagevideo
+score :  4.05
+installs : 1,000,000+
+ratings :  7666
+reviews :  188
+
+title :  Video Editor APP - VivaCut
+appId :  com.videoeditorpro.android
+score :  4.613997
+installs : 100,000,000+
+ratings :  1246357
+reviews :  13414
+
+title :  Video Maker: Photo Music Video
+appId :  com.musicvideomaker.slideshow
+score :  4.6170855
+installs : 10,000,000+
+ratings :  320390
+reviews :  4169
+
+title :  All Video Player Media Player
+appId :  com.bpva.video.player.free
+score :  4.3692307
+installs : 5,000,000+
+ratings :  20464
+reviews :  420
+
+title :  SnapTik - TT Video Downloader
+appId :  com.snaptik.tt.downloader.nologo.nowatermark
+score :  4.25
+installs : 1,000,000+
+ratings :  17289
+reviews :  268
+
+title :  Crop, Cut & Trim Video Editor
+appId :  fnzstudios.com.videocrop
+score :  4.517325
+installs : 10,000,000+
+ratings :  237495
+reviews :  5501
+
+title :  Photo Video Maker With Music
+appId :  com.jm.photo.videomaker
+score :  4.175
+installs : 500,000+
+ratings :  1516
+reviews :  12
+
+title :  XV Video Downloader - Download
+appId :  com.downing.videodownloader.video.downloader
+score :  4.183908
+installs : 100,000+
+ratings :  2667
+reviews :  6
+
+title :  Video Player All Format Hd
+appId :  com.videoplayerhd.allformatplayer.allvideoplayerhd
+score :  3.9270833
+installs : 500,000+
+ratings :  2666
+reviews :  16
+
+title :  Music Video Editor - inMelo
+appId :  videoeditor.mvedit.musicvideomaker
+score :  4.79
+installs : 1,000,000+
+ratings :  15869
+reviews :  144
+
+title :  VideoFX Music Video Maker
+appId :  com.videofx
+score :  4.127407
+installs : 10,000,000+
+ratings :  257503
+reviews :  15061
+
+title :  MagiConnect – TCL Offical TV R
+appId :  com.magiconnect.tcast
+score :  4.366337
+installs : 5,000,000+
+ratings :  53794
+reviews :  194
+
+title :  Video Downloader - XDownloader
+appId :  video.downloader.tiktok.instagram.file.saver.vault
+score :  4.6853933
+installs : 1,000,000+
+ratings :  15660
+reviews :  492
+
+title :  Social Downloader
+appId :  com.free.video.downloader.save.video.hd.videodownload
+score :  4.15
+installs : 1,000,000+
+ratings :  4082
+reviews :  5
+
+title :  HD Video Player All in One
+appId :  hd.video.player.videoplayer.mplayer.hdvideoplayer
+score :  4.5833335
+installs : 100,000+
+ratings :  395
+reviews :  1
+
+title :  Video & Music Downloader
+appId :  com.mp4mp3
+score :  4.446602
+installs : 1,000,000+
+ratings :  32899
+reviews :  61
+
+title :  Screen Recorder- Video Record
+appId :  videoeditor.screenrecorder.videorecorder.recorder.editor
+score :  4.24
+installs : 500,000+
+ratings :  1078
+reviews :  70
+
+title :  Video Downloader for Instagram
+appId :  repost.share.instagram.videodownloader.photodownloader
+score :  4.5826974
+installs : 10,000,000+
+ratings :  721724
+reviews :  1869
+
+title :  PowerDirector - Video Editor
+appId :  com.cyberlink.powerdirector.DRA140225_01
+score :  4.439552
+installs : 100,000,000+
+ratings :  1694663
+reviews :  65507
+
+title :  Screen Recorder - Vidma REC
+appId :  vidma.screenrecorder.videorecorder.videoeditor.lite
+score :  4.655814
+installs : 10,000,000+
+ratings :  463674
+reviews :  2010
+
+title :  Slow Motion
+appId :  com.slomo.lapse
+score :  3.195122
+installs : 500,000+
+ratings :  2065
+reviews :  37
+
+title :  XCalc Browser and Hidden Vault
+appId :  com.xxx.calc
+score :  4.3125
+installs : 500,000+
+ratings :  1564
+reviews :  6
+
+title :  XXVI Video Download Apps India
+appId :  com.xxallvideodownloder.fastviddownload
+score :  4.5555553
+installs : 100,000+
+ratings :  846
+reviews :  0
+
+title :  All Mp4 Video Downloader
+appId :  com.videodownloader.snaptubee.app.videodownloaderhd.easytousevideodownloader
+score :  4.3333335
+installs : 100,000+
+ratings :  742
+reviews :  3
+
+title :  HD Video Player All Format
+appId :  cv.video.player
+score :  3.82
+installs : 1,000,000+
+ratings :  13432
+reviews :  173
+
+title :  CatCut - Video Editor & Maker
+appId :  com.catcut.videoeditormaker
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Videoder - Video Downloader
+appId :  videoderdownloaderapp.mp4videodervideodownloader
+score :  3.90099
+installs : 1,000,000+
+ratings :  16786
+reviews :  217
+
+title :  Calculator - Video Downloader
+appId :  com.calculatorvideo.calculatoraudio.privatedownloader
+score :  4.4666667
+installs : 50,000+
+ratings :  541
+reviews :  4
+
+title :  Reverse Movie FX - magic video
+appId :  com.mobile.bizo.reverse
+score :  4.4107885
+installs : 50,000,000+
+ratings :  991654
+reviews :  12033
+
+title :  Video Velocity: Slow Motion HD
+appId :  com.wallisonfx.videovelocity
+score :  4.6
+installs : 1,000,000+
+ratings :  34450
+reviews :  220
+
+title :  Screen Recorder Video Recorder
+appId :  screenrecorder.recorder.editor
+score :  4.4574523
+installs : 100,000,000+
+ratings :  1549814
+reviews :  32681
+
+title :  Video Editing - Vidma Editor
+appId :  vidma.video.editor.videomaker
+score :  4.7303753
+installs : 5,000,000+
+ratings :  150493
+reviews :  1107
+
+title :  Video maker with music
+appId :  com.music.video.photo.photovideo.studio.slideshow
+score :  4.7272725
+installs : 100,000+
+ratings :  963
+reviews :  6
+
+title :  Slow Motion Video Editor
+appId :  com.videocutter.compressor.videosizereducer.trimmer
+score :  4.68
+installs : 1,000,000+
+ratings :  6669
+reviews :  23
+
+title :  Full HD Video Player
+appId :  com.videoplayer.allformatplayer.videodownloader
+score :  4.3762374
+installs : 1,000,000+
+ratings :  6122
+reviews :  72
+
+title :  Video Downloader App - Mesh
+appId :  com.allvideodownloader.videodownloadmanager
+score :  4.654206
+installs : 1,000,000+
+ratings :  7525
+reviews :  37
+
+title :  Master Tips for Video Editor
+appId :  com.mastereditorkinemasterguide.kineamstereditorfreeetips
+score :  3.7444444
+installs : 1,000,000+
+ratings :  14457
+reviews :  37
+
+title :  Wink-Video Retouching Tool
+appId :  com.meitu.wink
+score :  4.0615387
+installs : 1,000,000+
+ratings :  2349
+reviews :  28
+
+title :  Video Downloader & Saver - XDM
+appId :  privatebrowser.videodownloader.downloadvideo.videoeditor
+score :  4.51
+installs : 1,000,000+
+ratings :  5964
+reviews :  108
+
+title :  Photo Video Maker With Music
+appId :  com.moviemakerwithmusic.pictomoviecreat
+score :  4.09
+installs : 10,000,000+
+ratings :  43352
+reviews :  132
+
+title :  Video to Mp3 : Mute Video /Tri
+appId :  com.andromania.videotomp3
+score :  4.52
+installs : 5,000,000+
+ratings :  16516
+reviews :  83
+
+title :  Vidio - Video Player
+appId :  vip.vidyo.player
+score :  3.7894738
+installs : 1,000,000+
+ratings :  719
+reviews :  6
+
+title :  Tube Video Downloader/ For All
+appId :  com.videodownloader.all.video.tube.download.status.fb.downloader
+score :  3.632653
+installs : 500,000+
+ratings :  1455
+reviews :  23
+
+title :  xBrowser: All Video Downloader
+appId :  com.browservideo.smartbrowser.videodownloader
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Screen Recorder:Video Recorder
+appId :  com.videocallrecorder.screenrecording.callrecorder.voicecallrecorder.videorecorde
+score :  3.8596492
+installs : 1,000,000+
+ratings :  2801
+reviews :  26
+
+title :  C Template - CapCut Template
+appId :  com.capcuttemplate.jft
+score :  4.1698112
+installs : 100,000+
+ratings :  7460
+reviews :  40
+
+title :  Video player
+appId :  com.recorder.music.bstech.videoplayer
+score :  4.252546
+installs : 10,000,000+
+ratings :  191312
+reviews :  2468
+
+title :  Video Downloader for Twitter
+appId :  twimate.tweetdownloader.savetwittergif.twittervideodownloader
+score :  4.6658597
+installs : 5,000,000+
+ratings :  142126
+reviews :  2692
+
+title :  Watermark remover, Logo eraser
+appId :  video.watermaker.remover.logo.videowatermark
+score :  3.8415842
+installs : 1,000,000+
+ratings :  24819
+reviews :  333
+
+title :  Beat.ly: music video maker
+appId :  vinkle.video.editor
+score :  4.489218
+installs : 100,000,000+
+ratings :  1316096
+reviews :  9198
+
+title :  ShotCut - Video Editor Pro
+appId :  video.editor.videomaker.effects.fx
+score :  4.85625
+installs : 10,000,000+
+ratings :  139545
+reviews :  1515
+
+title :  IPTV PLAYER
+appId :  com.player.myiptv.myiptv
+score :  4.01
+installs : 1,000,000+
+ratings :  10026
+reviews :  99
+
+title :  MateV: All HD Video Downloader
+appId :  com.hd.video.player.smooth.background.player.hdvideoplayer
+score :  4.56
+installs : 5,000,000+
+ratings :  32930
+reviews :  130
+
+title :  VideoDownloader
+appId :  com.video.videodownloader_appdl
+score :  4.6833334
+installs : 100,000+
+ratings :  2087
+reviews :  30
+
+title :  Love Video Maker With Music
+appId :  bc.gn.love.video.maker
+score :  4.4615383
+installs : 1,000,000+
+ratings :  1192
+reviews :  1
+
+title :  HD Video Player
+appId :  videoplayer.videodownloader.hdvideoplayer
+score :  4.226087
+installs : 50,000,000+
+ratings :  119964
+reviews :  344
+
+title :  X Video Downloader 2023
+appId :  app.nextinnovations.xvideodownloader
+score :  4.647059
+installs : 100,000+
+ratings :  971
+reviews :  4
+
+title :  Full HD Video Player
+appId :  com.mediaplayer.allformatvideoplayer.musicvideoplayer
+score :  4.888889
+installs : 100,000+
+ratings :  242
+reviews :  0
+
+title :  Add Music To Video Editor
+appId :  com.supereffect.musictovideo.videoeditor
+score :  4.41
+installs : 1,000,000+
+ratings :  17916
+reviews :  240
+
+title :  Trending & Funny Video - Moo
+appId :  com.studio.funnyvideo.tiktok.snack
+score :  4.0416665
+installs : 500,000+
+ratings :  2982
+reviews :  3
+
+title :  KMPlayer - All Video Player
+appId :  com.kmplayer
+score :  4.280506
+installs : 10,000,000+
+ratings :  385549
+reviews :  6357
+
+title :  Videoleap - Video Editor/Maker
+appId :  com.lightricks.videoleap
+score :  4.461929
+installs : 5,000,000+
+ratings :  113974
+reviews :  2093
+
+title :  Video Collage Maker:Mix Videos
+appId :  com.momentic.videocollage
+score :  4.787037
+installs : 5,000,000+
+ratings :  69507
+reviews :  1146
+
+title :  Clock Lock Secret Photo Vault
+appId :  com.photovault.secret.clock.locker
+score :  4.5263157
+installs : 500,000+
+ratings :  1669
+reviews :  18
+
+title :  Photo Video Editor With Song
+appId :  com.gv.photovideoeditorwithsong
+score :  4.23
+installs : 10,000,000+
+ratings :  19701
+reviews :  100
+
+title :  Video Editor Clip Cut- MyMovie
+appId :  mobi.charmer.mymovie
+score :  4.4455037
+installs : 10,000,000+
+ratings :  362414
+reviews :  20880
+
+title :  Text On Video - Write On Video
+appId :  com.desa.textonvideo
+score :  4.37
+installs : 1,000,000+
+ratings :  4751
+reviews :  58
+
+title :  Screen Recorder - Vidma Record
+appId :  vidma.screenrecorder.videorecorder.videoeditor.pro
+score :  4.5621257
+installs : 50,000,000+
+ratings :  857430
+reviews :  15690
+
+title :  Photo Video Maker with Song
+appId :  photo.video.maker.music.slideshow
+score :  4.387097
+installs : 100,000+
+ratings :  755
+reviews :  13
+
+title :  Perfect365 Video Makeup Editor
+appId :  com.perfect365.video
+score :  4.16
+installs : 500,000+
+ratings :  2316
+reviews :  40
+
+title :  WXPlayer -Mp4 HD Video Player
+appId :  videoplayer.musicplayer.mp4player.mediaplayer
+score :  4.35514
+installs : 10,000,000+
+ratings :  24834
+reviews :  104
+
+title :  Cool Video Editor,Maker,Effect
+appId :  com.video.editor.cool
+score :  4.7298656
+installs : 5,000,000+
+ratings :  308417
+reviews :  11228
+
+title :  Slow Motion Fast Motion Video
+appId :  com.VideobirdStudio.SlowMotionVideo
+score :  4.46
+installs : 5,000,000+
+ratings :  18003
+reviews :  175
+
+title :  Face Swap, Face Changer, AI
+appId :  com.leolegaltechapps.faceswap.faceeditor
+score :  3.98
+installs : 1,000,000+
+ratings :  10933
+reviews :  140
+
+title :  HD TIK Downloader No Watermark
+appId :  com.tiktok.downloader.watermark.remover
+score :  4.972973
+installs : 50,000+
+ratings :  2046
+reviews :  25
+
+title :  IPTV Player Expert - Smart, 4K
+appId :  iptv.expert.player
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Video Downloader For Pinterest
+appId :  com.prisha.pintrestdownloader
+score :  4.39
+installs : 1,000,000+
+ratings :  39829
+reviews :  209
+
+title :  Real HD Video Player 4K - HD V
+appId :  videoplayerhd.videodownloaderhd.mediaplayerhd
+score :  4.551724
+installs : 10,000,000+
+ratings :  62314
+reviews :  591
+
+title :  Tik Downloader - No Watermark
+appId :  com.tikdownload.free.fast
+score :  3.5714285
+installs : 500,000+
+ratings :  1072
+reviews :  6
+
+title :  GIPHY: GIF & Sticker Keyboard 
+appId :  com.giphy.messenger
+score :  4.1193433
+installs : 50,000,000+
+ratings :  228012
+reviews :  12602
+
+title :  Private Zone - AppLock, Video 
+appId :  com.htwk.privatezone
+score :  3.87
+installs : 1,000,000+
+ratings :  20961
+reviews :  61
+
+title :  Visha-Video Player All Formats
+appId :  com.transsion.magicshow
+score :  4.267857
+installs : 100,000,000+
+ratings :  232123
+reviews :  293
+
+title :  Omlet: Live & 3D Avatar Stream
+appId :  mobisocial.arcade
+score :  4.3299847
+installs : 50,000,000+
+ratings :  1020937
+reviews :  21710
+
+title :  Video Eraser, Remove Watermark
+appId :  com.hudun.androidwatermark
+score :  2.76
+installs : 1,000,000+
+ratings :  15198
+reviews :  284
+
+title :  Vlog video editor maker: VlogU
+appId :  videoeditor.vlogeditor.youtubevlog.vlogstar
+score :  4.5741935
+installs : 5,000,000+
+ratings :  116819
+reviews :  2934
+
+title :  Screen Recorder Video Recorder
+appId :  com.ezscreenrecorder
+score :  4.011873
+installs : 10,000,000+
+ratings :  472071
+reviews :  9571
+
+title :  Text on Video & Video Editor
+appId :  com.creator.videoeditor
+score :  4.719626
+installs : 1,000,000+
+ratings :  39986
+reviews :  614
+
+title :  Smart IPTV Xtream Player
+appId :  com.devcoder.iptvxtreamplayer
+score :  4.15
+installs : 1,000,000+
+ratings :  6217
+reviews :  132
+
+title :  SAX Video player
+appId :  com.vvi05v.yer05y
+score :  4.125
+installs : 100,000+
+ratings :  463
+reviews :  1
+
+title :  video player for android
+appId :  video.player.audio.player.music
+score :  4.549697
+installs : 10,000,000+
+ratings :  410840
+reviews :  4962
+
+title :  Video Player - HD, 4K Player, 
+appId :  com.skydot.video.player.hd.player4k.media.highres.hq.hdplayer.allformat.videoplayer.fast.mediaplayer
+score :  4.826087
+installs : 50,000+
+ratings :  312
+reviews :  6
+
+title :  All Video Downloader
+appId :  com.snowwhiteapps.downloader
+score :  3.8428063
+installs : 50,000,000+
+ratings :  244022
+reviews :  5243
+
+title :  PrettyUp - Video Body Editor
+appId :  com.accordion.prettyo
+score :  4.39521
+installs : 1,000,000+
+ratings :  26677
+reviews :  667
+
+title :  X HD Video Downloader
+appId :  hdvideodownloaderapp.videoplayerhd.allplaydownload
+score :  4.25
+installs : 100,000+
+ratings :  917
+reviews :  4
+
+title :  Slideshow Maker - MovieStudio
+appId :  photo.video.slideshow.videomaker
+score :  4.401961
+installs : 100,000+
+ratings :  956
+reviews :  44
+
+title :  X Video Downloader
+appId :  com.all.video.downloader.status.saver
+score :  4.07
+installs : 1,000,000+
+ratings :  6789
+reviews :  56
+
+title :  Vidmantè 2021
+appId :  com.video.player.freemusicplayer2
+score :  4.5135136
+installs : 1,000,000+
+ratings :  9058
+reviews :  17
+

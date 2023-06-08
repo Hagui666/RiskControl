@@ -1,0 +1,1400 @@
+title :  Block Blast Adventure Master
+appId :  com.block.juggle
+score :  4.4393163
+installs : 10,000,000+
+ratings :  34401
+reviews :  1653
+
+title :  Bubble Shooter Pop!
+appId :  com.mobilityware.BubbleShooter
+score :  4.484644
+installs : 10,000,000+
+ratings :  39201
+reviews :  1016
+
+title :  Tic Tac Toe Glow: 2 Player XO
+appId :  com.cdtgames.TicTacToe
+score :  4.3185186
+installs : 10,000,000+
+ratings :  33145
+reviews :  333
+
+title :  Emoji Puzzle!
+appId :  com.demin.emojipuzzle
+score :  4.3609886
+installs : 100,000,000+
+ratings :  242471
+reviews :  2937
+
+title :  2248 - Number Puzzle Game
+appId :  com.inspiredsquare.jupiter
+score :  4.854074
+installs : 10,000,000+
+ratings :  332018
+reviews :  11819
+
+title :  Bubble Shooter Rainbow
+appId :  com.blackout.bubble
+score :  4.7128463
+installs : 100,000,000+
+ratings :  495571
+reviews :  6030
+
+title :  Antistress - relaxation toys
+appId :  com.JindoBlu.Antistress
+score :  4.6348796
+installs : 100,000,000+
+ratings :  772068
+reviews :  20999
+
+title :  Bubble Shooter - Home Design
+appId :  puzzle.games.bubble.shooter.deluxe
+score :  3.8350785
+installs : 50,000,000+
+ratings :  218171
+reviews :  3828
+
+title :  Fishdom
+appId :  com.playrix.fishdomdd.gplay
+score :  4.514983
+installs : 100,000,000+
+ratings :  6016762
+reviews :  279126
+
+title :  Thief Puzzle: to pass a level
+appId :  com.weegoon.thiefpuzzle
+score :  4.239805
+installs : 100,000,000+
+ratings :  231096
+reviews :  4058
+
+title :  Park Master
+appId :  com.kayac.park_master
+score :  4.068569
+installs : 100,000,000+
+ratings :  511028
+reviews :  16896
+
+title :  City Train Game 3d Train games
+appId :  com.monstergamesproductions.train.driving.simulator
+score :  4.2277226
+installs : 10,000,000+
+ratings :  28098
+reviews :  102
+
+title :  Can You Spot It: Differences
+appId :  com.miniit.spotit
+score :  4.54952
+installs : 10,000,000+
+ratings :  350064
+reviews :  2800
+
+title :  Parking Master 3D: Traffic Jam
+appId :  and.lihuhu.parking3d
+score :  4.462069
+installs : 1,000,000+
+ratings :  12370
+reviews :  742
+
+title :  Home Pin 2: Family Adventure
+appId :  com.gamee.homepin2.manor.homescape
+score :  4.4792633
+installs : 5,000,000+
+ratings :  160782
+reviews :  3436
+
+title :  Stickman City Construction
+appId :  com.gp.stickmangames.cityconstruction.buildingmaker
+score :  4.16
+installs : 10,000,000+
+ratings :  37180
+reviews :  360
+
+title :  Tricky Brain Story: DOP Puzzle
+appId :  com.tgm.puzzle.brain.out
+score :  4.257426
+installs : 5,000,000+
+ratings :  6492
+reviews :  226
+
+title :  Connect the Dots - Color Game
+appId :  com.playvalve.connect.dots
+score :  4.687392
+installs : 1,000,000+
+ratings :  66368
+reviews :  291
+
+title :  Color Water Sort Puzzle Games
+appId :  com.playspare.watersort3d
+score :  4.639139
+installs : 10,000,000+
+ratings :  276769
+reviews :  5314
+
+title :  Find the Difference 1000+
+appId :  com.gamma.find.diff
+score :  4.7436433
+installs : 50,000,000+
+ratings :  442125
+reviews :  10212
+
+title :  Controlling Your Car
+appId :  com.sharktaptap.parkingschool
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Family Hotel: love & match-3
+appId :  com.playflock.family.hotel.story.home.mansion.puzzle.garden.decoration
+score :  4.622583
+installs : 10,000,000+
+ratings :  343743
+reviews :  6388
+
+title :  Parking Jam 3D
+appId :  com.lszenlamzr.parkingjam
+score :  4.231827
+installs : 100,000,000+
+ratings :  1363683
+reviews :  28689
+
+title :  Draw To Smash: Logic puzzle
+appId :  com.smashing.draw2
+score :  4.292683
+installs : 100,000+
+ratings :  248
+reviews :  2
+
+title :  Pull the Pin
+appId :  com.maroieqrwlk.unpin
+score :  3.701883
+installs : 100,000,000+
+ratings :  1332535
+reviews :  60096
+
+title :  Draw Happy Dance : Puzzle Game
+appId :  com.newstory.DrawHappyDance
+score :  3.6792452
+installs : 10,000,000+
+ratings :  87923
+reviews :  77
+
+title :  Bubble Boxes - Classic Match
+appId :  com.bubbleboxes.match3d
+score :  4.411272
+installs : 10,000,000+
+ratings :  48911
+reviews :  3734
+
+title :  Smart Puzzles Collection
+appId :  com.pixign.smart.puzzles
+score :  4.3294163
+installs : 50,000,000+
+ratings :  424409
+reviews :  8033
+
+title :  Block Puzzle Jewel
+appId :  com.differencetenderwhite.skirt
+score :  4.4552107
+installs : 100,000,000+
+ratings :  1735659
+reviews :  21255
+
+title :  Gangster Theft Auto VI Game
+appId :  com.sgh.jokermafia.superhero
+score :  3.560606
+installs : 1,000,000+
+ratings :  2868
+reviews :  33
+
+title :  My Home Design - Modern City
+appId :  com.cookapps.ff.moderncity
+score :  4.6240473
+installs : 50,000,000+
+ratings :  556332
+reviews :  5744
+
+title :  Cube Solver
+appId :  com.jeffprod.cubesolver
+score :  4.8310714
+installs : 10,000,000+
+ratings :  706850
+reviews :  15817
+
+title :  Rescue Cut - Rope Puzzle
+appId :  com.app.rescuecut
+score :  4.1930556
+installs : 100,000,000+
+ratings :  487450
+reviews :  7355
+
+title :  Connect Love Doge: Draw Puzzle
+appId :  com.doge.love.connect.them
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  AMAZE!
+appId :  com.crazylabs.amaze.game
+score :  4.3997245
+installs : 50,000,000+
+ratings :  267461
+reviews :  37905
+
+title :  Bubble Shooter
+appId :  bubbleshooter.android
+score :  4.4583573
+installs : 50,000,000+
+ratings :  258391
+reviews :  5362
+
+title :  Wood Blocks by Staple Games
+appId :  com.staplegames.blocksWood
+score :  4.6551723
+installs : 1,000,000+
+ratings :  6100
+reviews :  117
+
+title :  Numpuz: Classic Number Games
+appId :  com.dopuz.klotski.riddle
+score :  4.7803555
+installs : 100,000,000+
+ratings :  538500
+reviews :  4308
+
+title :  Draw Happy Angel :drawing apps
+appId :  com.newstory.DrawHappyAngel
+score :  4.247163
+installs : 10,000,000+
+ratings :  101767
+reviews :  234
+
+title :  Tile Master 3D® -Classic Match
+appId :  com.higgs.tilemaster3d
+score :  4.3868923
+installs : 50,000,000+
+ratings :  179089
+reviews :  6244
+
+title :  Wood Block Legend
+appId :  com.luckystudio.block.puzzle.woodblock
+score :  4.172414
+installs : 1,000,000+
+ratings :  67
+reviews :  13
+
+title :  Lucky 2048
+appId :  com.megan.lucky.balls
+score :  3.5185184
+installs : 500,000+
+ratings :  1290
+reviews :  11
+
+title :  Rope And Balls
+appId :  com.game.rope.and.balls
+score :  4.358915
+installs : 10,000,000+
+ratings :  104416
+reviews :  1355
+
+title :  Draw Happy Police - Draw Games
+appId :  com.newstory.DrawHappyPolice
+score :  3.8089173
+installs : 10,000,000+
+ratings :  159561
+reviews :  197
+
+title :  Family Town: Match-3 Makeover
+appId :  com.playflock.family.town.makeover.home.mansion.story.garden.decoration.puzzle.match
+score :  4.7991886
+installs : 5,000,000+
+ratings :  65767
+reviews :  962
+
+title :  Color Roll 3D
+appId :  com.game.colorroll3d
+score :  4.5392437
+installs : 50,000,000+
+ratings :  491829
+reviews :  7053
+
+title :  Crazy Fruits
+appId :  com.game.crazy.fruits
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Bubble Pop! Bubble Shooter
+appId :  com.brainfun.bubble.pop.shooter.gp
+score :  4.4
+installs : 5,000,000+
+ratings :  41
+reviews :  8
+
+title :  Recharge Please!
+appId :  com.charge.them.all
+score :  4.213569
+installs : 10,000,000+
+ratings :  71985
+reviews :  6814
+
+title :  Jigsaw Puzzles - puzzle games
+appId :  com.easybrain.jigsaw.puzzles
+score :  4.5357156
+installs : 50,000,000+
+ratings :  1537480
+reviews :  97244
+
+title :  Love Pins
+appId :  jp.icepop.steppuzzle
+score :  4.465793
+installs : 10,000,000+
+ratings :  64074
+reviews :  1979
+
+title :  Jigsaw Puzzles - Block Puzzle
+appId :  com.block.jigsaw.puzzle.gallery
+score :  4.389816
+installs : 50,000,000+
+ratings :  280159
+reviews :  2959
+
+title :  Save The Pets
+appId :  com.bravestars.savethedog.drawgame
+score :  4.34
+installs : 10,000,000+
+ratings :  31884
+reviews :  179
+
+title :  Dicedom - Merge Puzzle
+appId :  com.dicedom.mergepuzzle
+score :  4.5944495
+installs : 10,000,000+
+ratings :  203361
+reviews :  4208
+
+title :  Move Animals
+appId :  com.paurau.MoveAnimals
+score :  4.1517096
+installs : 10,000,000+
+ratings :  48676
+reviews :  480
+
+title :  Woodoku - Wood Block Puzzles
+appId :  com.tripledot.woodoku
+score :  4.429226
+installs : 50,000,000+
+ratings :  376637
+reviews :  33374
+
+title :  Tricky Quiz: Brain Find Puzzle
+appId :  com.atsoft.tricky.brain.quiz2
+score :  2.8155339
+installs : 5,000,000+
+ratings :  5357
+reviews :  54
+
+title :  Connect Puzzle: Matching Games
+appId :  games.emojipuzzles.matchingpuzzlegames
+score :  4.2173915
+installs : 1,000,000+
+ratings :  968
+reviews :  5
+
+title :  Sweet Escapes: Build A Bakery
+appId :  com.redemptiongames.sugar
+score :  4.531372
+installs : 10,000,000+
+ratings :  200554
+reviews :  14452
+
+title :  Cube Cipher - Cube Solver
+appId :  com.aseemsalim.cubecipher
+score :  4.428571
+installs : 5,000,000+
+ratings :  36728
+reviews :  547
+
+title :  Manor Cafe
+appId :  com.gamegos.mobile.manorcafe
+score :  4.572878
+installs : 10,000,000+
+ratings :  1413721
+reviews :  47228
+
+title :  Matchington Mansion
+appId :  com.matchington.mansion
+score :  4.4153686
+installs : 100,000,000+
+ratings :  2257181
+reviews :  99771
+
+title :  2248 - Number Link Puzzle Game
+appId :  com.playvalve.number.link
+score :  4.7749143
+installs : 1,000,000+
+ratings :  21562
+reviews :  429
+
+title :  Crazy Star
+appId :  com.game.crazy.star
+score :  2.73
+installs : 500,000+
+ratings :  1026
+reviews :  78
+
+title :  Color Balls 3D 2048
+appId :  com.balls3d.run.game
+score :  3.3333333
+installs : 500,000+
+ratings :  306
+reviews :  2
+
+title :  Troll Master - Draw one part
+appId :  com.abi.draw.onepart.dop
+score :  4.14
+installs : 10,000,000+
+ratings :  22303
+reviews :  180
+
+title :  Falling Blocks: Sliding Puzzle
+appId :  com.bravestars.faling.blocks.slide.puzzle
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Classic Car Parking: Car Games
+appId :  com.steelcloudstudio.classic.car.parking.real.driving.test
+score :  4.4356437
+installs : 10,000,000+
+ratings :  78592
+reviews :  306
+
+title :  Zen Blossom: Flower Tile Match
+appId :  and.matchgames.zenblossom
+score :  4.564394
+installs : 5,000,000+
+ratings :  38426
+reviews :  3772
+
+title :  Save the Doge
+appId :  com.miracle.savethedoge.an
+score :  3.9882596
+installs : 50,000,000+
+ratings :  217274
+reviews :  6717
+
+title :  Sponge Art
+appId :  com.Game.SpongeArt
+score :  4.5391765
+installs : 10,000,000+
+ratings :  162201
+reviews :  1560
+
+title :  Draw Happy Devil : Puzzle Game
+appId :  com.newstory.DrawHappyDevil
+score :  3.91
+installs : 500,000+
+ratings :  2457
+reviews :  5
+
+title :  X2 Blocks: 2048 Number Games
+appId :  com.inspiredsquare.blocks
+score :  4.8310475
+installs : 10,000,000+
+ratings :  283982
+reviews :  8166
+
+title :  Brain Test - Thinking Game
+appId :  com.metamars.brain.test
+score :  3.3
+installs : 10,000,000+
+ratings :  44793
+reviews :  173
+
+title :  Color Fill 3D
+appId :  com.gjg.colorfill3d
+score :  4.477602
+installs : 100,000,000+
+ratings :  639025
+reviews :  13084
+
+title :  Fishdom Solitaire
+appId :  com.playrix.fishdom_solitaire.gplay
+score :  4.847095
+installs : 1,000,000+
+ratings :  45786
+reviews :  3167
+
+title :  Dot Knot - Line & Color Puzzle
+appId :  net.ibexsolutions.flow8
+score :  4.7167883
+installs : 5,000,000+
+ratings :  38676
+reviews :  2089
+
+title :  Lily’s Garden - Design & Match
+appId :  dk.tactile.lilysgarden
+score :  4.6409616
+installs : 50,000,000+
+ratings :  1488044
+reviews :  128815
+
+title :  Home Rescue: Blast & Collect
+appId :  com.link.manorstory
+score :  4.201613
+installs : 5,000,000+
+ratings :  15878
+reviews :  425
+
+title :  Bubble Pop! Cannon Shooter
+appId :  com.bubblepop.cannon.puzzle
+score :  4.7493114
+installs : 1,000,000+
+ratings :  8155
+reviews :  843
+
+title :  Subway Surfers Blast
+appId :  com.sybogames.subwaysurfers.blast
+score :  4.80597
+installs : 100,000+
+ratings :  2175
+reviews :  104
+
+title :  Jigsaw Puzzles: HD Puzzle Game
+appId :  com.artlife.jigsaw.puzzle
+score :  4.7395053
+installs : 5,000,000+
+ratings :  51210
+reviews :  4280
+
+title :  Jigsort Puzzles
+appId :  com.gamincat.jigsort
+score :  4.6655574
+installs : 5,000,000+
+ratings :  92061
+reviews :  688
+
+title :  Pixel Art - color by number
+appId :  com.europosit.pixelcoloring
+score :  4.48911
+installs : 100,000,000+
+ratings :  2314713
+reviews :  141519
+
+title :  Color Water Sort Woody Puzzle
+appId :  com.no1ornothing.color.water.sort.woody.puzzle
+score :  4.613793
+installs : 1,000,000+
+ratings :  17711
+reviews :  385
+
+title :  911: Cannibal (Horror Escape)
+appId :  com.eg.horror911.cannibal.escape
+score :  4.2647057
+installs : 100,000+
+ratings :  8332
+reviews :  149
+
+title :  Makeover Merge
+appId :  makeover.merge
+score :  4.095238
+installs : 5,000,000+
+ratings :  32561
+reviews :  1595
+
+title :  shoot'em all - shooting game
+appId :  com.ty.shoot
+score :  3.908607
+installs : 5,000,000+
+ratings :  62702
+reviews :  1642
+
+title :  Pro Sniper: Gun Warfare Ops 3D
+appId :  com.fun.marvelat.strikeforce.heroes
+score :  4.633663
+installs : 5,000,000+
+ratings :  14363
+reviews :  205
+
+title :  Find Differences Search & Spot
+appId :  com.DifLabs.Differences
+score :  4.366197
+installs : 1,000,000+
+ratings :  2425
+reviews :  8
+
+title :  Magic High Academy
+appId :  com.socialquantum.magichigh
+score :  3.6
+installs : 100,000+
+ratings :  609
+reviews :  5
+
+title :  T20 World Cricket Game
+appId :  com.bg.cricket.worldcup
+score :  4.3255816
+installs : 1,000,000+
+ratings :  11259
+reviews :  13
+
+title :  US Prado Car Games 3d Parking
+appId :  com.GameFunInc.PradoCarParking
+score :  3.539326
+installs : 1,000,000+
+ratings :  5608
+reviews :  57
+
+title :  Brain It On! - Physics Puzzles
+appId :  com.orbital.brainiton
+score :  4.316056
+installs : 50,000,000+
+ratings :  508333
+reviews :  24436
+
+title :  How to Loot - Pin Pull
+appId :  com.howtoloot.pullpin.herorescue
+score :  4.606737
+installs : 100,000,000+
+ratings :  529547
+reviews :  6945
+
+title :  Hero Rescue
+appId :  com.herorescue.knight.pull.pin
+score :  4.3434415
+installs : 50,000,000+
+ratings :  282376
+reviews :  4507
+
+title :  Two Dots: Puzzle Games
+appId :  com.weplaydots.twodotsandroid
+score :  4.2614384
+installs : 50,000,000+
+ratings :  1100251
+reviews :  83761
+
+title :  Draw Bridge
+appId :  com.eurekastudio.drawbridge
+score :  4.037037
+installs : 10,000,000+
+ratings :  267577
+reviews :  3650
+
+title :  Fruit Fancy
+appId :  com.taprun.fruitmanialine
+score :  4.29
+installs : 10,000,000+
+ratings :  32398
+reviews :  212
+
+title :  Monster Play Time: Chapter 3
+appId :  huggy.puzzle.logic
+score :  4.27451
+installs : 10,000,000+
+ratings :  17051
+reviews :  224
+
+title :  Car Wash Games - Car Games 3D
+appId :  com.gf.washinggame.serviceworkshop.carwash
+score :  4.23301
+installs : 10,000,000+
+ratings :  16503
+reviews :  285
+
+title :  Bird Sort Color Puzzle Game
+appId :  com.globalplay.birdsort
+score :  4.768182
+installs : 10,000,000+
+ratings :  53341
+reviews :  1965
+
+title :  CubeX - Solver, Timer, 3D Cube
+appId :  diozz.cubex
+score :  4.7013187
+installs : 10,000,000+
+ratings :  293713
+reviews :  8051
+
+title :  Rescue Machine
+appId :  com.rescue.machine
+score :  4.14429
+installs : 10,000,000+
+ratings :  101503
+reviews :  3444
+
+title :  Spot 5 Differences: Find them!
+appId :  free.puzzle.game.spot.the.difference
+score :  4.5837355
+installs : 1,000,000+
+ratings :  60960
+reviews :  2203
+
+title :  Block Puzzle Gem: Jewel Blast
+appId :  com.blockpuzzle.jewel.diamond
+score :  4.7779603
+installs : 50,000,000+
+ratings :  184643
+reviews :  2025
+
+title :  Draw Bridge Puzzle - Draw Game
+appId :  com.bravestars.draw.bridge.drawgame
+score :  3.73
+installs : 10,000,000+
+ratings :  5105
+reviews :  31
+
+title :  Sand Balls - Puzzle Game
+appId :  com.water.balls
+score :  4.2732444
+installs : 100,000,000+
+ratings :  1494825
+reviews :  25778
+
+title :  Brain Puzzle, Girl Power
+appId :  com.brain.teaser.top.girl.power.puzzle.game
+score :  4.53
+installs : 10,000,000+
+ratings :  11184
+reviews :  103
+
+title :  Pilot Simulator: Airplane Game
+appId :  com.gp.pilot.simulator.airplanegames
+score :  3.659091
+installs : 5,000,000+
+ratings :  5140
+reviews :  29
+
+title :  Car Parking 3D - Car Out
+appId :  and.matchgames.parking3d
+score :  4.7125
+installs : 1,000,000+
+ratings :  6538
+reviews :  403
+
+title :  Toilet Rush: Pee Master
+appId :  com.cgteam.peemaster
+score :  4.16
+installs : 5,000,000+
+ratings :  7040
+reviews :  47
+
+title :  Ice Scream United: Multiplayer
+appId :  com.keplerians.icescreamunited
+score :  4.304762
+installs : 1,000,000+
+ratings :  10139
+reviews :  164
+
+title :  Maze for Kids
+appId :  hu.crabs.kidmaze
+score :  3.765625
+installs : 1,000,000+
+ratings :  1843
+reviews :  11
+
+title :  Merge Fruits
+appId :  com.piia.merge.fruits
+score :  3.7692308
+installs : 100,000+
+ratings :  650
+reviews :  7
+
+title :  Tap Unlock 3D : Away Puzzle
+appId :  com.vnstartllc.tapunlock.puzzle3d
+score :  3.2222223
+installs : 100,000+
+ratings :  55
+reviews :  6
+
+title :  Jewels Magic Lamp : Match 3
+appId :  com.superbox.aos.magiclamp
+score :  4.580682
+installs : 5,000,000+
+ratings :  36467
+reviews :  3659
+
+title :  Disney Frozen Free Fall Games
+appId :  com.disney.frozensaga_goo
+score :  4.5811715
+installs : 50,000,000+
+ratings :  1741026
+reviews :  78926
+
+title :  Comics Bob
+appId :  com.playstrom.bob
+score :  4.3533797
+installs : 100,000,000+
+ratings :  365013
+reviews :  4566
+
+title :  Laser Beam 3D - drawing puzzle
+appId :  jp.co.goodroid.hyper.laser
+score :  3.3
+installs : 10,000,000+
+ratings :  4371
+reviews :  118
+
+title :  100 Doors - Escape from Prison
+appId :  com.hundred_doors_game.escape_from_prison
+score :  4.348315
+installs : 5,000,000+
+ratings :  89494
+reviews :  975
+
+title :  Brick Out - Shoot the ball
+appId :  com.puzzle1studio.go.brickoutshoottheball
+score :  4.303459
+installs : 5,000,000+
+ratings :  45104
+reviews :  11463
+
+title :  Genius: Connect Picture Puzzle
+appId :  com.smashbros.geniuscpp
+score :  3.5416667
+installs : 100,000+
+ratings :  392
+reviews :  14
+
+title :  Brain Puzzle - Tricky Test
+appId :  com.brainpuzzle.tricky.brain.teasers
+score :  4.5047617
+installs : 10,000,000+
+ratings :  72245
+reviews :  256
+
+title :  Fruits Master® - Match 3
+appId :  com.superbox.aos.sweetfruit
+score :  4.6236362
+installs : 10,000,000+
+ratings :  59692
+reviews :  2128
+
+title :  Draw Bridge: Puzzle Games
+appId :  game.puzzle.stickman.drawbridges
+score :  4
+installs : 10,000+
+ratings :  65
+reviews :  1
+
+title :  Ball Sort - Color Sorting Game
+appId :  ball.sort.water.color.hoop.stack.puzzle
+score :  4.563158
+installs : 1,000,000+
+ratings :  15207
+reviews :  522
+
+title :  Sublocks: block puzzle game
+appId :  com.submarineapps.sublocks
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Railroad Train Simulator Games
+appId :  com.gf.impossible.train.games.driving.simulator
+score :  4.475728
+installs : 5,000,000+
+ratings :  14237
+reviews :  186
+
+title :  Troll Robber: Steal everything
+appId :  com.abi.robber.puzzle.thief
+score :  4.2285714
+installs : 10,000,000+
+ratings :  27808
+reviews :  310
+
+title :  Ice Scream 7 Friends: Lis
+appId :  com.keplerians.icescreamseven
+score :  4.4
+installs : 1,000,000+
+ratings :  19858
+reviews :  319
+
+title :  Rubik's Cube Solver
+appId :  com.aseemsalim.puzzlesolver.rcs
+score :  4.447619
+installs : 1,000,000+
+ratings :  20303
+reviews :  501
+
+title :  Melty Bubble: Healing Puzzle
+appId :  com.kayac.mergejigglypuzzle
+score :  3.65
+installs : 100,000+
+ratings :  264
+reviews :  9
+
+title :  8 Pool Clash
+appId :  com.bhgame.app.poolclash
+score :  4.3267326
+installs : 500,000+
+ratings :  2069
+reviews :  70
+
+title :  City Train Driver- Train Games
+appId :  com.impp.city.traindriver.simulator
+score :  4.2413793
+installs : 100,000,000+
+ratings :  181057
+reviews :  699
+
+title :  Clockmaker: Jewel Match 3 Game
+appId :  com.belkatechnologies.clockmaker
+score :  4.225048
+installs : 10,000,000+
+ratings :  433935
+reviews :  37428
+
+title :  Maze: Puzzle and Relaxing Game
+appId :  com.rikudogames.maze
+score :  4.3743386
+installs : 10,000,000+
+ratings :  81898
+reviews :  1684
+
+title :  Sort Em All -- Water Puzzle
+appId :  water.sort.free.puzzle.game.relax
+score :  4.6174865
+installs : 10,000,000+
+ratings :  58998
+reviews :  999
+
+title :  Royal Match
+appId :  com.dreamgames.royalmatch
+score :  4.573668
+installs : 50,000,000+
+ratings :  2265807
+reviews :  36976
+
+title :  Water Color Sort Puzzle Game
+appId :  com.appcelent.water.color.sort.puzzle.bottle.game
+score :  4.640741
+installs : 5,000,000+
+ratings :  65010
+reviews :  315
+
+title :  Car Up!
+appId :  com.Silverzen.CarUp
+score :  2.52
+installs : 1,000,000+
+ratings :  2642
+reviews :  150
+
+title :  Toon Blast
+appId :  net.peakgames.toonblast
+score :  4.644919
+installs : 50,000,000+
+ratings :  3857382
+reviews :  380037
+
+title :  Thief Troll - Stickman Robber
+appId :  thieftroll.robber.thief.puzzle
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Unblock Ball - Block Puzzle
+appId :  roll.unblock.ball.block.puzzle
+score :  4.3715453
+installs : 100,000,000+
+ratings :  788346
+reviews :  11658
+
+title :  Home Design : My Dream Garden
+appId :  com.cookapps.my.dream.garden.home.design.mydreamgarden
+score :  4.5779686
+installs : 5,000,000+
+ratings :  57928
+reviews :  1471
+
+title :  Garden Balls - Pin Pull Games
+appId :  com.app.pinballs
+score :  4.5840454
+installs : 10,000,000+
+ratings :  45527
+reviews :  1698
+
+title :  Plumber 3
+appId :  com.Appholdings.Plumber3
+score :  4.389362
+installs : 10,000,000+
+ratings :  204453
+reviews :  2379
+
+title :  My Home Design Story
+appId :  com.cookapps.homedesignny
+score :  4.560224
+installs : 10,000,000+
+ratings :  121592
+reviews :  3306
+
+title :  Match Life: Puzzle Game
+appId :  com.cronus.cheflife
+score :  3.7857144
+installs : 10,000+
+ratings :  44
+reviews :  2
+
+title :  QBlock: Wood Block Puzzle Game
+appId :  puzzle.blockpuzzle.cube.relax
+score :  4.5499167
+installs : 50,000,000+
+ratings :  970436
+reviews :  43687
+
+title :  Home Design: House Makeover
+appId :  com.homedesign.cookapps.redecor.free
+score :  4.4915257
+installs : 10,000,000+
+ratings :  39939
+reviews :  1237
+
+title :  Coloring ASMR: Easy Paint
+appId :  com.higame.par.paint.asmr
+score :  4.573232
+installs : 5,000,000+
+ratings :  42690
+reviews :  130
+
+title :  Block Puzzle - 1010 Logic Game
+appId :  com.block.puzzle.game.logic.django
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Car Parking: Traffic Jam 3D
+appId :  com.nostel.parking.car
+score :  4.7700915
+installs : 5,000,000+
+ratings :  163782
+reviews :  957
+
+title :  Impossible Date: Tricky Riddle
+appId :  com.matchingham.impossible.date.tricky.riddles
+score :  4.2777777
+installs : 10,000,000+
+ratings :  27187
+reviews :  343
+
+title :  Real Tractor Heavy Cargo Drive
+appId :  com.nyc.trolley.cargo.grand.futuristic.farmer.games
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Jail Breaker: Sneak Out!
+appId :  com.minigames.jailbreaker
+score :  4.2074466
+installs : 10,000,000+
+ratings :  147942
+reviews :  520
+
+title :  Jewels Planet - Match 3 Puzzle
+appId :  teskin.jewels.planet
+score :  4.613601
+installs : 10,000,000+
+ratings :  189647
+reviews :  1795
+
+title :  ASolver - show me the puzzle, 
+appId :  ru.bnice.asolver
+score :  4.478318
+installs : 10,000,000+
+ratings :  1545991
+reviews :  6979
+
+title :  Connect Dots - Dot puzzle game
+appId :  com.bigman.connectdots
+score :  4.7017546
+installs : 1,000,000+
+ratings :  6867
+reviews :  357
+
+title :  Bubble Shooter
+appId :  com.lyd.bubble
+score :  4.693805
+installs : 10,000,000+
+ratings :  67740
+reviews :  4976
+
+title :  Block Puzzle 1010 Master!
+appId :  com.qianqianli.BlockPuzzle1010Master
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Water Sort - Color Puzzle Game
+appId :  com.gma.water.sort.puzzle
+score :  4.5580826
+installs : 100,000,000+
+ratings :  1099555
+reviews :  22885
+
+title :  3x3 Cube Solver
+appId :  com.keuwl.a3x3cubesolver
+score :  3.76
+installs : 5,000,000+
+ratings :  21542
+reviews :  304
+
+title :  Sudoku Club - Online Puzzle
+appId :  com.DigitalRebelGames.SudokuClub
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Block Puzzle Wood Blast
+appId :  wood.blockpuzzle.game.jewel.classic
+score :  4.607327
+installs : 10,000,000+
+ratings :  134892
+reviews :  2459
+
+title :  Magic Jigsaw Puzzles - Game HD
+appId :  com.bandagames.mpuzzle.gp
+score :  4.67335
+installs : 50,000,000+
+ratings :  757410
+reviews :  65801
+
+title :  Get Color - Water Sort Puzzle
+appId :  com.zm.watersort
+score :  4.700903
+installs : 10,000,000+
+ratings :  94047
+reviews :  1074
+
+title :  Merge Studio: Fashion Makeover
+appId :  com.paxiegames.mergestudio
+score :  4.339759
+installs : 1,000,000+
+ratings :  21969
+reviews :  519
+
+title :  Angry Birds Journey
+appId :  com.rovio.abcasual
+score :  4.564968
+installs : 10,000,000+
+ratings :  215152
+reviews :  8650
+
+title :  Balls'n Ropes
+appId :  com.atreus.ballsnropes
+score :  4.051535
+installs : 5,000,000+
+ratings :  49914
+reviews :  1445
+
+title :  Bubble Witch 3 Saga
+appId :  com.king.bubblewitch3
+score :  4.633867
+installs : 100,000,000+
+ratings :  2661012
+reviews :  164458
+
+title :  Squid Game: Count Master
+appId :  com.squidgame.countmaster
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Multi Maze 3D
+appId :  com.AlexandrJanashvili.MultiMaze3D
+score :  4.2670755
+installs : 10,000,000+
+ratings :  165318
+reviews :  1656
+
+title :  Water Sorting: Color Games
+appId :  com.sg.colorsortpuzzle
+score :  4.5642633
+installs : 10,000,000+
+ratings :  73022
+reviews :  656
+
+title :  Real Farming Tractor Games 3D
+appId :  com.nyc.indian.farming.heavy.duty.farmer.village.games
+score :  4.3333335
+installs : 100,000+
+ratings :  727
+reviews :  6
+
+title :  Brain Wash - Thinking Game
+appId :  com.hwg.sos
+score :  4.5064893
+installs : 50,000,000+
+ratings :  309480
+reviews :  9374
+
+title :  Vlad & Niki 12 Locks
+appId :  com.rud.twelvelocksvn
+score :  4.470383
+installs : 10,000,000+
+ratings :  123499
+reviews :  1693
+
+title :  Blockudoku®: block puzzle game
+appId :  com.easybrain.block.puzzle.games
+score :  4.402864
+installs : 50,000,000+
+ratings :  930518
+reviews :  26848
+
+title :  Cut the Rope
+appId :  com.zeptolab.ctr.ads
+score :  4.5070386
+installs : 100,000,000+
+ratings :  2708892
+reviews :  96072
+
+title :  Tetris®
+appId :  com.n3twork.tetris
+score :  4.208321
+installs : 10,000,000+
+ratings :  241039
+reviews :  15980
+
+title :  Save The Pirate! Make choices!
+appId :  com.savethegirl.savethepirate
+score :  4.4653463
+installs : 10,000,000+
+ratings :  118460
+reviews :  151
+
+title :  Happy Glass
+appId :  com.game5mobile.lineandwater
+score :  3.6624866
+installs : 100,000,000+
+ratings :  1027769
+reviews :  47810
+
+title :  Draw Happy Beauty - draw games
+appId :  com.newstory.DrawHappyBeauty
+score :  3.701087
+installs : 10,000,000+
+ratings :  61238
+reviews :  126
+
+title :  Mazes & More
+appId :  com.leodesol.games.classic.maze.labyrinth
+score :  4.1505103
+installs : 50,000,000+
+ratings :  631945
+reviews :  18145
+
+title :  Merge Miners
+appId :  com.tcg.fpsdungeonminer
+score :  4.089226
+installs : 10,000,000+
+ratings :  90455
+reviews :  1705
+
+title :  Paper Fold
+appId :  com.game.foldpuzzle
+score :  4.5560474
+installs : 100,000,000+
+ratings :  1029451
+reviews :  14587
+
+title :  Sweet Fruit Candy
+appId :  com.sweetfuirt.candy
+score :  4.5999064
+installs : 100,000,000+
+ratings :  628094
+reviews :  6732
+
+title :  Color Sort 3D — Hoop Stack
+appId :  com.zm.colorstack3d
+score :  4.0454545
+installs : 500,000+
+ratings :  293
+reviews :  16
+
+title :  Flow Free
+appId :  com.bigduckgames.flow
+score :  4.5585027
+installs : 100,000,000+
+ratings :  1538950
+reviews :  140592
+
+title :  Hugy's Funny Animated Story
+appId :  com.huggy.story.hf
+score :  3.4
+installs : 1,000,000+
+ratings :  731
+reviews :  8
+
+title :  Match Triple 3D - Match Master
+appId :  and.lihuhu.machingtriple
+score :  4.432631
+installs : 10,000,000+
+ratings :  82487
+reviews :  11331
+
+title :  Save The Doggie
+appId :  com.jamcoco.savethedoggie
+score :  3.142857
+installs : 1,000,000+
+ratings :  2230
+reviews :  9
+
+title :  Scavenger Hunt
+appId :  com.nnxshcwrkg.scavengerhunt
+score :  3.8866205
+installs : 10,000,000+
+ratings :  168639
+reviews :  9424
+
+title :  Draw Dog Rescue: Draw 2 Save
+appId :  puzzle.games.savethedog.rescuedog
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Home Design Dreams house games
+appId :  com.holycowstudio.homedesigndreams
+score :  4.3186584
+installs : 5,000,000+
+ratings :  52705
+reviews :  1396
+
+title :  Save The Fish!
+appId :  com.mesibagames.SaveTheFish
+score :  4.297336
+installs : 10,000,000+
+ratings :  187673
+reviews :  1753
+
+title :  Tap Away
+appId :  com.jctswbglsm.SwipeAway
+score :  3.887091
+installs : 10,000,000+
+ratings :  458657
+reviews :  19002
+
+title :  City Train Station-Train games
+appId :  com.sgs.TrainDriver.RailwayTrainGames
+score :  3.4
+installs : 100,000+
+ratings :  381
+reviews :  1
+
+title :  Blockpuz
+appId :  com.sg.block.puzzle.quest.story
+score :  4.59
+installs : 5,000,000+
+ratings :  9102
+reviews :  69
+

@@ -1,0 +1,1400 @@
+title :  Jazz World – Freedom Offer
+appId :  com.jazz.jazzworld
+score :  4.283582
+installs : 10,000,000+
+ratings :  573175
+reviews :  999
+
+title :  5G Pak, Online Earnings
+appId :  com.fivegera.fiveg.era
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  FFI - Online
+appId :  com.ffisoccer.ffisoc.cer
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Vault - Hide Pics, App Lock
+appId :  com.netqin.ps
+score :  4.426268
+installs : 100,000,000+
+ratings :  1276034
+reviews :  56427
+
+title :  Cryptomania —Trading Simulator
+appId :  app.cryptomania.com
+score :  4.443609
+installs : 10,000,000+
+ratings :  172478
+reviews :  614
+
+title :  Zoom - One Platform to Connect
+appId :  us.zoom.videomeetings
+score :  4.207809
+installs : 500,000,000+
+ratings :  4060637
+reviews :  62817
+
+title :  Udhaar Book, Digi Khatabook
+appId :  com.oscarudhaarapp
+score :  4.4455447
+installs : 1,000,000+
+ratings :  35999
+reviews :  76
+
+title :  Amazon Seller
+appId :  com.amazon.sellermobile.android
+score :  4.10333
+installs : 10,000,000+
+ratings :  146711
+reviews :  12676
+
+title :  Translate Language Translator
+appId :  com.languagetranslator.translatorapp.smartscanner.dictionary.translation.voicetranslator
+score :  4.457143
+installs : 10,000,000+
+ratings :  65096
+reviews :  1814
+
+title :  LinkedIn: Jobs & Business News
+appId :  com.linkedin.android
+score :  4.279232
+installs : 1,000,000,000+
+ratings :  2608204
+reviews :  86688
+
+title :  Pak Identity
+appId :  pk.gov.nadra.pakid
+score :  3.204301
+installs : 1,000,000+
+ratings :  5443
+reviews :  57
+
+title :  Fiverr - Freelance Service
+appId :  com.fiverr.fiverr
+score :  4.643143
+installs : 10,000,000+
+ratings :  308536
+reviews :  24563
+
+title :  Bondex Origin
+appId :  com.bondex.origin
+score :  4.6237626
+installs : 1,000,000+
+ratings :  17015
+reviews :  360
+
+title :  Toloka: Earn online
+appId :  com.yandex.toloka.androidapp
+score :  4.2372503
+installs : 10,000,000+
+ratings :  293130
+reviews :  1900
+
+title :  Uber - Driver: Drive & Deliver
+appId :  com.ubercab.driver
+score :  4.5506296
+installs : 100,000,000+
+ratings :  3375078
+reviews :  108911
+
+title :  EduPloyment
+appId :  com.eduployment
+score :  3.8461537
+installs : 500,000+
+ratings :  1544
+reviews :  7
+
+title :  Poster Maker : Flyer Maker
+appId :  com.festival.flyer.postermaker
+score :  4.644737
+installs : 100,000+
+ratings :  9120
+reviews :  11
+
+title :  Google Meet (original)
+appId :  com.google.android.apps.meetings
+score :  4.0660944
+installs : 500,000,000+
+ratings :  2220834
+reviews :  11070
+
+title :  Easy Invoice Maker by GimBooks
+appId :  com.codenicely.gimbook.saudi.einvoice
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Indeed Job Search
+appId :  com.indeed.android.jobsearch
+score :  4.6841702
+installs : 100,000,000+
+ratings :  4362103
+reviews :  170181
+
+title :  Upwork for Freelancers
+appId :  com.upwork.android.apps.main
+score :  4.0140843
+installs : 5,000,000+
+ratings :  136396
+reviews :  2335
+
+title :  AdsCash - Earn Money Online
+appId :  com.app.adscash
+score :  4.8411217
+installs : 100,000+
+ratings :  7326
+reviews :  818
+
+title :  Creator Studio
+appId :  com.facebook.creatorstudio
+score :  4.4514694
+installs : 5,000,000+
+ratings :  531731
+reviews :  2363
+
+title :  Meta Business Suite
+appId :  com.facebook.pages.app
+score :  4.317566
+installs : 100,000,000+
+ratings :  3026358
+reviews :  72304
+
+title :  DigiKhata-Easy Digital Khata
+appId :  com.androidapp.digikhata
+score :  4.45
+installs : 1,000,000+
+ratings :  110555
+reviews :  72
+
+title :  Shopify - Your Ecommerce Store
+appId :  com.shopify.mobile
+score :  3.888412
+installs : 5,000,000+
+ratings :  27097
+reviews :  2908
+
+title :  AnyDesk Remote Desktop
+appId :  com.anydesk.anydeskandroid
+score :  2.6378946
+installs : 50,000,000+
+ratings :  104618
+reviews :  2202
+
+title :  Business Card Maker, Visiting
+appId :  com.visiting.businesscardmaker
+score :  4.4651165
+installs : 10,000,000+
+ratings :  145995
+reviews :  2106
+
+title :  Easy Khata, Apka Digital Khata
+appId :  com.tech.bazaar.easykhata
+score :  4.57
+installs : 5,000,000+
+ratings :  24378
+reviews :  62
+
+title :  Google Chat
+appId :  com.google.android.apps.dynamite
+score :  4.0968533
+installs : 10,000,000+
+ratings :  123435
+reviews :  16185
+
+title :  Careem Captain
+appId :  com.careem.adma
+score :  4.582857
+installs : 5,000,000+
+ratings :  254115
+reviews :  659
+
+title :  Aneela's Collection Brands App
+appId :  pk.aneela.android
+score :  4.6666665
+installs : 100,000+
+ratings :  4228
+reviews :  26
+
+title :  Adobe Scan: PDF Scanner, OCR
+appId :  com.adobe.scan.android
+score :  4.7707357
+installs : 100,000,000+
+ratings :  2481718
+reviews :  53608
+
+title :  Punjab Zameen
+appId :  com.digitalapp.android
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Dollar Cash - Make Money
+appId :  com.app.dollarcash
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Pak E Services Sim Data 2023
+appId :  com.paksimdata2023.pakeservicessiminfo
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Meta Ads Manager
+appId :  com.facebook.adsmanager
+score :  4.2324076
+installs : 10,000,000+
+ratings :  240397
+reviews :  2583
+
+title :  Scanner: Scan Documents
+appId :  com.adstocash.scanner
+score :  4.05
+installs : 1,000,000+
+ratings :  4001
+reviews :  80
+
+title :  Microsoft Teams
+appId :  com.microsoft.teams
+score :  4.6704903
+installs : 100,000,000+
+ratings :  6555524
+reviews :  84245
+
+title :  Mall Maweshi
+appId :  com.mallMaweshi.android
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Oar App
+appId :  oar.customer
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Resume Builder CV Maker App
+appId :  com.appmystique.resume
+score :  4.19
+installs : 1,000,000+
+ratings :  38085
+reviews :  154
+
+title :  V380
+appId :  com.macrovideo.v380
+score :  3.7707317
+installs : 10,000,000+
+ratings :  48396
+reviews :  1145
+
+title :  BOOKKEEPA™
+appId :  com.bookkeepa.basic
+score :  4.6
+installs : 100,000+
+ratings :  119
+reviews :  0
+
+title :  Google Ads
+appId :  com.google.android.apps.adwords
+score :  4.340659
+installs : 10,000,000+
+ratings :  152263
+reviews :  2696
+
+title :  Freelancer: Hire & Find Jobs
+appId :  com.freelancer.android.messenger
+score :  3.6262627
+installs : 5,000,000+
+ratings :  61757
+reviews :  1497
+
+title :  Pakistan Real Cash
+appId :  pakistan.real.cash.pakistanrealcash
+score :  4.23
+installs : 500,000+
+ratings :  13779
+reviews :  51
+
+title :  Tickz - Trends with Friends!
+appId :  com.tickz
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  AnyDesk plugin ad1
+appId :  com.anydesk.adcontrol.ad1
+score :  2.8454545
+installs : 10,000,000+
+ratings :  14665
+reviews :  386
+
+title :  Daily Ads Job
+appId :  com.app.dailyadsjob
+score :  4.125
+installs : 100,000+
+ratings :  742
+reviews :  13
+
+title :  Work from Home Jobs
+appId :  onlinejobs.opportunities.employment
+score :  3.35
+installs : 100,000+
+ratings :  391
+reviews :  36
+
+title :  Canada Job Bank - Job Search
+appId :  com.canadajobbank.app
+score :  4.269231
+installs : 100,000+
+ratings :  1544
+reviews :  22
+
+title :  Microsoft Authenticator
+appId :  com.azure.authenticator
+score :  4.677137
+installs : 50,000,000+
+ratings :  1239605
+reviews :  63389
+
+title :  Translate Language Translator
+appId :  com.text.translate.vioce.translator.photo.translation.all.languages.new
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Resume Builder App, CV maker
+appId :  icv.resume.curriculumvitae
+score :  4.6537585
+installs : 10,000,000+
+ratings :  358826
+reviews :  4428
+
+title :  Naukrigulf - Job Search App
+appId :  com.naukriGulf.app
+score :  4.520436
+installs : 1,000,000+
+ratings :  140872
+reviews :  840
+
+title :  Jobseeker
+appId :  com.jobseeker.twa
+score :  3.909091
+installs : 500,000+
+ratings :  564
+reviews :  7
+
+title :  Translate: Language Translator
+appId :  com.language.translator.golingo.memriselingo.translation.translateall
+score :  4.1
+installs : 1,000,000+
+ratings :  1975
+reviews :  82
+
+title :  Wabi - Virtual Phone Number
+appId :  com.applaudsoft.wabi.virtual_number
+score :  4.191275
+installs : 5,000,000+
+ratings :  42934
+reviews :  1354
+
+title :  eGadget
+appId :  com.pk.gov.pitb.egadget.monitoring
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Bayt.com Job Search
+appId :  com.bayt
+score :  4.061905
+installs : 5,000,000+
+ratings :  81195
+reviews :  417
+
+title :  KE Live
+appId :  com.kelectric.customerapp
+score :  2.75
+installs : 500,000+
+ratings :  8444
+reviews :  51
+
+title :  OneLoad
+appId :  com.systems.oneload.android.app
+score :  4.3333335
+installs : 500,000+
+ratings :  6808
+reviews :  10
+
+title :  Rozee Job Search
+appId :  pk.rozee.seeker
+score :  3.6956522
+installs : 1,000,000+
+ratings :  7411
+reviews :  7
+
+title :  eagent
+appId :  com.aksa.tmfb
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Logo maker Design Logo creator
+appId :  splendid.logomaker.designer
+score :  4.6008406
+installs : 10,000,000+
+ratings :  337139
+reviews :  3045
+
+title :  Translate All Languages
+appId :  com.newgenerationhub.language.translator.voice.translate.languages
+score :  4.73
+installs : 1,000,000+
+ratings :  11386
+reviews :  242
+
+title :  Recover WA Deleted Messages
+appId :  com.recovermessages.restoredeletedtext.recoverdata
+score :  4
+installs : 100,000+
+ratings :  951
+reviews :  9
+
+title :  Scanner App- Scan PDF Document
+appId :  camscanner.documentscanner.pdfreader
+score :  4.6725144
+installs : 10,000,000+
+ratings :  116882
+reviews :  1307
+
+title :  Telenor Apollo
+appId :  com.tracker.sed.dms.app
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  5G Pak
+appId :  com.fivegthen.fivesim.ple
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  24Task For Freelancers
+appId :  com.task24.android.apps.freelancer.job.search
+score :  3.1789474
+installs : 100,000+
+ratings :  1234
+reviews :  50
+
+title :  Handy Cash - Earn Real Cash
+appId :  com.app.handycash
+score :  4.418919
+installs : 100,000+
+ratings :  8155
+reviews :  58
+
+title :  Coinpayu
+appId :  com.coinpayu.earn.bitcoin
+score :  4.01
+installs : 100,000+
+ratings :  4547
+reviews :  132
+
+title :  SquirrelVPN
+appId :  com.squirrelvpn
+score :  4.42
+installs : 100,000+
+ratings :  1797
+reviews :  218
+
+title :  Glassdoor | Jobs & Community
+appId :  com.glassdoor.app
+score :  4.33412
+installs : 10,000,000+
+ratings :  220509
+reviews :  23282
+
+title :  Needo Job -Apply for Easy Work
+appId :  com.app.needojob
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Jobs In Dubai : Job Vacancy
+appId :  com.jobfinder.jobsindubai
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  PP Wallet Paypal to Easypaisa
+appId :  p.p.wallet
+score :  4.3170733
+installs : 100,000+
+ratings :  7994
+reviews :  25
+
+title :  BOOKKEEPA™ Lite
+appId :  com.creativeconsillium.BookKeepa_lite
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Resume Builder - CV Engineer
+appId :  sampson.cvbuilder
+score :  4.412371
+installs : 1,000,000+
+ratings :  13772
+reviews :  674
+
+title :  Logo Maker - Logo Creator app
+appId :  com.logomaker.designer.create.logo.app
+score :  3.84375
+installs : 1,000,000+
+ratings :  5588
+reviews :  33
+
+title :  Earn Money
+appId :  com.OCK.earn
+score :  5
+installs : 50,000+
+ratings :  346
+reviews :  3
+
+title :  Simple Scan - PDF Scanner App
+appId :  com.simplescan.scanner
+score :  4.776423
+installs : 10,000,000+
+ratings :  385463
+reviews :  10482
+
+title :  KYC Verification
+appId :  kyc.verification
+score :  3.3333333
+installs : 100,000+
+ratings :  685
+reviews :  8
+
+title :  Business Card Maker
+appId :  com.appmystique.businesscardmaker
+score :  4.544554
+installs : 1,000,000+
+ratings :  24648
+reviews :  80
+
+title :  Zoom Rooms Controller
+appId :  us.zoom.zrc
+score :  4.23
+installs : 5,000,000+
+ratings :  11845
+reviews :  275
+
+title :  Rocket Cash - Earning App
+appId :  com.app.rocketcash
+score :  4.2941175
+installs : 50,000+
+ratings :  1952
+reviews :  14
+
+title :  Typing Job : Earn Money
+appId :  com.datazone.typingjobs
+score :  3.7375
+installs : 500,000+
+ratings :  3938
+reviews :  52
+
+title :  Atlas Honda Ltd | Motorcycle
+appId :  com.atlashonda
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Clear Scan - PDF Scanner App
+appId :  com.indymobileapp.document.scanner
+score :  4.7358055
+installs : 10,000,000+
+ratings :  377609
+reviews :  4542
+
+title :  Easy Captcha-Earn with Captcha
+appId :  com.app.easycaptcha
+score :  4.4157305
+installs : 100,000+
+ratings :  2102
+reviews :  82
+
+title :  clickworker
+appId :  com.clickworker.clickworkerapp
+score :  4.0853243
+installs : 1,000,000+
+ratings :  28398
+reviews :  1167
+
+title :  Stinto: Just tap and connect
+appId :  com.stinto.android
+score :  3.7
+installs : 100,000+
+ratings :  108
+reviews :  3
+
+title :  Slack
+appId :  com.Slack
+score :  3.6568627
+installs : 10,000,000+
+ratings :  122453
+reviews :  5652
+
+title :  SEEK Job Search
+appId :  au.com.seek
+score :  4.08
+installs : 5,000,000+
+ratings :  26622
+reviews :  60
+
+title :  Duo Mobile
+appId :  com.duosecurity.duomobile
+score :  3.0867834
+installs : 10,000,000+
+ratings :  44279
+reviews :  4654
+
+title :  Crypto Alert
+appId :  com.app.cryptosignal
+score :  4.5
+installs : 10,000+
+ratings :  141
+reviews :  3
+
+title :  Social Media Post Maker
+appId :  com.bg.socialcardmaker
+score :  4.447619
+installs : 1,000,000+
+ratings :  29384
+reviews :  1175
+
+title :  CRewards
+appId :  com.crewards
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Upwork for Clients
+appId :  com.upwork.android.apps.client
+score :  3.7697368
+installs : 500,000+
+ratings :  5600
+reviews :  805
+
+title :  PSO Fuelink
+appId :  com.altpay.fuelink.consumerapp
+score :  3.7692308
+installs : 100,000+
+ratings :  2236
+reviews :  9
+
+title :  SNGPL BILL
+appId :  pk.com.sngpl.gasiscash
+score :  4.1666665
+installs : 100,000+
+ratings :  1402
+reviews :  3
+
+title :  CBA - Community Business Agent
+appId :  com.client.cba
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  FX File Explorer
+appId :  nextapp.fx
+score :  4.0707283
+installs : 10,000,000+
+ratings :  74174
+reviews :  4374
+
+title :  Flyers, Poster Maker, Design
+appId :  com.bg.flyermaker
+score :  4.707053
+installs : 10,000,000+
+ratings :  248749
+reviews :  10446
+
+title :  Professional Resume Builder - 
+appId :  com.hightech.professionalresumes
+score :  4.68
+installs : 1,000,000+
+ratings :  18090
+reviews :  132
+
+title :  Remote Desktop
+appId :  com.microsoft.rdc.androidx
+score :  3.607143
+installs : 1,000,000+
+ratings :  10066
+reviews :  667
+
+title :  Skype for Business for Android
+appId :  com.microsoft.office.lync15
+score :  3.9826863
+installs : 10,000,000+
+ratings :  170900
+reviews :  5498
+
+title :  Google Analytics
+appId :  com.google.android.apps.giant
+score :  4.227432
+installs : 5,000,000+
+ratings :  129900
+reviews :  3178
+
+title :  Banner Maker
+appId :  com.cutewallpaperstudio.thumbnail.creater.banner.maker
+score :  4.72
+installs : 5,000,000+
+ratings :  46864
+reviews :  251
+
+title :  File Commander Manager & Vault
+appId :  com.mobisystems.fileman
+score :  3.9944284
+installs : 100,000,000+
+ratings :  915952
+reviews :  10764
+
+title :  Pakistan Real Money
+appId :  com.earn_real_cash.earn_free_coins.indianrealcash
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Pioneer Advertiser
+appId :  com.quadacts.pioneer_advertiser
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Screen Share to Web Browser
+appId :  com.mobile.to.web.browser.mirroring.wifi.screen.share.miracast.screenmirroring
+score :  3.8666666
+installs : 50,000+
+ratings :  163
+reviews :  10
+
+title :  Credit Debit- ledger account
+appId :  creditdebit.creditdebit
+score :  4.56
+installs : 1,000,000+
+ratings :  5920
+reviews :  51
+
+title :  WikiFX-Broker Regulatory APP
+appId :  com.foreigncurrency.internationalfxeye
+score :  4.7647057
+installs : 1,000,000+
+ratings :  13818
+reviews :  287
+
+title :  Crown One
+appId :  com.csi.crownfamily
+score :  4.7297297
+installs : 100,000+
+ratings :  12560
+reviews :  0
+
+title :  How to Create PayPal Account
+appId :  com.future_soft_apps.createpaypalaccountguide
+score :  4.9375
+installs : 10,000+
+ratings :  462
+reviews :  14
+
+title :  GulfTalent - Job Search App
+appId :  com.gulftalent.android.mobile
+score :  4.45
+installs : 1,000,000+
+ratings :  12695
+reviews :  19
+
+title :  Blue World City
+appId :  com.bwc.mobile.members
+score :  2.6666667
+installs : 100,000+
+ratings :  1222
+reviews :  8
+
+title :  Jobs in Canada - Canada Jobs
+appId :  com.tollyapps.jobsincanada.searchjobsincanada.canadjobs
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Tajir تاجر
+appId :  com.tajir.tajir
+score :  4.1764708
+installs : 100,000+
+ratings :  6138
+reviews :  8
+
+title :  24Task: Hire Freelancers
+appId :  com.task24.android.apps.employer.hire.freelancer
+score :  4.47
+installs : 100,000+
+ratings :  2290
+reviews :  137
+
+title :  App Lock
+appId :  com.enlightment.appslocker
+score :  4.502976
+installs : 10,000,000+
+ratings :  374985
+reviews :  17012
+
+title :  QR code scanner & Barcode Scan
+appId :  qr.code.reader.barcode.scanner.qrcodeScanner
+score :  4.31377
+installs : 5,000,000+
+ratings :  60620
+reviews :  643
+
+title :  JotNot - PDF Scanner App
+appId :  com.mobitech3000.jotnotlite.android
+score :  4.6857142
+installs : 100,000+
+ratings :  234
+reviews :  20
+
+title :  CashBook: Business Ledger Book
+appId :  com.cashbooknew
+score :  4.687151
+installs : 1,000,000+
+ratings :  136908
+reviews :  325
+
+title :  EasyViewer Pro
+appId :  com.mm.android.direct.EasyViewerPro
+score :  4.49
+installs : 500,000+
+ratings :  6408
+reviews :  63
+
+title :  Sell on Etsy
+appId :  com.etsy.android.soe
+score :  3.5993524
+installs : 5,000,000+
+ratings :  81135
+reviews :  14795
+
+title :  Scanner App to PDF -TapScanner
+appId :  pdf.tap.scanner
+score :  4.673913
+installs : 50,000,000+
+ratings :  1902586
+reviews :  9215
+
+title :  CV Maker & Resume Builder -PDF
+appId :  com.mobotechnology.cvmaker
+score :  4.464789
+installs : 5,000,000+
+ratings :  121627
+reviews :  569
+
+title :  गाय भैंस खरीदें बेचें Animall
+appId :  in.animall.android
+score :  4.451613
+installs : 10,000,000+
+ratings :  46254
+reviews :  23
+
+title :  MOHRE
+appId :  ae.gov.mol
+score :  4.2
+installs : 1,000,000+
+ratings :  19051
+reviews :  83
+
+title :  Mobile to Mobile Screen Share
+appId :  com.screen.share.screen.mirroring.wifi.share.casttotv.iglobe
+score :  3.8421052
+installs : 100,000+
+ratings :  407
+reviews :  11
+
+title :  U Bank Digital
+appId :  com.access.ubankdigital
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Webex Meetings
+appId :  com.cisco.webex.meetings
+score :  4.476476
+installs : 100,000,000+
+ratings :  1998852
+reviews :  64537
+
+title :  Bikayi: Grow on WhatsApp
+appId :  com.bikayi.android
+score :  4.883929
+installs : 5,000,000+
+ratings :  39949
+reviews :  157
+
+title :  Integrity Sales & Auctions
+appId :  com.integritysales.bid
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Etsy Seller: Manage Your Shop
+appId :  com.etsy.butter.sell_on_etsy
+score :  3.2478633
+installs : 500,000+
+ratings :  3027
+reviews :  561
+
+title :  Letterhead Maker with logo PDF
+appId :  business.letterheadmaker
+score :  4.678261
+installs : 1,000,000+
+ratings :  18250
+reviews :  559
+
+title :  Resume Builder & CV Maker
+appId :  com.resume.builder.cv.resume.maker
+score :  4
+installs : 1,000,000+
+ratings :  3606
+reviews :  1
+
+title :  متخصصین خدمت از ما
+appId :  com.khedmatazma.provider
+score :  4.05
+installs : 50,000+
+ratings :  2212
+reviews :  28
+
+title :  Cash Book: Sales & Expense App
+appId :  com.khatabook.cashbook
+score :  4.35
+installs : 1,000,000+
+ratings :  52403
+reviews :  13
+
+title :  Cash Book- daily expenses
+appId :  cashbook.cashbook
+score :  4.625
+installs : 500,000+
+ratings :  4474
+reviews :  29
+
+title :  BlueSky Medical Staffing Softw
+appId :  com.blueskymss.bssmobileportal
+score :  2.368421
+installs : 10,000+
+ratings :  73
+reviews :  19
+
+title :  Instant Website Builder App
+appId :  in.co.websites.websitesapp
+score :  4.3758864
+installs : 1,000,000+
+ratings :  33388
+reviews :  531
+
+title :  GoToWebinar
+appId :  com.logmein.gotowebinar
+score :  4.712495
+installs : 10,000,000+
+ratings :  134684
+reviews :  10693
+
+title :  Jooble Job Search
+appId :  jooble.org
+score :  3.7619047
+installs : 500,000+
+ratings :  1637
+reviews :  9
+
+title :  Kwork
+appId :  ru.kwork.app
+score :  4.67
+installs : 500,000+
+ratings :  10439
+reviews :  67
+
+title :  Forex Tutorials
+appId :  com.uchimforex.app
+score :  4.57
+installs : 10,000,000+
+ratings :  185700
+reviews :  419
+
+title :  Free Conference Call
+appId :  com.freeconferencecall.fccmeetingclient
+score :  4.1230283
+installs : 10,000,000+
+ratings :  57281
+reviews :  2867
+
+title :  Resume Builder - CV Maker
+appId :  com.resumemakerapp.cvmaker
+score :  3.952381
+installs : 1,000,000+
+ratings :  2221
+reviews :  10
+
+title :  Oman Jobs
+appId :  com.oman.findjobs
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Business Book - Manage Account
+appId :  com.accountbook.khatabook
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Jobs In Qatar
+appId :  com.sevenstar.jobsinqatar
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Job Today: Easy Job Search
+appId :  com.jobtoday.app
+score :  4.68
+installs : 5,000,000+
+ratings :  143918
+reviews :  361
+
+title :  Document Scan: PDF scanner
+appId :  com.documentscan.simplescan.scanpdf
+score :  4.6242423
+installs : 10,000,000+
+ratings :  121420
+reviews :  290
+
+title :  Billing App GST Invoice Maker
+appId :  in.android.vyapar
+score :  4.6
+installs : 5,000,000+
+ratings :  95359
+reviews :  151
+
+title :  NRSP Loan And Services
+appId :  nrsp.mfbl.branch_and_atm_loc
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Zoom for Chrome - PWA
+appId :  us.zoom.pwa.twa
+score :  3.8921568
+installs : 1,000,000+
+ratings :  8082
+reviews :  1222
+
+title :  MetaForce - Polygon
+appId :  forsage.bnb
+score :  4.375
+installs : 50,000+
+ratings :  958
+reviews :  5
+
+title :  Wahyd Logistics: Book a Truck
+appId :  com.wahyd.logistics
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Hide Chat For WA - Messages
+appId :  com.chatlocker.lockmessages
+score :  4.054945
+installs : 50,000+
+ratings :  3504
+reviews :  9
+
+title :  Resume PDF Maker / CV Builder
+appId :  com.dailymobapps.resume
+score :  3.69
+installs : 5,000,000+
+ratings :  10352
+reviews :  89
+
+title :  Driver Partner
+appId :  com.firstdelivery.driverapp
+score :  3.861386
+installs : 10,000+
+ratings :  245
+reviews :  68
+
+title :  Money SMS - Make Money Online
+appId :  com.moneysmsapp.demo
+score :  3.86
+installs : 100,000+
+ratings :  2356
+reviews :  130
+
+title :  Khata Book My Spending Tracker
+appId :  personal.expense.budget.pocket.moneytracker
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Banner Maker, Thumbnail Maker
+appId :  com.rollerbannermaker
+score :  4.0285716
+installs : 1,000,000+
+ratings :  30897
+reviews :  682
+
+title :  JAZZ MBB
+appId :  com.zte.android.jazzhome
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Poster Maker : Graphic Design
+appId :  com.flyerdesign.banner.postermaker
+score :  4.783217
+installs : 1,000,000+
+ratings :  28124
+reviews :  578
+
+title :  Instant Invoice Maker - Create
+appId :  com.msint.invoicemaker
+score :  4.885246
+installs : 100,000+
+ratings :  1557
+reviews :  17
+
+title :  PeoplePerHour: Hire Freelancer
+appId :  com.pph
+score :  3.51
+installs : 500,000+
+ratings :  1653
+reviews :  50
+
+title :  OfficeSuite: Word, Sheets, PDF
+appId :  com.mobisystems.office
+score :  4.096572
+installs : 100,000,000+
+ratings :  1359363
+reviews :  23352
+
+title :  Cast Phone to TV, Chromecast
+appId :  com.tvscreencasting.screencast.screenmirroring
+score :  4.2376237
+installs : 100,000+
+ratings :  1110
+reviews :  18
+
+title :  iScanner - PDF Scanner App
+appId :  com.bpmobile.iscanner.free
+score :  4.500175
+installs : 10,000,000+
+ratings :  323116
+reviews :  3506
+
+title :  SLIC Digital
+appId :  com.ozoneddigital.state_life
+score :  3.2
+installs : 10,000+
+ratings :  151
+reviews :  2
+
+title :  iVi Motors
+appId :  com.iviMotor
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Jubilee Health
+appId :  com.jubileeinsurance.jubileelifeinsurance
+score :  2.142857
+installs : 100,000+
+ratings :  529
+reviews :  5
+
+title :  Skillbee: UAE & Abroad Job App
+appId :  im.skillbee.candidateapp
+score :  4.1862745
+installs : 1,000,000+
+ratings :  58765
+reviews :  34
+
+title :  AC Freedom
+appId :  com.broadlink.acfreedom
+score :  2.61
+installs : 1,000,000+
+ratings :  5414
+reviews :  82
+
+title :  Easy Cash Load & Utility Bill
+appId :  com.easycashpk
+score :  3.8666666
+installs : 50,000+
+ratings :  1169
+reviews :  9
+
+title :  GST Invoice Billing Inventory
+appId :  com.bookkeeper
+score :  4.11
+installs : 1,000,000+
+ratings :  11885
+reviews :  368
+
+title :  Pakistan Post Tracking
+appId :  com.Pakistanpost.Tracking
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Saudi Arabia Jobs
+appId :  com.saudiarabia.findjobs
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Cover Letter Maker for Resume
+appId :  com.appmystique.coverletter
+score :  4.55
+installs : 500,000+
+ratings :  7287
+reviews :  93
+
+title :  HubSpot CRM: Grow better
+appId :  com.hubspot.android
+score :  4.4054055
+installs : 1,000,000+
+ratings :  7108
+reviews :  360
+
+title :  J. Junaid Jamshed
+appId :  com.uigmts.jdotapp
+score :  3.4
+installs : 100,000+
+ratings :  293
+reviews :  3
+
+title :  ScanBizCards Lite - Business C
+appId :  com.scanbizcards
+score :  4.255102
+installs : 1,000,000+
+ratings :  6758
+reviews :  921
+
+title :  Data Entry Jobs at Home
+appId :  com.datazone.dataentryjobss
+score :  3.87
+installs : 100,000+
+ratings :  4654
+reviews :  86
+
+title :  MAKKI TRADERS
+appId :  com.itcomsolutions.tradezone
+score :  5
+installs : 50,000+
+ratings :  1265
+reviews :  2
+
+title :  Dukan.pk – Digitizing Sellers
+appId :  pk.dukan
+score :  4.2222223
+installs : 500,000+
+ratings :  2700
+reviews :  12
+
+title :  My Invoice Generator & Invoice
+appId :  invoice.invoicemaker.estimatemaker.billingapp
+score :  4.841584
+installs : 1,000,000+
+ratings :  13111
+reviews :  181
+
+title :  e-Khidmat
+appId :  com.phonegap.ekhidmat
+score :  4.2
+installs : 100,000+
+ratings :  455
+reviews :  2
+
+title :  DBMETA
+appId :  com.wicep.qukuailian_flutter
+score :  4.354839
+installs : 100,000+
+ratings :  884
+reviews :  25
+
+title :  Dastgyr
+appId :  com.dstgyr.dastgyr
+score :  4.6
+installs : 100,000+
+ratings :  8594
+reviews :  7
+
+title :  Translate: Language Translator
+appId :  com.translateall.languagetranslator.voicetranslation.voicechat.smartscan
+score :  4.09
+installs : 1,000,000+
+ratings :  5180
+reviews :  57
+
+title :  Bluetooth Audio Widget Battery
+appId :  mag.com.bluetoothwidget.free
+score :  3.7363636
+installs : 5,000,000+
+ratings :  20572
+reviews :  435
+
+title :  Eligibility Check
+appId :  gov.pspa.pep
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  3D Logo Design Services
+appId :  com.graphics.logodesign
+score :  2.0714285
+installs : 1,000,000+
+ratings :  12663
+reviews :  914
+

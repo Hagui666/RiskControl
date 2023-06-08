@@ -1,0 +1,1400 @@
+title :  Ludo King™
+appId :  com.ludo.king
+score :  4.0913677
+installs : 500,000,000+
+ratings :  9394288
+reviews :  11166
+
+title :  Yalla Ludo - Ludo&Domino
+appId :  com.yalla.yallagames
+score :  4.007615
+installs : 100,000,000+
+ratings :  691080
+reviews :  9947
+
+title :  Ludo STAR
+appId :  com.superking.ludo.star
+score :  4.3180685
+installs : 50,000,000+
+ratings :  1069403
+reviews :  3699
+
+title :  Ludo
+appId :  io.yarsa.games.ludo
+score :  4.5819674
+installs : 100,000,000+
+ratings :  352050
+reviews :  731
+
+title :  Ludo SuperStar
+appId :  com.blacklightsw.ludo
+score :  4.5211864
+installs : 100,000,000+
+ratings :  349304
+reviews :  668
+
+title :  Ludo Lush-Game with Video Call
+appId :  ludo.lush.games.video.calling
+score :  4.158416
+installs : 1,000,000+
+ratings :  137131
+reviews :  78
+
+title :  Ludo Titan
+appId :  com.gameberry.ludo.star2
+score :  4.112713
+installs : 10,000,000+
+ratings :  741201
+reviews :  2518
+
+title :  Ludo Club - Dice & Board Game
+appId :  com.moonfrog.ludo.club
+score :  4.2647977
+installs : 100,000,000+
+ratings :  1683222
+reviews :  9719
+
+title :  Funbox - Play Ludo Online
+appId :  com.huyu.leyoo
+score :  4.181818
+installs : 1,000,000+
+ratings :  1881
+reviews :  13
+
+title :  Ludo Party : Dice Board Game
+appId :  com.miniclip.ludo
+score :  4.1273885
+installs : 10,000,000+
+ratings :  57753
+reviews :  321
+
+title :  Ludo Game
+appId :  com.free.ludo.game
+score :  3.84
+installs : 10,000,000+
+ratings :  77118
+reviews :  82
+
+title :  India vs Pakistan Ludo Online
+appId :  com.indopak.ludo.online
+score :  4.4
+installs : 5,000,000+
+ratings :  16714
+reviews :  79
+
+title :  Parchisi STAR Online
+appId :  com.superking.parchisi.star
+score :  4.4666777
+installs : 100,000,000+
+ratings :  2642714
+reviews :  19612
+
+title :  Ludo Master™ - Ludo Board Game
+appId :  com.ludo.master.hippo
+score :  4.1
+installs : 10,000,000+
+ratings :  130365
+reviews :  287
+
+title :  Tile Triple 3D - Match Master
+appId :  and.lihuhu.tiletriple3d
+score :  4.3679013
+installs : 5,000,000+
+ratings :  34200
+reviews :  4493
+
+title :  Ludo Kingdom Online Board Game
+appId :  com.comfun.mobile.lukd.gpas
+score :  4.48
+installs : 10,000,000+
+ratings :  31829
+reviews :  49
+
+title :  Online Ludo Game Multiplayer
+appId :  com.ludo.smg.play.online.ludomultiplayer
+score :  4.1666665
+installs : 100,000+
+ratings :  401
+reviews :  2
+
+title :  Mega Ludo-Voice Chat Ludo Room
+appId :  com.mega.ludo
+score :  4.840909
+installs : 1,000,000+
+ratings :  4007
+reviews :  12
+
+title :  Paint by Number: Coloring Game
+appId :  paint.by.number.pixel.art.coloring.drawing.puzzle
+score :  4.713194
+installs : 100,000,000+
+ratings :  1745362
+reviews :  114320
+
+title :  Ludo Luck  - Voice Ludo Game
+appId :  com.ludoluck.dice.game
+score :  4.2173915
+installs : 1,000,000+
+ratings :  2313
+reviews :  2
+
+title :  Chess
+appId :  com.llx.chess
+score :  4.471223
+installs : 50,000,000+
+ratings :  274631
+reviews :  5673
+
+title :  Onet Puzzle - Tile Match Game
+appId :  onet.tile.match.puzzle.android
+score :  4.6849036
+installs : 10,000,000+
+ratings :  73976
+reviews :  2906
+
+title :  Ludo offline
+appId :  com.YadavGames.Ludo_offline
+score :  4
+installs : 1,000,000+
+ratings :  1812
+reviews :  4
+
+title :  Ludo Champs Game
+appId :  com.mz.classicludogame
+score :  4.04
+installs : 10,000,000+
+ratings :  76358
+reviews :  32
+
+title :  Yalla Ludo HD
+appId :  com.yallagames.hd
+score :  4.47
+installs : 5,000,000+
+ratings :  21736
+reviews :  188
+
+title :  Coloring Game, Paint by Number
+appId :  uk.co.highapp.colouring.art.painting
+score :  4.3
+installs : 50,000+
+ratings :  109
+reviews :  2
+
+title :  Ludo Star -Offline be the king
+appId :  com.chessgame.ludostar
+score :  4.3076925
+installs : 1,000,000+
+ratings :  2168
+reviews :  2
+
+title :  Carrom Lite-Board Offline Game
+appId :  com.game.carromboard.offline
+score :  4.6666665
+installs : 1,000,000+
+ratings :  5685
+reviews :  2
+
+title :  Tap Color Pro: Color By Number
+appId :  coloring.color.number.happy.paint.art.drawing.puzzle
+score :  4.7459335
+installs : 10,000,000+
+ratings :  168016
+reviews :  19695
+
+title :  Chess - Play and Learn
+appId :  com.chess
+score :  4.751023
+installs : 50,000,000+
+ratings :  1509913
+reviews :  30911
+
+title :  Book of Buffalo
+appId :  com.overdrive.mobile.and
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Chess - Offline Board Game
+appId :  com.gamovation.chessclubpilot
+score :  4.8819375
+installs : 10,000,000+
+ratings :  291674
+reviews :  2147
+
+title :  Ludo Master™ Lite - Dice Game
+appId :  com.ludo.master.hippo.lite
+score :  4.61
+installs : 1,000,000+
+ratings :  9604
+reviews :  61
+
+title :  Bead 16 - Sholo Guti, Bead 12
+appId :  com.alignit.sixteenbead
+score :  4.51
+installs : 10,000,000+
+ratings :  39079
+reviews :  34
+
+title :  Align It | Nine Men's Morris
+appId :  com.millgame.alignit
+score :  4.18
+installs : 1,000,000+
+ratings :  14369
+reviews :  52
+
+title :  Ludo Game : Online Multiplayer
+appId :  com.ludo.multiplayer.game.free
+score :  4.29
+installs : 5,000,000+
+ratings :  10806
+reviews :  364
+
+title :  Ludo Game - King of Dice Games
+appId :  com.india.vs.pak.mega.classic.ludo
+score :  4.5172415
+installs : 500,000+
+ratings :  3981
+reviews :  10
+
+title :  TwoPlayerGames 2 3 4 Player
+appId :  com.rhm.TwoPlayerGames234Player
+score :  3.953125
+installs : 1,000,000+
+ratings :  6395
+reviews :  25
+
+title :  Ludo Multiplayer
+appId :  io.yarsa.games.snakenladder
+score :  4.117647
+installs : 1,000,000+
+ratings :  2466
+reviews :  5
+
+title :  Ludo multiplayer Games- Dice
+appId :  com.lududice.boardgames.ludochampion
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Ludo Expert- Voice Call Game
+appId :  com.ludo.expert.game
+score :  4.521739
+installs : 1,000,000+
+ratings :  3457
+reviews :  11
+
+title :  Coloring Book: Color by Number
+appId :  com.iceors.colorbook.release
+score :  4.556319
+installs : 10,000,000+
+ratings :  179277
+reviews :  22865
+
+title :  Ludo Offline Dice Board Game
+appId :  com.iz.ludo.saga.king.star.dice.board.games
+score :  3.93
+installs : 5,000,000+
+ratings :  30861
+reviews :  108
+
+title :  ffh4x mod menu for fire
+appId :  emotes.so100
+score :  4.372549
+installs : 1,000,000+
+ratings :  9810
+reviews :  133
+
+title :  Ludo Comfun Online Live Game
+appId :  com.comfun.mobile.ludo.gpas
+score :  4.16
+installs : 10,000,000+
+ratings :  89964
+reviews :  107
+
+title :  Ludo Dream
+appId :  com.neptune.ludo
+score :  4.1
+installs : 1,000,000+
+ratings :  13192
+reviews :  87
+
+title :  Triple Find 3D - Triple Match
+appId :  and.lihuhu.findmatch
+score :  4.5024037
+installs : 1,000,000+
+ratings :  10101
+reviews :  1090
+
+title :  Carrom board game - Carrom Pro
+appId :  com.play.carromgame
+score :  3.6571429
+installs : 5,000,000+
+ratings :  13774
+reviews :  9
+
+title :  Color by Number: Coloring Game
+appId :  com.tfgco.apps.coloring.free.color.by.number
+score :  4.512664
+installs : 10,000,000+
+ratings :  152010
+reviews :  10839
+
+title :  Colorscapes® - Color by Number
+appId :  com.artlife.coloringbook
+score :  4.769199
+installs : 10,000,000+
+ratings :  360952
+reviews :  22994
+
+title :  Ludo - King Of Ludo Games
+appId :  com.ludogame.ludokingmastergame
+score :  3.2
+installs : 100,000+
+ratings :  294
+reviews :  1
+
+title :  Carrom Gold: Online Board Game
+appId :  com.moonfrog.carromgold
+score :  4.55
+installs : 1,000,000+
+ratings :  19067
+reviews :  36
+
+title :  Dominoes
+appId :  io.yarsa.games.dominoes
+score :  4.321429
+installs : 100,000+
+ratings :  681
+reviews :  21
+
+title :  Ludo - Offline Dice Games
+appId :  com.SNG.Ludo
+score :  4.4653463
+installs : 1,000,000+
+ratings :  10438
+reviews :  90
+
+title :  Super Ludo Multiplayer Classic
+appId :  com.ludo.multiplayer
+score :  4.29
+installs : 10,000,000+
+ratings :  60112
+reviews :  291
+
+title :  Ludo - Win Cash Game
+appId :  com.ludo.win.cash
+score :  4
+installs : 100,000+
+ratings :  1056
+reviews :  8
+
+title :  Ludo All Star - Play Ludo Game
+appId :  com.ludoallstar.ludogame.wingold
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  1LINE –One Line with One Touch
+appId :  com.one1line.onetouch.onestroke.dotgame
+score :  4.473251
+installs : 50,000,000+
+ratings :  525503
+reviews :  3143
+
+title :  Chess Kingdom : Online Chess
+appId :  com.dupuz.checkers.checkmate
+score :  4.7601213
+installs : 10,000,000+
+ratings :  129522
+reviews :  930
+
+title :  Match 3D-Tile Connect Matching
+appId :  triple.master.puzzle
+score :  3.8641975
+installs : 500,000+
+ratings :  1093
+reviews :  33
+
+title :  Snakes and Ladders King
+appId :  com.gametion.snakesladders
+score :  3.8356164
+installs : 5,000,000+
+ratings :  5346
+reviews :  30
+
+title :  Motu Patlu Ludo
+appId :  com.tangiappsit.motu.patlu.ludo
+score :  3.6
+installs : 1,000,000+
+ratings :  2055
+reviews :  3
+
+title :  Ludo Champ Super Star Champion
+appId :  com.free.ludomultiplayer
+score :  4.173077
+installs : 5,000,000+
+ratings :  19184
+reviews :  26
+
+title :  Ludo Game
+appId :  com.renderedideas.ludogame
+score :  4.4
+installs : 500,000+
+ratings :  1124
+reviews :  3
+
+title :  Ludo Moon : Dice Roll Ludo
+appId :  com.ludo.lido
+score :  3.7
+installs : 1,000,000+
+ratings :  2307
+reviews :  3
+
+title :  Checkers
+appId :  com.dialekts.draughts
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Online Ludo Game Live Chat
+appId :  com.sbdtube.ludogirl2
+score :  4.402174
+installs : 1,000,000+
+ratings :  19080
+reviews :  26
+
+title :  Chess
+appId :  com.jetstartgames.chess
+score :  4.463827
+installs : 100,000,000+
+ratings :  1841122
+reviews :  26193
+
+title :  Color Vacuum 3D
+appId :  com.wcgames.colorvacuum3d
+score :  4.712963
+installs : 100,000+
+ratings :  2045
+reviews :  48
+
+title :  Mills | Nine Men's Morris
+appId :  com.donkeycat.mill
+score :  4.1960783
+installs : 1,000,000+
+ratings :  71033
+reviews :  238
+
+title :  Happy Color®: Coloring Book
+appId :  com.pixel.art.coloring.color.number
+score :  4.6157904
+installs : 100,000,000+
+ratings :  3249395
+reviews :  354212
+
+title :  Hey Color Paint by Number Art
+appId :  com.hey.color.number.coloring.paint
+score :  4.426528
+installs : 10,000,000+
+ratings :  91809
+reviews :  6270
+
+title :  Checkers - Online & Offline
+appId :  com.gamovation.quickcheckers
+score :  4.550102
+installs : 10,000,000+
+ratings :  129556
+reviews :  726
+
+title :  Chess Online
+appId :  com.alignit.chess
+score :  4.66
+installs : 1,000,000+
+ratings :  12238
+reviews :  77
+
+title :  Match Triple 3D - Tile Connect
+appId :  triple.matching.match.match3d.pair.puzzle.master.tile.connect.bubble.toy.find
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ludo - Offline Ludo Game
+appId :  com.zeeron.ludo
+score :  4.4105263
+installs : 1,000,000+
+ratings :  7529
+reviews :  28
+
+title :  Royal Ludo・King Of Dice Game
+appId :  com.royal.ludo.online.multiplayer
+score :  4.1538463
+installs : 500,000+
+ratings :  2579
+reviews :  8
+
+title :  Ludo Pro : King of Ludo Online
+appId :  com.ludogame.free
+score :  3.9649122
+installs : 5,000,000+
+ratings :  12403
+reviews :  25
+
+title :  Chess Royale - Play and Learn
+appId :  com.xten.starfall
+score :  4.3153987
+installs : 10,000,000+
+ratings :  216093
+reviews :  3804
+
+title :  Ludo Talent - Game & Chatroom
+appId :  sg.bigo.ludolegend
+score :  4.009901
+installs : 10,000,000+
+ratings :  259474
+reviews :  291
+
+title :  Boss Teenpatti
+appId :  com.baggy.ranistan
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Nine Men's Morris
+appId :  com.springmaru.androidGame.leoNineMensMorris
+score :  3.225352
+installs : 1,000,000+
+ratings :  4513
+reviews :  39
+
+title :  Carrom Board Offline
+appId :  com.butterboxgames.candycarrom
+score :  3.6153846
+installs : 1,000,000+
+ratings :  3546
+reviews :  4
+
+title :  Carrom Board Game
+appId :  com.ai.carrom.board
+score :  4
+installs : 1,000,000+
+ratings :  5882
+reviews :  8
+
+title :  Ludo Online Game Live Chat
+appId :  com.sbdtube.ludogirl5
+score :  4.267857
+installs : 1,000,000+
+ratings :  10933
+reviews :  13
+
+title :  Board Kings: Board Dice Games
+appId :  com.jellybtn.boardkings
+score :  4.656734
+installs : 10,000,000+
+ratings :  787618
+reviews :  92671
+
+title :  ColorMe - Painting Book
+appId :  com.painting.book.colorme
+score :  4.37594
+installs : 1,000,000+
+ratings :  1203
+reviews :  401
+
+title :  Snakes and Ladders - Ludo Game
+appId :  com.snakes.ladders.game
+score :  4.063291
+installs : 5,000,000+
+ratings :  7973
+reviews :  34
+
+title :  Ludo Online Female - Lado
+appId :  com.sbdtube.ludofemale
+score :  4.7
+installs : 1,000,000+
+ratings :  19892
+reviews :  33
+
+title :  Bingo Blitz™️ - Bingo Games
+appId :  air.com.buffalo_studios.newflashbingo
+score :  4.5892363
+installs : 50,000,000+
+ratings :  1120592
+reviews :  216210
+
+title :  Ludo Light : 2022 Star Game
+appId :  com.geekylogics.ludo
+score :  4
+installs : 1,000,000+
+ratings :  1632
+reviews :  2
+
+title :  Color by Number ®: No.Draw
+appId :  com.creative.sandbox.number.drawning.coloring
+score :  4.4919157
+installs : 50,000,000+
+ratings :  365667
+reviews :  24317
+
+title :  Yalla Parchis - Parchis&Bingo
+appId :  com.yalla.yallaparchisi
+score :  4.1165047
+installs : 5,000,000+
+ratings :  36799
+reviews :  325
+
+title :  Onet 3D - Tiles Connect Puzzle
+appId :  bp.free.puzzle.game.mahjong.onet
+score :  4.5392737
+installs : 10,000,000+
+ratings :  135414
+reviews :  15159
+
+title :  Ludo Express : Online Ludo
+appId :  com.appindia.ludo
+score :  4.05
+installs : 5,000,000+
+ratings :  18797
+reviews :  44
+
+title :  Bae Ludo
+appId :  com.baelbal.iiudo
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ludo Punch
+appId :  com.shuttergames.ludopunch
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Snakes and Ladders Board Games
+appId :  com.idz.snakes.and.ladders.dice.board.games
+score :  4.4296675
+installs : 10,000,000+
+ratings :  155759
+reviews :  875
+
+title :  Tic Tac Toe: Online Mega XOXO
+appId :  NoamStudios.Games.MegaTicTacToeFree
+score :  4.0622406
+installs : 1,000,000+
+ratings :  26281
+reviews :  496
+
+title :  Mills - Classic Board Games
+appId :  com.PixelGroup.brwanjeya
+score :  3.709091
+installs : 500,000+
+ratings :  1909
+reviews :  23
+
+title :  Learn Chess with Dr. Wolf
+appId :  com.chess.chesscoach
+score :  4.6031747
+installs : 5,000,000+
+ratings :  42343
+reviews :  1229
+
+title :  Real Chess 3D
+appId :  com.eivaagames.RealChess3DFree
+score :  4.388889
+installs : 5,000,000+
+ratings :  44050
+reviews :  1701
+
+title :  Corporate Piranha
+appId :  com.corporatepiranha.game
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Carrom Party
+appId :  com.renderedideas.carromparty
+score :  undefined
+installs : null
+ratings :  undefined
+reviews :  undefined
+
+title :  Board King All-In-1 Games Hub
+appId :  com.gamebee.boardbundle
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ludo Game(लूडो) : Classic Ludo
+appId :  com.boardgame.ludo.game.ludostar
+score :  4.2
+installs : 1,000,000+
+ratings :  3938
+reviews :  0
+
+title :  Carrom Cricket: Premier League
+appId :  com.appguruz.cricket.carrom.game
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Bead 12 | Bara Tehni | 12 Guti
+appId :  com.alignit.bead12
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ludo Online Game Live Chat
+appId :  com.sbdtube.ludogirl
+score :  4.3692307
+installs : 1,000,000+
+ratings :  17143
+reviews :  18
+
+title :  Coloring Book: Fun Color Time
+appId :  adult.coloring.games.happy.art.color
+score :  4.84
+installs : 1,000,000+
+ratings :  7055
+reviews :  67
+
+title :  Chess Universe : Online Chess
+appId :  com.kingsofgames.chessuniverse
+score :  4.419087
+installs : 5,000,000+
+ratings :  54572
+reviews :  2012
+
+title :  Tile Master® - Classic Match
+appId :  com.tilemaster.puzzle.block.match
+score :  4.075193
+installs : 50,000,000+
+ratings :  186957
+reviews :  5216
+
+title :  Real Chess
+appId :  com.Alienforcegames.ChessFusionFree
+score :  4.3202543
+installs : 10,000,000+
+ratings :  430747
+reviews :  8436
+
+title :  Sweet Fruits
+appId :  com.smartsheet.androi
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ludo Pizza - Ludo Dice Game
+appId :  com.biz.game.ludo
+score :  4.2978725
+installs : 500,000+
+ratings :  1737
+reviews :  13
+
+title :  Chess - Clash of Kings
+appId :  pl.lukok.chess
+score :  4.553314
+installs : 10,000,000+
+ratings :  486539
+reviews :  4827
+
+title :  Ludo Chatix
+appId :  com.ludocha.tixoch
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ludo Legends Board Games 2023
+appId :  com.oneup.king.pachisi.parkase
+score :  5
+installs : 10,000+
+ratings :  30
+reviews :  0
+
+title :  LUDO DICE GAME : CHAMPION GAME
+appId :  com.mz.ludochakka.classicludo.ludogame.newgame.ludofun.ludoclub.ludochampsgame.snakeandladders.shologuti.wordsearch
+score :  4.3333335
+installs : 500,000+
+ratings :  1961
+reviews :  2
+
+title :  Ludo6 - Ludo and Snake Ladder
+appId :  com.ByteGlance.Ludo6
+score :  2.6229508
+installs : 1,000,000+
+ratings :  8844
+reviews :  36
+
+title :  Carrom Board Pool Game
+appId :  com.LightGames.BoardGames.CarromGame
+score :  4.590909
+installs : 500,000+
+ratings :  1101
+reviews :  19
+
+title :  Ludo Cricket Clash™
+appId :  com.nextwave.ludocricket
+score :  3.875
+installs : 100,000+
+ratings :  784
+reviews :  3
+
+title :  Ludo Empire®
+appId :  com.capermint.ludoempire
+score :  4.2727275
+installs : 5,000,000+
+ratings :  23998
+reviews :  1
+
+title :  Ludo Royal - Online King
+appId :  com.byte3d.royalludo
+score :  4.3846154
+installs : 1,000,000+
+ratings :  5036
+reviews :  6
+
+title :  BTS Paint by Number Game
+appId :  paint.by.number.tap.coloring.bts
+score :  4.6153846
+installs : 10,000+
+ratings :  136
+reviews :  11
+
+title :  Ludo Offline Game :Family Game
+appId :  com.mz.ludo.game.star.classic.king.mania.legend.newdice.boardgame
+score :  4.1
+installs : 500,000+
+ratings :  4006
+reviews :  3
+
+title :  Adult Sexy Coloring Games
+appId :  com.paint.by.numbers.coloring.pages.blend.coloring
+score :  4.633987
+installs : 500,000+
+ratings :  8795
+reviews :  1332
+
+title :  Parchisi Club-Online Dice Game
+appId :  com.moonfrog.parchisi.club
+score :  4.41
+installs : 1,000,000+
+ratings :  7443
+reviews :  31
+
+title :  Checkers Clash: Online Game
+appId :  com.miniclip.checkers
+score :  4.29
+installs : 500,000+
+ratings :  5380
+reviews :  76
+
+title :  Ludo Go Star-Video Call
+appId :  com.MIbraStudios.YaarLudo
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Backgammon : Real Dice
+appId :  com.RVBinarystudio.Backgammon.realdice
+score :  2.5454545
+installs : 50,000+
+ratings :  127
+reviews :  7
+
+title :  Ludo Climax - Ludo Board Games
+appId :  com.gameclimax.ludo
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Ludo Neo-Classic: King of Dice
+appId :  com.js.ludo
+score :  3.87
+installs : 10,000,000+
+ratings :  96241
+reviews :  232
+
+title :  Paint Color: Color by number
+appId :  com.pixel.art.paint.coloring.book.draw.puzzle.game
+score :  4.7688904
+installs : 10,000,000+
+ratings :  69411
+reviews :  7474
+
+title :  Pak Earn
+appId :  com.pakearns.pro
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Art Coloring - Color by Number
+appId :  com.pcoloring.art.puzzle.color.by.number
+score :  4.7603335
+installs : 10,000,000+
+ratings :  104153
+reviews :  10918
+
+title :  Pool 1v1 Offline
+appId :  com.mc.eightballs
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ben 10: Family Genius
+appId :  com.globalfun.ben10familygenius.google
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Go! Yutnori : Korea Board Game
+appId :  com.bizisolution.GoYutnori
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Fishing Games frenzy-tongits
+appId :  com.com.boyoo.fishingsinggle.Fishing
+score :  5
+installs : 10,000+
+ratings :  564
+reviews :  9
+
+title :  2 Player Games: All Games 2022
+appId :  com.twoplayer.com.twoplayer.allplayer
+score :  3.7142856
+installs : 100,000+
+ratings :  488
+reviews :  4
+
+title :  Truth or Dare: Dirty (18+)
+appId :  galstyan.hayk.app
+score :  4.1923075
+installs : 100,000+
+ratings :  681
+reviews :  3
+
+title :  Ludo World-Ludo Superstar
+appId :  com.tencent.ludosuperstar
+score :  3.8101265
+installs : 5,000,000+
+ratings :  72993
+reviews :  1085
+
+title :  Ludo Online
+appId :  com.cleverlife.ludo
+score :  3.62
+installs : 5,000,000+
+ratings :  13834
+reviews :  48
+
+title :  Alphabet Paint Color by Number
+appId :  com.drawing.color.alphabet.ars
+score :  4.2
+installs : 50,000+
+ratings :  74
+reviews :  1
+
+title :  Family's Game Pack
+appId :  org.softmotion.fpack.lite
+score :  4.410072
+installs : 1,000,000+
+ratings :  25679
+reviews :  538
+
+title :  Match 3D Puzzle - Tile Connect
+appId :  match3d.puzzle.tile.connect
+score :  3.73
+installs : 500,000+
+ratings :  902
+reviews :  59
+
+title :  Checkers
+appId :  com.dimcoms.checkers
+score :  4.28621
+installs : 100,000,000+
+ratings :  669991
+reviews :  7984
+
+title :  Match Triple Master 3D
+appId :  com.Bingo.MatchGame
+score :  4.667775
+installs : 1,000,000+
+ratings :  37258
+reviews :  9573
+
+title :  Dominoes
+appId :  com.agedstudio.board.game.dominoes
+score :  4.454685
+installs : 10,000,000+
+ratings :  57625
+reviews :  1968
+
+title :  Three Men's Morris, Three Bead
+appId :  com.alignit.threemenmorris
+score :  3.8235295
+installs : 1,000,000+
+ratings :  2482
+reviews :  2
+
+title :  Ludo Up-Fun audio board games
+appId :  com.aig.ludoup
+score :  3.5714285
+installs : 500,000+
+ratings :  1516
+reviews :  8
+
+title :  Business Game
+appId :  business.monopoly.city
+score :  3.54
+installs : 1,000,000+
+ratings :  27972
+reviews :  244
+
+title :  Mind Games for 234 Player
+appId :  com.TwoPlayerGames.MindGames
+score :  4.19802
+installs : 5,000,000+
+ratings :  9658
+reviews :  71
+
+title :  Ludo Buzz - Dice Board Game
+appId :  com.popupgames.ludo.king.club.dice.board.game
+score :  4.7391305
+installs : 1,000,000+
+ratings :  2025
+reviews :  2
+
+title :  Ludo Offline: Dice Board Game
+appId :  com.seclife.offline.cash.king.ludo
+score :  4.4545455
+installs : 10,000+
+ratings :  251
+reviews :  1
+
+title :  Tile Pair 3D - Tile Connect 3D
+appId :  and.dinlygo.tilepair3d
+score :  4.633559
+installs : 5,000,000+
+ratings :  45582
+reviews :  4308
+
+title :  Ludo
+appId :  com.staplegames.ludo
+score :  4.487805
+installs : 50,000+
+ratings :  374
+reviews :  3
+
+title :  Dominoes: Classic Dominos Game
+appId :  loppipoppi.dominoes
+score :  4.754199
+installs : 10,000,000+
+ratings :  136355
+reviews :  5194
+
+title :  Sudoku classic
+appId :  com.quarzo.sudoku
+score :  4.24
+installs : 1,000,000+
+ratings :  7055
+reviews :  117
+
+title :  Little Singham Ludo 2021
+appId :  com.zapak.little.singham.ludo.king.club.game
+score :  4.4375
+installs : 1,000,000+
+ratings :  3070
+reviews :  3
+
+title :  Chess Online - Duel friends!
+appId :  com.hagstrom.henrik.chess
+score :  4.4833837
+installs : 10,000,000+
+ratings :  188218
+reviews :  5739
+
+title :  Tile Match
+appId :  com.tile.matching
+score :  4.48
+installs : 100,000+
+ratings :  3511
+reviews :  14
+
+title :  Checkers Online
+appId :  pl.lukok.draughts
+score :  4.5989766
+installs : 100,000,000+
+ratings :  1302145
+reviews :  14336
+
+title :  Ludo Champion: Play Board Game
+appId :  com.modern.ludo.online
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Match Triple Ball
+appId :  and.lihuhu.MTBall
+score :  4.577173
+installs : 1,000,000+
+ratings :  38795
+reviews :  5766
+
+title :  Ludo Lite-offline with friends
+appId :  com.comfun.mobile.ludolite.gpas
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Tic Tac Toe
+appId :  board.tictactoe.glow.game.lite
+score :  3.4736843
+installs : 500,000+
+ratings :  1186
+reviews :  8
+
+title :  Earn Money: Spin to Earn
+appId :  itech.web.surveyandwin
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Ludo : Apna Ludo
+appId :  com.bsw.games.apnaludo
+score :  3.7777777
+installs : 1,000,000+
+ratings :  2598
+reviews :  5
+
+title :  Backgammon Plus
+appId :  com.zynga.backgammonplus
+score :  4.644231
+installs : 100,000+
+ratings :  2812
+reviews :  44
+
+title :  Ludo Punch Offline
+appId :  com.shuttergames.ludopunchoffline
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Tic Tac Toe Online - XO Game
+appId :  com.alignit.tictactoe
+score :  3.7460318
+installs : 1,000,000+
+ratings :  3738
+reviews :  23
+
+title :  Chess
+appId :  uk.co.aifactory.chessfree
+score :  4.540775
+installs : 50,000,000+
+ratings :  1685516
+reviews :  114714
+
+title :  lichess • Free Online Chess
+appId :  org.lichess.mobileapp
+score :  4.2728286
+installs : 10,000,000+
+ratings :  153057
+reviews :  3015
+
+title :  Rudra Chess - Chess For Kids
+appId :  com.sanvitechgamesstudio.rudrachess
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Tic Tac Toe
+appId :  com.tictactoe.wintrino
+score :  4.4174166
+installs : 50,000,000+
+ratings :  358593
+reviews :  5606
+
+title :  Ludo All Star - Ludo Online
+appId :  com.ludo.all.star
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Dominoes
+appId :  com.LoopGames.Domino
+score :  4.753973
+installs : 100,000,000+
+ratings :  1634040
+reviews :  36295
+
+title :  Tile Connect - Classic Match
+appId :  link.merge.puzzle.onnect.number
+score :  4.4212575
+installs : 50,000,000+
+ratings :  209480
+reviews :  8110
+
+title :  Ludo black : glow ludo offline
+appId :  com.tbg.indian.ludo.challas.aath
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ludo Star
+appId :  com.nido.ludostar
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  World Chess Championship
+appId :  manastone.game.wcc.Google
+score :  4.3641815
+installs : 5,000,000+
+ratings :  104981
+reviews :  3186
+
+title :  Zen Ludo
+appId :  com.minigamelab.zenludo
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ludo Star Offline
+appId :  com.squarerix.ludostar
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Masha and the Bear Colorings
+appId :  com.namskao.masha.numbers
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Mahjong Club - Solitaire Game
+appId :  com.gamovation.mahjongclub
+score :  4.933423
+installs : 10,000,000+
+ratings :  233315
+reviews :  2361
+
+title :  Landlord: Real Estate Tycoon
+appId :  com.landlordgame.tycoon
+score :  4.1795635
+installs : 10,000,000+
+ratings :  485012
+reviews :  42528
+
+title :  Angel & Devil Paint by Number
+appId :  angel.devil.coloring.book.painting
+score :  4.4736843
+installs : 5,000+
+ratings :  28
+reviews :  3
+
+title :  Color Master Pro:Coloring Book
+appId :  color.by.number.coloring.paint.puzzle.pixel.art.drawing.painting.games.kids.adults.fun.pictures
+score :  4.7150702
+installs : 1,000,000+
+ratings :  25835
+reviews :  2634
+
+title :  Carrom Club : Board Disc Pool
+appId :  com.butterboxgames.carrom
+score :  4.207547
+installs : 1,000,000+
+ratings :  7819
+reviews :  21
+
+title :  Onet Master: connect & match
+appId :  com.potatojam.onet.master.connect.match.pairs
+score :  3.69
+installs : 100,000+
+ratings :  1500
+reviews :  17
+
+title :  Ludo Classic
+appId :  com.whiture.apps.ludoorg
+score :  4.1021323
+installs : 10,000,000+
+ratings :  212762
+reviews :  1447
+
+title :  Carrom Board Blaster King Game
+appId :  com.projectx.carromblaster
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Dominoes Casual Arena
+appId :  com.CasualArena.Dominoes
+score :  3.8113208
+installs : 100,000+
+ratings :  883
+reviews :  17
+
+title :  Tap Color® Color by number
+appId :  com.pixel.art.coloring.by.number
+score :  4.653918
+installs : 10,000,000+
+ratings :  266384
+reviews :  41116
+
+title :  Domino - Dominos online game
+appId :  ru.skillcap.dominoes
+score :  4.548592
+installs : 10,000,000+
+ratings :  85644
+reviews :  3136
+
+title :  Coloring Games-Color By Number
+appId :  com.free.drawing.coloring.book.paint.by.number
+score :  4.779617
+installs : 10,000,000+
+ratings :  88796
+reviews :  5538
+
+title :  Ludo King Simulator
+appId :  com.ludokinggame
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Carrom City Pool Offline
+appId :  com.ggo.carrom.city.pool
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+

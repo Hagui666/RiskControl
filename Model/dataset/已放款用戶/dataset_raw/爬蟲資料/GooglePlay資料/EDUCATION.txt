@@ -1,0 +1,1400 @@
+title :  Maqsad — Online Learning
+appId :  io.maqsad
+score :  4.263158
+installs : 1,000,000+
+ratings :  18990
+reviews :  35
+
+title :  ABC 123 Kids: Number and math
+appId :  org.vinakids.ABC123
+score :  4.111111
+installs : 1,000,000+
+ratings :  924
+reviews :  1
+
+title :  Sim Info
+appId :  com.alkhalildevelopers.paksimdata
+score :  4.4634147
+installs : 100,000+
+ratings :  6645
+reviews :  15
+
+title :  Sim Owner Details 2022-2023
+appId :  sim.cnic.info.checker
+score :  4
+installs : 100,000+
+ratings :  970
+reviews :  2
+
+title :  Duolingo: language lessons
+appId :  com.duolingo
+score :  4.5063686
+installs : 100,000,000+
+ratings :  14901590
+reviews :  669056
+
+title :  BabyBus TV:Kids Videos & Games
+appId :  com.babybus.overseas.superjojo
+score :  undefined
+installs : 5,000,000+
+ratings :  undefined
+reviews :  undefined
+
+title :  Superbook Kids Bible App
+appId :  air.cbn.superbook.bible.app.android
+score :  4.8272233
+installs : 10,000,000+
+ratings :  253050
+reviews :  22766
+
+title :  Sim Owner Info
+appId :  com.techxguru.simownerinfo
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  English 101 - Learn to Write
+appId :  com.aspulstudios.english101
+score :  4.435484
+installs : 1,000,000+
+ratings :  1723
+reviews :  6
+
+title :  English Urdu Translator
+appId :  com.englishurdu.translator.voice
+score :  4.285714
+installs : 500,000+
+ratings :  657
+reviews :  2
+
+title :  Animal Coloring Book for Kids
+appId :  animals.book.kids.coloring
+score :  3.8333333
+installs : 1,000,000+
+ratings :  675
+reviews :  0
+
+title :  JAZZ PARHO – A Learning App
+appId :  com.jazzeducator
+score :  3
+installs : 500,000+
+ratings :  1145
+reviews :  5
+
+title :  Internet Data app 50 GB Tricks
+appId :  com.appsa.allmbsdaily_internetdata
+score :  4.6
+installs : 10,000+
+ratings :  522
+reviews :  8
+
+title :  U Dictionary Translator
+appId :  com.youdao.hindict
+score :  4.4633384
+installs : 100,000,000+
+ratings :  1252134
+reviews :  4690
+
+title :  How to Earn money in Pakistan
+appId :  com.howto.earnmoneyonline
+score :  4.571429
+installs : 50,000+
+ratings :  1408
+reviews :  1
+
+title :  Learn Drawing
+appId :  com.mastroms.learningtodraw
+score :  4.43
+installs : 1,000,000+
+ratings :  15856
+reviews :  224
+
+title :  Surah Yasin
+appId :  com.QuranReading.SurahYaseen
+score :  4.5096154
+installs : 5,000,000+
+ratings :  34133
+reviews :  253
+
+title :  English Urdu Dictionary Ofline
+appId :  com.dictionary.englishurdu.learnenglish
+score :  4.02
+installs : 1,000,000+
+ratings :  10347
+reviews :  21
+
+title :  Bible App for Kids
+appId :  com.bible.kids
+score :  4.592103
+installs : 50,000,000+
+ratings :  363214
+reviews :  19411
+
+title :  IEEE
+appId :  org.ieee.mobile.mcoe.ieee
+score :  4.39
+installs : 1,000,000+
+ratings :  2608
+reviews :  45
+
+title :  9th class math solution guide
+appId :  com.nodemerger.class9thmathsolutionbook
+score :  5
+installs : 100,000+
+ratings :  1816
+reviews :  4
+
+title :  Piano Academy - Learn Piano
+appId :  com.yokee.piano.keyboard
+score :  4.304348
+installs : 10,000,000+
+ratings :  62312
+reviews :  2039
+
+title :  Edkasa | Education App
+appId :  com.edkasa.android
+score :  4.2
+installs : 100,000+
+ratings :  1629
+reviews :  3
+
+title :  Writing Wizard - Learn Letters
+appId :  com.lescapadou.tracingfree
+score :  4.06
+installs : 5,000,000+
+ratings :  7395
+reviews :  343
+
+title :  Kidzooly - Kids Rhymes & Games
+appId :  com.kidzooly.kids_nursery_rhymes_stories_learning
+score :  4.16
+installs : 1,000,000+
+ratings :  2435
+reviews :  24
+
+title :  Blinkist: Big Ideas in 15 Min
+appId :  com.blinkslabs.blinkist.android
+score :  4.5669355
+installs : 5,000,000+
+ratings :  96964
+reviews :  4231
+
+title :  Kitty Kate Groom and Care
+appId :  air.KittyKateBabyCare
+score :  3.485294
+installs : 5,000,000+
+ratings :  8262
+reviews :  31
+
+title :  Stellarium Mobile - Star Map
+appId :  com.noctuasoftware.stellarium_free
+score :  4.7346053
+installs : 10,000,000+
+ratings :  125866
+reviews :  4843
+
+title :  Rock Identifier by Photo
+appId :  com.negroni.android.rockidentifier.app
+score :  4.019231
+installs : 1,000,000+
+ratings :  4395
+reviews :  140
+
+title :  Urdu To English Translator
+appId :  com.appsdiary.urdutoenglishtranslator
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  300 English Words for Kids
+appId :  com.alefapps.learn_english_kids
+score :  4.1
+installs : 500,000+
+ratings :  1550
+reviews :  4
+
+title :  Cake - Learn English & Korean
+appId :  me.mycake
+score :  4.815683
+installs : 100,000,000+
+ratings :  1124508
+reviews :  9668
+
+title :  Abwaab
+appId :  me.abwaab.abwaabv2_app
+score :  2.872549
+installs : 5,000,000+
+ratings :  26505
+reviews :  465
+
+title :  Learn Alphabet Games for Kids
+appId :  com.mjplus.learnarabic
+score :  4.2
+installs : 10,000,000+
+ratings :  24797
+reviews :  82
+
+title :  9th class math solution
+appId :  com.matric.class9thmathsolutionbook
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Traffic Sign Test
+appId :  malikmohsan.pk.trafficsigntest
+score :  5
+installs : 100,000+
+ratings :  835
+reviews :  3
+
+title :  IELTS Prep App - takeielts.org
+appId :  com.britishcouncil.ieltsprep
+score :  3.83
+installs : 1,000,000+
+ratings :  25306
+reviews :  128
+
+title :  QuranStart
+appId :  com.elifproject
+score :  4.65
+installs : 1,000,000+
+ratings :  3170
+reviews :  12
+
+title :  Plantix - your crop doctor
+appId :  com.peat.GartenBank
+score :  4.13
+installs : 10,000,000+
+ratings :  80248
+reviews :  374
+
+title :  Madani Qaidah
+appId :  com.dawateislami.madaniqaida.pro
+score :  4.86
+installs : 1,000,000+
+ratings :  22436
+reviews :  52
+
+title :  Brainly – Homework Math Solver
+appId :  co.brainly
+score :  4.4144545
+installs : 100,000,000+
+ratings :  2926047
+reviews :  16384
+
+title :  Quran with Urdu trans. قرآن پا
+appId :  com.smartech.quran.mushaf.nastaliq
+score :  5
+installs : 100,000+
+ratings :  444
+reviews :  1
+
+title :  Minecraft Education
+appId :  com.mojang.minecraftedu
+score :  4.084517
+installs : 10,000,000+
+ratings :  60608
+reviews :  6032
+
+title :  English Speaking Practice
+appId :  com.blablaeng
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Naat Collection - Naat & Kalam
+appId :  com.dawateislami.naat_e_kalam
+score :  4.928571
+installs : 100,000+
+ratings :  3388
+reviews :  8
+
+title :  Kitty Kate Caring
+appId :  air.com.winkypinky.KittyKateCaring2
+score :  3.74
+installs : 10,000,000+
+ratings :  25165
+reviews :  161
+
+title :  Animal coloring pages
+appId :  com.vela.app.animal
+score :  4
+installs : 500,000+
+ratings :  527
+reviews :  0
+
+title :  Maths Scanner : Maths Solution
+appId :  com.math.scannerapp
+score :  3.851852
+installs : 100,000+
+ratings :  2200
+reviews :  4
+
+title :  Learn Like Nastya: Kids Games
+appId :  mobi.ka.lln.gp
+score :  4.236111
+installs : 1,000,000+
+ratings :  1041
+reviews :  12
+
+title :  Benazir Income Support 2023
+appId :  com.benazir.incomesupport25000.registration.ehsaasrashanriayatprogram.mapletheme
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Scientific calculator plus 991
+appId :  advanced.scientific.calculator.calc991.plus
+score :  4.8111887
+installs : 10,000,000+
+ratings :  365764
+reviews :  2876
+
+title :  English to Urdu Translator
+appId :  com.ac.englishtourdutraslator
+score :  4.4
+installs : 1,000,000+
+ratings :  1679
+reviews :  6
+
+title :  Learn English Speaking in Urdu
+appId :  com.urdupurelearnenglish
+score :  3.75
+installs : 1,000,000+
+ratings :  3080
+reviews :  3
+
+title :  Learn Digital Marketing
+appId :  digitalmarketing.digital.marketing.dm.ads.learn.socialmedia.onlinemarketing
+score :  4.852174
+installs : 500,000+
+ratings :  9862
+reviews :  438
+
+title :  ChaaJao: MDCAT-ECAT-BCAT Prep
+appId :  com.chaajao
+score :  4.4444447
+installs : 100,000+
+ratings :  1460
+reviews :  9
+
+title :  ABC Preschool Kids Tracing
+appId :  kidzooly.abc_kids_learning_tracing
+score :  4.3373494
+installs : 5,000,000+
+ratings :  4194
+reviews :  14
+
+title :  Math 9 Solved Urdu Medium - pd
+appId :  com.pdfhive.com.math9solvedurdumedium
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Quran with Urdu Translation
+appId :  com.QuranReading.urduquran
+score :  4.544554
+installs : 5,000,000+
+ratings :  107934
+reviews :  315
+
+title :  Sahih Bukhari Shareef
+appId :  com.quranemajeedapp.org.bukhari
+score :  4.4615383
+installs : 500,000+
+ratings :  1604
+reviews :  7
+
+title :  Math Scanner - Math Solutions
+appId :  com.math.photo.scanner.equation.formula.calculator
+score :  3.9871466
+installs : 10,000,000+
+ratings :  79255
+reviews :  1886
+
+title :  Solar System Scope
+appId :  air.com.eu.inove.sss2
+score :  4.5521626
+installs : 10,000,000+
+ratings :  132756
+reviews :  2864
+
+title :  Unacademy Learner App
+appId :  com.unacademyapp
+score :  4.120879
+installs : 50,000,000+
+ratings :  1060089
+reviews :  516
+
+title :  Pic Answer
+appId :  com.techconsolidated.photosolve
+score :  4.145631
+installs : 100,000+
+ratings :  3232
+reviews :  48
+
+title :  Kalma and Dua
+appId :  com.dawateislami.kidsapplication
+score :  4.6829267
+installs : 500,000+
+ratings :  5969
+reviews :  24
+
+title :  Ehsaas Benazir Program 2023
+appId :  mobandapps.ehsaas.program.phase2
+score :  5
+installs : 100,000+
+ratings :  860
+reviews :  0
+
+title :  Tafseer al Quran al Kareem
+appId :  com.atq.quranemajeedapp.org.taq
+score :  4.888889
+installs : 100,000+
+ratings :  1585
+reviews :  4
+
+title :  Aasan Tarjuma-e-Quran
+appId :  com.atq.quranemajeedapp.org.atq
+score :  4.894737
+installs : 500,000+
+ratings :  3975
+reviews :  24
+
+title :  Learn English Speaking in Urdu
+appId :  com.orangeannoe.www.LearnEnglish
+score :  4.4166665
+installs : 5,000,000+
+ratings :  9681
+reviews :  12
+
+title :  Online Jobs for Students
+appId :  online.jobs.opportunities.students
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  StorySelf: kids loving story
+appId :  com.illuni.Storyself
+score :  3.8
+installs : 100,000+
+ratings :  453
+reviews :  9
+
+title :  IslamOne - Quran & Hadith App
+appId :  com.atq.quranemajeedapp.org.islamone
+score :  4.83
+installs : 500,000+
+ratings :  9908
+reviews :  84
+
+title :  ABC Kids - Tracing & Phonics
+appId :  com.vs.kidsabc
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Offline Urdu Lughat Dictionary
+appId :  com.ifocusapps.urdulughat.offline.dictionary
+score :  4.457143
+installs : 1,000,000+
+ratings :  7992
+reviews :  22
+
+title :  English Urdu Translator - انگر
+appId :  com.bktranslator.enlishurdu
+score :  4.857143
+installs : 500,000+
+ratings :  1681
+reviews :  2
+
+title :  Coursera: Learn career skills
+appId :  org.coursera.android
+score :  4.8144016
+installs : 10,000,000+
+ratings :  185934
+reviews :  4310
+
+title :  Retain Quran
+appId :  com.retainquranapp
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Past Papers - ilmkidunya.com
+appId :  com.softsolutions.ilmkidunya.pastpapers
+score :  4.09
+installs : 500,000+
+ratings :  7278
+reviews :  35
+
+title :  English Urdu Dictionary App
+appId :  com.nextep.global.englishurdudictionary
+score :  4.857143
+installs : 500,000+
+ratings :  1045
+reviews :  2
+
+title :  Offline Audio Naats 2023
+appId :  com.waqas.molvinaat
+score :  5
+installs : 100,000+
+ratings :  605
+reviews :  16
+
+title :  9th maths PTB key & text book
+appId :  com.nine.book
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Kids Preschool Learning
+appId :  com.zgsinfotach.kidslearn
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Simply Piano: Learn Piano Fast
+appId :  com.joytunes.simplypiano
+score :  4.5643578
+installs : 50,000,000+
+ratings :  718511
+reviews :  32510
+
+title :  BISP Waseela-e-Taleem
+appId :  pk.gov.bisp.enrollment
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Hi Dictionary - Learn Language
+appId :  com.talpa.translate
+score :  4.446429
+installs : 10,000,000+
+ratings :  205123
+reviews :  2000
+
+title :  Daily Watch Video & Earn Money
+appId :  com.watch.video.prizewin.coin.chat
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Benazir Income Support
+appId :  benazir.incomel.support
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  English Urdu Dictionary
+appId :  output1.english.urdu.dictionary
+score :  4
+installs : 1,000,000+
+ratings :  5813
+reviews :  3
+
+title :  Train game: coloring book.
+appId :  com.coloring.trains
+score :  4.23
+installs : 5,000,000+
+ratings :  7976
+reviews :  60
+
+title :  Learn English language
+appId :  com.learn.speak.grammer.pronunciation.english.videos
+score :  4.09
+installs : 1,000,000+
+ratings :  1821
+reviews :  69
+
+title :  Maktaba Shamila Urdu
+appId :  com.shamilaurdu.android
+score :  4.1875
+installs : 100,000+
+ratings :  2282
+reviews :  8
+
+title :  Spider Boy Coloring Book
+appId :  com.colorxgame.spidercoloring
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  PakMcqs Quiz
+appId :  com.pakmcqs.quiz
+score :  4.9166665
+installs : 100,000+
+ratings :  3449
+reviews :  3
+
+title :  English Urdu Voice Translator
+appId :  com.proenglishurdutranslator.freedictionarykeyboard.downloadofflineandroid
+score :  3.5
+installs : 1,000,000+
+ratings :  3777
+reviews :  7
+
+title :  Photomath
+appId :  com.microblink.photomath
+score :  4.6052184
+installs : 100,000,000+
+ratings :  2940400
+reviews :  71376
+
+title :  PTA Device Registration Guide
+appId :  com.pta.deviceverification
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Learn Coding/Programming: Mimo
+appId :  com.getmimo
+score :  4.6826854
+installs : 10,000,000+
+ratings :  420822
+reviews :  16703
+
+title :  Udemy - Online Courses
+appId :  com.udemy.android
+score :  4.3559637
+installs : 10,000,000+
+ratings :  406839
+reviews :  13896
+
+title :  All Sim Packages 2023
+appId :  com.noorisofttech.allsimpackages
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Urdu to English Translator app
+appId :  com.translation.urduenglishtranslator
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Urdu To Arabic Translator
+appId :  com.appsdiary.urdutoarabictranslator
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  ChuChu TV Nursery Rhymes Pro
+appId :  com.chuchutv.nurseryrhymespro
+score :  4.06
+installs : 5,000,000+
+ratings :  9154
+reviews :  74
+
+title :  Sahih Muslim Shareef
+appId :  com.quranemajeedapp.org.muslim
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  StudyWise - Study
+appId :  com.istudywise
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Prep by PGC - Matric Exams
+appId :  com.pgc.prep
+score :  4.6923075
+installs : 100,000+
+ratings :  2358
+reviews :  7
+
+title :  TabbyToo -Kids Preschool Games
+appId :  com.kidzooly.tinytoo
+score :  3.7
+installs : 100,000+
+ratings :  186
+reviews :  0
+
+title :  DigiSkills LMS
+appId :  pk.digiskills.lms
+score :  4.633333
+installs : 500,000+
+ratings :  14216
+reviews :  20
+
+title :  ISS Live Now: View Earth Live
+appId :  com.nicedayapps.iss_free
+score :  4.7584763
+installs : 10,000,000+
+ratings :  351816
+reviews :  16947
+
+title :  vMakkah
+appId :  com.semaphorelab.vmakkah
+score :  4.2777777
+installs : 500,000+
+ratings :  6246
+reviews :  49
+
+title :  LinkedIn Learning
+appId :  com.linkedin.android.learning
+score :  4.7634854
+installs : 10,000,000+
+ratings :  108578
+reviews :  1926
+
+title :  Muslim Boys Names In Urdu
+appId :  com.appman.MuslimBoysNamesInUrdu
+score :  2.3333333
+installs : 100,000+
+ratings :  1147
+reviews :  2
+
+title :  Doraemon MusicPad
+appId :  jp.smarteducation.dorarhythmpadww
+score :  4.0588236
+installs : 1,000,000+
+ratings :  15112
+reviews :  218
+
+title :  Campus.pk
+appId :  com.campus.pk
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  9th Class Model Paper 2023
+appId :  com.ninth.class.model.paper.ilmwap.info
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Islamic Name With Meanings
+appId :  com.samartech.urduportals
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Learn to Read - Duolingo ABC
+appId :  com.duolingo.literacy
+score :  4.3762374
+installs : 1,000,000+
+ratings :  2107
+reviews :  396
+
+title :  Audio Naats Offline Download
+appId :  com.creativeapp.naats
+score :  5
+installs : 50,000+
+ratings :  276
+reviews :  17
+
+title :  Star Tracker - Mobile Sky Map 
+appId :  com.PYOPYO.StarTracker
+score :  4.61443
+installs : 10,000,000+
+ratings :  67105
+reviews :  10777
+
+title :  Sindhi To English Translator
+appId :  com.appsdiary.sindhitoenglishtranslator
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Audio naat mp3 download
+appId :  com.female.audionaat
+score :  4.5555553
+installs : 100,000+
+ratings :  1214
+reviews :  2
+
+title :  Star Walk 2 Ads+ Sky Map View
+appId :  com.vitotechnology.StarWalk2Free
+score :  4.6093087
+installs : 10,000,000+
+ratings :  466612
+reviews :  18749
+
+title :  LooLoo Kids - Nursery Rhymes
+appId :  net.colorcity.loolookids
+score :  4.3846154
+installs : 5,000,000+
+ratings :  10487
+reviews :  85
+
+title :  Crayon Shinchan Operation Litt
+appId :  jp.neoscorp.edu.shinchan
+score :  3.9896908
+installs : 5,000,000+
+ratings :  51401
+reviews :  41
+
+title :  Muslim Girls Names In Urdu
+appId :  com.appman.MuslimGirlsNamesInUrdu
+score :  4.5833335
+installs : 500,000+
+ratings :  1748
+reviews :  3
+
+title :  Google Classroom
+appId :  com.google.android.apps.classroom
+score :  2.376926
+installs : 100,000,000+
+ratings :  2015971
+reviews :  38533
+
+title :  Lingutown - Learn Languages
+appId :  com.learnlanguage.languagelearning.app2022
+score :  4.172414
+installs : 1,000,000+
+ratings :  680
+reviews :  12
+
+title :  SkyView® Lite
+appId :  com.t11.skyviewfree
+score :  4.3528
+installs : 10,000,000+
+ratings :  51472
+reviews :  4591
+
+title :  Hello English: Learn English
+appId :  com.CultureAlley.japanese.english
+score :  4.5384617
+installs : 50,000,000+
+ratings :  921361
+reviews :  3940
+
+title :  Learn Arabic Speaking in Urdu
+appId :  com.modernschool.LearnArabicSpeaking.arabiclanguagecourse
+score :  4.5
+installs : 1,000,000+
+ratings :  3629
+reviews :  9
+
+title :  English Urdu Dictionary Plus
+appId :  com.fsapps.english.urdu.dictionary.translator
+score :  4.421875
+installs : 1,000,000+
+ratings :  19850
+reviews :  34
+
+title :  6 Kalma of Islam Audio Kalima
+appId :  com.as.sixsalmaislam.audiosalima.free
+score :  5
+installs : 10,000+
+ratings :  631
+reviews :  7
+
+title :  Complete English grammar Book
+appId :  englishgrammar.speaking.conversation.tenses.grammar.spoken.grammarly
+score :  4.6666665
+installs : 100,000+
+ratings :  1058
+reviews :  6
+
+title :  Noon Academy
+appId :  com.noonEdu.k12App
+score :  3.8440366
+installs : 10,000,000+
+ratings :  107655
+reviews :  489
+
+title :  Pinkfong 123 Numbers: Kid Math
+appId :  kr.co.smartstudy.pinkfong123numbers_android_googlemarket
+score :  3.83
+installs : 1,000,000+
+ratings :  2493
+reviews :  44
+
+title :  Benazir Ehsaas Rashan Imdad
+appId :  mobandapps.ehsaasprogram.registration14000
+score :  4.318182
+installs : 1,000,000+
+ratings :  3722
+reviews :  6
+
+title :  IELTS by IDP
+appId :  com.idp.ielts
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Mommy and Little Baby Day
+appId :  air.net.chicworld.mommyandlittlebabyrelaxingday
+score :  3.952381
+installs : 1,000,000+
+ratings :  2344
+reviews :  11
+
+title :  Alison: Online Courses
+appId :  com.alison.mobile.flutter
+score :  4.7173915
+installs : 1,000,000+
+ratings :  45617
+reviews :  1210
+
+title :  Kids Learning Academy
+appId :  com.baybeebrain.kidslearning
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Learn Korean - Beginners
+appId :  com.breboucas.coreanoparaviajar
+score :  4.811881
+installs : 5,000,000+
+ratings :  40402
+reviews :  269
+
+title :  Dino Coloring Game
+appId :  com.coloring.dinosaur
+score :  4.214789
+installs : 10,000,000+
+ratings :  30452
+reviews :  319
+
+title :  Microsoft Math Solver
+appId :  com.microsoft.math
+score :  4.237288
+installs : 10,000,000+
+ratings :  185753
+reviews :  4293
+
+title :  Khan Academy
+appId :  org.khanacademy.android
+score :  4.3155518
+installs : 10,000,000+
+ratings :  160833
+reviews :  8878
+
+title :  Taleem City - Notes, Books App
+appId :  com.taleemcity.notesapp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Advanced English Dictionary
+appId :  com.advanced.englishdictionary.phrases.voicetranslator
+score :  4.5142856
+installs : 1,000,000+
+ratings :  2229
+reviews :  11
+
+title :  Learn English Speaking in Urdu
+appId :  com.learn_english_speaking.learnenglishspeaking
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Stars and Planets
+appId :  com.galaxy.starmap
+score :  4.450867
+installs : 1,000,000+
+ratings :  15346
+reviews :  367
+
+title :  Pak E Services 2023
+appId :  com.pakeservices2023.pakeservices
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Matching Game - Match it
+appId :  com.hegodev.matchit
+score :  3.590909
+installs : 5,000,000+
+ratings :  5246
+reviews :  8
+
+title :  LEGO® DUPLO® MARVEL
+appId :  com.storytoys.lego.duplo.marvel.spiderman.avengers.kids.preschool.free.googleplay
+score :  4.269058
+installs : 5,000,000+
+ratings :  18685
+reviews :  190
+
+title :  Sweet Home Stories - My family
+appId :  com.playtoddlers.sweethomestories.free
+score :  3.5625
+installs : 10,000,000+
+ratings :  61665
+reviews :  2380
+
+title :  Paper Planes, Airplanes - 3D A
+appId :  com.mobilicos.paperairplanes
+score :  4.0260415
+installs : 5,000,000+
+ratings :  50755
+reviews :  625
+
+title :  Best Shayari & Urdu poetry | R
+appId :  org.Rekhta
+score :  4.66
+installs : 500,000+
+ratings :  29274
+reviews :  111
+
+title :  Rich Dad Poor Dad Urdu 2023
+appId :  com.rich_dad.poor_dad.urdu
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Learn Computer Course- offline
+appId :  com.learn_computer.course_free
+score :  4.54
+installs : 1,000,000+
+ratings :  10385
+reviews :  102
+
+title :  Madani Qaida Urdu (مدنی قائدہ)
+appId :  com.zain.madaniqaida
+score :  5
+installs : 100,000+
+ratings :  558
+reviews :  1
+
+title :  IDP Live
+appId :  com.idp.study.abroad
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Quran IQ - Learn Quran Majeed
+appId :  com.app.quraniq
+score :  4.78
+installs : 1,000,000+
+ratings :  4724
+reviews :  278
+
+title :  Jolly Phonics Lessons
+appId :  com.gilbertjolly.teachphonics.teachers
+score :  4.2970295
+installs : 1,000,000+
+ratings :  23802
+reviews :  52
+
+title :  English Sentence Learning Game
+appId :  com.stupendousgame.sentence.practice.nb
+score :  3.8333333
+installs : 100,000+
+ratings :  199
+reviews :  2
+
+title :  True Islamic Stories
+appId :  com.fogstudio.islamicstories
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Noorani Qaida Arabic Alphabets
+appId :  com.quranreading.nooraniqaida
+score :  3.58
+installs : 1,000,000+
+ratings :  3498
+reviews :  75
+
+title :  Seerat-un-Nabi ﷺ
+appId :  com.quranemajeedapp.org.seeratunnabi
+score :  4.75
+installs : 100,000+
+ratings :  806
+reviews :  5
+
+title :  Juna Accent Coach
+appId :  com.juna.juna_accent_coach
+score :  4.2
+installs : 5,000+
+ratings :  20
+reviews :  4
+
+title :  English Speaking Practice
+appId :  com.talkenglish.practice
+score :  4.763158
+installs : 5,000,000+
+ratings :  40956
+reviews :  455
+
+title :  9th Class Math Textbook Offlin
+appId :  com.nodemerger.class9thmathbook
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  English Sentence Master
+appId :  com.hungdaovuong.sentencemaster.en
+score :  4.478261
+installs : 1,000,000+
+ratings :  1740
+reviews :  21
+
+title :  Daily Quran
+appId :  com.infinitetech.dailyquran
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  English - Urdu Translator
+appId :  com.translator.ur
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Tafheem ul Quran
+appId :  com.atq.quranemajeedapp.org.tfq
+score :  4.8965516
+installs : 100,000+
+ratings :  4213
+reviews :  30
+
+title :  Toca Hair Salon 4
+appId :  com.tocaboca.tocahairsalon4
+score :  3.8413842
+installs : 10,000,000+
+ratings :  137763
+reviews :  5751
+
+title :  9th maths PTB key&text book
+appId :  com.ninea.book
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Fast Typing: Learn & Practice
+appId :  com.hbeta.typing.test.speed.master
+score :  3.1290324
+installs : 100,000+
+ratings :  524
+reviews :  9
+
+title :  Pashto To Urdu Translator
+appId :  com.appsdiary.pashtotourdutranslator
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Fast English Urdu Translator
+appId :  com.fasturduenglishtranslator.offline.downloadfreeapp.dictionarykeyboard
+score :  4.264151
+installs : 1,000,000+
+ratings :  6772
+reviews :  21
+
+title :  Six Kalimas of Islam
+appId :  com.technosys.sixkalmas
+score :  4.52
+installs : 1,000,000+
+ratings :  11874
+reviews :  53
+
+title :  Learn Quran Tajwid
+appId :  com.bi.learnquran
+score :  4.6923075
+installs : 1,000,000+
+ratings :  32729
+reviews :  383
+
+title :  Urdu & Punjabi Poetry-Shayari
+appId :  com.punjabishayarilove.urdupoetrysad
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Urdu English Translator
+appId :  com.translate.englishtourdudictionary
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Doll Bakery Delicious Cakes
+appId :  com.rosytales.dollbakeryservedeliciouscakes
+score :  3.8181818
+installs : 1,000,000+
+ratings :  3029
+reviews :  3
+
+title :  Gauthmath-Math Homework Helper
+appId :  com.education.android.h.intelligence
+score :  4.390215
+installs : 10,000,000+
+ratings :  105241
+reviews :  2359
+
+title :  English For Kids
+appId :  com.kidssoftwares.learnenglish
+score :  4.965517
+installs : 500,000+
+ratings :  2131
+reviews :  15
+
+title :  Ibn e Kaseer (Ibn Kathir) Urdu
+appId :  com.atq.quranemajeedapp.org.tik
+score :  4.7222223
+installs : 100,000+
+ratings :  2146
+reviews :  6
+
+title :  Ghulam Mustafa Video Naats
+appId :  com.LearnIslam.ghulammustafaqadri
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Ehsaas Registration 14000
+appId :  com.newstyleapps.ehsaas.program.registration14000
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Naru: Study & Revise Maths
+appId :  com.schoolwiz.mathematics
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  English Listening & Speaking
+appId :  com.english.listeningandspeaking
+score :  4.7029705
+installs : 1,000,000+
+ratings :  26726
+reviews :  100
+
+title :  Little Singham: Play & Learn
+appId :  com.ct.littlesingham
+score :  5
+installs : 10,000,000+
+ratings :  7625
+reviews :  4
+
+title :  PGC
+appId :  pgc.elarn.pgcelearn
+score :  3.33
+installs : 500,000+
+ratings :  29303
+reviews :  45
+
+title :  LND 2023
+appId :  com.lnd20.org
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Ghost Call DX
+appId :  jp.co.mediaactive.ghostcalldx
+score :  3.9418604
+installs : 1,000,000+
+ratings :  10436
+reviews :  22
+
+title :  Miga Town: My World
+appId :  com.miga.world
+score :  4.4352736
+installs : 50,000,000+
+ratings :  586727
+reviews :  8765
+
+title :  Coloring Book: Games for Girls
+appId :  girls.color.games.book.coloring
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  PapaCambridge - CAIE & More
+appId :  com.MaskyS.papaCambridge
+score :  4.4
+installs : 10,000+
+ratings :  299
+reviews :  2
+
+title :  Miga Town: My Store
+appId :  com.miga.mystore
+score :  3.3432434
+installs : 10,000,000+
+ratings :  68604
+reviews :  1851
+
+title :  Learn Arabic. Speak Arabic
+appId :  plitkurs4.ru.cartoon
+score :  3.4444444
+installs : 500,000+
+ratings :  994
+reviews :  4
+
+title :  Nearpeer
+appId :  org.nearpeer.learning
+score :  5
+installs : 100,000+
+ratings :  601
+reviews :  1
+
+title :  Freeilm.com
+appId :  com.freeilm.study
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Baby Shark ABC Phonics: Games
+appId :  kr.co.smartstudy.phonicsiap_android_googlemarket
+score :  3.9291046
+installs : 5,000,000+
+ratings :  21482
+reviews :  998
+
+title :  AlfaPTE - PTE Practice App
+appId :  com.bitnet.alfapte
+score :  5
+installs : 100,000+
+ratings :  788
+reviews :  5
+
+title :  Learn English Speaking
+appId :  com.learnenglish.englishtourdu.grammar
+score :  4.5555553
+installs : 500,000+
+ratings :  1077
+reviews :  2
+

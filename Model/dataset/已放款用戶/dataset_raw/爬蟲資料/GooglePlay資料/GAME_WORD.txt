@@ -1,0 +1,1393 @@
+title :  Word Search - Word Puzzle Game
+appId :  com.playvalve.wsjourney
+score :  4.8166785
+installs : 10,000,000+
+ratings :  341028
+reviews :  7991
+
+title :  Word Connect
+appId :  com.wordgame.words.connect
+score :  4.8164577
+installs : 50,000,000+
+ratings :  1204690
+reviews :  153372
+
+title :  Word Search
+appId :  com.mobilegame.wordsearch
+score :  4.735956
+installs : 10,000,000+
+ratings :  177277
+reviews :  30846
+
+title :  Words of Wonders: Crossword
+appId :  com.fugo.wow
+score :  4.872845
+installs : 100,000,000+
+ratings :  2927463
+reviews :  24440
+
+title :  Braindom Draw Puzzle: Sketch
+appId :  com.matchingham.drawpuzzle.something
+score :  4.710438
+installs : 5,000,000+
+ratings :  43031
+reviews :  168
+
+title :  Word Search by Staple Games
+appId :  com.staplegames.wordsearch
+score :  4.6825194
+installs : 500,000+
+ratings :  58053
+reviews :  1204
+
+title :  Braindom 2: Brain Teaser Games
+appId :  com.braindom2riddle
+score :  4.6993694
+installs : 50,000,000+
+ratings :  1682593
+reviews :  17548
+
+title :  Word Trip: Crossword
+appId :  com.mintgames.wordtrip
+score :  4.8076925
+installs : 1,000,000+
+ratings :  4630
+reviews :  128
+
+title :  Word Search - Word Puzzle Game
+appId :  com.blackout.word
+score :  4.7329326
+installs : 50,000,000+
+ratings :  533514
+reviews :  20663
+
+title :  Spelling Quiz - Word Trivia
+appId :  spelling.quiz.trivia.question.answer.correct.word.learn.language.puzzle
+score :  4.7762017
+installs : 5,000,000+
+ratings :  32192
+reviews :  4021
+
+title :  Pictoword: Fun Brain Word Game
+appId :  com.kooapps.pictowordandroid
+score :  4.338591
+installs : 10,000,000+
+ratings :  426015
+reviews :  80189
+
+title :  Words Story - Word Game
+appId :  com.word.game.fun.puzzle.prison.escape.captain
+score :  3.9913294
+installs : 50,000,000+
+ratings :  495289
+reviews :  57713
+
+title :  Word Crossword Search
+appId :  com.word.game.crossword.brain.puzzle.scapes.connect
+score :  4.320513
+installs : 10,000,000+
+ratings :  161719
+reviews :  40
+
+title :  Figgerits - Word Puzzle Game
+appId :  com.hitapps.figgerits
+score :  4.313771
+installs : 5,000,000+
+ratings :  64531
+reviews :  5081
+
+title :  Wordscapes
+appId :  com.peoplefun.wordcross
+score :  4.551386
+installs : 50,000,000+
+ratings :  1204194
+reviews :  244288
+
+title :  Wordoo
+appId :  com.kinzi.wordoo
+score :  3.4166667
+installs : 100,000+
+ratings :  744
+reviews :  19
+
+title :  Word Pics - Word Games
+appId :  com.rvappstudios.two.pics.one.word.puzzle.game
+score :  4.6511626
+installs : 1,000,000+
+ratings :  23201
+reviews :  257
+
+title :  Word Heaps -Connect Stack Word
+appId :  word.connect.wordswipe.wordstacks.wordstory.wordscapes.word.games
+score :  4.827586
+installs : 5,000,000+
+ratings :  76768
+reviews :  410
+
+title :  Word Trivia - Word Quiz Games
+appId :  trivia.quiz.trivia.star.millionaire.word.question.offine.game.free
+score :  4.751838
+installs : 5,000,000+
+ratings :  17564
+reviews :  1623
+
+title :  Word Find - Word Connect Games
+appId :  best.word.connect.search.free.offline.puzzle.word.games.world
+score :  4.690519
+installs : 10,000,000+
+ratings :  227777
+reviews :  4918
+
+title :  Braindom: Brain Games Test
+appId :  com.braindom
+score :  4.7671847
+installs : 10,000,000+
+ratings :  760194
+reviews :  9718
+
+title :  Wordscapes Search
+appId :  com.peoplefun.wordsearch
+score :  4.7572956
+installs : 10,000,000+
+ratings :  198055
+reviews :  43889
+
+title :  Crostic - Puzzle Word Games
+appId :  com.severex.cross.word.puzzle.logic
+score :  4.6666665
+installs : 100,000+
+ratings :  2677
+reviews :  384
+
+title :  Human Tower
+appId :  com.fungames.humantower
+score :  2.338983
+installs : 1,000,000+
+ratings :  1593
+reviews :  27
+
+title :  Redeem Codes FF king
+appId :  com.hpmcreation
+score :  3.52
+installs : 1,000,000+
+ratings :  4401
+reviews :  15
+
+title :  Crossword Quest
+appId :  com.gsr.wordcross
+score :  4.6789126
+installs : 5,000,000+
+ratings :  76188
+reviews :  5475
+
+title :  Word Search
+appId :  com.asgardsoft.words
+score :  4.5278416
+installs : 10,000,000+
+ratings :  108956
+reviews :  9370
+
+title :  Word Link
+appId :  com.word.puzzle.game.connect
+score :  4.5100875
+installs : 50,000,000+
+ratings :  501063
+reviews :  31010
+
+title :  Typing Master Word Typing Game
+appId :  com.techarts.typingmaster.fasttyping.wordtyping.fasttypinggame
+score :  3.89
+installs : 1,000,000+
+ratings :  5585
+reviews :  124
+
+title :  Word Horizons
+appId :  com.staplegames.wordhorizons
+score :  4.7421384
+installs : 100,000+
+ratings :  2312
+reviews :  91
+
+title :  Word Trip
+appId :  in.playsimple.wordtrip
+score :  4.638333
+installs : 10,000,000+
+ratings :  405027
+reviews :  87717
+
+title :  Word Universe
+appId :  com.fbig.words
+score :  4.7537537
+installs : 500,000+
+ratings :  7264
+reviews :  1561
+
+title :  Fire Game: Gun Games 3D Battle
+appId :  com.gameous.fire.game.gun.battle3d
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Heads Up!
+appId :  com.wb.headsup
+score :  3.4569604
+installs : 10,000,000+
+ratings :  227135
+reviews :  25003
+
+title :  Crossword Jam
+appId :  in.playsimple.tripcross
+score :  4.716808
+installs : 10,000,000+
+ratings :  339886
+reviews :  92334
+
+title :  Hangman - Two Player Games
+appId :  com.theangrykraken.ahorcado
+score :  4.347826
+installs : 500,000+
+ratings :  1017
+reviews :  12
+
+title :  Word Search
+appId :  com.touchfield.wordkuku
+score :  4.43
+installs : 500,000+
+ratings :  2696
+reviews :  386
+
+title :  Word Spot
+appId :  com.freestyle.wordpuzzle
+score :  4.68055
+installs : 1,000,000+
+ratings :  52960
+reviews :  6721
+
+title :  Word Shatter: Word Block
+appId :  com.wordpz.word.blocken
+score :  4.7777777
+installs : 10,000,000+
+ratings :  158086
+reviews :  304
+
+title :  My Home Design: My House Games
+appId :  com.holycowstudio.my.home.design.makeover.luxury.interiors.word.dream.million.dollar.house.renovation
+score :  4.4666667
+installs : 100,000+
+ratings :  3810
+reviews :  444
+
+title :  Yes or No
+appId :  yesorno.com.yesorno
+score :  4.1578946
+installs : 100,000+
+ratings :  808
+reviews :  11
+
+title :  Word Puzzle Time - Crossword
+appId :  com.puzzle.word.wordfreetime.gp
+score :  4.8958726
+installs : 500,000+
+ratings :  14906
+reviews :  2394
+
+title :  Squad Fire Gun Games - Battleg
+appId :  com.xeeplaygames.squad.ff.gun.games
+score :  4.0588236
+installs : 1,000,000+
+ratings :  7113
+reviews :  18
+
+title :  Scribble Skribbl io - Guess It
+appId :  com.rahuls.scribbleio
+score :  3.6285715
+installs : 100,000+
+ratings :  431
+reviews :  20
+
+title :  My Home Design: Makeover Games
+appId :  com.holycowstudio.my.home.design.makeover.games.dream.word.redecorate.masters.life.house.decorating
+score :  4.561905
+installs : 100,000+
+ratings :  2238
+reviews :  190
+
+title :  Word Search Explorer
+appId :  in.playsimple.wordsearch
+score :  4.920774
+installs : 1,000,000+
+ratings :  40974
+reviews :  2372
+
+title :  Calming Crosswords
+appId :  com.softtowelgames.cwp.android
+score :  4.8190956
+installs : 5,000,000+
+ratings :  177059
+reviews :  635
+
+title :  CrossWord puzzle - CosmiCross
+appId :  com.mwg.cosmic.crossword
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Word City: Connect Word Game
+appId :  com.bigstarkids.wordtravel
+score :  4.760899
+installs : 1,000,000+
+ratings :  46435
+reviews :  1954
+
+title :  Word Search
+appId :  com.jdpapps.wordsearch
+score :  4.374183
+installs : 50,000,000+
+ratings :  178662
+reviews :  1823
+
+title :  Scrabble® GO-Classic Word Game
+appId :  com.pieyel.scrabble
+score :  4.042828
+installs : 10,000,000+
+ratings :  463400
+reviews :  56440
+
+title :  FF Redeem Codes
+appId :  com.manojkreedem
+score :  4.7894735
+installs : 50,000+
+ratings :  4326
+reviews :  34
+
+title :  Word Search - Classic Find Wor
+appId :  word.search.wordsearch.wordgames.kids.adults.free.puzzle.games
+score :  3.3333333
+installs : 5,000,000+
+ratings :  24681
+reviews :  3
+
+title :  Squad Fire Gun Games Offline
+appId :  com.td.ff.squad.fire.gun.games.offline.shootinggames
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Word Collect - Word Games Fun
+appId :  com.platinumplayer.word.addict
+score :  4.8705077
+installs : 10,000,000+
+ratings :  552052
+reviews :  122517
+
+title :  English Crossword puzzle
+appId :  com.appspot.orium_blog.crossword.eng
+score :  4.637931
+installs : 1,000,000+
+ratings :  41543
+reviews :  1602
+
+title :  Hangman Words:Two Player Games
+appId :  hang.man.word.guessing.games
+score :  4.7081447
+installs : 1,000,000+
+ratings :  48020
+reviews :  322
+
+title :  Words Episode
+appId :  com.escape.puzzle.prison.bank.steal.money.fun
+score :  3.9751773
+installs : 10,000,000+
+ratings :  38831
+reviews :  1184
+
+title :  Word Legend Puzzle Addictive
+appId :  com.lydia.wordsgame.word.talent
+score :  4.722772
+installs : 10,000,000+
+ratings :  41302
+reviews :  732
+
+title :  Word Search 2023
+appId :  com.oneup.word.search
+score :  4.571429
+installs : 1,000,000+
+ratings :  17634
+reviews :  4646
+
+title :  Bookworm Classic
+appId :  com.layton.bookworm.pro
+score :  4.5103927
+installs : 100,000+
+ratings :  5934
+reviews :  2141
+
+title :  Design Home Dream House Games
+appId :  com.holycowstudio.my.design.home.makeover.word.house.life.games.mansion.decorate.decor.masters
+score :  4.4913793
+installs : 500,000+
+ratings :  5986
+reviews :  669
+
+title :  ff redeem codes
+appId :  com.reedimcode.dkapp
+score :  3.0833333
+installs : 100,000+
+ratings :  1970
+reviews :  16
+
+title :  Word Collect - Puzzle Game
+appId :  com.wordcollect.wordsgame
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Hangman Classic Word Game
+appId :  com.pi.hangman
+score :  3.6923077
+installs : 50,000+
+ratings :  113
+reviews :  7
+
+title :  Cryptogram - puzzle quotes
+appId :  com.pixplicity.cryptogram
+score :  4.673774
+installs : 1,000,000+
+ratings :  26707
+reviews :  3705
+
+title :  Word Bubble Puzzle - Word Game
+appId :  word.bubble.pop.parts.combine.guess.find.swipe.crush.scrabble.puzzle.game
+score :  4.8913045
+installs : 1,000,000+
+ratings :  12178
+reviews :  337
+
+title :  Wort Guru
+appId :  com.wordgames.wordconnect.de
+score :  4.348485
+installs : 5,000,000+
+ratings :  240318
+reviews :  30
+
+title :  Word Connect -Word Game Puzzle
+appId :  com.crossword.bible.cookies.find.english
+score :  4.684228
+installs : 10,000,000+
+ratings :  453622
+reviews :  40222
+
+title :  4 Pics 1 Word: Puzzle Game
+appId :  de.lotum.whatsinthefoto.us
+score :  4.5303774
+installs : 50,000,000+
+ratings :  1255807
+reviews :  170409
+
+title :  Runaway girl : Picked up girl
+appId :  com.IedeGirl
+score :  4.31
+installs : 100,000+
+ratings :  2552
+reviews :  155
+
+title :  Word Game 2023 - Word Connect
+appId :  com.techarts.word.connect.letter.master.cookies.wordpuzzle.wordsearch.wordgame.wordcookies
+score :  4.62
+installs : 100,000+
+ratings :  783
+reviews :  46
+
+title :  KPOP Quiz: BTS, NCT, BTOB, etc
+appId :  com.whitechamomile.findkpopidolsname
+score :  4.546392
+installs : 100,000+
+ratings :  4168
+reviews :  30
+
+title :  Charades!
+appId :  com.fatchicken007.headsupcharades2
+score :  4.346382
+installs : 10,000,000+
+ratings :  130328
+reviews :  15672
+
+title :  Word Search
+appId :  com.wordgame.ws.game.wordsearch
+score :  4.12
+installs : 100,000+
+ratings :  1362
+reviews :  38
+
+title :  My Home Makeover Design: Games
+appId :  com.holycowstudio.my.home.makeover.design.word.house.life
+score :  4.562278
+installs : 500,000+
+ratings :  6924
+reviews :  700
+
+title :  Word Talent Puzzle
+appId :  com.wordgame.cross.connect.word.talent
+score :  4.49
+installs : 1,000,000+
+ratings :  3395
+reviews :  128
+
+title :  Word Surf - Word Game
+appId :  com.marulgames.wordsurf
+score :  4.7265134
+installs : 10,000,000+
+ratings :  300571
+reviews :  1457
+
+title :  CharadesApp - What am I? (Char
+appId :  net.artgamestudio.charadesapp
+score :  4.2972975
+installs : 10,000,000+
+ratings :  100735
+reviews :  337
+
+title :  Word Connect
+appId :  word.connect.game.wordscapes
+score :  4.7285066
+installs : 100,000+
+ratings :  3878
+reviews :  826
+
+title :  Fire game - gun battle strike
+appId :  com.gamerz.gun.fire.squad.strike.ff.game
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Braindom 3: Smart, Brain Games
+appId :  com.matchingham.braindom3
+score :  4.205036
+installs : 1,000,000+
+ratings :  26135
+reviews :  353
+
+title :  Word Blocks Puzzle - Word Game
+appId :  word.blocks.jigsaw.puzzle.boggle.find.hidden.scapes.shapes.fit.search.scrabble.free
+score :  4.712871
+installs : 500,000+
+ratings :  2614
+reviews :  211
+
+title :  Game of Words: Word Puzzles
+appId :  com.TinyBit.GameOfWords
+score :  4.73493
+installs : 1,000,000+
+ratings :  146718
+reviews :  15256
+
+title :  Immortal Taoists - Idle Manga
+appId :  com.immortaltaoists.en
+score :  4.542152
+installs : 1,000,000+
+ratings :  253810
+reviews :  12743
+
+title :  Smart Crossword English Puzzle
+appId :  com.meluapp.smartcrossword
+score :  4.4545455
+installs : 10,000+
+ratings :  267
+reviews :  2
+
+title :  Escape Room: Mystery Word
+appId :  com.escape.room.door.word.prison.puzzle.adventure
+score :  4.3222847
+installs : 10,000,000+
+ratings :  127169
+reviews :  8281
+
+title :  Smart Word Connect - Sword
+appId :  com.meluapp.smartwordconnectanagram
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Find Words - Puzzle Game
+appId :  com.orange.word.puzzle.connect.crossword
+score :  4.36
+installs : 1,000,000+
+ratings :  2682
+reviews :  50
+
+title :  Word Challenge - Unlimited
+appId :  com.apollogames.wordle
+score :  4.754902
+installs : 500,000+
+ratings :  2816
+reviews :  212
+
+title :  Class Trivia
+appId :  com.twodestudios.triviaclash
+score :  3.049505
+installs : 1,000,000+
+ratings :  2010
+reviews :  325
+
+title :  CodyCross: Crossword Puzzles
+appId :  com.fanatee.cody
+score :  4.4507713
+installs : 50,000,000+
+ratings :  1083924
+reviews :  29620
+
+title :  Scribble & Doodle - Panda Draw
+appId :  com.oogwayapps.draw
+score :  3.89
+installs : 1,000,000+
+ratings :  12528
+reviews :  62
+
+title :  Word Cookies! ®
+appId :  com.bitmango.go.wordcookies
+score :  4.548757
+installs : 10,000,000+
+ratings :  2278418
+reviews :  544209
+
+title :  Wordle!
+appId :  com.vottzapps.wordle
+score :  4.1268387
+installs : 5,000,000+
+ratings :  107061
+reviews :  8299
+
+title :  Emoji Cats Word Guess
+appId :  com.tachyonlabs.emojicatswordguess
+score :  5
+installs : 10,000+
+ratings :  43
+reviews :  3
+
+title :  Word Connect - Fun Word Game
+appId :  word.game.wordconnect
+score :  4.7651124
+installs : 500,000+
+ratings :  9331
+reviews :  2365
+
+title :  Bank Robbery Word Mystery Game
+appId :  com.minigamersclub.bank.robbery.word.mystery
+score :  4.07
+installs : 100,000+
+ratings :  1294
+reviews :  50
+
+title :  Wordington: Word Hunt & Design
+appId :  com.qiiwi.wordington
+score :  4.3283505
+installs : 10,000,000+
+ratings :  243964
+reviews :  13796
+
+title :  لعبة كلمة السر : الجزء الثاني
+appId :  com.zytoona.lostword2
+score :  4.7030263
+installs : 10,000,000+
+ratings :  921651
+reviews :  6633
+
+title :  Psych! Outwit your friends
+appId :  com.wb.goog.ellen.psych
+score :  3.9475138
+installs : 5,000,000+
+ratings :  63729
+reviews :  3720
+
+title :  Words Find : Relaxing Game
+appId :  com.tvtodaynetwork.wordsfind
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Word Heaps: Pic Puzzle - Guess
+appId :  wordheaps.pic.word.connect.wordswipe.wordstacks.wordscapes.word.games
+score :  4.7524753
+installs : 1,000,000+
+ratings :  11273
+reviews :  256
+
+title :  Word Move - Search& Find Words
+appId :  word.move.swipe.scroll.search.find.hidden.trivia.letter.puzzle.game
+score :  4.446429
+installs : 10,000+
+ratings :  115
+reviews :  11
+
+title :  Charades
+appId :  com.klikapp.charades2
+score :  4.34
+installs : 1,000,000+
+ratings :  8807
+reviews :  130
+
+title :  Reply Run
+appId :  com.Mintah.ReplyRun
+score :  3.33
+installs : 100,000+
+ratings :  443
+reviews :  75
+
+title :  Elite Fire Battleground Royale
+appId :  com.gameous.world.elite.fire.battleground.royale
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Draw N Guess Multiplayer
+appId :  com.timeplusq.drawnguess
+score :  3.6719692
+installs : 5,000,000+
+ratings :  53843
+reviews :  8881
+
+title :  Wednesday Quiz
+appId :  com.yourygames.wednesdaycharacters
+score :  4.52
+installs : 50,000+
+ratings :  192
+reviews :  5
+
+title :  Guess The Word - Challenge You
+appId :  com.play4win.wordjigsaw
+score :  4.0625
+installs : 10,000+
+ratings :  94
+reviews :  6
+
+title :  Hangman - Word Game
+appId :  com.gsoftteam.hangman
+score :  4.52
+installs : 500,000+
+ratings :  4072
+reviews :  48
+
+title :  كلمات كراش - لعبة تسلية وتحدي 
+appId :  com.zytoona.wordscrush
+score :  4.6255383
+installs : 50,000,000+
+ratings :  3501643
+reviews :  33979
+
+title :  Words with Friends 2 Classic
+appId :  com.zynga.words3
+score :  4.1616154
+installs : 10,000,000+
+ratings :  435024
+reviews :  128559
+
+title :  Bible Word Puzzle - Word Games
+appId :  bible.wordgame.words.connect.crossword.cookies
+score :  4.755581
+installs : 10,000,000+
+ratings :  209181
+reviews :  62422
+
+title :  Word Search : Find Hidden Word
+appId :  com.hgj.wordsearch.crossword.hiddenword
+score :  4.616667
+installs : 10,000,000+
+ratings :  81240
+reviews :  31
+
+title :  Wordsearch Puzzle Challenge
+appId :  com.supercosiatomicorn.cosiwords
+score :  4.392157
+installs : 100,000+
+ratings :  255
+reviews :  30
+
+title :  Motorcycle mechanics game
+appId :  com.hobbyappgame.mecanicademotos
+score :  4
+installs : 100,000+
+ratings :  2648
+reviews :  10
+
+title :  2 Emoji 1 Word-Emoji word game
+appId :  emoji.word.games.four.pics.one.words.quiz.guess.twopics.free
+score :  4.05
+installs : 1,000,000+
+ratings :  10347
+reviews :  175
+
+title :  Word Connect - Words of Nature
+appId :  word.connect.free
+score :  4.762712
+installs : 1,000,000+
+ratings :  21593
+reviews :  499
+
+title :  Word Games
+appId :  com.justanothertry.slovaizslova
+score :  4.6
+installs : 5,000,000+
+ratings :  239253
+reviews :  187
+
+title :  Word Nut - Word Puzzle Games
+appId :  com.chippymediallc.word.nut.android
+score :  4.848189
+installs : 5,000,000+
+ratings :  136812
+reviews :  28092
+
+title :  GuessUp - Word Party Charades
+appId :  pt.cosmicode.guessup
+score :  4.42
+installs : 1,000,000+
+ratings :  14776
+reviews :  134
+
+title :  Word Search - Word puzzle game
+appId :  com.aceofclubs.wordsearch
+score :  4.485437
+installs : 10,000+
+ratings :  409
+reviews :  12
+
+title :  Wordgrams - Crossword & Puzzle
+appId :  com.funcraft.wordgrams
+score :  4.5968924
+installs : 1,000,000+
+ratings :  23098
+reviews :  2156
+
+title :  Gun Games 3D : Shooting Games
+appId :  com.gun.games.ff.shooting.games
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Word Breeze - Earn Bitcoin
+appId :  com.playday.wordbreeze
+score :  4.44
+installs : 100,000+
+ratings :  8701
+reviews :  214
+
+title :  Infinite Word Search Puzzles
+appId :  com.randomlogicgames.wordsearch
+score :  4.2898436
+installs : 10,000,000+
+ratings :  70857
+reviews :  11390
+
+title :  Word Search. Offline Games
+appId :  com.freeofflinegames.wordsearch
+score :  4.7017546
+installs : 1,000,000+
+ratings :  25084
+reviews :  653
+
+title :  Never Have I Ever
+appId :  neverhaveiever.com.neverhaveiever
+score :  4
+installs : 100,000+
+ratings :  314
+reviews :  16
+
+title :  Draw With Friends Multiplayer
+appId :  com.fiddlerswork.drawwithfriends
+score :  4.158416
+installs : 100,000+
+ratings :  1207
+reviews :  154
+
+title :  Fast Typing - Type faster!
+appId :  com.cubeorcoding.fasttyping
+score :  3.392857
+installs : 50,000+
+ratings :  247
+reviews :  12
+
+title :  Typing Games: Typing Practice
+appId :  com.THT.TypingGamesShootingKeyboard
+score :  2.875
+installs : 50,000+
+ratings :  165
+reviews :  7
+
+title :  Word Search Block Puzzle Game
+appId :  com.word.block.puzzle.free.relax
+score :  4.746901
+installs : 5,000,000+
+ratings :  399499
+reviews :  341
+
+title :  Word Search Colorful
+appId :  com.wixot.wordsearch
+score :  4.4033613
+installs : 10,000,000+
+ratings :  39205
+reviews :  1507
+
+title :  Words of Wonders: Guru
+appId :  com.fugo.wowguru
+score :  4.697802
+installs : 10,000,000+
+ratings :  135882
+reviews :  3109
+
+title :  Word Connect - Word Search
+appId :  com.crazy.letter.wordsearch
+score :  4.589818
+installs : 5,000,000+
+ratings :  54361
+reviews :  4596
+
+title :  Word Search - Mind Fitness App
+appId :  com.openmygame.games.android.fillwordsoffline
+score :  4.61
+installs : 1,000,000+
+ratings :  44418
+reviews :  125
+
+title :  Charades - guess the word
+appId :  com.pragma.charades
+score :  2.142857
+installs : 5,000+
+ratings :  23
+reviews :  3
+
+title :  My Name Meaning
+appId :  dh3games.namemeaning
+score :  3.58
+installs : 500,000+
+ratings :  1601
+reviews :  193
+
+title :  Word Link-Connect puzzle game
+appId :  words.puzzle.wordgame.free.connect
+score :  4.6993866
+installs : 100,000+
+ratings :  2710
+reviews :  493
+
+title :  Quotescapes: Word Game
+appId :  com.bigstarkids.quotescapes
+score :  4.7861204
+installs : 500,000+
+ratings :  18126
+reviews :  1023
+
+title :  Word Spells: Word Puzzle Games
+appId :  com.openmygame.magicwordsearch
+score :  4.804762
+installs : 5,000,000+
+ratings :  68892
+reviews :  931
+
+title :  Wordscapes In Bloom
+appId :  com.peoplefun.wordflowers
+score :  4.72432
+installs : 1,000,000+
+ratings :  66116
+reviews :  19455
+
+title :  Name Place Animal Thing Online
+appId :  com.nameplaceanimalthingonline.app
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Family Charades
+appId :  com.ddevelopments.familycharades
+score :  3.3
+installs : 10,000+
+ratings :  49
+reviews :  3
+
+title :  xvideos trivia
+appId :  com.dooedm.guesspornstar
+score :  4.27907
+installs : 50,000+
+ratings :  204
+reviews :  13
+
+title :  Word Bliss
+appId :  in.WordSearch.WordBliss
+score :  4.759006
+installs : 1,000,000+
+ratings :  48432
+reviews :  13994
+
+title :  Scrolling Words: Puzzle Quotes
+appId :  com.nunzioandolfo.Cercaparole
+score :  4.75
+installs : 10,000+
+ratings :  100
+reviews :  3
+
+title :  Crossword Puzzle
+appId :  com.wordgames.crossword.crossword500.game
+score :  4.6022725
+installs : 100,000+
+ratings :  7012
+reviews :  1020
+
+title :  Word Snack - Picnic with Words
+appId :  com.apnax.wordsnack
+score :  4.576923
+installs : 5,000,000+
+ratings :  708518
+reviews :  638
+
+title :  Word Pizza - Word Games
+appId :  com.openmygame.games.android.wordpizza
+score :  4.77087
+installs : 10,000,000+
+ratings :  191207
+reviews :  1584
+
+title :  Word Search Puzzle Game
+appId :  com.wordsearch.wordpuzzle.free
+score :  4.6732674
+installs : 500,000+
+ratings :  13084
+reviews :  26
+
+title :  Word Lots
+appId :  wordcross.wordscapes.wordconnect.lots.free
+score :  4.7161226
+installs : 1,000,000+
+ratings :  43594
+reviews :  9766
+
+title :  Wheel of Fortune: TV Game
+appId :  com.scopely.wheeloffortune
+score :  4.4522276
+installs : 10,000,000+
+ratings :  407726
+reviews :  118987
+
+title :  Word Bend
+appId :  com.funwordgames.wordsearchlink
+score :  4.7184467
+installs : 100,000+
+ratings :  280
+reviews :  64
+
+title :  Learn English Sentence Master
+appId :  com.mojoegames.sentencemaster
+score :  4.51
+installs : 1,000,000+
+ratings :  12470
+reviews :  223
+
+title :  Heads Up! Netflix Edition
+appId :  com.netflix.NGP.HeadsUp2
+score :  3.0535715
+installs : 100,000+
+ratings :  293
+reviews :  25
+
+title :  Word Search
+appId :  wixot.word.search
+score :  4.0495048
+installs : 500,000+
+ratings :  2359
+reviews :  434
+
+title :  Word Cross: Offline Word Games
+appId :  cross.word.connect.offline.word.games.wordscapes.puzzle
+score :  4.5
+installs : 1,000,000+
+ratings :  19518
+reviews :  4
+
+title :  Guess The Emoji
+appId :  com.rlg.guesstheemoji
+score :  4.045202
+installs : 5,000,000+
+ratings :  81778
+reviews :  23288
+
+title :  Wordly - an Hourly
+appId :  com.hourly.wordle_game
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Would You Rather | Remastered
+appId :  com.brothapps.wyr
+score :  4.0588236
+installs : 10,000+
+ratings :  89
+reviews :  2
+
+title :  Drawize - Draw and Guess
+appId :  com.drawandguess.dagandroid
+score :  4.32
+installs : 100,000+
+ratings :  2170
+reviews :  97
+
+title :  Are you a banana?
+appId :  com.fp.are_you_a_banana
+score :  4.6363635
+installs : 5,000+
+ratings :  332
+reviews :  5
+
+title :  Word Search English Dictionary
+appId :  com.solala.wordsearch.en
+score :  4.428571
+installs : 50,000+
+ratings :  95
+reviews :  6
+
+title :  Kitty Scramble: Word Game
+appId :  com.cleverapps.scramble
+score :  4.6513762
+installs : 1,000,000+
+ratings :  22577
+reviews :  426
+
+title :  Word Search
+appId :  com.melimots.WordSearch
+score :  4.5959306
+installs : 50,000,000+
+ratings :  393321
+reviews :  32653
+
+title :  Hangaroo (Hangman Game)
+appId :  com.vanvel.hangman
+score :  4.226415
+installs : 100,000+
+ratings :  717
+reviews :  29
+
+title :  Word Connect - Train Brain
+appId :  word.connect.puzzle.games
+score :  4.622568
+installs : 100,000+
+ratings :  4345
+reviews :  663
+
+title :  Rackword - Online word game
+appId :  com.rackword.app
+score :  3.2857144
+installs : 100,000+
+ratings :  291
+reviews :  5
+
+title :  Text Express: Word Adventure
+appId :  com.gamehouse.tx
+score :  4.4179106
+installs : 100,000+
+ratings :  3925
+reviews :  509
+
+title :  Word Game - Offline Games
+appId :  com.theangrykraken.wordgame
+score :  4.6536965
+installs : 1,000,000+
+ratings :  22157
+reviews :  1060
+
+title :  Typing Master
+appId :  com.husseinelfeky.typingmaster
+score :  4.0701756
+installs : 500,000+
+ratings :  2759
+reviews :  22
+
+title :  Draw and Guess
+appId :  com.tellmewow.senior.guess.drawing
+score :  3.826087
+installs : 100,000+
+ratings :  532
+reviews :  5
+
+title :  2 Pics 1Word. Offline Games
+appId :  com.theangrykraken.twopictures
+score :  4.536
+installs : 1,000,000+
+ratings :  49159
+reviews :  1066
+
+title :  Guess the Country by Emoji
+appId :  com.redgameing.guessthecountrybyemoji
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Word Match 3D - Master Puzzle
+appId :  com.zuuks.word.match.game
+score :  4.5
+installs : 100,000+
+ratings :  574
+reviews :  6
+
+title :  Love Story Chat — real stories
+appId :  startmob.lovechat
+score :  4.168317
+installs : 1,000,000+
+ratings :  19677
+reviews :  227
+
+title :  Fruit and Vegetables - Quiz
+appId :  com.asmolgam.fruits
+score :  4.3465347
+installs : 1,000,000+
+ratings :  10777
+reviews :  43
+
+title :  Word Connect X Word Search
+appId :  com.touchfield.word.kuku.connect
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  PTI Quiz Game
+appId :  com.technicalknowledgec.ptiquiz
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Words Crush: Hidden Words!
+appId :  com.bitmango.wordscrush
+score :  4.534042
+installs : 5,000,000+
+ratings :  283884
+reviews :  54762
+
+title :  Word City Classic: Word Search
+appId :  com.bigstarkids.wordtravelclassic
+score :  4.6792455
+installs : 100,000+
+ratings :  5139
+reviews :  96
+
+title :  Schulte - Attention training
+appId :  com.belighten.schulte
+score :  3.8
+installs : 5,000+
+ratings :  63
+reviews :  4
+
+title :  Word Connect Offline Games
+appId :  com.quartzgames.quiz.games.brain.games.word.games.hq.free.trivia.games.crack
+score :  4.6831684
+installs : 100,000+
+ratings :  594
+reviews :  237
+
+title :  Sniper shooter Action Game
+appId :  com.free.sniper.shooting.game
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  NYT Games: Play The Crossword
+appId :  com.nytimes.crossword
+score :  3.967816
+installs : 1,000,000+
+ratings :  11196
+reviews :  3362
+
+title :  Country Emoji Quiz
+appId :  com.tingly.countryemojiquiz
+score :  4.8
+installs : 10,000+
+ratings :  174
+reviews :  1
+
+title :  Word Planet
+appId :  in.crossword.wordplanet
+score :  4.767961
+installs : 500,000+
+ratings :  36712
+reviews :  9770
+
+title :  Hangman: The Classic Word Game
+appId :  com.gameswithoutads.hangman.free.fun
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Word Pearls: Word Games
+appId :  com.oakgames.wordgame
+score :  4.642449
+installs : 1,000,000+
+ratings :  31233
+reviews :  4013
+
+title :  Word Cross
+appId :  com.wordgame.puzzle.board.en
+score :  4.6319675
+installs : 10,000,000+
+ratings :  232827
+reviews :  20146
+
+title :  Bold Moves Match 3 Puzzles
+appId :  com.oprah.game
+score :  4.2745657
+installs : 1,000,000+
+ratings :  43799
+reviews :  15395
+
+title :  Wotile - Words Puzzle
+appId :  co.nz.enze.wotile
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Classic Words Solo
+appId :  com.lulo.scrabble.classicwords
+score :  4.598041
+installs : 10,000,000+
+ratings :  197464
+reviews :  18818
+
+title :  Word Domination
+appId :  se.maginteractive.worddomination
+score :  4.1084623
+installs : 5,000,000+
+ratings :  173892
+reviews :  7225
+
+title :  Word game offline low mb: 2023
+appId :  com.wordpuzzle.gridwordpuzzle
+score :  4
+installs : 5,000+
+ratings :  50
+reviews :  2
+
+title :  Crossword Explorer
+appId :  in.daily_puzzle.crossword
+score :  4.4697156
+installs : 1,000,000+
+ratings :  9986
+reviews :  2381
+
+title :  Words with Friends Word Puzzle
+appId :  com.zynga.words
+score :  4.093711
+installs : 50,000,000+
+ratings :  1743019
+reviews :  575147
+

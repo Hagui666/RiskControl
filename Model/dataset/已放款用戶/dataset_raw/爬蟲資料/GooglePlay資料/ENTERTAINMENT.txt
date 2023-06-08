@@ -1,0 +1,1386 @@
+title :  All In One HD Video Play
+appId :  com.dwnler.pistalsi.videoaderdwn
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Tamasha: Live Cricket, Movies
+appId :  com.spbtv.mobilinktv
+score :  3.76
+installs : 10,000,000+
+ratings :  88629
+reviews :  61
+
+title :  Ult Player
+appId :  com.ultplayer.videoplayer
+score :  4.076087
+installs : 5,000,000+
+ratings :  40364
+reviews :  6
+
+title :  Video Downloader and Player
+appId :  com.fane.videodownloader
+score :  4.1346154
+installs : 10,000,000+
+ratings :  62272
+reviews :  44
+
+title :  Sango-Chat, Explore & Hangout
+appId :  com.meiqijiacheng.sango
+score :  4.3
+installs : 10,000,000+
+ratings :  55169
+reviews :  256
+
+title :  YouTube Kids
+appId :  com.google.android.apps.youtube.kids
+score :  4.3308578
+installs : 100,000,000+
+ratings :  2427274
+reviews :  79785
+
+title :  Yalla - Group Voice Chat Rooms
+appId :  com.weieyu.yalla
+score :  4.1827674
+installs : 100,000,000+
+ratings :  239344
+reviews :  1823
+
+title :  Netflix
+appId :  com.netflix.mediaclient
+score :  4.3549232
+installs : 1,000,000,000+
+ratings :  14011706
+reviews :  893082
+
+title :  Vlad and Niki – games & videos
+appId :  me.apptivise.vladnikita
+score :  4.0498085
+installs : 10,000,000+
+ratings :  40665
+reviews :  205
+
+title :  Glamour – Live calling anytime
+appId :  com.glamour.im
+score :  4.6031747
+installs : 5,000,000+
+ratings :  11834
+reviews :  42
+
+title :  All Video Downloader Lite
+appId :  free.video.downloader.freevideodownloader2021.video.saver.videosaverlite
+score :  4.34
+installs : 5,000,000+
+ratings :  11260
+reviews :  68
+
+title :  PTVFLIX - PTV Network
+appId :  com.ptvflix.app
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Amazon Prime Video
+appId :  com.amazon.avod.thirdpartyclient
+score :  4.0909147
+installs : 500,000,000+
+ratings :  3879009
+reviews :  167584
+
+title :  Haircut prank, air horn & fart
+appId :  com.pranksounds.appglobaltd
+score :  3.4033613
+installs : 10,000,000+
+ratings :  11422
+reviews :  409
+
+title :  InColor: Coloring & Drawing
+appId :  com.inapp.incolor
+score :  3.8871253
+installs : 10,000,000+
+ratings :  64307
+reviews :  5366
+
+title :  Daily Watch Video & Earn Money
+appId :  com.adaarajkaip.anongameaa
+score :  3.950495
+installs : 1,000,000+
+ratings :  9299
+reviews :  127
+
+title :  Google Play Games
+appId :  com.google.android.play.games
+score :  4.2698565
+installs : 5,000,000,000+
+ratings :  13107704
+reviews :  195816
+
+title :  xray body scanner girls camera
+appId :  com.sirajoop6.body_scanner_xray_camera_simulator
+score :  3.0882354
+installs : 1,000,000+
+ratings :  5522
+reviews :  54
+
+title :  Santa Call
+appId :  com.santa.call.lettersanta
+score :  4.13
+installs : 10,000,000+
+ratings :  3972
+reviews :  67
+
+title :  OyeTalk - Live Voice Chat Room
+appId :  com.oyetalk.tv
+score :  4.34
+installs : 5,000,000+
+ratings :  21730
+reviews :  70
+
+title :  Hairs Makeup Artist Salon
+appId :  com.rosytales.hairsmakeupartistsalon
+score :  3.207317
+installs : 1,000,000+
+ratings :  1816
+reviews :  43
+
+title :  Superheroes Mod for Minecraft
+appId :  com.maker.superheroes.mcpe
+score :  4.2222223
+installs : 1,000,000+
+ratings :  3270
+reviews :  21
+
+title :  tapmad: Live Cricket & Movies
+appId :  com.tapmad.tapmadtv
+score :  2.2
+installs : 1,000,000+
+ratings :  19582
+reviews :  116
+
+title :  Harpal Geo (Watch Pakistani Dr
+appId :  com.snr.ent
+score :  4.0749187
+installs : 5,000,000+
+ratings :  18518
+reviews :  470
+
+title :  Colorfy: Coloring Book Games
+appId :  com.fungamesforfree.colorfy
+score :  4.0517178
+installs : 50,000,000+
+ratings :  869782
+reviews :  73929
+
+title :  ARY ZAP
+appId :  com.release.arylive
+score :  3.13
+installs : 1,000,000+
+ratings :  14727
+reviews :  61
+
+title :  Grand Theft Auto V: The Manual
+appId :  com.rockstargames.gtavmanual
+score :  3.8967824
+installs : 10,000,000+
+ratings :  423789
+reviews :  7036
+
+title :  Video Download Player
+appId :  com.tofu.videosfplayer
+score :  4.114286
+installs : 5,000,000+
+ratings :  37811
+reviews :  33
+
+title :  xray body scanner girls camera
+appId :  com.myfuturecode.xraycemara
+score :  4.3125
+installs : 500,000+
+ratings :  743
+reviews :  6
+
+title :  Flipped– Online Video Calling
+appId :  com.triste.social.android
+score :  4.125
+installs : 5,000,000+
+ratings :  5742
+reviews :  25
+
+title :  Talking Tom Cat 2
+appId :  com.outfit7.talkingtom2free
+score :  4.3028035
+installs : 100,000,000+
+ratings :  3403148
+reviews :  129785
+
+title :  XXVI video player
+appId :  com.hm.playerA.video.playss
+score :  4.105263
+installs : 1,000,000+
+ratings :  5364
+reviews :  13
+
+title :  Gun Sounds: Gunshot Master
+appId :  com.fun4u.gun.builder3d
+score :  4.4257426
+installs : 1,000,000+
+ratings :  4515
+reviews :  168
+
+title :  Vidly.tv: Movies, Live Cricket
+appId :  com.rockvillegroup.vidly
+score :  4.1549296
+installs : 1,000,000+
+ratings :  4351
+reviews :  48
+
+title :  Equalizer Pro
+appId :  com.zpp.music.equalizer
+score :  4.783784
+installs : 500,000+
+ratings :  461
+reviews :  9
+
+title :  Funny Urdu Stickers for WA
+appId :  com.funny.urdu_stickers.whats_app
+score :  4.5
+installs : 500,000+
+ratings :  1711
+reviews :  3
+
+title :  Passion - Video online
+appId :  com.passion.nearby.android
+score :  4.259259
+installs : 5,000,000+
+ratings :  5710
+reviews :  19
+
+title :  ZEE5: Movies, TV Shows, Series
+appId :  com.graymatrix.did
+score :  4.205755
+installs : 100,000,000+
+ratings :  1909336
+reviews :  1904
+
+title :  Face emoji remover scanner
+appId :  com.illusion_pixels_work.body_scanner
+score :  2.5384614
+installs : 100,000+
+ratings :  819
+reviews :  10
+
+title :  Party Star -Live, Chat & Games
+appId :  sg.partying.lcb.android
+score :  4.15
+installs : 1,000,000+
+ratings :  29407
+reviews :  113
+
+title :  PLAYTIME - Earn Money Playing
+appId :  pro.cashtree
+score :  4.155472
+installs : 1,000,000+
+ratings :  47068
+reviews :  6791
+
+title :  Voovi
+appId :  com.voovi.video
+score :  3.9
+installs : 5,000,000+
+ratings :  4825
+reviews :  3
+
+title :  Sitaron Ka Haal-Urdu Horoscope
+appId :  com.jazz.sitaronkahaal
+score :  4.3333335
+installs : 1,000,000+
+ratings :  2922
+reviews :  0
+
+title :  Watch Video Daily Earn Money
+appId :  com.vamika.dailyvideo.watchvideo.earnmoney
+score :  4.2
+installs : 1,000,000+
+ratings :  2660
+reviews :  3
+
+title :  Walkthrough TK 3 PS Fight 2020
+appId :  com.kentenk.guTken3Fightt
+score :  3.65
+installs : 5,000,000+
+ratings :  24115
+reviews :  104
+
+title :  Call Prank - Fake Sound
+appId :  com.appglobaltd.prankeffect
+score :  3.63
+installs : 5,000,000+
+ratings :  2047
+reviews :  47
+
+title :  XTV LIVE
+appId :  com.ispxtvlive.xtvlive
+score :  4.6
+installs : 100,000+
+ratings :  698
+reviews :  3
+
+title :  GB Version Apk 2022
+appId :  com.stargb.gbgbappwhatsgbsaver.gbappgbversionlatestwhats
+score :  4.181818
+installs : 1,000,000+
+ratings :  1957
+reviews :  8
+
+title :  Live Cricket TV HD Streaming
+appId :  com.noonshein.livecrickettvhdstreaming
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  GTE Criminal of Thieve Andreas
+appId :  com.artanabilstudio.GTEandreas
+score :  3.25
+installs : 1,000,000+
+ratings :  1334
+reviews :  17
+
+title :  SonyLIV: Originals, Hollywood,
+appId :  com.sonylivasia
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  YoYo - Voice Chat Room, Games
+appId :  com.fun.share
+score :  4.265823
+installs : 10,000,000+
+ratings :  149683
+reviews :  711
+
+title :  Watch Video & Daily Earn Money
+appId :  com.kiyan.watchvideo.dailyearn.earnmoney
+score :  3.4736843
+installs : 500,000+
+ratings :  1794
+reviews :  4
+
+title :  Talking Ginger
+appId :  com.outfit7.talkinggingerfree
+score :  3.7275398
+installs : 100,000,000+
+ratings :  1931041
+reviews :  68565
+
+title :  HiTV - HD Drama, Film, TV Show
+appId :  com.gohitv.hitv
+score :  4.3653846
+installs : 5,000,000+
+ratings :  64036
+reviews :  377
+
+title :  Grand City Theft Autos Hint
+appId :  com.grandthree.grandfort.grandfive
+score :  4.3333335
+installs : 500,000+
+ratings :  1427
+reviews :  0
+
+title :  Easy Earn Money Online  24 hrs
+appId :  com.earn_money_online.easy_earn
+score :  4.388235
+installs : 100,000+
+ratings :  11652
+reviews :  42
+
+title :  Ullu
+appId :  cdi.videostreaming.app
+score :  4.22
+installs : 10,000,000+
+ratings :  141023
+reviews :  166
+
+title :  Vidcall - Video chat and prank
+appId :  com.manan.fake.videocallandchat
+score :  4.03
+installs : 1,000,000+
+ratings :  7282
+reviews :  31
+
+title :  Talking Ben the Dog
+appId :  com.outfit7.talkingben
+score :  4.197859
+installs : 100,000,000+
+ratings :  1935998
+reviews :  71138
+
+title :  Bitmoji
+appId :  com.bitstrips.imoji
+score :  4.652385
+installs : 100,000,000+
+ratings :  3603506
+reviews :  395775
+
+title :  Urdu Status - Urdu Poetry
+appId :  com.girlswallpaper.buntyfrombengal.hot
+score :  4
+installs : 500,000+
+ratings :  1575
+reviews :  3
+
+title :  Dailymotion
+appId :  com.dailymotion.dailymotion
+score :  4.3516703
+installs : 50,000,000+
+ratings :  975798
+reviews :  37303
+
+title :  IMDb: Movies & TV Shows
+appId :  com.imdb.mobile
+score :  4.421884
+installs : 100,000,000+
+ratings :  891328
+reviews :  62514
+
+title :  Doge Draw : Save the Dog 2023
+appId :  com.save.the.dog.pet.pig.cat.sort.puzzle.bee
+score :  4.35
+installs : 1,000,000+
+ratings :  3808
+reviews :  60
+
+title :  Watch Video And Earn Money
+appId :  watch.shortvid.winprize
+score :  4.625
+installs : 50,000+
+ratings :  1663
+reviews :  7
+
+title :  Akinator
+appId :  com.digidust.elokence.akinator.freemium
+score :  4.6066093
+installs : 100,000,000+
+ratings :  4193631
+reviews :  131579
+
+title :  Talking Pierre the Parrot
+appId :  com.outfit7.talkingpierrefree
+score :  4.184807
+installs : 100,000,000+
+ratings :  794186
+reviews :  22878
+
+title :  Haircut Prank - Air Horn, Fart
+appId :  com.pranksounds.hairclipper.airhorn.fart
+score :  3.8181818
+installs : 1,000,000+
+ratings :  373
+reviews :  8
+
+title :  Hindi Cartoon
+appId :  com.mhindi.cartoon
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  FunXD - short videos
+appId :  com.funtech.funxd
+score :  4.24
+installs : 10,000,000+
+ratings :  20352
+reviews :  19
+
+title :  Plex: Stream Movies & TV
+appId :  com.plexapp.android
+score :  4.3935494
+installs : 10,000,000+
+ratings :  304335
+reviews :  31731
+
+title :  Live Cricket TV Live Scores
+appId :  cricket.tv94
+score :  2.5
+installs : 100,000+
+ratings :  580
+reviews :  2
+
+title :  Vehicles Mods for Minecraft
+appId :  com.mom.vehicles
+score :  3.5
+installs : 500,000+
+ratings :  534
+reviews :  9
+
+title :  Sexy Video Girl
+appId :  com.videos.sexygirlz
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Pocket TV - 5000+ LiveChannels
+appId :  com.pockettv.livetv
+score :  4.4166665
+installs : 50,000+
+ratings :  657
+reviews :  12
+
+title :  Watch Video & Earn Money Daily
+appId :  com.fullvideo.watchvideo
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Talking Tom & Ben News
+appId :  com.outfit7.talkingnewsfree
+score :  4.4474235
+installs : 100,000,000+
+ratings :  1273061
+reviews :  47747
+
+title :  Princess Color,Paint by Number
+appId :  com.pixel.art.coloring.color.number.paint.princess
+score :  4.57
+installs : 1,000,000+
+ratings :  11570
+reviews :  190
+
+title :  Live TV Sports
+appId :  com.abidgames.sprts
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Get Daily Diamonds & FFF Guide
+appId :  dailyfire.fffdiamondtips.dailyfrediamonds
+score :  4.5
+installs : 100,000+
+ratings :  615
+reviews :  18
+
+title :  Digi Movieplex
+appId :  com.digi.digimovieplex
+score :  3.6
+installs : 500,000+
+ratings :  861
+reviews :  2
+
+title :  Live Video Call - Global Call
+appId :  com.dartushinc.videocall
+score :  4.3265305
+installs : 10,000,000+
+ratings :  82334
+reviews :  484
+
+title :  Romantic Ringtone
+appId :  com.Kivi.romanticring
+score :  4.5555553
+installs : 100,000+
+ratings :  260
+reviews :  1
+
+title :  Hiya - Group Voice Chat
+appId :  com.global.live
+score :  4.25
+installs : 5,000,000+
+ratings :  32891
+reviews :  359
+
+title :  MakkiTv Official
+appId :  com.makkitvpakistan.makkitvofficial
+score :  3.909091
+installs : 100,000+
+ratings :  1745
+reviews :  6
+
+title :  MOOD X : Web Series & Uncut
+appId :  com.moodX.app
+score :  2.5714285
+installs : 500,000+
+ratings :  905
+reviews :  6
+
+title :  Ligo Live
+appId :  com.wooya.mobile
+score :  4.15
+installs : 1,000,000+
+ratings :  10350
+reviews :  109
+
+title :  Body image filtering
+appId :  us.SmartJoy.BodyScanner
+score :  3.9418604
+installs : 10,000,000+
+ratings :  136666
+reviews :  2073
+
+title :  abc PLAYER
+appId :  com.plyerabc.dentro
+score :  4.44
+installs : 10,000,000+
+ratings :  76266
+reviews :  59
+
+title :  Urdu Stickers for Whatsapp
+appId :  com.mhproduction.urdustickers.funnystickers.urdustickerswhtsapp.whatsappstickers
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Ringtone for iphone: Android™
+appId :  com.sonnerie.ringtone.iphone2021
+score :  3.99
+installs : 1,000,000+
+ratings :  5946
+reviews :  45
+
+title :  Prank Calling App Simulator
+appId :  com.techapps.fake.call.prank.free
+score :  3.9904761
+installs : 1,000,000+
+ratings :  4090
+reviews :  458
+
+title :  FxGuru:  Movie FX Director
+appId :  com.picadelic.fxguru
+score :  4.433661
+installs : 10,000,000+
+ratings :  522182
+reviews :  33406
+
+title :  NiaziPlay: Urdu Subtitles
+appId :  com.niaziplaymediaproduction.videoplayer
+score :  4.631579
+installs : 100,000+
+ratings :  2283
+reviews :  4
+
+title :  Talking Ginger 2
+appId :  com.outfit7.gingersbirthdayfree
+score :  4.056117
+installs : 100,000,000+
+ratings :  824798
+reviews :  22015
+
+title :  HD Video Downloader
+appId :  com.vidmaxdownloader.videodownloader.maxvideodownloader
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Watch Video & Daily Earn Money
+appId :  com.rivvan.watchvideo.dailyvideo.earnmoney
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Perfect Me -Face & Body Editor
+appId :  com.accordion.perfectme
+score :  4.5613294
+installs : 10,000,000+
+ratings :  178742
+reviews :  7977
+
+title :  Eid Photo Frame EID Mubarak Ph
+appId :  com.AllPhotoFrameApps.EidMubarakNewPhotoframe
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Lie Detector Test Prank
+appId :  liedetector.test.finger.detector.lie.fingerprintscanner.testrealshock
+score :  4.285714
+installs : 100,000+
+ratings :  667
+reviews :  5
+
+title :  SonyLiVe TV Guide for Movies
+appId :  com.sonyliv.kde
+score :  2.7857144
+installs : 10,000+
+ratings :  126
+reviews :  7
+
+title :  Live Talk - Live Video Call
+appId :  com.livechat.livetalk
+score :  5
+installs : 50,000+
+ratings :  300
+reviews :  3
+
+title :  XCIPTV PLAYER
+appId :  com.nathnetwork.xciptv
+score :  4.0784316
+installs : 5,000,000+
+ratings :  24357
+reviews :  348
+
+title :  LightChat -Voice Chat & Meet &
+appId :  com.halo.mobile
+score :  3.85
+installs : 1,000,000+
+ratings :  8896
+reviews :  199
+
+title :  Fake Chat Live Prank TikJoke
+appId :  com.playfake.socialfake.tikjoke
+score :  4.38
+installs : 1,000,000+
+ratings :  24777
+reviews :  277
+
+title :  Sexy Short Video Girl
+appId :  com.videos.sexytik
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  TIME WARP SCAN: Photo filter
+appId :  de.swejuppotto.timewarpscan
+score :  4.55919
+installs : 10,000,000+
+ratings :  103205
+reviews :  2025
+
+title :  Talking Angela
+appId :  com.outfit7.talkingangelafree
+score :  3.0201108
+installs : 100,000,000+
+ratings :  2130769
+reviews :  139386
+
+title :  Xbox
+appId :  com.microsoft.xboxone.smartglass
+score :  4.5031533
+installs : 50,000,000+
+ratings :  1751789
+reviews :  124108
+
+title :  All Music Instruments
+appId :  com.drumpad.androidmusicalinstrument
+score :  3.6764705
+installs : 500,000+
+ratings :  1004
+reviews :  15
+
+title :  OTT Watch - Shows, Movies, TV
+appId :  movies.old.watched.free
+score :  4.25
+installs : 1,000,000+
+ratings :  20012
+reviews :  27
+
+title :  All Movies
+appId :  com.onlinemovies.allmovie
+score :  4.35
+installs : 500,000+
+ratings :  30060
+reviews :  30
+
+title :  Broken Screen Prank
+appId :  com.crack.screen.prank.bfun
+score :  4.51183
+installs : 50,000,000+
+ratings :  773179
+reviews :  13328
+
+title :  Watch Video And Earn Money
+appId :  watchvideo.andearnmoney.tickvideo
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  ShemarooMe
+appId :  com.saranyu.shemarooworld
+score :  3.74
+installs : 5,000,000+
+ratings :  27124
+reviews :  87
+
+title :  Live Net TV
+appId :  com.sportsmasaladev.livenettvapp
+score :  2.61
+installs : 500,000+
+ratings :  4787
+reviews :  82
+
+title :  Grand Cheats Codes
+appId :  com.srsapps.gtacheatcodes
+score :  3.95
+installs : 1,000,000+
+ratings :  1245
+reviews :  10
+
+title :  OTT TV - Shows, Movies, Watch
+appId :  com.app.tv.appnew
+score :  4
+installs : 500,000+
+ratings :  3523
+reviews :  2
+
+title :  Full Audery Body Scanner Xray
+appId :  com.body_scanner.cloth_remover
+score :  4.188119
+installs : 5,000,000+
+ratings :  9308
+reviews :  142
+
+title :  Urdu Poetry - Videos Status
+appId :  com.jassmanak.buntyfrombengal.song
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Lovely Call Screen-Color Phone
+appId :  com.lovely.callscreen.themechanger.colorphone
+score :  4.2376237
+installs : 10,000,000+
+ratings :  14628
+reviews :  71
+
+title :  Wallpapers For Girls Offline
+appId :  com.offlinewallpapers.forgirls
+score :  4.5
+installs : 100,000+
+ratings :  572
+reviews :  12
+
+title :  Rave – Watch Party
+appId :  com.wemesh.android
+score :  4.468514
+installs : 10,000,000+
+ratings :  592460
+reviews :  4165
+
+title :  Princess Coloring by Number
+appId :  com.piupiuapps.coloringbynumbersprincess
+score :  4.6
+installs : 1,000,000+
+ratings :  12965
+reviews :  211
+
+title :  ARY DIGITAL
+appId :  com.aryservices.arydigital
+score :  2.21
+installs : 1,000,000+
+ratings :  10539
+reviews :  86
+
+title :  Sexy Indian Girls Video Chat
+appId :  com.liulou.tami
+score :  4.4
+installs : 10,000,000+
+ratings :  76097
+reviews :  265
+
+title :  Addons for Minecraft
+appId :  com.kayenworks.mcpeaddons
+score :  4.230769
+installs : 10,000,000+
+ratings :  319889
+reviews :  10878
+
+title :  Viki: Asian Dramas & Movies
+appId :  com.viki.android
+score :  4.703808
+installs : 50,000,000+
+ratings :  923135
+reviews :  50443
+
+title :  YOWhatsApp Messenger Tips App
+appId :  com.yowhatsapp.vbn
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Tick:watch to earn
+appId :  com.kuaiyin.tick
+score :  3.48
+installs : 5,000,000+
+ratings :  16758
+reviews :  11
+
+title :  Telenor Smart
+appId :  com.noveltymedia.smartadd.pk.telenor
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  OsmanFlix: Kurulus Osman
+appId :  com.osmanflixmedia.videoplayer
+score :  4.470588
+installs : 100,000+
+ratings :  1265
+reviews :  5
+
+title :  Prank scanner: body Scanner
+appId :  com.funny_prank_xray_scanner.camera
+score :  2.6818182
+installs : 100,000+
+ratings :  584
+reviews :  10
+
+title :  Zombies for minecraft
+appId :  micraft.zombies.apocalypse
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Indian Wedding Dress Up Game
+appId :  com.bhargavapps.royalindianwedding
+score :  4.3428574
+installs : 10,000,000+
+ratings :  16137
+reviews :  17
+
+title :  Udas Shayari - Urdu Sad Poetry
+appId :  com.elytelabs.udasshayari
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Ringtones for android phones
+appId :  com.bluesky.best_ringtone.free2017
+score :  4.731921
+installs : 10,000,000+
+ratings :  287104
+reviews :  9765
+
+title :  Girl Body Scanner Camera Girls
+appId :  com.mamooni3.girl_body_scanner_camera_simulator
+score :  1.625
+installs : 100,000+
+ratings :  387
+reviews :  5
+
+title :  3D Textures for Minecraft
+appId :  com.textures.realisticmcpe.minexploration
+score :  4.2647057
+installs : 5,000,000+
+ratings :  58112
+reviews :  747
+
+title :  Diko
+appId :  com.chat.securi.diko
+score :  4.5454545
+installs : 500,000+
+ratings :  3939
+reviews :  6
+
+title :  Haircut Prank, Air Horn & Fart
+appId :  com.sigma.prank.sound.haircut
+score :  2.755319
+installs : 1,000,000+
+ratings :  1540
+reviews :  48
+
+title :  Soghat E Ishq - Romantic Novel
+appId :  com.ipcsol.soghateishq
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Air Horn: Funny Prank Sounds
+appId :  com.airhorn.funny.prank.sounds
+score :  4.09
+installs : 1,000,000+
+ratings :  1621
+reviews :  112
+
+title :  Funny Urdu Stickers app
+appId :  stickermaker.funny_stickers.urdu_stickers_for_whatsapp.whatsappstickers.app
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Urdu Shayari Urdu Status
+appId :  com.Sajiapps.MohbtBewafaShyari
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Tips Grand Gangster Code
+appId :  com.revolutionmedia.grand.gangster.tips
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Better Sex Life
+appId :  apps.capricon.BetterSexLife
+score :  4.15
+installs : 5,000,000+
+ratings :  13704
+reviews :  41
+
+title :  Hotune Body Editor & Face Slim
+appId :  com.cerdillac.hotuneb
+score :  4.269663
+installs : 5,000,000+
+ratings :  21971
+reviews :  438
+
+title :  CUE Cinemas
+appId :  nz.co.vista.android.movie.cuecinemas
+score :  4.8333335
+installs : 50,000+
+ratings :  290
+reviews :  2
+
+title :  HilalPlay
+appId :  com.hilal.play
+score :  3.75
+installs : 500,000+
+ratings :  6817
+reviews :  128
+
+title :  FFF FF Skin Tool, Elite Pass
+appId :  com.ftools.elitegame
+score :  4.117647
+installs : 100,000+
+ratings :  215
+reviews :  9
+
+title :  Arabic Stickers for Whatsapp
+appId :  wastickerapps.islamic.arabicsticker
+score :  3.764706
+installs : 100,000+
+ratings :  807
+reviews :  8
+
+title :  Chikilo Video Call
+appId :  com.dostani.videocall.randomvideochat
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Rodad E Ishq - Romantic Novel
+appId :  com.ipcsol.rodadeishq
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  TikFans: Followers and Likes
+appId :  com.tok.tik.follower.like.view.fans
+score :  4.411111
+installs : 500,000+
+ratings :  110269
+reviews :  1585
+
+title :  Spooky Momo horror Call Prank
+appId :  scary.momo.horror.game.chat.fake.video.calling.creepy.creepypasta.challenge.prank.joke
+score :  3.95
+installs : 1,000,000+
+ratings :  5826
+reviews :  130
+
+title :  18+ Animated Stickers for What
+appId :  com.gokulanimated.stickersapp
+score :  3.89
+installs : 1,000,000+
+ratings :  5471
+reviews :  43
+
+title :  Fake Chat WhatsMock Text Prank
+appId :  com.applylabs.whatsmock.free
+score :  4.3522725
+installs : 10,000,000+
+ratings :  262631
+reviews :  1473
+
+title :  DuoVC Live Chat Video Call App
+appId :  com.chatspace.live
+score :  1.25
+installs : 100,000+
+ratings :  75
+reviews :  3
+
+title :  Ertugrul Urdu PTV ارطغرل اردو
+appId :  app.ertugrul
+score :  4.7
+installs : 100,000+
+ratings :  1394
+reviews :  4
+
+title :  Maps for Minecraft PE
+appId :  mnw.mcpe_maps
+score :  4.1938896
+installs : 10,000,000+
+ratings :  453173
+reviews :  8883
+
+title :  Red Bull TV: Videos & Sports
+appId :  com.nousguide.android.rbtv
+score :  4.6880927
+installs : 10,000,000+
+ratings :  70278
+reviews :  2381
+
+title :  Sexy Girls Join Whats Groups
+appId :  join.sexywhatsgroupsxgirls
+score :  4.181818
+installs : 100,000+
+ratings :  973
+reviews :  9
+
+title :  Lami-Live Stream&Voice Chat
+appId :  com.yinyuan.mobile
+score :  4.21875
+installs : 500,000+
+ratings :  1934
+reviews :  37
+
+title :  Sidhu Moose Wala  Songs
+appId :  com.sidhusongs
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Watch Video & Earn Money Daily
+appId :  com.rivvan.watchvideo.dailyearn.earnmoney
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Regedit FFH4X Mod Menu Fire Ha
+appId :  regedit.ffh4x
+score :  4.53211
+installs : 1,000,000+
+ratings :  65676
+reviews :  554
+
+title :  Fluid Simulation
+appId :  games.paveldogreat.fluidsimfree
+score :  4.866143
+installs : 10,000,000+
+ratings :  425468
+reviews :  25860
+
+title :  Motu fake call
+appId :  com.callingyou.motupatlu
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Story.ly: Video Status Maker
+appId :  com.story.ly.videostatusapp
+score :  4.428571
+installs : 1,000,000+
+ratings :  6105
+reviews :  5
+
+title :  WWE
+appId :  com.wwe.universe
+score :  4.597411
+installs : 10,000,000+
+ratings :  795349
+reviews :  114153
+
+title :  Techno Gamerz
+appId :  com.trendingvideos.technogamerz
+score :  4.2
+installs : 100,000+
+ratings :  1324
+reviews :  3
+
+title :  Watch Video And Earn Money
+appId :  watchvideo.andearnmoney.dailywincash
+score :  5
+installs : 10,000+
+ratings :  880
+reviews :  1
+
+title :  Lemon Lite live video calling
+appId :  com.videochat.boob
+score :  1.875
+installs : 100,000+
+ratings :  176
+reviews :  4
+
+title :  WeShort
+appId :  com.teyuto.weshort
+score :  4.6666665
+installs : 50,000+
+ratings :  79
+reviews :  1
+
+title :  Azal Live - Voice Chat Group
+appId :  com.hk.azal.live
+score :  4.51
+installs : 1,000,000+
+ratings :  4697
+reviews :  156
+
+title :  Nadra Finder Sim Owner
+appId :  com.datafindersimpaak.numberfinder_simowner
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Daily Watch Earn Money Online
+appId :  com.vamika.watchdaily.onlineearn.earnmoney
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Tami Pro
+appId :  com.double.tamipro
+score :  4.77
+installs : 10,000,000+
+ratings :  45770
+reviews :  165
+
+title :  Voice changer with effects
+appId :  com.baviux.voicechanger
+score :  4.3966265
+installs : 100,000,000+
+ratings :  1496839
+reviews :  46295
+
+title :  Happy Mood - All in One Game
+appId :  com.gudanggame.gamestation
+score :  4.41
+installs : 1,000,000+
+ratings :  36246
+reviews :  55
+
+title :  Diamond Heckk Tips Apk Frefir
+appId :  com.diamond_heckk_tips_apk_frefir.diamond_hack.unlimited_free_codashop_max.booyahpass
+score :  2.857143
+installs : 100,000+
+ratings :  473
+reviews :  7
+
+title :  FFF FF Skin Tool-Elite pass
+appId :  com.games.hubskin
+score :  4.3846154
+installs : 100,000+
+ratings :  186
+reviews :  9
+
+title :  Fancy Live
+appId :  com.higolive.mobile
+score :  3.6666667
+installs : 10,000+
+ratings :  324
+reviews :  5
+
+title :  Urdu Fairy Tales
+appId :  com.eprojects.urdufairytales
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Grand Gangster V Code
+appId :  com.artanabilstudio.grandgangsterv.code
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  House Mods for Minecraft
+appId :  com.house.mods
+score :  4.625
+installs : 100,000+
+ratings :  369
+reviews :  5
+
+title :  Zong TV: Live News, News Shows
+appId :  com.convex.zongtv
+score :  3.5365853
+installs : 1,000,000+
+ratings :  3150
+reviews :  10
+
+title :  Steam
+appId :  com.valvesoftware.android.steam.community
+score :  3.0819561
+installs : 50,000,000+
+ratings :  970008
+reviews :  29950
+
+title :  Earn money with Givvy Shorts!
+appId :  com.givvy.shorts
+score :  4.542857
+installs : 500,000+
+ratings :  97562
+reviews :  401
+
+title :  Watch Video Daily Earn Money
+appId :  com.watch.video.cash.spintowin.shortvid.win.prize
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  VideoJet
+appId :  com.sanhe.newsjet
+score :  4
+installs : 100,000+
+ratings :  1418
+reviews :  25
+
+title :  Call with Scary Teacher
+appId :  com.call.video.scary.teacher.crazy
+score :  3.25
+installs : 1,000,000+
+ratings :  3509
+reviews :  4
+
+title :  Reface: Funny face swap videos
+appId :  video.reface.app
+score :  4.220583
+installs : 100,000,000+
+ratings :  1668132
+reviews :  52379
+
+title :  MorphMe：DeepFake Magic Face
+appId :  com.deepfake.facemagic
+score :  3.9306931
+installs : 100,000+
+ratings :  3648
+reviews :  87
+
+title :  Ghost Detector Radar Simulator
+appId :  org.retropixel.GhostRadarDetector
+score :  3.9757915
+installs : 10,000,000+
+ratings :  75653
+reviews :  10537
+
+title :  Captcha Wala - Online Job Work
+appId :  com.captchawala.onlinejobwork
+score :  4.101695
+installs : 100,000+
+ratings :  13807
+reviews :  27
+

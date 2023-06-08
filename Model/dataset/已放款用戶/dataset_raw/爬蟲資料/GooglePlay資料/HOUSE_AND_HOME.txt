@@ -1,0 +1,1400 @@
+title :  Zameen - Real Estate Portal
+appId :  com.zameen.zameenapp
+score :  4.57
+installs : 1,000,000+
+ratings :  44960
+reviews :  157
+
+title :  Universal TV Remote Control
+appId :  codematics.universal.tv.remote.control
+score :  3.7871845
+installs : 100,000,000+
+ratings :  426424
+reviews :  10308
+
+title :  AC Remote - Air Conditioner
+appId :  com.universal.ac.remote.control.air.conditioner
+score :  4.3858266
+installs : 5,000,000+
+ratings :  101632
+reviews :  356
+
+title :  Side Kamai
+appId :  com.skillbee
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Surveillance camera Visory
+appId :  app.visory.security_camera
+score :  4.5
+installs : 500,000+
+ratings :  9994
+reviews :  115
+
+title :  다방 – 대한민국 대표 부동산 앱
+appId :  kr.co.station3.dabang
+score :  4.02
+installs : 10,000,000+
+ratings :  35787
+reviews :  65
+
+title :  Punjab Land Records and Fard
+appId :  com.kryptonian.punjablandrecords
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Universal TV Remote Control
+appId :  com.uzeegar.universal.smart.tv.remote.control
+score :  3.59
+installs : 1,000,000+
+ratings :  1509
+reviews :  112
+
+title :  Punjab Online Land Records
+appId :  io.kodular.ziach5451.landrecords
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Live Video Call Video Chat
+appId :  com.v4andro.videocall.videochat.livevideocall
+score :  3.5
+installs : 100,000+
+ratings :  374
+reviews :  5
+
+title :  Karsaaz - At-home Services
+appId :  com.KarsaazPro.app
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Mahir Company - Home & beauty
+appId :  com.mrmahir.customer
+score :  3.5454545
+installs : 100,000+
+ratings :  2414
+reviews :  27
+
+title :  Remote for Samsung TV
+appId :  com.boost.samsung.remote
+score :  3.2815535
+installs : 1,000,000+
+ratings :  4013
+reviews :  172
+
+title :  Meet Stranger Video Chat Tips
+appId :  com.omglbetter.usechatlive
+score :  3.861386
+installs : 100,000+
+ratings :  5998
+reviews :  91
+
+title :  Home Security Camera WardenCam
+appId :  com.warden.cam
+score :  4.104518
+installs : 10,000,000+
+ratings :  62918
+reviews :  5288
+
+title :  Modern House design Draw House
+appId :  com.as.housemap.designcreator.floorplan
+score :  1.8888888
+installs : 100,000+
+ratings :  243
+reviews :  4
+
+title :  AlfredCamera Home Security app
+appId :  com.ivuu
+score :  4.7737412
+installs : 10,000,000+
+ratings :  619938
+reviews :  56197
+
+title :  Universal TV Remote Control
+appId :  com.universal.tv.remote.control.all.tv.controller
+score :  4.194152
+installs : 10,000,000+
+ratings :  106801
+reviews :  2500
+
+title :  Planner 5D: Design Your Home
+appId :  com.planner5d.planner5d
+score :  3.3686216
+installs : 10,000,000+
+ratings :  325146
+reviews :  5782
+
+title :  Graana Real Estate Marketplace
+appId :  com.graanaapp
+score :  4.0277777
+installs : 500,000+
+ratings :  3411
+reviews :  5
+
+title :  Smart TV Remote Control
+appId :  codematics.wifitv.tvremote.smarttv.remotecontrol.tv.remote.control
+score :  3.875
+installs : 5,000,000+
+ratings :  35791
+reviews :  1327
+
+title :  Room Planner: Home Interior 3D
+appId :  com.icandesignapp.all
+score :  4.107317
+installs : 10,000,000+
+ratings :  169429
+reviews :  2701
+
+title :  FixDar
+appId :  com.fixdarpk
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Home Designer 3D: Room Plan
+appId :  com.normsinteractives.designer5d
+score :  4.03
+installs : 500,000+
+ratings :  4036
+reviews :  50
+
+title :  IP Camera Viewer
+appId :  com.kapron.ap.aicamview.tv
+score :  3.489796
+installs : 500,000+
+ratings :  1139
+reviews :  30
+
+title :  Dream Home & Garden Makeover
+appId :  com.flower.dream.garden.design.home.makeover.puzzle.match
+score :  4.571429
+installs : 50,000+
+ratings :  291
+reviews :  9
+
+title :  Housing: Buy, Rent, Sell & Pay
+appId :  com.locon.housing
+score :  4.415
+installs : 10,000,000+
+ratings :  253955
+reviews :  425
+
+title :  Home Design 3D
+appId :  fr.anuman.HomeDesign3D
+score :  4.022321
+installs : 10,000,000+
+ratings :  36180
+reviews :  1147
+
+title :  Khedmatazma (Home Services)
+appId :  com.khedmatazma.customer
+score :  4.5925927
+installs : 100,000+
+ratings :  1908
+reviews :  21
+
+title :  Violet Cinderella Castle Clean
+appId :  com.winkypinky.VioletCinderellaCleaningCastle
+score :  4.0555553
+installs : 5,000,000+
+ratings :  4208
+reviews :  9
+
+title :  Camy — Live Video CCTV
+appId :  cam.camy
+score :  4.5906434
+installs : 1,000,000+
+ratings :  14648
+reviews :  647
+
+title :  Property Finder - Real Estate
+appId :  ae.propertyfinder.propertyfinder
+score :  3.59
+installs : 1,000,000+
+ratings :  2979
+reviews :  27
+
+title :  Remote Control for TV
+appId :  com.universal.tv.remote.smart.tv.remotecontrol
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  TCL Android TV Remote
+appId :  com.tcl.android.tv.remote.tclandroidtvremote
+score :  4.60177
+installs : 50,000+
+ratings :  6373
+reviews :  102
+
+title :  Find Plot Size in Marla, Gaz &
+appId :  appname.plotmeasuringcalculator
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Universal Smart TV Remote
+appId :  universal.smart.tv.remote
+score :  4.3690476
+installs : 50,000+
+ratings :  912
+reviews :  10
+
+title :  Girl House Cleaning Home Clean
+appId :  com.gamesolution.home.cleanig.girls.game
+score :  4.7659574
+installs : 500,000+
+ratings :  1280
+reviews :  39
+
+title :  House Design And Planning
+appId :  house.planDesign
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Bayut – UAE Property Search
+appId :  com.bayut.bayutapp
+score :  4.61
+installs : 1,000,000+
+ratings :  8056
+reviews :  30
+
+title :  SPHF - RESILIENT HOUSING
+appId :  com.sphf.app
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Houzz - Home Design & Remodel
+appId :  com.houzz.app
+score :  4.6679773
+installs : 10,000,000+
+ratings :  400549
+reviews :  39755
+
+title :  Paint my Room - Try wall color
+appId :  com.bonc.paintmyroom
+score :  2.73
+installs : 500,000+
+ratings :  1658
+reviews :  82
+
+title :  offscreen video Recorder
+appId :  com.background.camera.video_recorder
+score :  5
+installs : 5,000+
+ratings :  163
+reviews :  3
+
+title :  Happy Birthday Wishes
+appId :  com.bluearts.happybirthdaywishe
+score :  4.733333
+installs : 100,000+
+ratings :  137
+reviews :  4
+
+title :  Anti-theft alarm - Don't touch
+appId :  com.secureapps.antitheftalarm
+score :  4.26
+installs : 500,000+
+ratings :  6444
+reviews :  106
+
+title :  IESCO Online Bill Checker
+appId :  pk.iescobill
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  House Plan Design
+appId :  com.fashioncollection.houseplandesign
+score :  3.168421
+installs : 100,000+
+ratings :  2334
+reviews :  36
+
+title :  Small House Designs HD
+appId :  small.house.designs
+score :  4.660714
+installs : 50,000+
+ratings :  948
+reviews :  48
+
+title :  Punajb Online Fard and Records
+appId :  com.kryptonian.onlinefard
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Jaaidad.com
+appId :  com.property.jaaidad
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Homestyler-Room Realize design
+appId :  com.autodesk.homestyler
+score :  3.665088
+installs : 5,000,000+
+ratings :  90240
+reviews :  2969
+
+title :  Home Electricity Calculator
+appId :  calculation.world.electricitycalculator
+score :  4.4545455
+installs : 50,000+
+ratings :  956
+reviews :  11
+
+title :  ColorSnap® Visualizer
+appId :  com.colorsnap
+score :  2.3567362
+installs : 1,000,000+
+ratings :  8691
+reviews :  2963
+
+title :  All Languages Keyboard
+appId :  com.keyboard.alllanguage.voicekeyboard
+score :  3.6470587
+installs : 10,000+
+ratings :  95
+reviews :  10
+
+title :  Home Assistant
+appId :  io.homeassistant.companion.android
+score :  4.2843137
+installs : 1,000,000+
+ratings :  7355
+reviews :  300
+
+title :  Al Hayat Group
+appId :  com.al_hayyat
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  TAPP (Tasdeeq Pakistan)
+appId :  us.socol.tasdeeq
+score :  4.5238094
+installs : 500,000+
+ratings :  6303
+reviews :  16
+
+title :  TV Cast: Anycast in smart view
+appId :  com.tv.cast.screen.mirroring.remote.control
+score :  4.5445204
+installs : 10,000,000+
+ratings :  127674
+reviews :  1384
+
+title :  Samsung Smart TV Remote
+appId :  com.fineart.universal.tv.remote.control.sams
+score :  3.3333333
+installs : 50,000+
+ratings :  53
+reviews :  5
+
+title :  Garten 3 Banban Clue
+appId :  com.pakishtol.banban
+score :  5
+installs : 10,000+
+ratings :  51
+reviews :  1
+
+title :  tinyCam Monitor
+appId :  com.alexvas.dvr
+score :  3.9809341
+installs : 10,000,000+
+ratings :  77164
+reviews :  3768
+
+title :  HomeAI - Home Design with AI
+appId :  com.homeAiApp.homeAi
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Planta - Care for your plants
+appId :  com.stromming.planta
+score :  4.303571
+installs : 1,000,000+
+ratings :  11657
+reviews :  1128
+
+title :  Security Camera CZ
+appId :  cz.scamera.securitycamera
+score :  4.163158
+installs : 1,000,000+
+ratings :  11769
+reviews :  846
+
+title :  House Plans Design with Dimens
+appId :  liv.plans.designwithdimensions
+score :  2.3333333
+installs : 500,000+
+ratings :  737
+reviews :  6
+
+title :  TMWhats Plus v8.45
+appId :  com.tm.chats.tools.version
+score :  4.6
+installs : 50,000+
+ratings :  247
+reviews :  0
+
+title :  Microcraft Farming & Mining
+appId :  com.microcraft.micro.micro.crafting.exploration.crafdit
+score :  3.358209
+installs : 500,000+
+ratings :  1742
+reviews :  34
+
+title :  JagahOnline Your Home Solution
+appId :  com.ha.jagahonlinewebview
+score :  4
+installs : 50,000+
+ratings :  387
+reviews :  9
+
+title :  WAWR- Recover Deleted Messages
+appId :  com.vmt.recoverdeletedmessages.unseen.whatsave
+score :  4.3939395
+installs : 50,000+
+ratings :  218
+reviews :  29
+
+title :  Home Security Camera: ZoomOn
+appId :  cz.master.lois
+score :  4.036496
+installs : 1,000,000+
+ratings :  4165
+reviews :  197
+
+title :  Remote for Android TV's / Devi
+appId :  codematics.android.smarttv.wifi.remote.tvremote
+score :  3.7581968
+installs : 1,000,000+
+ratings :  36461
+reviews :  635
+
+title :  Ac remote control for any Ac
+appId :  com.vekomixo.universalacremote.accontroller.remote.airconditioner
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  ilaan: Property & Real Estate
+appId :  com.ilaan.property.portal
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Expiry Date
+appId :  com.gitlab.robert.cebula.expirydate
+score :  1.1666666
+installs : 50,000+
+ratings :  135
+reviews :  3
+
+title :  Universal Remote Control TV
+appId :  com.lite.universal.remote.control.smart.tv
+score :  3.5294118
+installs : 100,000+
+ratings :  284
+reviews :  6
+
+title :  Blue Light
+appId :  com.chic.bluelight2
+score :  4.25
+installs : 500,000+
+ratings :  2498
+reviews :  103
+
+title :  idealista
+appId :  com.idealista.android
+score :  4.754902
+installs : 10,000,000+
+ratings :  346442
+reviews :  924
+
+title :  Universal Smart Tv Remote Ctrl
+appId :  com.mydroid.tv.remote.control.all.tv.controller
+score :  3.25
+installs : 1,000,000+
+ratings :  3093
+reviews :  133
+
+title :  Urban Company (Prev UrbanClap)
+appId :  com.urbanclap.urbanclap
+score :  4.7152
+installs : 10,000,000+
+ratings :  1116773
+reviews :  756
+
+title :  Ceiling Designs Gallery
+appId :  com.whiteclouds.ceilingdesignsgallery
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Destroy the House - Home Game
+appId :  com.alpha.smashhome.destroy.houseinteriors.apps
+score :  2.7936509
+installs : 500,000+
+ratings :  1447
+reviews :  30
+
+title :  House Makeover Cleaning Games
+appId :  com.ts.homedecor.makeovergames
+score :  3.6153846
+installs : 500,000+
+ratings :  1126
+reviews :  5
+
+title :  Smart Tv Remote Control for tv
+appId :  fineart.smart.tv.remote.control.wifi.tv.controller
+score :  3.52
+installs : 500,000+
+ratings :  1774
+reviews :  115
+
+title :  UV Light Simulator - UV Lamp
+appId :  com.uvlight.simulation
+score :  2.91
+installs : 100,000+
+ratings :  2632
+reviews :  109
+
+title :  Universal TV Remote
+appId :  com.freeirtv
+score :  2.5888577
+installs : 5,000,000+
+ratings :  39474
+reviews :  5703
+
+title :  Rentalex: Buy, Sell, Rent
+appId :  com.rentalex.com
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Immobiliare.it - Indomio
+appId :  it.immobiliare.android
+score :  4.57
+installs : 5,000,000+
+ratings :  142909
+reviews :  135
+
+title :  Bricks, Cement & Sand Calculat
+appId :  com.web2appsolutions.calc2
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Mahir Partners
+appId :  com.mrmahir.technician
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Sukhi Zindagi - Home Services
+appId :  com.sukhizindagi.app
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  ServiceMarket
+appId :  com.servicemarket.app
+score :  4.388889
+installs : 50,000+
+ratings :  1272
+reviews :  5
+
+title :  AI Home Design Interior Decor
+appId :  com.interiordesignai.homedecor
+score :  3.137931
+installs : 10,000+
+ratings :  163
+reviews :  11
+
+title :  99acres Buy/Rent/Sell Property
+appId :  com.nnacres.app
+score :  4.122078
+installs : 10,000,000+
+ratings :  148746
+reviews :  627
+
+title :  Closet Planner 3D
+appId :  com.closetsketcher
+score :  undefined
+installs : 1,000,000+
+ratings :  undefined
+reviews :  undefined
+
+title :  Universal TV Remote Control
+appId :  com.theithubbs.universaltvremote
+score :  3.6666667
+installs : 50,000+
+ratings :  63
+reviews :  2
+
+title :  Marla and Area Calculator
+appId :  com.construction.calculator.measurement
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Roku Remote Control For TV
+appId :  com.fineart.universal.tv.remote.control.roku
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Realtor.com Real Estate
+appId :  com.move.realtor
+score :  4.6476417
+installs : 10,000,000+
+ratings :  406149
+reviews :  77403
+
+title :  Justlife (Home Services)
+appId :  com.mobile.justmop
+score :  4.59
+installs : 100,000+
+ratings :  11999
+reviews :  103
+
+title :  Kitchen Design: 3D Planner
+appId :  com.icandesignapp.kitchen
+score :  4.14
+installs : 1,000,000+
+ratings :  10836
+reviews :  180
+
+title :  Real Estate sale & rent Trovit
+appId :  es.roid.and.trovit
+score :  3.9381044
+installs : 10,000,000+
+ratings :  79982
+reviews :  2749
+
+title :  Universal Smart TV Remote
+appId :  com.universal.smarttv.android.tvremote.remote.controller
+score :  3.9411764
+installs : 100,000+
+ratings :  172
+reviews :  17
+
+title :  Blue World City Information
+appId :  com.ash.blueworldcity
+score :  5
+installs : 1,000+
+ratings :  201
+reviews :  5
+
+title :  Air Conditioner Remote Control
+appId :  airconditioner.acremote.control
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Poochlay - Services Provider
+appId :  poochlay.serviceman
+score :  0
+installs : 50+
+ratings :  0
+reviews :  0
+
+title :  Simba The Puppy - Candy World
+appId :  air.net.chicworld.simbathepuppycandyworld
+score :  3.9444444
+installs : 500,000+
+ratings :  832
+reviews :  5
+
+title :  DHA Islamabad Resident App
+appId :  org.dhair.app
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Home Designer - Architecture
+appId :  com.SoftwareDevelopmentKemper.HomeDesigner
+score :  4.071429
+installs : 50,000+
+ratings :  405
+reviews :  9
+
+title :  Home Security Camera - SeeCiTV
+appId :  com.code.bluegeny.myhomeview
+score :  4.2971697
+installs : 1,000,000+
+ratings :  15244
+reviews :  1903
+
+title :  EnBW zuhause+
+appId :  de.yellostrom.zuhauseplus
+score :  1.8
+installs : 50,000+
+ratings :  445
+reviews :  4
+
+title :  Fast
+appId :  com.services.fastapp
+score :  0
+installs : 50+
+ratings :  0
+reviews :  0
+
+title :  My Kitchen: 3D Planner
+appId :  com.kitchensketches
+score :  undefined
+installs : 1,000,000+
+ratings :  undefined
+reviews :  undefined
+
+title :  Ceiling Designs Gallery
+appId :  simple.ceiling.designs
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Renovations 3D
+appId :  com.mindblowing.renovations3d
+score :  3.26
+installs : 500,000+
+ratings :  2593
+reviews :  86
+
+title :  DHA Lahore
+appId :  com.buzzblare.dha
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Berger Xpress Visualizer PK
+appId :  com.berger.bergerXpressVisualizerPk
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  realestate.com.au - Property
+appId :  au.com.realestate.app
+score :  4.43
+installs : 1,000,000+
+ratings :  52660
+reviews :  142
+
+title :  Seat Design Gallery
+appId :  com.whiteclouds.seatdesigngallery
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Ceiling Design Ideas 2022
+appId :  com.ceilingdesignideas.modernceilingdesign.galeryceilingdesign
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  MyGhar
+appId :  com.mygharliving.my_ghar_customer
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Kolo - Home Design & Interiors
+appId :  com.kolo.android
+score :  3.4
+installs : 1,000,000+
+ratings :  11683
+reviews :  5
+
+title :  CADIO
+appId :  com.egycad.cadio
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Zeees TV Online Guide
+appId :  com.zee5tipswatchonlinetv.riko
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Redfin Houses for Sale & Rent
+appId :  com.redfin.android
+score :  4.6427197
+installs : 5,000,000+
+ratings :  111938
+reviews :  19375
+
+title :  Universal TV Remote Control
+appId :  com.remotecontrol.tvremote.universal
+score :  4
+installs : 500,000+
+ratings :  3987
+reviews :  105
+
+title :  Property Pay
+appId :  propertypay.org
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Wooden Bed Furniture Design
+appId :  com.nexamuse.beddesigns
+score :  3.8
+installs : 100,000+
+ratings :  317
+reviews :  3
+
+title :  Remote for LED Lights
+appId :  technomobifab.rgb.remote_for_led_lights
+score :  3.735294
+installs : 10,000+
+ratings :  1029
+reviews :  98
+
+title :  Home Design | Floor Plan
+appId :  com.SoftwareDevelopmentKemper.HomeDesignFloorPlan
+score :  4
+installs : 10,000+
+ratings :  154
+reviews :  2
+
+title :  Land & Zameen, Plot Size & Bat
+appId :  biz.esynergy.zameencalculator
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Prestige ColorPic Paint Color
+appId :  com.prestigepaints.prestigecolorpic
+score :  2.7258065
+installs : 100,000+
+ratings :  654
+reviews :  41
+
+title :  Wall Paint Designs Ideas
+appId :  house.paint.designs
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Hj Builders
+appId :  com.app.hjbuilders
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Roku Remote Control TV Remote
+appId :  com.roku.tv.remote.control
+score :  4.628159
+installs : 1,000,000+
+ratings :  8837
+reviews :  622
+
+title :  Home Garden
+appId :  com.agrico.trail3
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Random Video Call Live Chat
+appId :  com.randomcall.videotalk.call.live.videochat
+score :  4.266667
+installs : 10,000+
+ratings :  347
+reviews :  21
+
+title :  HiSense Smart TV Remote
+appId :  com.hisense.smart.tv.remote.hisensesmarttvremote
+score :  4.614754
+installs : 10,000+
+ratings :  1696
+reviews :  121
+
+title :  FlashFiber Home
+appId :  com.jwflash.smarthome
+score :  4.9
+installs : 1,000+
+ratings :  21
+reviews :  6
+
+title :  Spotahome: Online rentals
+appId :  com.spotahome.tnnt
+score :  3.4745762
+installs : 500,000+
+ratings :  2432
+reviews :  22
+
+title :  REALTOR.ca Real Estate & Homes
+appId :  ca.crea.app.consumer
+score :  2.5833333
+installs : 500,000+
+ratings :  2665
+reviews :  26
+
+title :  Props ID Rumah Mewah Aesthetic
+appId :  com.propsidrumahmewahaesthetic.sakuraschoolsimulator
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  House Plan Drawing Creator App
+appId :  idea.house.floorplans
+score :  2.142857
+installs : 50,000+
+ratings :  186
+reviews :  4
+
+title :  Naked Pools
+appId :  com.nakedpools.user
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  iPlan2
+appId :  com.iplan2.dev
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  CCP Universal TV Remote Contro
+appId :  com.ccp.universal.tv.remote.control
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Front Door Design Ideas
+appId :  house.door.design
+score :  4.818182
+installs : 5,000+
+ratings :  387
+reviews :  31
+
+title :  House Plan Creator App
+appId :  com.creator.houseplancreator
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Draw Floor,3D Floor Plan Ideas
+appId :  com.floor.planner
+score :  2.5
+installs : 50,000+
+ratings :  122
+reviews :  4
+
+title :  Modern Kitchen Design
+appId :  modular.kitchen.ideas
+score :  2.6
+installs : 1,000+
+ratings :  26
+reviews :  2
+
+title :  MyHome - Home Service App
+appId :  com.myhome.app.user
+score :  4.25
+installs : 100,000+
+ratings :  965
+reviews :  24
+
+title :  Screen Mirroring : Cast To TV
+appId :  screen.mirroring.miracast.everjustapps
+score :  3.41
+installs : 500,000+
+ratings :  1107
+reviews :  50
+
+title :  Meter readings | Read, save
+appId :  de.ml.myhousemeters
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Trulia: Homes For Sale & Rent
+appId :  com.trulia.android
+score :  4.737874
+installs : 10,000,000+
+ratings :  244313
+reviews :  59717
+
+title :  Lexis Cam, Security camera
+appId :  com.pamsys.WebCam
+score :  4.41
+installs : 100,000+
+ratings :  1689
+reviews :  173
+
+title :  Tody - Smarter Cleaning
+appId :  com.looploop.tody
+score :  4.6739726
+installs : 1,000,000+
+ratings :  15219
+reviews :  1741
+
+title :  Modern Bedroom Design
+appId :  modern.bedroom.design
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Lamudi: Buy & Rent Properties
+appId :  com.lamudi.gamoraph
+score :  3.5294118
+installs : 100,000+
+ratings :  445
+reviews :  8
+
+title :  Agency21 International
+appId :  com.agency21.app
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Remote for LG TV / Devices
+appId :  codematics.lgtv.lgsmarttv.lgtvremote.wifitvremote.tvremote
+score :  2.67
+installs : 500,000+
+ratings :  868
+reviews :  90
+
+title :  Safe App
+appId :  com.safeappworld.safe2
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  homify - home design
+appId :  com.online.homify
+score :  4.0454545
+installs : 1,000,000+
+ratings :  2823
+reviews :  23
+
+title :  Samsung Universal TV Remote
+appId :  samsung.universal.tv.remote
+score :  4.4356437
+installs : 10,000+
+ratings :  404
+reviews :  17
+
+title :  TenantApp Properties For Rent
+appId :  com.ire.tenantapp
+score :  3.44
+installs : 500,000+
+ratings :  2745
+reviews :  11
+
+title :  Fotocasa: Houses & Flats
+appId :  com.anuntis.fotocasa
+score :  4.62
+installs : 5,000,000+
+ratings :  140423
+reviews :  229
+
+title :  Universal remote control
+appId :  com.remote.universal.view
+score :  3
+installs : 1,000,000+
+ratings :  2791
+reviews :  15
+
+title :  Resume Cover Letter Generator
+appId :  com.cover.application.leter.resume
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Logi Circle
+appId :  com.logitech.circle
+score :  3.22
+installs : 100,000+
+ratings :  1713
+reviews :  369
+
+title :  House Building Idea
+appId :  com.HouseBuildingIdea.AnsApp
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Kids Swimming Pool
+appId :  smartgr.kidsswimming.pool
+score :  3.4444444
+installs : 100,000+
+ratings :  158
+reviews :  5
+
+title :  MH Technicians
+appId :  com.myhome.app.tech
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Elegant Wood Furniture Design
+appId :  com.kiyrastudioz.wood
+score :  2.909091
+installs : 100,000+
+ratings :  276
+reviews :  4
+
+title :  House Construction Cost in Pak
+appId :  com.viralappstudio.CCost
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Palette Home
+appId :  com.palettecad.palettehome
+score :  3.8316832
+installs : 1,000,000+
+ratings :  5036
+reviews :  94
+
+title :  Wooden Bed Designs
+appId :  wooden.bed.designs
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  kanto | كانتو
+appId :  com.kanto.kanto
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Housee: 3D House Plan, Floor P
+appId :  com.housee.app
+score :  4.2
+installs : 100,000+
+ratings :  4564
+reviews :  32
+
+title :  Universal TV AC Remote Control
+appId :  com.tas.remote.control
+score :  3.1666667
+installs : 100,000+
+ratings :  265
+reviews :  2
+
+title :  Doll House Cleaning & Repair
+appId :  com.Girls.Fashion.Entertainment.Doll.Castle.House.Cleaning.Repair.Decoration
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Samsung smart tv Remote ctrl
+appId :  com.remote.control.samsungremote
+score :  1.8333334
+installs : 10,000+
+ratings :  34
+reviews :  4
+
+title :  Marble Floor Design
+appId :  com.nexamuse.marblefloordesign
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  SURE - Smart Home and TV Unive
+appId :  com.tekoia.sure.activities
+score :  3.1237497
+installs : 10,000,000+
+ratings :  235650
+reviews :  16849
+
+title :  Faceter – Home security camera
+appId :  io.faceter.faceter
+score :  4.207921
+installs : 500,000+
+ratings :  3087
+reviews :  178
+
+title :  Latest Ceiling Designs 2021
+appId :  com.sabro.ceiling_design
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Swimming pool ideas : designs
+appId :  com.peridealife.masabeh_swimmingpooldesigns_msab7_swimmingpool_swimmingpoolideas_swimmingpooldecor_decor_decorations_swimmingpooldesign_ideas_designs
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Bayut Saudi Arabia
+appId :  com.bayut.bayutsaapp
+score :  3.1666667
+installs : 100,000+
+ratings :  256
+reviews :  3
+
+title :  Home Design : 3D Room Planner
+appId :  com.spruce3d.homedesign
+score :  1.6363636
+installs : 10,000+
+ratings :  139
+reviews :  8
+
+title :  HouseSigma Canada Real Estate
+appId :  com.housesigma.android
+score :  4.75
+installs : 100,000+
+ratings :  1486
+reviews :  9
+
+title :  Циан. Недвижимость, квартиры
+appId :  ru.cian.main
+score :  3.13
+installs : 10,000,000+
+ratings :  169449
+reviews :  76
+
+title :  MOVE motorize blinds & shades
+appId :  com.ampigo.bluetooth.spin
+score :  1.8
+installs : 1,000+
+ratings :  15
+reviews :  4
+
+title :  Garden Plants Ideas
+appId :  garden.plants.ideas
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Home Design - 3D Plan
+appId :  com.sprucestudios.homedesign
+score :  3.0526316
+installs : 100,000+
+ratings :  644
+reviews :  7
+
+title :  Night Owl Protect
+appId :  com.nightowlsp.nop
+score :  2.5669644
+installs : 500,000+
+ratings :  4710
+reviews :  3070
+
+title :  Kitchen Cabinet Design
+appId :  kitchen.cabinet.design
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Bedroom Wardrobe
+appId :  smartgr.bedroom.wardrobe
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Kitchen Design Gallery
+appId :  com.whiteclouds.kitchendesigngallery
+score :  4.1764708
+installs : 100,000+
+ratings :  305
+reviews :  7
+
+title :  Modern Gate Design Collection
+appId :  com.koleksigerbangbesimodern.danangpudjasugiharto
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  IndiHome Smart
+appId :  com.telkom.indihome.smart
+score :  2.9285715
+installs : 500,000+
+ratings :  2140
+reviews :  14
+
+title :  Local Got Talent: Home Service
+appId :  com.app.localgottalent1
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Floor & Wall Tiles Calculator
+appId :  com.whiteflower10001.Tile_Calculator
+score :  4.203704
+installs : 100,000+
+ratings :  325
+reviews :  26
+
+title :  Smart Gate Unlock
+appId :  com.roboart.smartgateunlock
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+

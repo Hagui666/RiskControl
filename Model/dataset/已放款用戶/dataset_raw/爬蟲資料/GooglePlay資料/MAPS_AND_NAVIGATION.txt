@@ -1,0 +1,1400 @@
+title :  inDrive. Rides with fair fares
+appId :  sinet.startup.inDriver
+score :  4.6447625
+installs : 100,000,000+
+ratings :  5323744
+reviews :  5544
+
+title :  Careem
+appId :  com.careem.acma
+score :  4.2356353
+installs : 10,000,000+
+ratings :  1287648
+reviews :  6364
+
+title :  Uber - Request a ride
+appId :  com.ubercab
+score :  4.6484785
+installs : 500,000,000+
+ratings :  11719484
+reviews :  291030
+
+title :  Yango — different from a taxi
+appId :  com.yandex.yango
+score :  4.7712765
+installs : 10,000,000+
+ratings :  429774
+reviews :  475
+
+title :  Daewoo Express Mobile
+appId :  com.app.daewoo.miles
+score :  4.72
+installs : 1,000,000+
+ratings :  118054
+reviews :  56
+
+title :  GPS Navigation Route Finder
+appId :  map.ly.gps.navigation.route.planer
+score :  4.36
+installs : 5,000,000+
+ratings :  11099
+reviews :  34
+
+title :  Live Satellite View GPS Map
+appId :  com.appscourt.livestreetview.gps.maps.travelnavigation.apps
+score :  3.9910715
+installs : 10,000,000+
+ratings :  34280
+reviews :  474
+
+title :  Phone Tracker: Phone Locator
+appId :  phonetracker.locationtracker.gpstracker.familylocator
+score :  4.5
+installs : 1,000,000+
+ratings :  12203
+reviews :  281
+
+title :  Sygic GPS Navigation & Maps
+appId :  com.sygic.aura
+score :  4.3266177
+installs : 50,000,000+
+ratings :  1847287
+reviews :  38919
+
+title :  Bykea Partner
+appId :  com.bykea.pk.partner
+score :  4.32
+installs : 1,000,000+
+ratings :  49141
+reviews :  52
+
+title :  GPS Maps: Navigation, Traffic
+appId :  gps.location.maps.navigation
+score :  3.4583333
+installs : 1,000,000+
+ratings :  2171
+reviews :  14
+
+title :  CarInfo - RTO Vehicle Info App
+appId :  com.cuvora.carinfo
+score :  4.47191
+installs : 10,000,000+
+ratings :  963606
+reviews :  512
+
+title :  Speedometer: GPS Speed Tracker
+appId :  com.digitalspeedometer.odometer.speedometer.speed
+score :  4.22
+installs : 1,000,000+
+ratings :  22352
+reviews :  184
+
+title :  Live Earth Map HD - Live Cam
+appId :  liveearthmap.liveearthcam.livestreetview
+score :  4.254464
+installs : 10,000,000+
+ratings :  45120
+reviews :  798
+
+title :  Speed Camera Radar: AntiPolice
+appId :  com.radar.detector.speed.camera.hud.speedometer
+score :  4.73
+installs : 5,000,000+
+ratings :  23518
+reviews :  128
+
+title :  GPS Maps, Navigation & Traffic
+appId :  com.jvstudios.gpstracker
+score :  4.192788
+installs : 10,000,000+
+ratings :  309197
+reviews :  2380
+
+title :  Live Earth Map - World Map 3D
+appId :  com.live.earthmap.streetview.livecam
+score :  4
+installs : 1,000,000+
+ratings :  14878
+reviews :  366
+
+title :  Radar, HUD, Map, Speed Camera
+appId :  shandy.radar.map.hud.navigation
+score :  4.47
+installs : 500,000+
+ratings :  4162
+reviews :  67
+
+title :  Earth 3D Map
+appId :  com.think.earth
+score :  4.6633663
+installs : 1,000,000+
+ratings :  4287
+reviews :  52
+
+title :  Radar, Speedometer, GPS, HUD
+appId :  uk.co.highapp.map.gps.radar
+score :  4.28
+installs : 1,000,000+
+ratings :  2605
+reviews :  29
+
+title :  Earth Map Satellite: View
+appId :  gps.navigation.maps.directions.location.finder.pro
+score :  3.860215
+installs : 500,000+
+ratings :  1517
+reviews :  37
+
+title :  GPS Speedometer - Odometer App
+appId :  gps.speedometer.digihud.odometer
+score :  4.5895195
+installs : 10,000,000+
+ratings :  102607
+reviews :  1657
+
+title :  Radar GO-X: HUD, GPS, Maps
+appId :  com.goxradar.hudnavigationapp21
+score :  4.464135
+installs : 10,000,000+
+ratings :  42162
+reviews :  661
+
+title :  Live Satellite & Location Maps
+appId :  com.livesatellite.gpsmap.location.route.navigation
+score :  4.28
+installs : 1,000,000+
+ratings :  6021
+reviews :  51
+
+title :  Earth Map: Live Satellite View
+appId :  com.live.earth.map.satellite.earth.landmarks.live.earth.cam
+score :  3.5632184
+installs : 500,000+
+ratings :  962
+reviews :  30
+
+title :  GPS Navigation - Route Planner
+appId :  com.gps.route.finder.mobile.location.tracker.maps.navigation
+score :  4.5083055
+installs : 10,000,000+
+ratings :  92820
+reviews :  952
+
+title :  Satellite View:Live Earth Maps
+appId :  com.gps.maps.livesatellite.navigation.routefinder
+score :  3.8695652
+installs : 1,000,000+
+ratings :  1147
+reviews :  29
+
+title :  GPS Maps - Live Navigation
+appId :  com.gps.maps.navigation.street.live.view.apptronix
+score :  4.3125
+installs : 100,000+
+ratings :  364
+reviews :  10
+
+title :  Live Earth Map: GPS Navigation
+appId :  com.satellitemap.voice.navigation.gps.locationfinder.driving.directions
+score :  4.32
+installs : 1,000,000+
+ratings :  2077
+reviews :  9
+
+title :  GPS Tracker: GPS Phone Locator
+appId :  com.locator.gpstracker.phone
+score :  4.3454547
+installs : 500,000+
+ratings :  1341
+reviews :  5
+
+title :  Maps Driving Directions
+appId :  com.gps.navigation.maps.directions
+score :  4.311111
+installs : 1,000,000+
+ratings :  2963
+reviews :  15
+
+title :  GPS, Maps, Voice Navigation & 
+appId :  com.maps.voice.navigation.traffic.gps.location.route.driving.directions
+score :  4.076433
+installs : 50,000,000+
+ratings :  92974
+reviews :  4175
+
+title :  Speedometer: GPS Speedometer
+appId :  gps.speedometer.gpsspeedometer.odometer
+score :  4.8636365
+installs : 500,000+
+ratings :  8429
+reviews :  493
+
+title :  Waze Navigation & Live Traffic
+appId :  com.waze
+score :  4.376531
+installs : 100,000,000+
+ratings :  8631966
+reviews :  632960
+
+title :  GPS Maps Location & Navigation
+appId :  com.gpsroutefinder.routemap.gpsnavigation.maps
+score :  4.397959
+installs : 1,000,000+
+ratings :  1757
+reviews :  21
+
+title :  Careem BIKE
+appId :  com.careem.bike
+score :  2.04
+installs : 100,000+
+ratings :  1024
+reviews :  17
+
+title :  GPS Navigation Globe Map 3D
+appId :  com.globe.worldmap.streetview.gpsnavigation.weather.satellitemap.liveglobemap
+score :  4.068182
+installs : 1,000,000+
+ratings :  2872
+reviews :  20
+
+title :  Earth Camera Online
+appId :  com.miczon.android.webcamapplication
+score :  4.08
+installs : 5,000,000+
+ratings :  26142
+reviews :  484
+
+title :  Live Street View - Earth Map
+appId :  livestreetview.gpsnavigation.liveearthmap
+score :  3.790476
+installs : 10,000,000+
+ratings :  31917
+reviews :  470
+
+title :  Find Wi-Fi  & Connect to Wi-Fi
+appId :  com.wefi.wefi
+score :  3.929368
+installs : 1,000,000+
+ratings :  15986
+reviews :  1103
+
+title :  Qibla Finder Compass 100%
+appId :  com.hundred.qibla.finder
+score :  4.38
+installs : 10,000,000+
+ratings :  38226
+reviews :  148
+
+title :  Radar Map, Radar Detector, HUD
+appId :  com.negroni.android.radar.maps.app
+score :  4.669903
+installs : 1,000,000+
+ratings :  4361
+reviews :  90
+
+title :  Earth Map Satellite
+appId :  com.live.earth.map.gps.navigation.directions.streetview.speedometer.satellite.webcam
+score :  3.3663366
+installs : 1,000,000+
+ratings :  1844
+reviews :  76
+
+title :  Maps All in One, Speedometer
+appId :  com.maps.radar.mapapp22
+score :  4.64
+installs : 5,000,000+
+ratings :  20755
+reviews :  180
+
+title :  DS Speedometer & Odometer
+appId :  com.discipleskies.android.speedometer
+score :  4.2846713
+installs : 5,000,000+
+ratings :  27958
+reviews :  414
+
+title :  Uber Lite
+appId :  com.ubercab.uberlite
+score :  4.23
+installs : 10,000,000+
+ratings :  445926
+reviews :  171
+
+title :  Car Key Lock Remote Simulator
+appId :  com.polysoftstudios.son.carkeysimulatorprankfree
+score :  3.36
+installs : 5,000,000+
+ratings :  7871
+reviews :  36
+
+title :  GPS Emulator
+appId :  com.rosteam.gpsemulator
+score :  4.707027
+installs : 5,000,000+
+ratings :  94425
+reviews :  2069
+
+title :  Radarbot Speed Camera Detector
+appId :  com.vialsoft.radarbot_free
+score :  4.2031913
+installs : 50,000,000+
+ratings :  482009
+reviews :  3967
+
+title :  Satfinder Dish Pointer
+appId :  com.ar.satfinder.geoareacalculator.inclinometer.quickdishalign.gyrocompass
+score :  4.38
+installs : 1,000,000+
+ratings :  2679
+reviews :  32
+
+title :  Bolt: Request a Ride
+appId :  ee.mtakso.client
+score :  4.722661
+installs : 50,000,000+
+ratings :  4285521
+reviews :  4256
+
+title :  Air Traffic - flight tracker
+appId :  eu.flightapps.airtraffic
+score :  4.5848565
+installs : 5,000,000+
+ratings :  90108
+reviews :  2462
+
+title :  Area Calculator For Land
+appId :  com.location.calculate.areas
+score :  3.69
+installs : 5,000,000+
+ratings :  15879
+reviews :  128
+
+title :  GPS Location Satellite View
+appId :  com.bluesky.live.gps.location.satellite.view.directions
+score :  4.3055553
+installs : 100,000+
+ratings :  449
+reviews :  18
+
+title :  All-In-One Offline Maps
+appId :  net.psyberia.offlinemaps
+score :  4.4183006
+installs : 5,000,000+
+ratings :  44007
+reviews :  1327
+
+title :  2GIS: Offline map & Navigation
+appId :  ru.dublgis.dgismobile
+score :  4.177711
+installs : 100,000,000+
+ratings :  1342848
+reviews :  833
+
+title :  GPS Navigation & Map Direction
+appId :  com.entertaininglogixapps.gps.navigation.direction.find.route.map.guide.pro
+score :  4.42959
+installs : 10,000,000+
+ratings :  62820
+reviews :  1986
+
+title :  Street View Live Map Satellite
+appId :  com.live.streetview.map
+score :  3.92
+installs : 500,000+
+ratings :  2747
+reviews :  72
+
+title :  Yango Pro (Taximeter)—driver
+appId :  com.yango.driver
+score :  3.6595745
+installs : 1,000,000+
+ratings :  7900
+reviews :  16
+
+title :  GPS Speedometer : HUD odometer
+appId :  com.ktwapps.speedometer
+score :  4.43
+installs : 5,000,000+
+ratings :  40522
+reviews :  299
+
+title :  GPS Speedometer - Trip Meter
+appId :  com.california.cyber.developers.gps.speedometer.tripmeter
+score :  4.1484375
+installs : 5,000,000+
+ratings :  73343
+reviews :  563
+
+title :  GPS Navigation - Route Finder
+appId :  com.gps.map.navigation.tracker.location.compass.handy
+score :  4.6633663
+installs : 10,000,000+
+ratings :  37916
+reviews :  171
+
+title :  Gps Area Calculator
+appId :  kbk.maparea.measure.geo
+score :  3.85
+installs : 5,000,000+
+ratings :  26045
+reviews :  143
+
+title :  Offline Map Navigation
+appId :  com.virtualmaze.offlinemapnavigationtracker
+score :  3.9052632
+installs : 1,000,000+
+ratings :  41678
+reviews :  1473
+
+title :  Easy Area : Land Area Measure
+appId :  easyarea.landcalculator.measuremap.gpsfieldgeo
+score :  4.13253
+installs : 500,000+
+ratings :  4811
+reviews :  23
+
+title :  Live Satellite View Earth Map
+appId :  com.navigationstreet.liveearthmap.liveearthcam.livestreetview.areafinder.gps.maps.travelnavigation
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Phone Number Tracker & Locator
+appId :  com.numberlocator.numbertracker.mobilenumberlocator
+score :  3.6666667
+installs : 10,000+
+ratings :  394
+reviews :  1
+
+title :  Qibla Compass- Qibla Direction
+appId :  com.sstsmartapps.qiblacompass.finddirection
+score :  3.6
+installs : 1,000,000+
+ratings :  14515
+reviews :  72
+
+title :  Compass App: Direction Compass
+appId :  com.taymay.compass
+score :  4.287129
+installs : 500,000+
+ratings :  2998
+reviews :  48
+
+title :  Compass
+appId :  com.compass.compassPlusGS
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Street View - Live Camera
+appId :  com.liveearthmap.streetviewmap.webcams.earthcam.liveweathermap.onlinecams
+score :  undefined
+installs : 5,000,000+
+ratings :  undefined
+reviews :  undefined
+
+title :  Land Area Calculator
+appId :  com.distancecalculatormap.landareacalculator
+score :  4.3861384
+installs : 1,000,000+
+ratings :  29053
+reviews :  148
+
+title :  Flight Tracker & Plane Finder
+appId :  com.flightsearch.flightviewfree.flighttracker.flightbooking.statustrack
+score :  3.56
+installs : 100,000+
+ratings :  595
+reviews :  24
+
+title :  Location Satellite Maps
+appId :  com.avenueinfotech.locationmaps
+score :  4.106383
+installs : 5,000,000+
+ratings :  7901
+reviews :  33
+
+title :  Moovit: Bus & Train Schedules
+appId :  com.tranzmate
+score :  4.4282174
+installs : 100,000,000+
+ratings :  1299782
+reviews :  36289
+
+title :  Mobile Number Tracker: Find My
+appId :  com.panaromicapps.calleridtracker
+score :  4.357143
+installs : 500,000+
+ratings :  7542
+reviews :  623
+
+title :  Street View Map: Satellite Map
+appId :  com.live.street.views.solar.system
+score :  3.90625
+installs : 100,000+
+ratings :  245
+reviews :  15
+
+title :  Speedometer, Distance Meter
+appId :  com.fragileheart.gpsspeedometer
+score :  4.451923
+installs : 10,000,000+
+ratings :  132083
+reviews :  909
+
+title :  Live Street View-GPS Camera 3D
+appId :  earth.earthmap.livemap.earthmaps.liveearth.maps3d.satellitemap.liveview.worldmap
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  GPS Route Maps & Navigation
+appId :  com.raa.gps.maps.voice.navigation.location.traffic.route.driving.directions
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Swvl - Daily Bus Rides
+appId :  io.swvl.customer
+score :  4.2598424
+installs : 10,000,000+
+ratings :  148125
+reviews :  249
+
+title :  Hellotracks - Tracks location
+appId :  com.hellotracks
+score :  4
+installs : 500,000+
+ratings :  5102
+reviews :  720
+
+title :  iTeck
+appId :  com.itecknologi.iteckapp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  GPS Speedometer
+appId :  com.morkim.thunder.gps
+score :  4.5163727
+installs : 1,000,000+
+ratings :  11607
+reviews :  1329
+
+title :  Maps Distance Calculator
+appId :  com.lketech.android.maps.distance.calculator
+score :  4.19
+installs : 1,000,000+
+ratings :  9314
+reviews :  273
+
+title :  Street View Map and Navigation
+appId :  com.gps.maps.navigation.webcam.translator
+score :  4.35
+installs : 1,000,000+
+ratings :  4411
+reviews :  80
+
+title :  calimoto – Motorcycle Rides
+appId :  com.calimoto.calimoto
+score :  3.8820224
+installs : 1,000,000+
+ratings :  36481
+reviews :  882
+
+title :  Earth Map Satellite: View Live
+appId :  com.live.earth.map.satellite.map.view.driving.directions.navigation
+score :  2.375
+installs : 100,000+
+ratings :  354
+reviews :  18
+
+title :  Trainline: Train travel Europe
+appId :  com.thetrainline
+score :  4.4405594
+installs : 10,000,000+
+ratings :  93169
+reviews :  511
+
+title :  Earth Map Satellite Live View
+appId :  com_3d.earth.map.live.earth.satellite.world.map.navigator
+score :  3.48
+installs : 1,000,000+
+ratings :  2069
+reviews :  75
+
+title :  TPL Trakker
+appId :  com.tpltrakker.main
+score :  3.79
+installs : 100,000+
+ratings :  3725
+reviews :  38
+
+title :  Tractor Trolley Simulator Game
+appId :  com.ticker.tractor.trolley.farming.simulator
+score :  4.7
+installs : 1,000,000+
+ratings :  5050
+reviews :  64
+
+title :  Driver's ID
+appId :  com.carparkingapp
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Land Measurement App - Jareeb
+appId :  com.techfarmerz.jareeb
+score :  4.25
+installs : 500,000+
+ratings :  2426
+reviews :  4
+
+title :  Area Measure Length GPS, GLand
+appId :  com.gis.toptoshirou.landmeasure.Glandmeasure
+score :  4.3619046
+installs : 1,000,000+
+ratings :  25945
+reviews :  49
+
+title :  GNSS Status (GPS Test)
+appId :  at.harnisch.android.gnss
+score :  4.2727275
+installs : 100,000+
+ratings :  773
+reviews :  7
+
+title :  Driver: Dash Cam & Cloud Sync
+appId :  com.trydriver.driver
+score :  4.1410255
+installs : 100,000+
+ratings :  1815
+reviews :  214
+
+title :  Street View Live 360°
+appId :  com.live_360.street.view
+score :  3.2
+installs : 10,000+
+ratings :  30
+reviews :  1
+
+title :  Voice GPS & Driving Directions
+appId :  com.voice.gps.driving.directions.gps.navigation.maps.location
+score :  4.5252523
+installs : 1,000,000+
+ratings :  11483
+reviews :  1822
+
+title :  Offline Maps, GPS Directions
+appId :  gps.maps.navigation.offlinemaps.drivingdirections
+score :  3.66
+installs : 1,000,000+
+ratings :  8212
+reviews :  150
+
+title :  Little
+appId :  com.craftsilicon.littlecabrider
+score :  2.6
+installs : 500,000+
+ratings :  5765
+reviews :  20
+
+title :  S'hail
+appId :  de.hafas.android.dimp
+score :  3.4285715
+installs : 500,000+
+ratings :  1383
+reviews :  16
+
+title :  Live Flight Tracker & Radar 24
+appId :  com.flight.tracker.flight.radar.plane.finder.live
+score :  3.1818182
+installs : 100,000+
+ratings :  165
+reviews :  6
+
+title :  Petal Maps – GPS & Navigation
+appId :  com.huawei.maps.app
+score :  4.02
+installs : 100,000,000+
+ratings :  51947
+reviews :  320
+
+title :  Grab Driver: Drive and Deliver
+appId :  com.grabtaxi.driver2
+score :  3.9952607
+installs : 10,000,000+
+ratings :  1497743
+reviews :  941
+
+title :  Car Key Remote Lock Simulator
+appId :  com.vulcanstudios.carkeylockremotesimulator
+score :  3.875
+installs : 100,000+
+ratings :  386
+reviews :  3
+
+title :  GPS Driving Directions & Maps
+appId :  com.guidedkeys.mapsnavigation
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Qibla Finder: Salah, Tasbeeh
+appId :  com.QiblaFinder.SalahApp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Udrive
+appId :  ae.udrive
+score :  3.2586207
+installs : 500,000+
+ratings :  4056
+reviews :  40
+
+title :  AreaCalc - GPS Area Calculator
+appId :  in.landreport.areacalculator
+score :  5
+installs : 100,000+
+ratings :  279
+reviews :  0
+
+title :  GPS Navigation Satellite Map
+appId :  com.gps.location.live.earth.map.diriving.direction.weather.voice.navigation
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  M Rides
+appId :  com.mbe.mrides
+score :  1.1666666
+installs : 50,000+
+ratings :  298
+reviews :  4
+
+title :  Area Calculator For Land
+appId :  markhor.gps.area.measurement
+score :  3.75
+installs : 100,000+
+ratings :  694
+reviews :  14
+
+title :  Car Lock Key Remote Control
+appId :  com.car.remote.control.caralarm
+score :  2.9473684
+installs : 500,000+
+ratings :  673
+reviews :  10
+
+title :  Smart Salik
+appId :  com.salik.smartsalik
+score :  3.63
+installs : 1,000,000+
+ratings :  5359
+reviews :  54
+
+title :  DiDi Rider: Affordable rides
+appId :  com.didiglobal.passenger
+score :  4.185864
+installs : 50,000,000+
+ratings :  874850
+reviews :  3601
+
+title :  Rahbar
+appId :  pk.gov.nadra.rahbar.android
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  My Location - Track GPS & Maps
+appId :  com.location.test
+score :  4.3775935
+installs : 10,000,000+
+ratings :  51718
+reviews :  600
+
+title :  Location Tracker - GPS Locator
+appId :  com.radarsontheroad.map.kozalakug
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  GPS Navigation Map Route Find
+appId :  com.gps.navigation.map.route.finder.app
+score :  3.9791667
+installs : 500,000+
+ratings :  2199
+reviews :  16
+
+title :  MarineTraffic - Ship Tracking
+appId :  com.marinetraffic.android
+score :  3.6777997
+installs : 1,000,000+
+ratings :  48087
+reviews :  1952
+
+title :  Aramex Mobile
+appId :  net.aramex
+score :  4.2349396
+installs : 1,000,000+
+ratings :  78158
+reviews :  348
+
+title :  Car / Bike GPS Dashboard
+appId :  com.watchandnavy.rams.velocity
+score :  4.1944447
+installs : 50,000+
+ratings :  191
+reviews :  11
+
+title :  Village map full HD 3d
+appId :  com.earthmap.livevillagemap
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Offline World Map
+appId :  com.ivision.worldmapatlas
+score :  3.95
+installs : 500,000+
+ratings :  3749
+reviews :  50
+
+title :  DigiHUD Speedometer
+appId :  org.mrchops.android.digihud
+score :  4.373016
+installs : 10,000,000+
+ratings :  78690
+reviews :  7279
+
+title :  Pakistan Maps
+appId :  yerli.uygulama.mapsofpakistan
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  GPS Maps Navigation Place Find
+appId :  com.megafreeapps.free.gps.navigation.speedometer.compass
+score :  4.33
+installs : 1,000,000+
+ratings :  15990
+reviews :  113
+
+title :  GPS Route Finder
+appId :  com.prime.studio.apps.route.finder.map
+score :  4.375706
+installs : 10,000,000+
+ratings :  150434
+reviews :  772
+
+title :  Route Finder GPS Navigation
+appId :  com.enginetech.voice.gps.navigation
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Citymapper
+appId :  com.citymapper.app.release
+score :  4.7396936
+installs : 10,000,000+
+ratings :  225577
+reviews :  4007
+
+title :  Earth Map Satellite: Live View
+appId :  liveearthmap.livesatelliteview.mylocation.streetviewmap
+score :  3.2772276
+installs : 100,000+
+ratings :  1312
+reviews :  103
+
+title :  Earth Map Satellite Live
+appId :  com.live.earth.map.satellite.map.street.view.gps.navigation
+score :  2.62
+installs : 1,000,000+
+ratings :  2772
+reviews :  462
+
+title :  GPS Maps, Live Satellite View
+appId :  com.gps.maps.satellieview.gpsnavigation.drivingdirections
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Map of Pakistan offline
+appId :  org.mapapps.mapyourtown.pakistan
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Bolt Driver: Drive & Earn
+appId :  ee.mtakso.driver
+score :  4.375
+installs : 10,000,000+
+ratings :  362413
+reviews :  690
+
+title :  Karwa Journey Planner
+appId :  com.mowasalat.karwabus
+score :  3.9615386
+installs : 100,000+
+ratings :  1892
+reviews :  11
+
+title :  Wikiloc Outdoor Navigation GPS
+appId :  com.wikiloc.wikilocandroid
+score :  4.35
+installs : 5,000,000+
+ratings :  78355
+reviews :  275
+
+title :  U Track Pro
+appId :  com.devslope.utrack
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  FREENOW
+appId :  taxi.android.client
+score :  4.005038
+installs : 10,000,000+
+ratings :  217675
+reviews :  1530
+
+title :  Find my Phone
+appId :  find.my.cellphone
+score :  4.07
+installs : 1,000,000+
+ratings :  3151
+reviews :  100
+
+title :  GPS Fields Area Measure App
+appId :  com.area.field.land.measure.measureapp
+score :  3.7272727
+installs : 500,000+
+ratings :  837
+reviews :  5
+
+title :  Dubai Metro
+appId :  com.mxdata.dubaimetro.Market
+score :  3.8148148
+installs : 100,000+
+ratings :  1028
+reviews :  10
+
+title :  Fake GPS Location Change Spoof
+appId :  location.changer.fake.gps.spoof.emulator
+score :  4.7449274
+installs : 1,000,000+
+ratings :  31970
+reviews :  792
+
+title :  Street View - 3D Live camera
+appId :  com.streetview.penorama.liveearthmap
+score :  3.96
+installs : 1,000,000+
+ratings :  8746
+reviews :  225
+
+title :  Fingerlator : GPS Area measure
+appId :  com.area.calculator.draw
+score :  4.266667
+installs : 500,000+
+ratings :  1992
+reviews :  24
+
+title :  GPS Speedometer: Car Dashboard
+appId :  com.tas.obd.dashboard.speedometer
+score :  3.1818182
+installs : 100,000+
+ratings :  548
+reviews :  22
+
+title :  RTA Smart Drive
+appId :  com.mireo.rtasmartdrive
+score :  4.609649
+installs : 1,000,000+
+ratings :  50962
+reviews :  574
+
+title :  Qilba Easy+
+appId :  com.grodrigueza.qilbaeasy
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Yandex Maps and Navigator
+appId :  ru.yandex.yandexmaps
+score :  4.3170733
+installs : 100,000,000+
+ratings :  854082
+reviews :  1077
+
+title :  GPS Speedometer: GNSS Odometer
+appId :  com.california.cowboy.studios.gps.speedometer.odometer
+score :  4.19
+installs : 1,000,000+
+ratings :  23126
+reviews :  140
+
+title :  Truck GPS Navigation - Maps
+appId :  com.truckgps.navigateroute.compassnavigation
+score :  4.5247526
+installs : 100,000+
+ratings :  398
+reviews :  156
+
+title :  Live Location & Buddy Tracker
+appId :  com.charisma.trackassistant.GPStrackingprofiling.guide
+score :  4
+installs : 100,000+
+ratings :  232
+reviews :  3
+
+title :  Yango Lite: light taxi app
+appId :  com.yango.lite
+score :  4.806452
+installs : 1,000,000+
+ratings :  42955
+reviews :  11
+
+title :  ÖBB Tickets
+appId :  at.oebb.ts
+score :  2.9
+installs : 1,000,000+
+ratings :  11254
+reviews :  65
+
+title :  Yandex Go — taxi and delivery
+appId :  ru.yandex.taxi
+score :  4.8374915
+installs : 100,000,000+
+ratings :  7476990
+reviews :  1660
+
+title :  GPS Navigation by Driving Maps
+appId :  com.voice.gps.driving.directions.navigation.gps.maps
+score :  4.23
+installs : 100,000+
+ratings :  1213
+reviews :  91
+
+title :  Autotrack Live
+appId :  com.autotracklive.android
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Speedometer - Odometer App
+appId :  com.gps.speedometer.odometer.speedtracker.pedometer.stepcounter
+score :  3.85
+installs : 1,000,000+
+ratings :  7797
+reviews :  204
+
+title :  GPS Navigation: Live Road Maps
+appId :  com.attractiveapps.gps.maps.navigation.speedometer.traffic.finder
+score :  4.32
+installs : 1,000,000+
+ratings :  2500
+reviews :  39
+
+title :  DriveMate KingKong
+appId :  jp.co.carmate.DKingKong
+score :  4.0882354
+installs : 500,000+
+ratings :  1681
+reviews :  13
+
+title :  Karta GPS Navigation & Traffic
+appId :  com.kartatech.karta.gps
+score :  4.4245014
+installs : 10,000,000+
+ratings :  112073
+reviews :  1528
+
+title :  Guardians from Truecaller
+appId :  com.truecaller.guardians
+score :  4.6857142
+installs : 5,000,000+
+ratings :  121198
+reviews :  222
+
+title :  Live Earth Map, Satellite View
+appId :  com.liveearthmaps.livelocations.gpsnavigation.livestreetview
+score :  4.16
+installs : 1,000,000+
+ratings :  6900
+reviews :  242
+
+title :  Oman Taxi: Otaxi
+appId :  com.multibrains.taxi.passenger.otaxi
+score :  4.88
+installs : 100,000+
+ratings :  10407
+reviews :  35
+
+title :  Rapido: Book Bike-Taxi & Auto
+appId :  com.rapido.passenger
+score :  4.674699
+installs : 50,000,000+
+ratings :  1619807
+reviews :  533
+
+title :  Lyft
+appId :  me.lyft.android
+score :  4.0109
+installs : 50,000,000+
+ratings :  322940
+reviews :  112663
+
+title :  Moon Finder
+appId :  com.table.yoel.compass
+score :  3.3846154
+installs : 10,000+
+ratings :  126
+reviews :  8
+
+title :  Karwa - Official
+appId :  com.karwatechnologies.karwataxi
+score :  4.61
+installs : 100,000+
+ratings :  10522
+reviews :  45
+
+title :  GPS Map Navigation: Earth Maps
+appId :  com.satellitemap.gpsnavigation.directions.drivingroute.tracking.free
+score :  4.2105265
+installs : 500,000+
+ratings :  892
+reviews :  15
+
+title :  TfL Go: Live Tube, Bus & Rail
+appId :  uk.gov.tfl.gotfl
+score :  4.6930695
+installs : 1,000,000+
+ratings :  13273
+reviews :  19
+
+title :  TrainPal - Cheap Train Tickets
+appId :  com.pal.train
+score :  4.6666665
+installs : 1,000,000+
+ratings :  12260
+reviews :  25
+
+title :  Find my Car - Car Locator
+appId :  com.visunia.car.finder
+score :  2.5833333
+installs : 100,000+
+ratings :  260
+reviews :  6
+
+title :  Live Satellite Maps: Earth Map
+appId :  com.streetview.traffic.earthmap.gps.navihation.finder.satellite
+score :  1.9090909
+installs : 100,000+
+ratings :  213
+reviews :  5
+
+title :  GPS Maps Voice Navigation App
+appId :  com.abl.gpstracker.navigation.maps.routefinder.app
+score :  4.125
+installs : 500,000+
+ratings :  541
+reviews :  5
+
+title :  Maps, GPS & Driving Directions
+appId :  com.gps.maps.appsence
+score :  4.26
+installs : 1,000,000+
+ratings :  3568
+reviews :  118
+
+title :  Live Street View - Earth Map
+appId :  com.streetmapview.world.camera
+score :  2.45
+installs : 50,000+
+ratings :  267
+reviews :  11
+
+title :  Takeme - The Booking App
+appId :  com.takemecab
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  XnX Browser - Video Downloader
+appId :  com.browserxax.browservideo
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Maps Distance Calculator
+appId :  com.routemap.mapdownload.gpsrouteplanner
+score :  4.34
+installs : 500,000+
+ratings :  6045
+reviews :  60
+
+title :  GPS Compass Navigator
+appId :  com.evo.gpscompassnavigator
+score :  3.86
+installs : 1,000,000+
+ratings :  5341
+reviews :  81
+
+title :  Police Detector - Speed Radar
+appId :  tat.example.ildar.seer
+score :  4.4112606
+installs : 10,000,000+
+ratings :  42219
+reviews :  2124
+
+title :  GPS Navigation, Map Directions
+appId :  com.gps.maps.navigation.route.finder
+score :  4
+installs : 1,000,000+
+ratings :  1788
+reviews :  9
+
+title :  Address Finder
+appId :  com.henteri.addressfinder
+score :  4.1076922
+installs : 100,000+
+ratings :  542
+reviews :  22
+
+title :  TOYOTA CONNECT Middle East
+appId :  me.co.tsp.tconnectme
+score :  3.4285715
+installs : 100,000+
+ratings :  338
+reviews :  3
+
+title :  Ola, Safe and affordable rides
+appId :  com.olacabs.customer
+score :  4.0692964
+installs : 100,000,000+
+ratings :  2230411
+reviews :  4024
+
+title :  Live earth maps: 3d world map
+appId :  com.voicerouteplanner.gpsdrivingdirection.gpsnavigation
+score :  3.887931
+installs : 1,000,000+
+ratings :  5137
+reviews :  599
+
+title :  Nexar - Connected AI Dash Cam
+appId :  mobi.nexar.dashcam
+score :  3.7037816
+installs : 100,000+
+ratings :  5861
+reviews :  2872
+
+title :  Cabify
+appId :  com.cabify.rider
+score :  3.8477366
+installs : 10,000,000+
+ratings :  236171
+reviews :  1086
+
+title :  what3words: Navigation & Maps
+appId :  com.what3words.android
+score :  3.9846153
+installs : 10,000,000+
+ratings :  43555
+reviews :  578
+
+title :  Street View Map and Earth Map
+appId :  com.livestreetview.streetviewmaps.gpsnavigation.liveearthmap.maps
+score :  3.5714285
+installs : 500,000+
+ratings :  503
+reviews :  24
+
+title :  Live Earth Cam - Webcams
+appId :  liveearthcams.onlinewebcams.livestreetview
+score :  3.4
+installs : 1,000,000+
+ratings :  7466
+reviews :  121
+
+title :  Transit: Bus & Subway Times
+appId :  com.thetransitapp.droid
+score :  4.5556054
+installs : 10,000,000+
+ratings :  127111
+reviews :  24504
+
+title :  Navionics® Boating
+appId :  it.navionics.singleAppMarineLakesHD
+score :  3.7146597
+installs : 5,000,000+
+ratings :  37420
+reviews :  1812
+
+title :  Fake Live Location | GPS
+appId :  com.technoviral.fakelivelocation
+score :  3.9285715
+installs : 100,000+
+ratings :  185
+reviews :  2
+
+title :  Mawgif
+appId :  com.mawgif
+score :  1.86
+installs : 500,000+
+ratings :  5094
+reviews :  68
+
+title :  Jeeny - جيني
+appId :  me.com.easytaxi
+score :  3.5142858
+installs : 1,000,000+
+ratings :  38447
+reviews :  128
+
+title :  Pathao
+appId :  com.pathao.user
+score :  3.1338582
+installs : 10,000,000+
+ratings :  93161
+reviews :  447
+
+title :  Live Satellite View, GPS Maps
+appId :  com.gpsearth.maphd.view3d.livesatellite.route.finderfree.navigation
+score :  4.015873
+installs : 1,000,000+
+ratings :  1605
+reviews :  17
+
+title :  GPS Live Earth Map View
+appId :  com.liveearthmap.location.route.finder.satellitemap.driving.directions.gpsnavigation
+score :  4.1666665
+installs : 100,000+
+ratings :  431
+reviews :  1
+

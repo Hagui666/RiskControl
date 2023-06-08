@@ -1,0 +1,1400 @@
+title :  Dress Up Game
+appId :  com.ant.dressup.game
+score :  4.611111
+installs : 10,000,000+
+ratings :  79600
+reviews :  218
+
+title :  WeMuslim: Athan, Qibla&Ramadan
+appId :  com.fyxtech.muslim
+score :  4.625
+installs : 500,000+
+ratings :  1396
+reviews :  18
+
+title :  Pinterest
+appId :  com.pinterest
+score :  4.548446
+installs : 500,000,000+
+ratings :  9819630
+reviews :  660352
+
+title :  Islam360: Quran, Hadith, Qibla
+appId :  com.islam360
+score :  4.5255814
+installs : 10,000,000+
+ratings :  249305
+reviews :  975
+
+title :  Fingerprint Scanner App
+appId :  fingerprint.scanner.tarot
+score :  4.33
+installs : 10,000,000+
+ratings :  121719
+reviews :  114
+
+title :  Duff Qibla Finder, Prayer Time
+appId :  com.duffqiblafinder.muslim.compassapp21
+score :  4.4814816
+installs : 10,000,000+
+ratings :  38988
+reviews :  244
+
+title :  All video downloader HD
+appId :  com.vdodlyvidmatapp.latestvideoplayer
+score :  4.5
+installs : 100,000+
+ratings :  253
+reviews :  0
+
+title :  Jazz Islam World
+appId :  com.jazz.islam.world
+score :  4.5
+installs : 1,000,000+
+ratings :  4571
+reviews :  8
+
+title :  Qibla Direction, Prayer Times
+appId :  uk.co.highapp.qiblafinder.prayertimes
+score :  4.3076925
+installs : 5,000,000+
+ratings :  23178
+reviews :  119
+
+title :  Tephra
+appId :  com.fire.tephra
+score :  4.5555553
+installs : 500,000+
+ratings :  779
+reviews :  1
+
+title :  Simple Mehndi Designs
+appId :  com.wondervenus.simplemehndidesigns
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Qibla Compass: Qibla Direction
+appId :  qibla.compass.finddirection.hijricalendar
+score :  4.3513513
+installs : 10,000,000+
+ratings :  116046
+reviews :  547
+
+title :  Prayer Times - Qibla & Namaz
+appId :  com.dawateislami.namaz
+score :  4.689189
+installs : 1,000,000+
+ratings :  114111
+reviews :  785
+
+title :  Google Home
+appId :  com.google.android.apps.chromecast.app
+score :  4.290292
+installs : 100,000,000+
+ratings :  1998219
+reviews :  135763
+
+title :  SweetClub Online Video Calling
+appId :  com.videomingle.chat
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Mehandi Designs
+appId :  com.skylandapps.designs.mehandidesigns
+score :  3.6666667
+installs : 500,000+
+ratings :  1241
+reviews :  3
+
+title :  Mehndi Arabic Indian HD Design
+appId :  com.happyverse.mehndidesign
+score :  4.6666665
+installs : 100,000+
+ratings :  334
+reviews :  0
+
+title :  Cupidabo - flirt chat & dating
+appId :  com.cupidabo.android
+score :  4.147059
+installs : 5,000,000+
+ratings :  60743
+reviews :  209
+
+title :  eMuslim
+appId :  com.muslimheart.islampro
+score :  4.11
+installs : 5,000,000+
+ratings :  16143
+reviews :  154
+
+title :  Prayer Time, Azan Alarm, Qibla
+appId :  com.muslimmer.prayer.times.qibla.compass.azan.holy.quran
+score :  4.43
+installs : 5,000,000+
+ratings :  14500
+reviews :  65
+
+title :  Qibla Compass- Qibla Direction
+appId :  prayertime.compassdirection.qiblafinder.hijricalender
+score :  4.54
+installs : 1,000,000+
+ratings :  15395
+reviews :  59
+
+title :  Girl Fashion Show: Makeup Game
+appId :  com.hmg.fashion.girls.dressup.stylist
+score :  4.22
+installs : 10,000,000+
+ratings :  53691
+reviews :  182
+
+title :  Read Carry Share
+appId :  org.ptl.app
+score :  4.118644
+installs : 5,000,000+
+ratings :  2303
+reviews :  20
+
+title :  Slime Art: Relaxing DIY ASMR
+appId :  com.goodland.slimeart
+score :  4.372549
+installs : 1,000,000+
+ratings :  4008
+reviews :  305
+
+title :  Tasbeeh Counter Pro - Dhikr
+appId :  com.riseofbrains.tasbeehcounterpro
+score :  4.69
+installs : 1,000,000+
+ratings :  12300
+reviews :  21
+
+title :  Daily Journal: Diary with lock
+appId :  com.happyverse.diarywithlock
+score :  4.749347
+installs : 1,000,000+
+ratings :  123044
+reviews :  1919
+
+title :  Cook'n Recipe App
+appId :  com.dvo.cookn
+score :  4.83871
+installs : 500,000+
+ratings :  1840
+reviews :  843
+
+title :  Muslim Muna:Azan, Ramadan 2023
+appId :  com.alhiwar
+score :  4.57549
+installs : 50,000,000+
+ratings :  800768
+reviews :  4066
+
+title :  Tumile - Live Video Chat
+appId :  com.rcplatform.livechat
+score :  4.3847847
+installs : 10,000,000+
+ratings :  483073
+reviews :  8890
+
+title :  ClipClaps - Find your interest
+appId :  com.sanhe.clipclaps
+score :  2.6640544
+installs : 10,000,000+
+ratings :  805781
+reviews :  10160
+
+title :  Money Well - Games for rewards
+appId :  online.moneywell.app
+score :  4.249624
+installs : 10,000,000+
+ratings :  478020
+reviews :  11113
+
+title :  Money App - Cash Rewards App
+appId :  proxima.easymoney.android
+score :  4.45251
+installs : 10,000,000+
+ratings :  428656
+reviews :  29529
+
+title :  Mates Only
+appId :  com.onlylove.chat.to.flirt
+score :  4.631579
+installs : 100,000+
+ratings :  3082
+reviews :  6
+
+title :  Hiface - Face Shape Detector
+appId :  com.hiface
+score :  2.63
+installs : 1,000,000+
+ratings :  10237
+reviews :  188
+
+title :  Make money with Givvy Videos
+appId :  com.givvyvideos
+score :  4.6287217
+installs : 1,000,000+
+ratings :  621118
+reviews :  3282
+
+title :  Muslim Pro: Ramadan 2023
+appId :  com.bitsmedia.android.muslimpro
+score :  3.960254
+installs : 100,000,000+
+ratings :  1839486
+reviews :  32862
+
+title :  Qibla Connect: Qibla Direction
+appId :  com.quranreading.qibladirection
+score :  4.390723
+installs : 10,000,000+
+ratings :  221590
+reviews :  3889
+
+title :  Live Onion Video Chat
+appId :  com.colive.orange
+score :  3.35
+installs : 1,000,000+
+ratings :  3644
+reviews :  40
+
+title :  Baby Girl Daily Caring
+appId :  air.net.chicworld.babygirldailycaring
+score :  3.74
+installs : 10,000,000+
+ratings :  9543
+reviews :  59
+
+title :  Wheel Spin Earn Money
+appId :  com.FourStarGroup.WheelSpinMoney
+score :  4.1136365
+installs : 100,000+
+ratings :  3093
+reviews :  15
+
+title :  Taurus – Daily Tasks & Cash
+appId :  com.taurus.app.android
+score :  4.071429
+installs : 5,000,000+
+ratings :  13815
+reviews :  7
+
+title :  Magnifier Plus with Flashlight
+appId :  mmapps.mobile.magnifier
+score :  4.5051394
+installs : 10,000,000+
+ratings :  76960
+reviews :  5001
+
+title :  Azan Prayer Time Alarm: Namaz
+appId :  azan.athan.prayer.time.saudi.arabia
+score :  4.81
+installs : 1,000,000+
+ratings :  12431
+reviews :  39
+
+title :  Muslim Quran Islam Prayer Time
+appId :  com.islam.muslim.life360.quran
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Qibla Direction - Qibla Finder
+appId :  com.qiblacompass.finddirection.prayertime.hijricalendar
+score :  4.5084743
+installs : 1,000,000+
+ratings :  40336
+reviews :  101
+
+title :  Naat Lyrics Library
+appId :  com.ummiapps.naatlibrary
+score :  4.5
+installs : 100,000+
+ratings :  2335
+reviews :  1
+
+title :  Cashyy - Play and win money
+appId :  online.cashyy.app
+score :  4.3680453
+installs : 5,000,000+
+ratings :  149894
+reviews :  4715
+
+title :  WiFi QR Code Scanner, iScanner
+appId :  com.happyverse.qrcodescanner
+score :  4.3846154
+installs : 1,000,000+
+ratings :  5370
+reviews :  16
+
+title :  Islamic Call Screen, Wallpaper
+appId :  com.islamic.callscreen.kozalakug
+score :  4.428571
+installs : 100,000+
+ratings :  328
+reviews :  2
+
+title :  Make Money - Cash Earning App
+appId :  com.tvtwo.highest.paying.cash.app.make.money.surveys.rewards.free.income
+score :  4.7821927
+installs : 10,000,000+
+ratings :  1676516
+reviews :  41227
+
+title :  Prayer Times - Azan Pro Muslim
+appId :  com.avirise.praytimes.azanreminder
+score :  4.4
+installs : 10,000,000+
+ratings :  34365
+reviews :  215
+
+title :  Diary with lock
+appId :  com.adpog.diary
+score :  4.7661047
+installs : 50,000,000+
+ratings :  1299297
+reviews :  72020
+
+title :  Make Money with Givvy Social
+appId :  com.givvysocial
+score :  4.572581
+installs : 1,000,000+
+ratings :  267148
+reviews :  2173
+
+title :  Mehndi Designs
+appId :  com.icyarena.android.mehndidesign
+score :  4.595238
+installs : 10,000,000+
+ratings :  36118
+reviews :  18
+
+title :  Digital Tasbeeh Counter
+appId :  com.sevapp.smart_tasbeeh
+score :  3.35
+installs : 5,000,000+
+ratings :  50565
+reviews :  244
+
+title :  Life : Personal Diary, Journal
+appId :  com.hitbytes.minidiarynotes
+score :  4.538874
+installs : 5,000,000+
+ratings :  134517
+reviews :  5282
+
+title :  Ring Sizer by Jason Withers ©
+appId :  ru.cherrydesign.ringsizer
+score :  4.3
+installs : 1,000,000+
+ratings :  1710
+reviews :  78
+
+title :  Dil Zid Kar Betha Urdu Novel
+appId :  com.hamtechnology.dilzidkarbetha.urdu.novel
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  JungleBox - Make Real Cash
+appId :  com.junglecash.moneybox
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  pattern lock screen
+appId :  com.lockscreen302.pattern
+score :  4.02
+installs : 10,000,000+
+ratings :  30943
+reviews :  176
+
+title :  Horoscope Lite
+appId :  com.horolite.horoscope
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Prayer Times : أوقات الصلاة
+appId :  gk.jm.com.prayertiming
+score :  4.8333335
+installs : 100,000+
+ratings :  1151
+reviews :  2
+
+title :  Real Fingerprint Fortune Test
+appId :  com.fingerprint.scanner.test.fortune
+score :  4.818182
+installs : 100,000+
+ratings :  1081
+reviews :  2
+
+title :  Fly Go for D.J.I Drone models
+appId :  dji.drone.go.fly.models
+score :  3.8737864
+installs : 500,000+
+ratings :  1580
+reviews :  63
+
+title :  Guroja - Live Video Chat
+appId :  com.colive.guroja
+score :  4.23
+installs : 1,000,000+
+ratings :  12665
+reviews :  135
+
+title :  Make Money - Real Cash App
+appId :  com.real.cashapp.make.money.playing.games.earn.cash.rewards.paid.surveys
+score :  4.758316
+installs : 5,000,000+
+ratings :  221408
+reviews :  4523
+
+title :  islamic Dua, Dua Qunoot,Namaz,
+appId :  com.freefuninfo.com.islamicpro
+score :  4.814815
+installs : 100,000+
+ratings :  5489
+reviews :  6
+
+title :  Swag Kicks
+appId :  com.swaglife.swagkicks
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Quotes Creator with Images
+appId :  com.vadeapps.frasesparastatus.criadorfrasesdemaloka
+score :  4.6862745
+installs : 1,000,000+
+ratings :  26698
+reviews :  147
+
+title :  My Diary - Daily Diary Journal
+appId :  mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary
+score :  4.8008113
+installs : 10,000,000+
+ratings :  757593
+reviews :  18528
+
+title :  Supertasker.pk
+appId :  com.supertaskers.pk
+score :  2.5714285
+installs : 100,000+
+ratings :  1977
+reviews :  3
+
+title :  Gesture Lock Screen
+appId :  qlocker.gesture
+score :  4.1292133
+installs : 10,000,000+
+ratings :  91069
+reviews :  814
+
+title :  My Secret Diary with Lock
+appId :  com.tsua.my.secret.diary.lock.photo
+score :  4.6017528
+installs : 10,000,000+
+ratings :  187609
+reviews :  1767
+
+title :  Creative Card: Make greeting e
+appId :  com.creativejoy.christmascard
+score :  4.15
+installs : 1,000,000+
+ratings :  8546
+reviews :  246
+
+title :  Princess Doll House Cleaning
+appId :  com.wowsomesphere.princessdollhousecleaning
+score :  5
+installs : 500,000+
+ratings :  556
+reviews :  1
+
+title :  Bermuda Video Chat
+appId :  vixr.bermuda
+score :  4.2114096
+installs : 10,000,000+
+ratings :  146781
+reviews :  1346
+
+title :  Super Slime Simulator: DIY Art
+appId :  com.dramaton.slime
+score :  4.2891836
+installs : 100,000,000+
+ratings :  658043
+reviews :  32572
+
+title :  Boys Men Hairstyles, Hair cuts
+appId :  com.hairstyles.menhairstyle
+score :  2.86
+installs : 1,000,000+
+ratings :  7557
+reviews :  91
+
+title :  GB WA Mod Blue Theme Version
+appId :  com.whatstool.happymod
+score :  4.3333335
+installs : 100,000+
+ratings :  1101
+reviews :  1
+
+title :  21 Days Challenge
+appId :  com.limatech.dayschallenge.dayschallenge
+score :  4.7444444
+installs : 5,000,000+
+ratings :  74312
+reviews :  2663
+
+title :  Faizan e Hadees
+appId :  com.dawateislami.islam.sunnah.hadees
+score :  4.6363635
+installs : 50,000+
+ratings :  2624
+reviews :  6
+
+title :  صلاتك Salatuk (Prayer time)
+appId :  com.masarat.salati
+score :  4.7119055
+installs : 50,000,000+
+ratings :  1675917
+reviews :  16551
+
+title :  Premise - Earn Money for Tasks
+appId :  com.premise.android.prod
+score :  3.5100806
+installs : 10,000,000+
+ratings :  144762
+reviews :  5219
+
+title :  Livesho - Live Random Chat
+appId :  tech.azhar.livetalk
+score :  3.89
+installs : 10,000,000+
+ratings :  19522
+reviews :  60
+
+title :  dubizzle
+appId :  com.dubizzle.horizontal
+score :  4.273684
+installs : 5,000,000+
+ratings :  138686
+reviews :  615
+
+title :  Mehndi designs - Easy & Simple
+appId :  com.simple.mehandi.design
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  happn - Dating App
+appId :  com.ftw_and_co.happn
+score :  3.4626842
+installs : 50,000,000+
+ratings :  1688168
+reviews :  17576
+
+title :  LDT-Leading Technology
+appId :  com.parttimetalent
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Qibla Compass - Find Direction
+appId :  com.as.qiblafinder.compass.finddirection.hijricalendar
+score :  4.888889
+installs : 10,000+
+ratings :  937
+reviews :  3
+
+title :  Attitude Poetry in Urdu Text
+appId :  com.statusworld.attitudepoetryurdu
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  TopU - video chat online
+appId :  com.topu.livechat
+score :  4.7674417
+installs : 5,000,000+
+ratings :  50539
+reviews :  464
+
+title :  ySense
+appId :  com.prodege.ysense
+score :  2.99
+installs : 1,000,000+
+ratings :  3352
+reviews :  96
+
+title :  Candy House Cleaning
+appId :  com.rosytales.candyhousecleaning
+score :  3.8292682
+installs : 500,000+
+ratings :  1463
+reviews :  4
+
+title :  Muslim & Quran - Prayer Times
+appId :  com.iqmpa.android.muslimandquranpro
+score :  4.428571
+installs : 10,000+
+ratings :  398
+reviews :  5
+
+title :  Astro Guru: Astrology, Daily H
+appId :  com.fortune.astroguru
+score :  4.2034383
+installs : 10,000,000+
+ratings :  89850
+reviews :  1428
+
+title :  mCrypto: Play to Earn Crypto
+appId :  com.gspl.mcrypto
+score :  4.4711537
+installs : 100,000+
+ratings :  6255
+reviews :  188
+
+title :  AiGo: AI ChatBot Assistant
+appId :  aichat.chatgpt
+score :  4.142857
+installs : 10,000+
+ratings :  249
+reviews :  31
+
+title :  CashBox
+appId :  com.cashboxgo.android
+score :  4.240741
+installs : 100,000+
+ratings :  2440
+reviews :  19
+
+title :  Black Wallpaper: Darkify
+appId :  com.blackwallshd.blackwallpapers
+score :  4.3117976
+installs : 10,000,000+
+ratings :  122617
+reviews :  1447
+
+title :  Eid al-Fitr 2023
+appId :  com.eidalfitr.eidalfitr2023
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Dog Translator: Game For Dogs
+appId :  dogtranslator.dogscanner.talkingdog.com
+score :  4
+installs : 100,000+
+ratings :  2988
+reviews :  70
+
+title :  Mehandi Step By Step Idea
+appId :  com.whiteclouds.mehndistepbystepideagallery
+score :  5
+installs : 500,000+
+ratings :  495
+reviews :  0
+
+title :  Girl Trouser Design
+appId :  com.fashioncollection.girltrouserdesign
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  MobileMic To Bluetooth Speaker
+appId :  com.artsol.bluetoothmicspeaker.mic.to.speaker.bluetooth.mobile.mictospeaker.bluetoothspeaker
+score :  3.2923076
+installs : 500,000+
+ratings :  2248
+reviews :  31
+
+title :  Fingerprint fortune telling
+appId :  com.Brain.Divination
+score :  4.2
+installs : 1,000,000+
+ratings :  13999
+reviews :  79
+
+title :  Ahoy
+appId :  com.ahoy.love.dating.meet.friends
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Diary with Lock: Daily Journal
+appId :  diary.journal.lock.mood.daily
+score :  4.909968
+installs : 1,000,000+
+ratings :  87940
+reviews :  1408
+
+title :  Athan: Prayer Times & Al Quran
+appId :  com.athan
+score :  4.7101154
+installs : 10,000,000+
+ratings :  273621
+reviews :  13683
+
+title :  MyDailyCash
+appId :  com.wingloryinternational.mydailycash
+score :  4.3872504
+installs : 5,000,000+
+ratings :  372972
+reviews :  2836
+
+title :  Holy Quran - Quran Offline MP3
+appId :  com.holyquran.offline.quran.prayertime.qiblacompass.dua.mp3
+score :  4.6296296
+installs : 100,000+
+ratings :  1220
+reviews :  11
+
+title :  Palm Reading & Fortune Teller
+appId :  com.internetdesignzone.palmreading
+score :  4.2651935
+installs : 1,000,000+
+ratings :  21657
+reviews :  689
+
+title :  Oddly Satisfying Slime Games
+appId :  com.kfs.slime.making.diy.satisfying.fluffy.factory.squishy.jelly.maker.endgame
+score :  2.83
+installs : 1,000,000+
+ratings :  6046
+reviews :  233
+
+title :  Daily Earn
+appId :  com.mlb.dailyearn
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Cash’em All: Play & Win
+appId :  online.cashemall.app
+score :  4.3639965
+installs : 50,000,000+
+ratings :  1181691
+reviews :  23386
+
+title :  Shake-it Alarm - Alarm Clock
+appId :  com.ingyomate.shakeit
+score :  4.362573
+installs : 5,000,000+
+ratings :  92625
+reviews :  1321
+
+title :  FREEMONEY - Play & Earn Money
+appId :  io.gametime
+score :  4.4317756
+installs : 100,000+
+ratings :  6625
+reviews :  724
+
+title :  Mehndi Design 2023
+appId :  com.uidevelopers.mehndidesignhd
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Scary Sound Effects - Ghost
+appId :  app.scarysoundeffects.ghostsounds
+score :  3.87
+installs : 1,000,000+
+ratings :  2405
+reviews :  54
+
+title :  WASticker - Romantic Stickers
+appId :  com.romanticstickers.lovestickers.coupleromantic.wasticker
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Kismet - Tarot, Astrology
+appId :  com.pilav.kismet
+score :  4.740675
+installs : 1,000,000+
+ratings :  71944
+reviews :  2148
+
+title :  Ladies Kurti Designs : Neck
+appId :  com.ladies.kurti.dress.designs
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Bolo Live -Stream & Video Chat
+appId :  com.boloindya.boloindya
+score :  3.88
+installs : 5,000,000+
+ratings :  33873
+reviews :  98
+
+title :  Life Palmistry - Palm&Gender
+appId :  com.life.palm
+score :  4.3023715
+installs : 5,000,000+
+ratings :  61900
+reviews :  1107
+
+title :  Tasbeeh Counter
+appId :  com.trkstudio.tasbeehcounter
+score :  4.91
+installs : 5,000,000+
+ratings :  78396
+reviews :  155
+
+title :  Music Player & Downloader 2023
+appId :  mp3.musicplayer.audioapp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Gaze - Live Random Video Chat
+appId :  video.chat.gaze
+score :  4.5392857
+installs : 1,000,000+
+ratings :  18158
+reviews :  817
+
+title :  Kurti Neck Designs for Girls
+appId :  com.entertainment.kurtineck.deignss
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Cinematic
+appId :  com.cinem.aticappl
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  MDF : Quit Porn Addiction
+appId :  manevolves.mdf
+score :  4.287129
+installs : 500,000+
+ratings :  12531
+reviews :  300
+
+title :  Mi Home
+appId :  com.xiaomi.smarthome
+score :  4.136164
+installs : 10,000,000+
+ratings :  1080366
+reviews :  4679
+
+title :  Muslim: Prayer Time Qibla Azan
+appId :  com.hundred.qibla
+score :  4.6028037
+installs : 10,000,000+
+ratings :  391205
+reviews :  2650
+
+title :  Cointiply - Earn Real Bitcoin
+appId :  com.cointiply.earn.bitcoin
+score :  4.3130193
+installs : 1,000,000+
+ratings :  30174
+reviews :  3872
+
+title :  Wedding Makeup Salon & Dressup
+appId :  com.citrusgamestudios.bollywood.traditionalweddingsalon
+score :  4.3
+installs : 5,000,000+
+ratings :  15266
+reviews :  46
+
+title :  1GB Data Daily
+appId :  com.wininternet.datadaily
+score :  3.1818182
+installs : 100,000+
+ratings :  681
+reviews :  12
+
+title :  Baby Bella Doll House
+appId :  com.winkypinky.BabyBellaDollHouse
+score :  3.2857144
+installs : 1,000,000+
+ratings :  2163
+reviews :  6
+
+title :  Lessons in Life Quotes
+appId :  studio.love.sweet.lessons.in.life.quotes
+score :  4.7018633
+installs : 5,000,000+
+ratings :  22842
+reviews :  500
+
+title :  Diary with text, audio, video
+appId :  com.mydiary.diaryjournal
+score :  4.3366337
+installs : 100,000+
+ratings :  2926
+reviews :  78
+
+title :  Life360: Live Location Sharing
+appId :  com.life360.android.safetymapd
+score :  4.588699
+installs : 100,000,000+
+ratings :  1723509
+reviews :  252961
+
+title :  Imou Life
+appId :  com.mm.android.smartlifeiot
+score :  4.7402596
+installs : 5,000,000+
+ratings :  174017
+reviews :  768
+
+title :  Learn Dance At Home
+appId :  learn.dance.move.step
+score :  4.16
+installs : 1,000,000+
+ratings :  8298
+reviews :  85
+
+title :  Xxnxx xo-broowser pro 2023
+appId :  com.microgrezm.xbrowser
+score :  4.4
+installs : 500,000+
+ratings :  3357
+reviews :  41
+
+title :  Ramadaan, Online Quran & Qibla
+appId :  com.islamworldapp.athan.alquran.muslimapp.qiblafinder.alarm.dua.freeapp
+score :  4.5
+installs : 100,000+
+ratings :  412
+reviews :  3
+
+title :  Al Quran Majeed - Holy Book
+appId :  com.ProQuranMajeed.AlQuranAndroid.ReadHolyQuran
+score :  4.2244897
+installs : 1,000,000+
+ratings :  2761
+reviews :  20
+
+title :  SmartThings
+appId :  com.samsung.android.oneconnect
+score :  4.1343427
+installs : 500,000,000+
+ratings :  1041921
+reviews :  46755
+
+title :  Eid Mubarak: Greeting, Photo F
+appId :  com.techzit.eidalfitr
+score :  4.3333335
+installs : 50,000+
+ratings :  231
+reviews :  2
+
+title :  Digital Tasbeeh Counter
+appId :  com.zikirmatik.digitaltasbeeh
+score :  4.1702127
+installs : 1,000,000+
+ratings :  11151
+reviews :  31
+
+title :  Mehndi Design 2023
+appId :  com.makeupcollections.simple.latest.mehndidesign2018
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  GB What Plus 2023
+appId :  com.gbfmtools.newgbversionplus
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Love Poetry Urdu
+appId :  com.statusworld.lovepoetryurdu
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  BTS Wallpaper HD 4K
+appId :  id.aibangstudio.btswallpaper
+score :  4.7391305
+installs : 1,000,000+
+ratings :  49783
+reviews :  301
+
+title :  Earn Money Games
+appId :  com.game.whale.lucky.cash
+score :  4.2
+installs : 1,000,000+
+ratings :  208505
+reviews :  617
+
+title :  AQWAL 360 - Islamic Quotes
+appId :  com.midhat.aqwal360
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Mall Girl Shopping Fun Simulat
+appId :  com.girls.fashion.entertainment.Girls.Shopping.Mall.Fun.Day.Fashion.Adventure
+score :  3.8235295
+installs : 1,000,000+
+ratings :  2924
+reviews :  20
+
+title :  Zaki Chat
+appId :  com.lzlz.qifei
+score :  4.32
+installs : 500,000+
+ratings :  3218
+reviews :  68
+
+title :  AyeVee
+appId :  com.asiaville.ayevee
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  101 Films HD
+appId :  com.oneandone.filmsapp
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Audio Surah Rahman
+appId :  com.three.surahrahman
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Rooh-e-Yaram Romantic Novel
+appId :  com.hamtechnology.rooheyaram.urdu.novel
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Muslim 360-Prayer Times, Quran
+appId :  com.muslim360.app
+score :  3.6666667
+installs : 100,000+
+ratings :  367
+reviews :  1
+
+title :  Marifat ul Quran
+appId :  com.dawateislami.marifatulquran.translations
+score :  4.7
+installs : 50,000+
+ratings :  1386
+reviews :  6
+
+title :  Islamic Names with Meanings
+appId :  com.al_nafy.islamicnames
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Bts Stickers For whatsApp 2023
+appId :  com.BTS.btsanimated_cute_bts_animate_love.stickermakerstar_kwai_wasticker
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Slime Games: Slime Simulator
+appId :  com.slime.games.slime.simulator
+score :  3.42
+installs : 1,000,000+
+ratings :  1155
+reviews :  16
+
+title :  Speedometer
+appId :  com.valueapps.utilities.speedometer
+score :  3.7103448
+installs : 1,000,000+
+ratings :  10466
+reviews :  264
+
+title :  Al-Quran (Pro)
+appId :  com.isysway.free.alquran
+score :  4.7160664
+installs : 50,000,000+
+ratings :  395586
+reviews :  3669
+
+title :  Smart Bracelet Watch
+appId :  com.smartbraceletwatch.d20d13.smartwatch
+score :  2.9310346
+installs : 100,000+
+ratings :  435
+reviews :  10
+
+title :  Latest Dress Designs
+appId :  com.hzk.latestdressdesigns
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Surah Yasin Audio MP3
+appId :  com.three.picturematch
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  MatchPub - Live Video Chat
+appId :  com.matchpublive
+score :  4.5
+installs : 500,000+
+ratings :  3812
+reviews :  46
+
+title :  Life Line Urdu Romantic Novel
+appId :  com.hamtechnology.lifeline.urdu.novel
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Trouser Design Latest 2022
+appId :  com.trouserdesignlatest2022.app2022
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  True Love Romantic Quotes
+appId :  com.manjul.lovequotes
+score :  4.81
+installs : 1,000,000+
+ratings :  5909
+reviews :  132
+
+title :  Black Boy Hairstyles
+appId :  com.feandroyuya.balckboyhairstyles
+score :  4.36
+installs : 1,000,000+
+ratings :  6963
+reviews :  118
+
+title :  Har Rag-e-Man Taar Urdu Novel
+appId :  com.hamtechnology.harragemantaar.urdu.novel
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Haismart
+appId :  com.haier.uhome.uplus.seasia
+score :  2.7391305
+installs : 100,000+
+ratings :  1073
+reviews :  15
+
+title :  Girl Wahtsup Number Video Chat
+appId :  english.english.zarooratrishta.zarooratrishta
+score :  4.1666665
+installs : 10,000+
+ratings :  474
+reviews :  1
+
+title :  Fingerprint Lock Horoscope
+appId :  com.tulisoft.fingerprint.horoscope
+score :  4.544304
+installs : 1,000,000+
+ratings :  13153
+reviews :  7
+
+title :  Vouch 365
+appId :  com.entertainerasia.vouch365
+score :  4.5405407
+installs : 100,000+
+ratings :  2277
+reviews :  28
+
+title :  Smart Life - Smart Living
+appId :  com.tuya.smartlife
+score :  4.6716285
+installs : 10,000,000+
+ratings :  501889
+reviews :  12153
+
+title :  UC and Royal Pass
+appId :  com.nvtechstudio.freeroyalpassanduc
+score :  4.54
+installs : 100,000+
+ratings :  9277
+reviews :  152
+
+title :  Makeup Videos - Beauty Tips
+appId :  com.makeupvideos
+score :  4.256757
+installs : 1,000,000+
+ratings :  4625
+reviews :  27
+
+title :  in Tags - Hashtags generator
+appId :  com.sunraylabs.socialtags
+score :  4.4478526
+installs : 1,000,000+
+ratings :  33193
+reviews :  604
+
+title :  My Daily Horoscope - Astrology
+appId :  com.horoscope.zodiac.astrology.stars
+score :  4.529412
+installs : 10,000+
+ratings :  327
+reviews :  5
+
+title :  Carbon Neutral & CO2 Meter
+appId :  com.co2offset
+score :  3
+installs : 10,000+
+ratings :  37
+reviews :  3
+
+title :  Islamic Calendar - Muslim Apps
+appId :  com.EaseApps.IslamicCalFree
+score :  4.756757
+installs : 1,000,000+
+ratings :  39724
+reviews :  631
+
+title :  Dump Truck 2020 - Heavy Loader
+appId :  com.offroad.dump.truck.simulator
+score :  3.6290324
+installs : 1,000,000+
+ratings :  4932
+reviews :  44
+
+title :  Lucky Money - Win Real Cash
+appId :  scratch.lucky.money.free.real.big.win
+score :  4.5589786
+installs : 10,000,000+
+ratings :  1207312
+reviews :  143956
+
+title :  Record Video With Screen Off
+appId :  com.igratitude.video.record.background.screen.off
+score :  3.7818182
+installs : 10,000+
+ratings :  176
+reviews :  47
+
+title :  Quotes in Urdu Offline
+appId :  com.totallyfreeapps.quotesinurdu
+score :  3.3333333
+installs : 100,000+
+ratings :  1063
+reviews :  3
+
+title :  Dashat-e-Yaram Tera Urdu Novel
+appId :  com.hamtechnology.dashateyaram.urdu.novel
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Lolita Avatar: Anime Avatar Ma
+appId :  cn.qz.lolita.avatar
+score :  3.895652
+installs : 1,000,000+
+ratings :  13004
+reviews :  635
+
+title :  Muslim Hub: Ramadan Azan Quran
+appId :  muslimpro.quran.prayertimes
+score :  4.5
+installs : 500,000+
+ratings :  987
+reviews :  0
+
+title :  Dosti Poetry Urdu
+appId :  com.statusworld.dostipoetryurdu
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Slime Game DIY Slime Simulator
+appId :  com.pgs.asmr.slime.game
+score :  3.909091
+installs : 500,000+
+ratings :  345
+reviews :  7
+
+title :  Magnifying Glass + Flashlight
+appId :  com.rvappstudios.magnifyingglass
+score :  4.646563
+installs : 10,000,000+
+ratings :  90737
+reviews :  6138
+
+title :  Play & Earn Real Cash by Givvy
+appId :  com.givvyplayearngamesfun
+score :  4.177215
+installs : 1,000,000+
+ratings :  75340
+reviews :  652
+
+title :  StyleZ - Face Shape Predictor
+appId :  com.abeed.stylez
+score :  1.5
+installs : 10,000+
+ratings :  70
+reviews :  5
+
+title :  Paynicorn - Enjoy Life
+appId :  com.paynicorn.pay
+score :  5
+installs : 100,000+
+ratings :  405
+reviews :  1
+
+title :  Woo USA - 30+ Dating & Friends
+appId :  com.u2opia.woo
+score :  3.249551
+installs : 10,000,000+
+ratings :  112048
+reviews :  1998
+
+title :  Bachon Ky Islamic Names
+appId :  com.AppTriple.IslamicNames
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+

@@ -1,0 +1,1400 @@
+title :  YouTube Kids
+appId :  com.google.android.apps.youtube.kids
+score :  4.3308578
+installs : 100,000,000+
+ratings :  2427274
+reviews :  79785
+
+title :  Vlad and Niki – games & videos
+appId :  me.apptivise.vladnikita
+score :  4.0498085
+installs : 10,000,000+
+ratings :  40665
+reviews :  205
+
+title :  Little Panda's Ice Cream Game
+appId :  com.sinyee.babybus.icecream
+score :  4.111111
+installs : 50,000,000+
+ratings :  108707
+reviews :  430
+
+title :  Piano Kids - Music & Songs
+appId :  com.orange.kidspiano.music.songs
+score :  4.388982
+installs : 100,000,000+
+ratings :  618540
+reviews :  5246
+
+title :  Coloring & Learn
+appId :  com.orange.coloring.learn.kids
+score :  4.1996465
+installs : 100,000,000+
+ratings :  236400
+reviews :  1402
+
+title :  VLC for Android
+appId :  org.videolan.vlc
+score :  4.1080065
+installs : 100,000,000+
+ratings :  1781797
+reviews :  21857
+
+title :  ABC 123 Kids: Number and math
+appId :  org.vinakids.ABC123
+score :  4.111111
+installs : 1,000,000+
+ratings :  924
+reviews :  1
+
+title :  Coloring Games: Color & Paint
+appId :  com.rvappstudios.kids.coloring.book.color.painting
+score :  3.992
+installs : 50,000,000+
+ratings :  63997
+reviews :  628
+
+title :  Toddler Coloring Book For Kids
+appId :  com.toddler.coloring
+score :  3.8648648
+installs : 1,000,000+
+ratings :  1366
+reviews :  11
+
+title :  Little Panda: Princess Salon
+appId :  com.kid58.lianyong.princessIII
+score :  4.04
+installs : 10,000,000+
+ratings :  43753
+reviews :  150
+
+title :  Icecream Cone Cupcake Baking
+appId :  com.hg.cupcakebaking.cakemaker.bakinggames.icecreamcake
+score :  3.6336634
+installs : 10,000,000+
+ratings :  21571
+reviews :  222
+
+title :  Fashion Dress up girls games
+appId :  com.gokids.tbdoll
+score :  4.22
+installs : 50,000,000+
+ratings :  43038
+reviews :  189
+
+title :  House Designer : Fix & Flip
+appId :  com.kgs.housedesigner
+score :  4.6704063
+installs : 100,000,000+
+ratings :  905763
+reviews :  18499
+
+title :  Hello Kitty Nail Salon
+appId :  com.budgestudios.HelloKittyNailSalon
+score :  3.789359
+installs : 100,000,000+
+ratings :  690983
+reviews :  12762
+
+title :  Kite Flying - Layang Layang
+appId :  br.pipacombate.maiworm
+score :  4
+installs : 50,000,000+
+ratings :  816344
+reviews :  640
+
+title :  Truck games - build a house
+appId :  com.gokids.transportbuilding
+score :  4.012346
+installs : 100,000,000+
+ratings :  227054
+reviews :  1075
+
+title :  Kids Games: For Toddlers 3-5
+appId :  com.rvappstudios.baby.toddler.kids.games.learning.activity
+score :  4.6666665
+installs : 10,000,000+
+ratings :  13093
+reviews :  55
+
+title :  Masha and the Bear Pizza Maker
+appId :  com.devgame.masha.and.bear.pizzeria.games
+score :  4.1843576
+installs : 10,000,000+
+ratings :  76727
+reviews :  602
+
+title :  Hair saloon - Spa salon
+appId :  com.YovoGames.hair
+score :  3.9508064
+installs : 100,000,000+
+ratings :  220436
+reviews :  5265
+
+title :  Messenger Kids – The Messaging
+appId :  com.facebook.talk
+score :  3.801287
+installs : 10,000,000+
+ratings :  199878
+reviews :  38375
+
+title :  Little Panda: Sweet Bakery
+appId :  com.mamara.bakery
+score :  4.07
+installs : 10,000,000+
+ratings :  38371
+reviews :  107
+
+title :  Baby Panda's School Bus
+appId :  com.sinyee.babybus.taxi
+score :  3.9367816
+installs : 100,000,000+
+ratings :  244329
+reviews :  1232
+
+title :  Educational games for kids 2-4
+appId :  com.arrowstar.FunnyFoodsLite
+score :  3.9722223
+installs : 10,000,000+
+ratings :  37209
+reviews :  437
+
+title :  Bini Drawing for kids games
+appId :  com.binibambini.MiniLite
+score :  4.033557
+installs : 10,000,000+
+ratings :  80195
+reviews :  1870
+
+title :  Baby Panda's Supermarket
+appId :  com.sinyee.babybus.shopping
+score :  4.0513196
+installs : 100,000,000+
+ratings :  384641
+reviews :  2480
+
+title :  Panda Games: Town Home
+appId :  com.sinyee.babybus.marketIV
+score :  0
+installs : 5,000,000+
+ratings :  0
+reviews :  0
+
+title :  BabyBus TV:Kids Videos & Games
+appId :  com.babybus.overseas.superjojo
+score :  undefined
+installs : 5,000,000+
+ratings :  undefined
+reviews :  undefined
+
+title :  Superbook Kids Bible App
+appId :  air.cbn.superbook.bible.app.android
+score :  4.8272233
+installs : 10,000,000+
+ratings :  253050
+reviews :  22766
+
+title :  Baby Panda World
+appId :  com.sinyee.babybus.world
+score :  4.273163
+installs : 100,000,000+
+ratings :  393767
+reviews :  1973
+
+title :  Puzzle Kids: Jigsaw Puzzles
+appId :  com.rvappstudios.jigsaw.puzzles.kids
+score :  4.0397353
+installs : 10,000,000+
+ratings :  25901
+reviews :  350
+
+title :  Glitter dress coloring and dra
+appId :  com.redberry.glitterdressa2
+score :  3.8247864
+installs : 50,000,000+
+ratings :  40443
+reviews :  663
+
+title :  ABC Kids - Tracing & Phonics
+appId :  com.rvappstudios.abc_kids_toddler_tracing_phonics
+score :  4.177909
+installs : 50,000,000+
+ratings :  76323
+reviews :  3716
+
+title :  Baby Princess Phone
+appId :  com.minibuu.princessphone
+score :  3.827103
+installs : 50,000,000+
+ratings :  82876
+reviews :  549
+
+title :  Vlad & Niki Supermarket game
+appId :  com.psv.vlad_and_nikita.supermarket
+score :  4.602767
+installs : 50,000,000+
+ratings :  82519
+reviews :  978
+
+title :  Baby Panda's Emergency Tips
+appId :  com.sinyee.babybus.ambulance
+score :  4
+installs : 10,000,000+
+ratings :  14100
+reviews :  110
+
+title :  English 101 - Learn to Write
+appId :  com.aspulstudios.english101
+score :  4.435484
+installs : 1,000,000+
+ratings :  1723
+reviews :  6
+
+title :  Baby Games: Piano & Baby Phone
+appId :  com.rvappstudios.baby.games.piano.phone.kids
+score :  4.3712296
+installs : 10,000,000+
+ratings :  29153
+reviews :  1260
+
+title :  Pepi Hospital: Learn & Care
+appId :  com.PepiPlay.PepiHospital
+score :  3.8271954
+installs : 50,000,000+
+ratings :  217063
+reviews :  4334
+
+title :  Bubbu – My Virtual Pet Cat
+appId :  com.bubadu.bubbu
+score :  4.202224
+installs : 100,000,000+
+ratings :  1057891
+reviews :  6007
+
+title :  Mermaids
+appId :  com.coloring.mermaids
+score :  4.102871
+installs : 50,000,000+
+ratings :  83995
+reviews :  840
+
+title :  Animal Coloring Book for Kids
+appId :  animals.book.kids.coloring
+score :  3.8333333
+installs : 1,000,000+
+ratings :  675
+reviews :  0
+
+title :  Fluvsies - A Fluff to Luv
+appId :  com.tutotoons.app.fluvsies.free
+score :  4.144266
+installs : 50,000,000+
+ratings :  283782
+reviews :  4868
+
+title :  Kids Multiplication Math Games
+appId :  com.rvappstudios.kids.multiplication.games.multiply.math
+score :  3.93
+installs : 10,000,000+
+ratings :  12061
+reviews :  186
+
+title :  Drawing Games: Draw & Color
+appId :  com.rvappstudios.kids.drawing.games.coloring.book.paint
+score :  3.82
+installs : 10,000,000+
+ratings :  15801
+reviews :  77
+
+title :  Princess Coloring & Dress Up
+appId :  com.forqan.tech.PrincessColoring
+score :  4.0205884
+installs : 50,000,000+
+ratings :  111235
+reviews :  397
+
+title :  Math Kids: Math Games For Kids
+appId :  com.rvappstudios.math.kids.counting
+score :  4.0472727
+installs : 10,000,000+
+ratings :  40010
+reviews :  794
+
+title :  Miraculous Life
+appId :  com.budgestudios.googleplay.MiraculousMIR
+score :  3.8504672
+installs : 1,000,000+
+ratings :  13790
+reviews :  222
+
+title :  Pepi Hospital 2: Flu Clinic
+appId :  com.pepiplay.pepihospital2
+score :  4
+installs : 1,000,000+
+ratings :  2476
+reviews :  66
+
+title :  Children's doctor : dentist
+appId :  com.YovoGames.dentist
+score :  3.9064665
+installs : 100,000,000+
+ratings :  166207
+reviews :  2509
+
+title :  Little Panda's Restaurant
+appId :  com.sinyee.babybus.restaurant
+score :  4.0340424
+installs : 50,000,000+
+ratings :  227185
+reviews :  1034
+
+title :  Baby Panda's Fashion Dress Up
+appId :  com.sinyee.babybus.tailor
+score :  3.9605262
+installs : 100,000,000+
+ratings :  192231
+reviews :  935
+
+title :  Baby Phone for Toddlers Games
+appId :  babyphone.freebabygames.com.babyphone
+score :  4.8251233
+installs : 10,000,000+
+ratings :  124223
+reviews :  1072
+
+title :  Little Panda: Princess Makeup
+appId :  com.sinyee.babybus.princessII
+score :  3.879518
+installs : 50,000,000+
+ratings :  147670
+reviews :  590
+
+title :  Valentines love coloring book
+appId :  com.coloring.love
+score :  4.435606
+installs : 10,000,000+
+ratings :  32805
+reviews :  526
+
+title :  Masha and the Bear Educational
+appId :  com.edujoy.masha.games
+score :  4.156146
+installs : 100,000,000+
+ratings :  265862
+reviews :  1010
+
+title :  My City : Dentist visit
+appId :  mycity.dentist
+score :  4.3861384
+installs : 500,000+
+ratings :  1732
+reviews :  60
+
+title :  Girl Squad: BFF Dress Up Games
+appId :  com.gamesforgirlsfree.girlssquad
+score :  4.225564
+installs : 10,000,000+
+ratings :  97444
+reviews :  1198
+
+title :  Supermarket Game
+appId :  com.bubadu.supermarket
+score :  4.084507
+installs : 50,000,000+
+ratings :  256628
+reviews :  836
+
+title :  Coco's Spa & Salon
+appId :  com.KidsAcademy123.games.coco.spa.salon
+score :  3.6571429
+installs : 1,000,000+
+ratings :  1131
+reviews :  9
+
+title :  Cars
+appId :  com.color.cars
+score :  4.264529
+installs : 50,000,000+
+ratings :  76063
+reviews :  658
+
+title :  Train Conductor World
+appId :  com.thevoxelagents.tc3
+score :  4.3549223
+installs : 10,000,000+
+ratings :  63702
+reviews :  1489
+
+title :  Maze for Kids
+appId :  hu.crabs.kidmaze
+score :  3.765625
+installs : 1,000,000+
+ratings :  1843
+reviews :  11
+
+title :  Little Panda's Kids Coloring
+appId :  com.sinyee.babybus.paintingIII
+score :  4.232143
+installs : 5,000,000+
+ratings :  3376
+reviews :  20
+
+title :  Tailor Fashion Games for Girls
+appId :  com.tadkagame.princesstailor
+score :  3.9729729
+installs : 1,000,000+
+ratings :  5614
+reviews :  10
+
+title :  Model Wedding - Girls Games
+appId :  com.gamesforgirlsfree.modelwedding
+score :  4.2941175
+installs : 10,000,000+
+ratings :  127814
+reviews :  1803
+
+title :  Bible App for Kids
+appId :  com.bible.kids
+score :  4.592103
+installs : 50,000,000+
+ratings :  363217
+reviews :  19411
+
+title :  Coloring Games for Kids: Color
+appId :  com.iz.coloring.games.kids.drawing.book.color.by.number
+score :  4.26
+installs : 10,000,000+
+ratings :  14733
+reviews :  95
+
+title :  Barbie Dreamhouse Adventures
+appId :  com.budgestudios.googleplay.BarbieDreamhouse
+score :  3.9720466
+installs : 50,000,000+
+ratings :  1034783
+reviews :  23808
+
+title :  Little panda's birthday party
+appId :  com.sinyee.babybus.birthdaypartyII
+score :  4.2
+installs : 10,000,000+
+ratings :  19006
+reviews :  85
+
+title :  Drawing Apps: Draw, Sketch Pad
+appId :  com.drawing.pad.desk.app.coloring.book.paint.sketch
+score :  4.29
+installs : 1,000,000+
+ratings :  2260
+reviews :  40
+
+title :  College Girls Team Makeover
+appId :  com.gamesforgirlsfree.collegegirlsteam
+score :  4.208861
+installs : 50,000,000+
+ratings :  311450
+reviews :  4888
+
+title :  Farming Simulator 14
+appId :  com.giantssoftware.fs14
+score :  3.9912148
+installs : 100,000,000+
+ratings :  1013918
+reviews :  12060
+
+title :  Baby Panda's Playhouse
+appId :  com.sinyee.babybus.talk2kiki.global
+score :  4.18
+installs : 10,000,000+
+ratings :  39820
+reviews :  182
+
+title :  Little Stories: Bedtime Books
+appId :  com.diveomedia.little.stories.bedtime.books.kids
+score :  4.5
+installs : 1,000,000+
+ratings :  5571
+reviews :  301
+
+title :  Writing Wizard - Learn Letters
+appId :  com.lescapadou.tracingfree
+score :  4.06
+installs : 5,000,000+
+ratings :  7395
+reviews :  343
+
+title :  Central Hospital Stories
+appId :  com.playtoddlers.centralhospitalstories.free
+score :  3.5040214
+installs : 10,000,000+
+ratings :  79007
+reviews :  1506
+
+title :  Kidzooly - Kids Rhymes & Games
+appId :  com.kidzooly.kids_nursery_rhymes_stories_learning
+score :  4.16
+installs : 1,000,000+
+ratings :  2435
+reviews :  24
+
+title :  WildCraft: Animal Sim Online
+appId :  com.turborocketgames.wildcraft
+score :  4.5290623
+installs : 50,000,000+
+ratings :  1028845
+reviews :  59752
+
+title :  Labo Brick Train Game For Kids
+appId :  com.laboladoapp.labo_brick_train_5y_free
+score :  4.1764708
+installs : 10,000,000+
+ratings :  23047
+reviews :  535
+
+title :  Supermarket: Shopping Games
+appId :  com.kidgame.supermarket
+score :  4.2862797
+installs : 50,000,000+
+ratings :  155590
+reviews :  2599
+
+title :  Kpopsies - Hatch Baby Unicorns
+appId :  com.tutotoons.app.kpopsiescuteunicornpets
+score :  4.029474
+installs : 10,000,000+
+ratings :  84202
+reviews :  1311
+
+title :  Giggle Babies - Toddler Care
+appId :  com.tutotoons.app.gigglebabies
+score :  4.0784316
+installs : 5,000,000+
+ratings :  7019
+reviews :  163
+
+title :  Pix123: Color by Number Games
+appId :  com.pixel.art.no.color.by.number.paint.draw
+score :  4.6115704
+installs : 10,000,000+
+ratings :  28715
+reviews :  408
+
+title :  Cooking in the Kitchen game
+appId :  com.tgg.kidscooking
+score :  4.2098503
+installs : 50,000,000+
+ratings :  362015
+reviews :  3699
+
+title :  Supermarket Game 2
+appId :  com.bubadu.supermarket2
+score :  4.23
+installs : 10,000,000+
+ratings :  57659
+reviews :  152
+
+title :  Chibi Doll - Avatar Creator
+appId :  com.animedressupgames.chibi
+score :  4.367436
+installs : 100,000,000+
+ratings :  354057
+reviews :  6153
+
+title :  Princess Computer - Girl Games
+appId :  com.minibuu.princesscomputer
+score :  4.07
+installs : 10,000,000+
+ratings :  35892
+reviews :  194
+
+title :  My City: Police Game for Kids
+appId :  mycity.police
+score :  4.009804
+installs : 1,000,000+
+ratings :  2796
+reviews :  56
+
+title :  ABC Tracing Preschool Games 2+
+appId :  com.gamesforkids.preschoolworksheets.alphabets
+score :  3.96875
+installs : 10,000,000+
+ratings :  20935
+reviews :  606
+
+title :  Little Panda’s Dream Town
+appId :  com.sinyee.babybus.village
+score :  3.9827585
+installs : 50,000,000+
+ratings :  57282
+reviews :  380
+
+title :  Paper Princess's Fantasy Life
+appId :  com.libii.frozenworld
+score :  4.1764708
+installs : 1,000,000+
+ratings :  4701
+reviews :  114
+
+title :  Pepi Super Stores: Fun & Games
+appId :  com.PepiPlay.PepiShopping
+score :  3.7811725
+installs : 50,000,000+
+ratings :  229004
+reviews :  6264
+
+title :  Little Panda's Town: My World
+appId :  com.sinyee.babybus.market
+score :  4.044944
+installs : 50,000,000+
+ratings :  155790
+reviews :  627
+
+title :  Kitty Kate Groom and Care
+appId :  air.KittyKateBabyCare
+score :  3.485294
+installs : 5,000,000+
+ratings :  8262
+reviews :  31
+
+title :  Masha and the Bear: Salon Game
+appId :  com.indigokids.mashamakeup
+score :  4.39
+installs : 10,000,000+
+ratings :  62846
+reviews :  296
+
+title :  Crayola Nail Party: Nail Salon
+appId :  com.budgestudios.CrayolaNailParty
+score :  3.7631416
+installs : 10,000,000+
+ratings :  92616
+reviews :  5661
+
+title :  Little Panda's Chinese Recipes
+appId :  com.sinyee.babybus.food
+score :  4.173913
+installs : 50,000,000+
+ratings :  162818
+reviews :  1354
+
+title :  Baby Panda's Airport
+appId :  com.sinyee.babybus.airport
+score :  4
+installs : 10,000,000+
+ratings :  32731
+reviews :  184
+
+title :  Baby Care : Toddler games
+appId :  com.YovoGames.babycare
+score :  3.7196467
+installs : 50,000,000+
+ratings :  91696
+reviews :  1442
+
+title :  Baby Panda Care: Daily Habits
+appId :  com.sinyee.babybus.selfcare
+score :  3.81
+installs : 10,000,000+
+ratings :  14071
+reviews :  77
+
+title :  Pepi House: Happy Family
+appId :  com.pepiplay.pepihome
+score :  3.858798
+installs : 50,000,000+
+ratings :  243012
+reviews :  7142
+
+title :  Little Panda: Princess Party
+appId :  com.sinyee.babybus.dance
+score :  4.27
+installs : 10,000,000+
+ratings :  28254
+reviews :  128
+
+title :  Little Panda Policeman
+appId :  com.sinyee.babybus.policemen
+score :  3.9455783
+installs : 50,000,000+
+ratings :  159075
+reviews :  891
+
+title :  Duddu - My Virtual Pet Dog
+appId :  com.bubadu.duddu
+score :  4.268786
+installs : 50,000,000+
+ratings :  296868
+reviews :  1506
+
+title :  Baby Panda's Town: My Dream
+appId :  com.sinyee.babybus.hero
+score :  4.0857143
+installs : 50,000,000+
+ratings :  71850
+reviews :  315
+
+title :  Little Panda's Dream Castle
+appId :  com.sinyee.babybus.designer
+score :  4.21
+installs : 10,000,000+
+ratings :  44893
+reviews :  131
+
+title :  300 English Words for Kids
+appId :  com.alefapps.learn_english_kids
+score :  4.1
+installs : 500,000+
+ratings :  1550
+reviews :  4
+
+title :  Labo Brick Car 2 Game for Kids
+appId :  com.laboladoapp.labo_brick_car2
+score :  4.23
+installs : 1,000,000+
+ratings :  5711
+reviews :  87
+
+title :  Baby games for 1 - 5 year olds
+appId :  vn.edugames.phone4kids
+score :  3.81
+installs : 10,000,000+
+ratings :  5638
+reviews :  38
+
+title :  Learn Alphabet Games for Kids
+appId :  com.mjplus.learnarabic
+score :  4.2
+installs : 10,000,000+
+ratings :  24797
+reviews :  82
+
+title :  Little Panda's Pet Salon
+appId :  com.sinyee.babybus.cosmetology
+score :  3.81
+installs : 50,000,000+
+ratings :  57192
+reviews :  296
+
+title :  Princess Coloring by Number
+appId :  com.piupiuapps.coloringbynumbersprincess
+score :  4.6
+installs : 1,000,000+
+ratings :  12965
+reviews :  211
+
+title :  Animal drawings: Learn to draw
+appId :  com.bonbongame.animal.coloring.book.drawings.toddlers.kids.game
+score :  4.178571
+installs : 1,000,000+
+ratings :  568
+reviews :  1
+
+title :  PAW Patrol Rescue World
+appId :  com.budgestudios.googleplay.PawPatrolRescueWorld
+score :  3.9204545
+installs : 10,000,000+
+ratings :  69776
+reviews :  792
+
+title :  Glitter House coloring and dra
+appId :  com.baramgames.coloringhouses
+score :  3.7586207
+installs : 1,000,000+
+ratings :  1938
+reviews :  7
+
+title :  Vlad & Niki 12 Locks
+appId :  com.rud.twelvelocksvn
+score :  4.470383
+installs : 10,000,000+
+ratings :  123499
+reviews :  1693
+
+title :  Coloring & Learn Animals
+appId :  com.orange.coloring.learn.kids.animals
+score :  3.94
+installs : 5,000,000+
+ratings :  7073
+reviews :  39
+
+title :  Dress Up Games
+appId :  com.gamesforgirlsfree.dressupgames
+score :  4.0684934
+installs : 100,000,000+
+ratings :  177937
+reviews :  1760
+
+title :  Monster Trucks Game for Kids 2
+appId :  com.razmobi.monstertrucks2
+score :  4.098214
+installs : 50,000,000+
+ratings :  96839
+reviews :  1368
+
+title :  Bubbu School - My Virtual Pets
+appId :  com.bubadu.bubbuschool
+score :  4.172249
+installs : 10,000,000+
+ratings :  128849
+reviews :  607
+
+title :  Toca Kitchen 2
+appId :  com.tocaboca.tocakitchen2
+score :  4.0665307
+installs : 100,000,000+
+ratings :  1698975
+reviews :  61224
+
+title :  My City - Boat adventures
+appId :  mycity.seaport
+score :  3.861386
+installs : 5,000,000+
+ratings :  6743
+reviews :  116
+
+title :  QuranStart
+appId :  com.elifproject
+score :  4.65
+installs : 1,000,000+
+ratings :  3170
+reviews :  12
+
+title :  123 Numbers - Count & Tracing
+appId :  com.rvappstudios.numbers123.toddler.counting.tracing
+score :  4.154362
+installs : 10,000,000+
+ratings :  12741
+reviews :  421
+
+title :  Vlad and Niki - Smart Games
+appId :  com.edujoy.vlad.niki
+score :  4.1945944
+installs : 10,000,000+
+ratings :  24018
+reviews :  378
+
+title :  Avatar World: City Life
+appId :  com.pazugames.avatarworld
+score :  4.3055553
+installs : 10,000,000+
+ratings :  100641
+reviews :  1696
+
+title :  Farm land & Harvest Kids Games
+appId :  com.gokids.tbagro
+score :  3.8533332
+installs : 10,000,000+
+ratings :  9828
+reviews :  33
+
+title :  Kids Monster Truck
+appId :  com.PSVStudio.HippoMonstarTruck
+score :  4.5914636
+installs : 10,000,000+
+ratings :  15835
+reviews :  237
+
+title :  Baby Panda's Town: Supermarket
+appId :  com.sinyee.babybus.shopkeeper
+score :  4.12
+installs : 10,000,000+
+ratings :  35531
+reviews :  83
+
+title :  Minecraft Education
+appId :  com.mojang.minecraftedu
+score :  4.084517
+installs : 10,000,000+
+ratings :  60608
+reviews :  6032
+
+title :  Baby Panda's Fun Park
+appId :  com.sinyee.babybus.amusement
+score :  4.0091743
+installs : 10,000,000+
+ratings :  108356
+reviews :  393
+
+title :  Kitty Kate Caring
+appId :  air.com.winkypinky.KittyKateCaring2
+score :  3.74
+installs : 10,000,000+
+ratings :  25165
+reviews :  161
+
+title :  Island building! Build a house
+appId :  com.gokids.tb_island
+score :  3.82
+installs : 10,000,000+
+ratings :  19761
+reviews :  77
+
+title :  Animal coloring pages
+appId :  com.vela.app.animal
+score :  4
+installs : 500,000+
+ratings :  527
+reviews :  0
+
+title :  Color Kids: Coloring Games
+appId :  com.rvappstudios.shapes.colors.toddler
+score :  4.601852
+installs : 10,000,000+
+ratings :  15997
+reviews :  524
+
+title :  House Flipper: Home Design
+appId :  com.imaginalis.HouseFlipperMobile
+score :  4.56369
+installs : 10,000,000+
+ratings :  2178135
+reviews :  40827
+
+title :  Cars for kids - Car builder
+appId :  com.bonbongame.car.tuning.vehicle.builder
+score :  3.78
+installs : 10,000,000+
+ratings :  10651
+reviews :  44
+
+title :  My City : Newborn baby
+appId :  mycity.newbornbaby
+score :  3.7
+installs : 10,000,000+
+ratings :  17299
+reviews :  282
+
+title :  Learn Like Nastya: Kids Games
+appId :  mobi.ka.lln.gp
+score :  4.236111
+installs : 1,000,000+
+ratings :  1041
+reviews :  12
+
+title :  Girls Nail Salon - Kids Games
+appId :  com.pazugames.nailsalon
+score :  3.8633332
+installs : 10,000,000+
+ratings :  37281
+reviews :  779
+
+title :  Baby Panda’s Chinese Holidays
+appId :  com.sinyee.babybus.culture
+score :  4.366337
+installs : 10,000,000+
+ratings :  13285
+reviews :  37
+
+title :  BabyBus Kids: Video&Game World
+appId :  com.sinyee.babybus.kids
+score :  4.11
+installs : 5,000,000+
+ratings :  11730
+reviews :  38
+
+title :  Food Number Games for Kids!
+appId :  biz.arrowstar.funnyfood3
+score :  4.2363634
+installs : 10,000,000+
+ratings :  41828
+reviews :  282
+
+title :  Barbie Magical Fashion
+appId :  com.budgestudios.BarbieMagicalFashion
+score :  3.9033787
+installs : 50,000,000+
+ratings :  413130
+reviews :  5846
+
+title :  My Little Pony: Magic Princess
+appId :  com.gameloft.android.ANMP.GloftPOHM
+score :  4.2308803
+installs : 50,000,000+
+ratings :  1459539
+reviews :  71936
+
+title :  Princess Coloring Book & Games
+appId :  com.orange.gamesforkids.coloring.princess
+score :  4.11
+installs : 10,000,000+
+ratings :  37354
+reviews :  215
+
+title :  Tooth Fairy Horse - Pony Care
+appId :  air.bullstudios.fairyhorsecare
+score :  4.0362697
+installs : 10,000,000+
+ratings :  53218
+reviews :  809
+
+title :  Baby Panda's Home Stories
+appId :  com.sinyee.babybus.familyday
+score :  3.62
+installs : 10,000,000+
+ratings :  8600
+reviews :  43
+
+title :  Painting and drawing game
+appId :  com.coloring.toddlers
+score :  4.2447762
+installs : 10,000,000+
+ratings :  44381
+reviews :  603
+
+title :  Little Panda Princess Dressup
+appId :  com.sinyee.babybus.princess
+score :  4.1545453
+installs : 10,000,000+
+ratings :  97540
+reviews :  423
+
+title :  ABC Preschool Kids Tracing
+appId :  kidzooly.abc_kids_learning_tracing
+score :  4.3373494
+installs : 5,000,000+
+ratings :  4194
+reviews :  14
+
+title :  slither.io
+appId :  air.com.hypah.io.slither
+score :  3.953444
+installs : 500,000,000+
+ratings :  6721115
+reviews :  312630
+
+title :  Baby Panda Care
+appId :  com.sinyee.babybus.care
+score :  3.856987
+installs : 50,000,000+
+ratings :  195783
+reviews :  3007
+
+title :  My Hospital Town Doctor Games
+appId :  com.iz.my.doctor.hospital.kids.world.life.town.pretend.play.games
+score :  3.64
+installs : 5,000,000+
+ratings :  17659
+reviews :  271
+
+title :  Spelling & Phonics: Kids Games
+appId :  com.rvappstudios.abc.spelling.toddler.spell.phonics
+score :  4.721519
+installs : 10,000,000+
+ratings :  19108
+reviews :  529
+
+title :  Chhota Bheem Shoot the Leyaks
+appId :  com.greengold.ShootLayeks
+score :  3.6440678
+installs : 1,000,000+
+ratings :  19633
+reviews :  446
+
+title :  Train Games for Kids: station
+appId :  com.gokids.trains
+score :  4.08
+installs : 10,000,000+
+ratings :  6770
+reviews :  48
+
+title :  Baby Piano Kids Music Games
+appId :  com.tt.toddler.songs.tunes.fun.games
+score :  4.125
+installs : 5,000,000+
+ratings :  3974
+reviews :  76
+
+title :  Glitter Number and letters col
+appId :  com.redberry.glitter123Abc
+score :  4.069307
+installs : 10,000,000+
+ratings :  4923
+reviews :  55
+
+title :  Baby Girl Daily Caring
+appId :  air.net.chicworld.babygirldailycaring
+score :  3.74
+installs : 10,000,000+
+ratings :  9543
+reviews :  59
+
+title :  Toca Life World: Build a Story
+appId :  com.tocaboca.tocalifeworld
+score :  4.2912564
+installs : 100,000,000+
+ratings :  4996874
+reviews :  170385
+
+title :  My City : Hotel
+appId :  mycity.hotel
+score :  4.2058825
+installs : 1,000,000+
+ratings :  9309
+reviews :  113
+
+title :  Masha and the Bear: Good Night
+appId :  com.psvnMaB.Goodnight
+score :  4.6101694
+installs : 10,000,000+
+ratings :  68559
+reviews :  496
+
+title :  Dinosaur Park Game for kids
+appId :  com.razmobi.kidsdinosaurgame
+score :  3.69
+installs : 5,000,000+
+ratings :  3849
+reviews :  67
+
+title :  Bini Toddler Drawing Games!
+appId :  com.binibambini.acad.drawing
+score :  3.71
+installs : 10,000,000+
+ratings :  14017
+reviews :  118
+
+title :  Fun Coloring games for kids
+appId :  com.baramfze.funcoloring
+score :  4.4
+installs : 500,000+
+ratings :  355
+reviews :  0
+
+title :  Toon Cup - Football Game
+appId :  com.turner.tooncup
+score :  4.0970874
+installs : 50,000,000+
+ratings :  536553
+reviews :  549
+
+title :  Car games for toddlers & kids
+appId :  com.amayasoft.cars.kids.toddlers.garage.game
+score :  3.76
+installs : 5,000,000+
+ratings :  7301
+reviews :  159
+
+title :  Little Panda's Farm
+appId :  com.sinyee.babybus.garden
+score :  3.94
+installs : 10,000,000+
+ratings :  120731
+reviews :  377
+
+title :  Builder Game
+appId :  com.bubadu.buildergame
+score :  4.09
+installs : 50,000,000+
+ratings :  128763
+reviews :  307
+
+title :  Babyphone game Numbers Animals
+appId :  com.gokids.bphone1
+score :  3.97
+installs : 50,000,000+
+ratings :  38579
+reviews :  192
+
+title :  PJ Masks™: Power Heroes
+appId :  com.pjmasks.powerheroes
+score :  4.089286
+installs : 1,000,000+
+ratings :  1079
+reviews :  12
+
+title :  Babyphone & tablet: baby games
+appId :  com.gokids.tablet
+score :  4.4242425
+installs : 10,000,000+
+ratings :  77888
+reviews :  410
+
+title :  Princess Gloria Makeup Salon
+appId :  com.tutotoons.app.princessgloriamakeupsalon.free
+score :  3.82
+installs : 5,000,000+
+ratings :  13719
+reviews :  274
+
+title :  Labo Tank-Armored Car & Truck
+appId :  com.laboladoapp.labo_tank
+score :  4.19
+installs : 5,000,000+
+ratings :  14664
+reviews :  118
+
+title :  ABC Games: Phonics & Tracing
+appId :  com.kids.learn.reading.app
+score :  4.638889
+installs : 5,000,000+
+ratings :  13990
+reviews :  910
+
+title :  Sweet Baby Girl Cleanup 5
+appId :  com.tutotoons.app.sweetbabygirlcleanup5.free
+score :  3.8230562
+installs : 50,000,000+
+ratings :  81619
+reviews :  2178
+
+title :  Baby Panda: Fishing
+appId :  com.sinyee.babybus.seaworld
+score :  4.02
+installs : 10,000,000+
+ratings :  23757
+reviews :  139
+
+title :  Pepi Wonder World: Magic Isle!
+appId :  com.PepiPlay.KingsCastle
+score :  4.267782
+installs : 10,000,000+
+ratings :  311611
+reviews :  5891
+
+title :  Super JoJo: Baby Care
+appId :  com.sinyee.jojo.careIII
+score :  3.85
+installs : 10,000,000+
+ratings :  8989
+reviews :  44
+
+title :  Math Games: Math for Kids
+appId :  com.rvappstudios.math.games.kids.addition.subtraction.multiplication.division
+score :  4.5748034
+installs : 10,000,000+
+ratings :  44447
+reviews :  480
+
+title :  Strawberry Shortcake Ice Cream
+appId :  com.budgestudios.googleplay.StrawberryShortcakeIceCreamIsland
+score :  3.2836258
+installs : 10,000,000+
+ratings :  107865
+reviews :  1473
+
+title :  Numbers for kid Learn to count
+appId :  com.gokids.livenumbers
+score :  3.9541984
+installs : 10,000,000+
+ratings :  27816
+reviews :  108
+
+title :  Cute Dress Maker Tailor Shop
+appId :  com.kidsgamesfactory.cute.dress.maker.shop
+score :  3.8709676
+installs : 1,000,000+
+ratings :  5426
+reviews :  17
+
+title :  Little Panda's Space Kitchen
+appId :  com.sinyee.babybus.kitchens
+score :  4.0064936
+installs : 50,000,000+
+ratings :  71878
+reviews :  485
+
+title :  My City : Jail House
+appId :  mycity.jailbreak
+score :  4.2156863
+installs : 5,000,000+
+ratings :  6158
+reviews :  122
+
+title :  StorySelf: kids loving story
+appId :  com.illuni.Storyself
+score :  3.8
+installs : 100,000+
+ratings :  453
+reviews :  9
+
+title :  Bubbu Restaurant - My Cat Game
+appId :  com.bubadu.bubburestaurant
+score :  4.2268906
+installs : 10,000,000+
+ratings :  115039
+reviews :  439
+
+title :  Baby Panda’s Summer: Vacation
+appId :  com.sinyee.babybus.holiday
+score :  3.83
+installs : 10,000,000+
+ratings :  43638
+reviews :  209
+
+title :  Dot to Dot : Connect the Dots
+appId :  com.two.bros.games.dot.to.dot
+score :  4.405476
+installs : 10,000,000+
+ratings :  126842
+reviews :  6193
+
+title :  Monster Truck Vlad & Niki
+appId :  com.psv.vlad_and_nikita.racing
+score :  4.592179
+installs : 10,000,000+
+ratings :  28857
+reviews :  345
+
+title :  BabyBus Kids Science
+appId :  com.ailiyong.world.course
+score :  4.347826
+installs : 1,000,000+
+ratings :  699
+reviews :  9
+
+title :  YouTube Kids for Android TV
+appId :  com.google.android.youtube.tvkids
+score :  3.01
+installs : 10,000,000+
+ratings :  3332
+reviews :  36
+
+title :  Mandala Coloring Pages
+appId :  com.color.mandala
+score :  4.3428173
+installs : 50,000,000+
+ratings :  353017
+reviews :  14394
+
+title :  Little Panda's Flowers DIY
+appId :  com.sinyee.babybus.greenhouse
+score :  4.18
+installs : 10,000,000+
+ratings :  33945
+reviews :  111
+
+title :  Little Panda's Snack Factory
+appId :  com.sinyee.babybus.snacks
+score :  4.08
+installs : 10,000,000+
+ratings :  34602
+reviews :  149
+
+title :  Smolsies - My Cute Pet House
+appId :  com.tutotoons.app.smolsiesmycutepethouse.free
+score :  4.126427
+installs : 50,000,000+
+ratings :  222711
+reviews :  4581
+
+title :  HappyKids - Kid-Safe Videos
+appId :  com.future.HappyKids
+score :  4.4266667
+installs : 1,000,000+
+ratings :  4208
+reviews :  373
+
+title :  My Town - Friends House game
+appId :  mytown.friendshouse.free
+score :  4.1732416
+installs : 10,000,000+
+ratings :  121996
+reviews :  1375
+
+title :  ABC Kids - Tracing & Phonics
+appId :  com.vs.kidsabc
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+

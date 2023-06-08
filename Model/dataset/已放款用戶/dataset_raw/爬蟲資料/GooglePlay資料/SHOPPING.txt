@@ -1,0 +1,1400 @@
+title :  Daraz Online Shopping App
+appId :  com.daraz.android
+score :  4.3264585
+installs : 50,000,000+
+ratings :  2690646
+reviews :  6929
+
+title :  OLX Pakistan - Online Shopping
+appId :  com.olx.pk
+score :  3.4951456
+installs : 10,000,000+
+ratings :  426076
+reviews :  392
+
+title :  Alibaba.com - B2B marketplace
+appId :  com.alibaba.intl.android.apps.poseidon
+score :  4.500741
+installs : 100,000,000+
+ratings :  2113805
+reviews :  37899
+
+title :  Savyour: Cashback & Discounts
+appId :  com.disrupt.savyour
+score :  4.16
+installs : 1,000,000+
+ratings :  22875
+reviews :  51
+
+title :  Amazon Shopping
+appId :  com.amazon.mShop.android.shopping
+score :  4.322191
+installs : 500,000,000+
+ratings :  3319700
+reviews :  279278
+
+title :  Markaz: Resell and Earn Money
+appId :  com.markaz.app
+score :  4.117647
+installs : 1,000,000+
+ratings :  11811
+reviews :  29
+
+title :  Zarya App
+appId :  com.zarya.app
+score :  4.2352943
+installs : 500,000+
+ratings :  1650
+reviews :  8
+
+title :  AliExpress
+appId :  com.alibaba.aliexpresshd
+score :  4.4769416
+installs : 500,000,000+
+ratings :  13882819
+reviews :  146641
+
+title :  SHEIN-Shopping Online
+appId :  com.zzkko
+score :  4.727056
+installs : 100,000,000+
+ratings :  5777137
+reviews :  180727
+
+title :  Krave Mart - Grocery Delivery
+appId :  com.krrave.customer
+score :  4.2178216
+installs : 1,000,000+
+ratings :  26326
+reviews :  40
+
+title :  Daraz Seller Center
+appId :  com.daraz.sellercenter
+score :  3.3
+installs : 1,000,000+
+ratings :  11848
+reviews :  110
+
+title :  Clicky Online Shopping App
+appId :  com.clicky.pk
+score :  4.5529413
+installs : 500,000+
+ratings :  16217
+reviews :  14
+
+title :  GilgitApp:Buy/Sell in Pakistan
+appId :  com.gilgitapp
+score :  4.8
+installs : 100,000+
+ratings :  1033
+reviews :  15
+
+title :  elo
+appId :  myexportleftovers.android.app
+score :  3.626506
+installs : 1,000,000+
+ratings :  11845
+reviews :  31
+
+title :  What Mobile Prices Pakistan
+appId :  pk.com.whatmobile.whatmobile
+score :  4.5384617
+installs : 1,000,000+
+ratings :  9376
+reviews :  18
+
+title :  ZAMA SHOPS Buy & Sell Pakistan
+appId :  com.zamashops
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Daraz Lite App
+appId :  com.daraz.shop.lite.sa
+score :  4.857143
+installs : 1,000,000+
+ratings :  3865
+reviews :  0
+
+title :  XPARK
+appId :  com.infinix.xpark
+score :  4.5
+installs : 10,000,000+
+ratings :  5439
+reviews :  3
+
+title :  LIUHUA MALL Apparel Wholesale
+appId :  com.leihou.liuhua
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  eBay: Marketplace for Shopping
+appId :  com.ebay.mobile
+score :  4.6964827
+installs : 100,000,000+
+ratings :  4534911
+reviews :  613386
+
+title :  MAF Carrefour Online Shopping
+appId :  com.aswat.carrefouruae
+score :  4.2723737
+installs : 10,000,000+
+ratings :  320959
+reviews :  791
+
+title :  KafCoupons - Get Coupons
+appId :  com.flutter.kafcoupons
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Khareedo
+appId :  com.kh.khareedo
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Imtiaz - Online Shopping
+appId :  com.imtiaz.superstore
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Made-in-China B2B Trade Online
+appId :  com.madeinchina.b2b.trade
+score :  4.2246375
+installs : 5,000,000+
+ratings :  20910
+reviews :  528
+
+title :  Temu: Shop Like a Billionaire
+appId :  com.einnovation.temu
+score :  4.6502457
+installs : 10,000,000+
+ratings :  158629
+reviews :  46281
+
+title :  Metro Online
+appId :  com.metro.metroestore
+score :  3.1346154
+installs : 1,000,000+
+ratings :  6477
+reviews :  23
+
+title :  noon shopping
+appId :  com.noon.buyerapp
+score :  4.10991
+installs : 10,000,000+
+ratings :  486278
+reviews :  2590
+
+title :  Used Heavy Machinery
+appId :  sg.huasing.catalog
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  LSM
+appId :  com.lsm.app
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  JoChaho
+appId :  com.gnehcgnahsnafbu.tsetipa
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Sun & Sand Sports Shopping App
+appId :  com.sssports.sssports
+score :  4.3762374
+installs : 1,000,000+
+ratings :  34331
+reviews :  77
+
+title :  SUNSKY Wholesale Dropship
+appId :  com.sunsky.app
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  AiHelper: Sales and Parcels
+appId :  com.xyz.alihelper
+score :  4.3861384
+installs : 5,000,000+
+ratings :  42923
+reviews :  155
+
+title :  The Bear House
+appId :  com.thebearhouse
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  بازار Bazaar
+appId :  bazaar.tech.com
+score :  4.195876
+installs : 500,000+
+ratings :  7551
+reviews :  37
+
+title :  MANDILINKS
+appId :  com.mandilinks
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Etsy: Custom & Creative Goods
+appId :  com.etsy.android
+score :  4.85605
+installs : 10,000,000+
+ratings :  1246676
+reviews :  63748
+
+title :  Naheed.pk Online Shopping App
+appId :  com.naheed.naheedpk
+score :  4.8690476
+installs : 500,000+
+ratings :  2959
+reviews :  6
+
+title :  Jomo: Shop.Wear.Live
+appId :  com.jomo_technologies.jomo
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  GrocerApp - Grocery Delivery
+appId :  com.barfee.mart
+score :  3.970297
+installs : 1,000,000+
+ratings :  26070
+reviews :  80
+
+title :  Online Shopping Pakistan
+appId :  com.pk.bazaar
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  DealCart - Grocery Application
+appId :  com.localpk.android
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Lazada - Online Shopping App!
+appId :  com.lazada.android
+score :  4.6999807
+installs : 100,000,000+
+ratings :  22194711
+reviews :  11223
+
+title :  Meesho: Online Shopping App
+appId :  com.meesho.supply
+score :  4.1152883
+installs : 100,000,000+
+ratings :  3237188
+reviews :  1302
+
+title :  Zigzag: +7000 shops in one app
+appId :  com.croquis.zigzag
+score :  4.56
+installs : 10,000,000+
+ratings :  77309
+reviews :  40
+
+title :  F Id Sell & Buy - For FF App
+appId :  com.sellbuyff.id
+score :  4.096774
+installs : 1,000,000+
+ratings :  3395
+reviews :  38
+
+title :  Al Fatah Online
+appId :  com.techandaz.alfatahstore
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Farm to Home: Fruits & Veggies
+appId :  com.switchsolutions.farmtohome
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Loyalty App
+appId :  com.ibstel.eshop
+score :  0
+installs : 500,000+
+ratings :  0
+reviews :  0
+
+title :  Phone Case Maker T Shirt Mug
+appId :  com.electronics.phonecasemaker
+score :  3.2051282
+installs : 1,000,000+
+ratings :  6666
+reviews :  29
+
+title :  Instant Gaming
+appId :  com.instantgaming.android
+score :  4.544554
+installs : 1,000,000+
+ratings :  12443
+reviews :  119
+
+title :  Nazim - Buy & Sell
+appId :  pk.nazim.marketplace
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Bogo Pakistan
+appId :  com.bogo.android
+score :  3.4375
+installs : 100,000+
+ratings :  1633
+reviews :  7
+
+title :  السوق المفتوح - OpenSooq
+appId :  com.opensooq.OpenSooq
+score :  4.2908087
+installs : 10,000,000+
+ratings :  445029
+reviews :  6341
+
+title :  Jugnu
+appId :  com.salesflo.jugnu.co
+score :  4.8
+installs : 100,000+
+ratings :  6323
+reviews :  7
+
+title :  Oriflame App
+appId :  com.oriflame.oriflame
+score :  4.28
+installs : 10,000,000+
+ratings :  86789
+reviews :  69
+
+title :  Flipkart Online Shopping App
+appId :  com.flipkart.android
+score :  4.374471
+installs : 500,000,000+
+ratings :  42020276
+reviews :  40752
+
+title :  Phone price & latest phone
+appId :  com.boulla.comparephones
+score :  4.09375
+installs : 500,000+
+ratings :  1096
+reviews :  11
+
+title :  Stylo.pk
+appId :  pk.stylo
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Airlift
+appId :  com.airlift.shop
+score :  3.7058823
+installs : 1,000,000+
+ratings :  46699
+reviews :  138
+
+title :  Mehrban Ali
+appId :  com.shahzadseraj.mehrban
+score :  4
+installs : 500,000+
+ratings :  5019
+reviews :  11
+
+title :  iSold: Beech De - Sell and Buy
+appId :  com.asad.iSold
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Chase Up
+appId :  com.ChaseUp
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Tabby | Shop now. Pay later‪.‬
+appId :  app.tabby.client
+score :  4.7647057
+installs : 1,000,000+
+ratings :  186289
+reviews :  297
+
+title :  DOCTOR BY
+appId :  com.cafe24.ec.plusanbio
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Picodi.com Cashback
+appId :  app.picodi
+score :  3.1538463
+installs : 100,000+
+ratings :  1457
+reviews :  7
+
+title :  Pakbreed: Sell and Buy Pets
+appId :  com.pakbreed.io.pakbreed
+score :  2.2727273
+installs : 10,000+
+ratings :  138
+reviews :  6
+
+title :  RIVAJ
+appId :  com.rivaj.app
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Car Toy shopping
+appId :  com.toycar_rccars_shoppingonline.carstoys
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  ARY Sahulat Wallet
+appId :  com.ary.arywalletcustomer
+score :  3
+installs : 100,000+
+ratings :  1893
+reviews :  8
+
+title :  OLX Saudi Arabia
+appId :  com.empg.olxsa
+score :  4.7777777
+installs : 100,000+
+ratings :  630
+reviews :  4
+
+title :  OLX Bahrain
+appId :  com.empg.olxbh
+score :  3
+installs : 100,000+
+ratings :  1292
+reviews :  6
+
+title :  Xb Deals: Track Game Prices
+appId :  com.xbox_deals.sales
+score :  4.69
+installs : 500,000+
+ratings :  4940
+reviews :  171
+
+title :  Idealz - Winning made easy!
+appId :  app.android.idealz.com
+score :  4.633333
+installs : 500,000+
+ratings :  3347
+reviews :  14
+
+title :  Safe Purchase
+appId :  com.paysec.safepurchase
+score :  3.9552238
+installs : 100,000+
+ratings :  4841
+reviews :  21
+
+title :  Remote Control toys
+appId :  com.onlineshopping_toys.remotecontroltoys
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Telemart - Online Shopping App
+appId :  com.icl.telemartbeta
+score :  2.787234
+installs : 100,000+
+ratings :  3767
+reviews :  22
+
+title :  Gajmarket
+appId :  ir.gaj.gajmarket
+score :  4
+installs : 100,000+
+ratings :  2687
+reviews :  24
+
+title :  Omega Shopping
+appId :  com.app.omegashopping
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  All Online Shopping Sites Hub
+appId :  com.all_online_shopping_sites.allinonehub
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Khaadi
+appId :  com.app.khaadipk
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  PocShapp shared shopping list
+appId :  rocks.hidi.poc
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Outfitters
+appId :  com.alchemative.outfitters.pk
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Unze
+appId :  com.unze.unze
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Smart Watch Online Shopping
+appId :  com.smartwatchshoppingapp
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Cartlow
+appId :  com.cartlow.android
+score :  4.02
+installs : 1,000,000+
+ratings :  15323
+reviews :  60
+
+title :  Shop MM - Online Shopping App
+appId :  com.shop.android
+score :  4.5107913
+installs : 1,000,000+
+ratings :  32320
+reviews :  278
+
+title :  QR code Scanner app
+appId :  com.application_4u.qrcode.barcode
+score :  4.590909
+installs : 10,000,000+
+ratings :  163854
+reviews :  2598
+
+title :  Nykaa: Beauty Shopping App
+appId :  com.fsn.nykaa
+score :  4.4725275
+installs : 10,000,000+
+ratings :  1032833
+reviews :  418
+
+title :  Jarir Bookstore مكتبة جرير
+appId :  com.jarirbookstore.JBMarketingApp
+score :  3.2
+installs : 5,000,000+
+ratings :  40907
+reviews :  277
+
+title :  Women Online Shopping
+appId :  shop.dhailawomenstore
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  حراج - Haraj
+appId :  com.haraj.app
+score :  4.5076923
+installs : 10,000,000+
+ratings :  265682
+reviews :  773
+
+title :  Markaz Supplier
+appId :  com.markaz.markazsupplierapp.android
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Fresh Basket - Online Grocery
+appId :  com.glaretech.freshbasket
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Price Scanner
+appId :  com.rmtheis.price.comparison.scanner
+score :  4.52
+installs : 500,000+
+ratings :  1487
+reviews :  67
+
+title :  IRONGEAR
+appId :  com.techandaz.irongear
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  LimeLight
+appId :  com.app.limelightstore
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  FD Top Up - 5 minutes
+appId :  com.fdtopup.fdtopup
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Lulu Shopping
+appId :  com.lulu.commerce
+score :  3.13
+installs : 1,000,000+
+ratings :  13640
+reviews :  86
+
+title :  Banggood - Online Shopping
+appId :  com.banggood.client
+score :  4.723844
+installs : 50,000,000+
+ratings :  398811
+reviews :  6718
+
+title :  Installment Mart
+appId :  com.installmentmart
+score :  4.7777777
+installs : 50,000+
+ratings :  504
+reviews :  35
+
+title :  Plentys Online Shopping App
+appId :  com.plentys.pk.android
+score :  4.6666665
+installs : 50,000+
+ratings :  750
+reviews :  6
+
+title :  OLX Oman
+appId :  com.empg.olxom
+score :  3.607143
+installs : 500,000+
+ratings :  2552
+reviews :  11
+
+title :  DJI Store
+appId :  com.dji.overSeaStore
+score :  3.1666667
+installs : 100,000+
+ratings :  404
+reviews :  22
+
+title :  Earn Rewards & Cashback
+appId :  com.grannyrewards.app
+score :  3.54
+installs : 1,000,000+
+ratings :  11910
+reviews :  231
+
+title :  Kissan Ghar
+appId :  com.jahan.kisan
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  ShopMrBeast
+appId :  app.shopmrbeast
+score :  4.121212
+installs : 100,000+
+ratings :  435
+reviews :  9
+
+title :  Box
+appId :  com.box_app
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Amazing Online Shopping App
+appId :  online.shoping.app.rpdapps2333
+score :  4.3267326
+installs : 50,000+
+ratings :  794
+reviews :  127
+
+title :  Cupshe - Clothing & Swimsuit
+appId :  com.cupshe.cupshe
+score :  4.242718
+installs : 500,000+
+ratings :  1556
+reviews :  382
+
+title :  EcoNex - Online Shopping in Pa
+appId :  com.ibrahim.econex
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  ChicPoint
+appId :  com.chic.point
+score :  3.3064516
+installs : 5,000,000+
+ratings :  9088
+reviews :  26
+
+title :  Phone Cooler
+appId :  com.iphonecooler
+score :  3.4285715
+installs : 10,000+
+ratings :  65
+reviews :  2
+
+title :  Ubuy: International Shopping
+appId :  com.ubuy
+score :  3.37
+installs : 1,000,000+
+ratings :  7863
+reviews :  70
+
+title :  Lenskart : Eyeglasses & More
+appId :  com.lenskart.app
+score :  4.09
+installs : 10,000,000+
+ratings :  386039
+reviews :  317
+
+title :  WED2C
+appId :  com.wed2c.seller
+score :  3.3529413
+installs : 10,000+
+ratings :  149
+reviews :  9
+
+title :  LightInTheBox Online Shopping
+appId :  com.lightinthebox.android
+score :  4.491892
+installs : 10,000,000+
+ratings :  198827
+reviews :  10710
+
+title :  B&H Photo Video
+appId :  com.bhphoto
+score :  4.1978865
+installs : 1,000,000+
+ratings :  21510
+reviews :  3819
+
+title :  Miss Rose
+appId :  com.tricasol.missrose
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  mourjan
+appId :  com.mourjan.classifieds
+score :  4.37
+installs : 1,000,000+
+ratings :  66459
+reviews :  198
+
+title :  RC Cars toys online shopping
+appId :  com.geekeryapps.cartoys.remotecontrolcars
+score :  3.590909
+installs : 100,000+
+ratings :  443
+reviews :  7
+
+title :  G2A
+appId :  com.g2a.marketplace
+score :  4.367647
+installs : 5,000,000+
+ratings :  49142
+reviews :  2511
+
+title :  desertcart
+appId :  com.desertcartnative
+score :  3.7
+installs : 500,000+
+ratings :  4188
+reviews :  95
+
+title :  Mobile Phone Online Shopping
+appId :  shop.dhailasmartphoneonline
+score :  5
+installs : 100,000+
+ratings :  191
+reviews :  0
+
+title :  Chase Value
+appId :  com.chase.value
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  edenrobe
+appId :  com.app.edenrobe
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Electric Car Toy shopping
+appId :  com.aptivdev.carstoys
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  tamara | Shop & Split Payments
+appId :  co.tamara.user
+score :  4.713287
+installs : 1,000,000+
+ratings :  120542
+reviews :  146
+
+title :  Electric Car Toy
+appId :  com.carstoys.onlineshopping_toycar
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Emirates Draw
+appId :  com.emiratesdraw.mobile
+score :  4.4
+installs : 500,000+
+ratings :  1432
+reviews :  5
+
+title :  Service Shoes Men Women Kids
+appId :  com.wServisOnlineShoesStoreMenWomenKids_16223199
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Zara
+appId :  com.inditex.zara
+score :  4.7990274
+installs : 50,000,000+
+ratings :  463452
+reviews :  2308
+
+title :  Panda Mart
+appId :  co.stehrcorp.panda
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  AppsFree
+appId :  com.appsfree.android
+score :  4.426357
+installs : 1,000,000+
+ratings :  31118
+reviews :  1490
+
+title :  INAAM
+appId :  com.AlWafa.Nesto
+score :  3.9130435
+installs : 1,000,000+
+ratings :  5051
+reviews :  26
+
+title :  Remote control toys
+appId :  com.boulla.rc_toys
+score :  2.6
+installs : 10,000+
+ratings :  36
+reviews :  2
+
+title :  Jobs Portal
+appId :  com.gaxmax.jobssultan.jobsinpakistan
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  FatCoupon Cash Back & Codes
+appId :  com.gong.fatcoupon
+score :  4.375
+installs : 50,000+
+ratings :  1547
+reviews :  747
+
+title :  Hamza Store
+appId :  pk.com.hamzastore
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Kids toys online shopping app
+appId :  com.onlineshopping.kidstoys.toys_shopping_app
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  淘宝
+appId :  com.taobao.taobao
+score :  2.25137
+installs : 10,000,000+
+ratings :  165893
+reviews :  6716
+
+title :  Electric Car Toy Shopping
+appId :  est.electriccartoy
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Centrepoint - سنتربوينت
+appId :  com.landmarkgroup.centrepointstores
+score :  4.6
+installs : 5,000,000+
+ratings :  53962
+reviews :  118
+
+title :  ShopSavvy - Barcode Scanner
+appId :  com.biggu.shopsavvy
+score :  4.673132
+installs : 10,000,000+
+ratings :  116535
+reviews :  20888
+
+title :  Saamaan.PK
+appId :  pk.saamaan.fluxstore
+score :  5
+installs : 10,000+
+ratings :  426
+reviews :  4
+
+title :  Pakistani Bazaar - Buy & Sell
+appId :  pakistanibazaar.pk
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  مزاد قطر Mzad Qatar
+appId :  com.mzadqatar.mzadqatar
+score :  4.2293577
+installs : 1,000,000+
+ratings :  43077
+reviews :  283
+
+title :  Fordeal - فورديل سوق الانترنت
+appId :  com.fordeal.android
+score :  3.8057554
+installs : 10,000,000+
+ratings :  112174
+reviews :  614
+
+title :  Max Fashion - ماكس فاشون
+appId :  com.landmarkgroup.maxstores
+score :  4.732673
+installs : 5,000,000+
+ratings :  45186
+reviews :  97
+
+title :  Weverse Shop
+appId :  co.benx.weply
+score :  4.0072727
+installs : 5,000,000+
+ratings :  41548
+reviews :  760
+
+title :  ClicFlyer-Weekly Deals, Coupon
+appId :  main.ClicFlyer
+score :  4.17
+installs : 1,000,000+
+ratings :  13213
+reviews :  62
+
+title :  SmartEshop.Pk
+appId :  com.mrengineer.smarteshop
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Myntra - Fashion Shopping App
+appId :  com.myntra.android
+score :  4.358683
+installs : 100,000,000+
+ratings :  4012850
+reviews :  7331
+
+title :  eXtra
+appId :  com.asgatech.extra
+score :  4.03
+installs : 5,000,000+
+ratings :  42808
+reviews :  202
+
+title :  CSD Cart
+appId :  com.csdcart.app
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Scents N Stories
+appId :  com.blink.scentsnstories
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Urdu Bazaar
+appId :  co.shopney.urdubazaar
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Women Dress Online Shopping
+appId :  shop.dhailaonlinewomendress
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Namshi - We Move Fashion
+appId :  com.namshi.android
+score :  4.264317
+installs : 10,000,000+
+ratings :  152329
+reviews :  380
+
+title :  Tips Online Shopee Shopping
+appId :  com.shopeetipsdda.oakd
+score :  3.3333333
+installs : 50,000+
+ratings :  166
+reviews :  3
+
+title :  BIN HASHIM
+appId :  com.blink.binhashimpharmacysupermarket
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Parcels: Track Online Orders
+appId :  com.brightstripe.parcels
+score :  3.8019803
+installs : 1,000,000+
+ratings :  20063
+reviews :  434
+
+title :  Zaraee.pk
+appId :  com.zaraee.zaraee_customer_app
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Negative Apparel
+appId :  co.shopney.negativeapparel
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  AlfaBee
+appId :  com.app.alfabee
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Buy cell phones for cheap
+appId :  com.boulla.cellphone
+score :  4.340659
+installs : 500,000+
+ratings :  1251
+reviews :  28
+
+title :  Barcode Scanner Pro
+appId :  com.geekslab.qrbarcodescanner.pro
+score :  4.45073
+installs : 10,000,000+
+ratings :  184354
+reviews :  4989
+
+title :  AfterShip Package Tracker - Tr
+appId :  com.aftership.AfterShip
+score :  4.61683
+installs : 5,000,000+
+ratings :  241054
+reviews :  30495
+
+title :  LIFE Pharmacy
+appId :  com.lifepharmacy.application
+score :  3.44
+installs : 500,000+
+ratings :  6505
+reviews :  18
+
+title :  OLX Qatar
+appId :  com.empg.olxqa
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Jolliz - Piercing Photo Editor
+appId :  com.jolliz.mobile.app
+score :  4.3636365
+installs : 10,000+
+ratings :  21
+reviews :  5
+
+title :  Shop: All your favorite brands
+appId :  com.shopify.arrive
+score :  4.7000847
+installs : 10,000,000+
+ratings :  463099
+reviews :  142761
+
+title :  Mobile Bazaar
+appId :  com.softsolutions.mobilebazarpk
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Zellbury
+appId :  com.zellbury.twa
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Cheap toys - Buy toys
+appId :  com.boulla.toys_shopping
+score :  3.8
+installs : 100,000+
+ratings :  152
+reviews :  2
+
+title :  Cashify: Sell Old Phone Online
+appId :  com.reglobe.cashify
+score :  4.22
+installs : 10,000,000+
+ratings :  310934
+reviews :  394
+
+title :  DressLily - Online Fashion
+appId :  com.globalegrow.app.dresslily
+score :  3.78
+installs : 1,000,000+
+ratings :  1217
+reviews :  280
+
+title :  castleshopping
+appId :  uni.UNIA2D94E7
+score :  4.6666665
+installs : 5,000+
+ratings :  92
+reviews :  5
+
+title :  Redbubble
+appId :  com.redbubble
+score :  3.3625193
+installs : 1,000,000+
+ratings :  14859
+reviews :  1925
+
+title :  Pak Poultry
+appId :  com.pak.poultry
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  ISMMART
+appId :  com.ismmartgroup.ism_mart
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  WivBuy
+appId :  com.xueke.mall
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Watches Online Shopping App
+appId :  com.onlineshopping.watches.smartwatchesShopping
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Level Shoes - ليفيل شوز
+appId :  com.levelshoes
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Khaadi Store
+appId :  com.khaadi.store
+score :  3.1666667
+installs : 50,000+
+ratings :  159
+reviews :  4
+
+title :  Exotic India: Shopping App
+appId :  com.exoticindia
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  DealMarkaz - Free classifieds
+appId :  pk.dealmarkaz.app
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Online CSD
+appId :  com.dubitson.OnlineCSD
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Rakuten: Cash Back & Deals
+appId :  com.ebates
+score :  3.9158163
+installs : 10,000,000+
+ratings :  72645
+reviews :  23502
+
+title :  Mercado Libre: Compras Online
+appId :  com.mercadolibre
+score :  4.6116476
+installs : 100,000,000+
+ratings :  16477788
+reviews :  74995
+
+title :  Global Sources - online market
+appId :  com.globalsources.globalsources_app
+score :  3.77
+installs : 500,000+
+ratings :  1906
+reviews :  151
+
+title :  Packages Mall Official App
+appId :  com.packagesmall.packagesmallapp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  AppSales
+appId :  net.tsapps.appsales
+score :  4.45354
+installs : 1,000,000+
+ratings :  36981
+reviews :  2081
+
+title :  Dubai Mall
+appId :  com.thedubaimall
+score :  4.5742574
+installs : 1,000,000+
+ratings :  5581
+reviews :  72
+
+title :  SEAGM - Games Topup, Gift Card
+appId :  com.seagm.store
+score :  4.3762374
+installs : 1,000,000+
+ratings :  15964
+reviews :  211
+
+title :  Retailo - B2B Retailer App
+appId :  com.app.retailerapp
+score :  4.1538463
+installs : 100,000+
+ratings :  2545
+reviews :  3
+
+title :  Sabroso Pakistan
+appId :  pk.com.sabroso.app
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  D4D Online
+appId :  com.voixme.d4d
+score :  4.58
+installs : 1,000,000+
+ratings :  46427
+reviews :  129
+
+title :  alkaram studio
+appId :  com.app.alkaramstudio
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+

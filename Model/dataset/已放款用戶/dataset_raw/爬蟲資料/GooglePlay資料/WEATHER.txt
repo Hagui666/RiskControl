@@ -1,0 +1,1400 @@
+title :  Weather - Live & Forecast
+appId :  com.weather.live.forecast.amwidget
+score :  4.813054
+installs : 1,000,000+
+ratings :  58311
+reviews :  4179
+
+title :  City Train Driving Simulator
+appId :  com.crazy.car.stunt
+score :  3.698795
+installs : 5,000,000+
+ratings :  3547
+reviews :  28
+
+title :  Train Driving Train Wali Games
+appId :  com.gcg.traingamesfreesimulator
+score :  4.33
+installs : 5,000,000+
+ratings :  9103
+reviews :  152
+
+title :  Weather forecast
+appId :  com.graph.weather.forecast.channel
+score :  4.7277074
+installs : 50,000,000+
+ratings :  1058747
+reviews :  32100
+
+title :  Weather Forecast: Live Weather
+appId :  com.channel.weather.forecast
+score :  4.8378778
+installs : 10,000,000+
+ratings :  126427
+reviews :  5727
+
+title :  Weather Forecast - Live Radar
+appId :  com.accurate.live.weather.widget
+score :  4.8395524
+installs : 1,000,000+
+ratings :  22874
+reviews :  1032
+
+title :  Rainbow.ai - Rain Radar
+appId :  com.rainbowmeteo.weather.rainbow.ai
+score :  4.137931
+installs : 100,000+
+ratings :  805
+reviews :  7
+
+title :  Weather forecast
+appId :  com.chanel.weather.forecast.accu
+score :  4.757504
+installs : 50,000,000+
+ratings :  1341931
+reviews :  28294
+
+title :  Weather Live - Radar & Widget
+appId :  weather.widget.radar.storm.live.local.temperature.forecast
+score :  3.7368422
+installs : 500,000+
+ratings :  836
+reviews :  4
+
+title :  Weather Live - Widgets & Radar
+appId :  com.channel.live.accuate.forecast.weather
+score :  4.8446794
+installs : 1,000,000+
+ratings :  116812
+reviews :  4959
+
+title :  Weather: Live radar & widgets
+appId :  com.accurate.weather.forecast.live
+score :  4.787388
+installs : 10,000,000+
+ratings :  255660
+reviews :  20285
+
+title :  City Train Driver Simulator
+appId :  com.alp.trainsimulatorgames
+score :  4.09
+installs : 10,000,000+
+ratings :  49496
+reviews :  283
+
+title :  IS Supersää
+appId :  fi.supersaa
+score :  4.196721
+installs : 1,000,000+
+ratings :  12741
+reviews :  9
+
+title :  Daily Weather
+appId :  com.weather.free.forecast.dailyweather
+score :  4.490196
+installs : 10,000,000+
+ratings :  24357
+reviews :  419
+
+title :  Corolla GLI Drift Drive Stunts
+appId :  com.td.extremecity.stunts.drift.drive.corolla.gli
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Pakistan Weather Forecast 2023
+appId :  com.unisoftaps.weathertoday.Pakistanweather
+score :  4.4545455
+installs : 1,000,000+
+ratings :  3366
+reviews :  0
+
+title :  City Train Driver Simulator 2
+appId :  com.alp.traingamesfreesimulator
+score :  3.92
+installs : 5,000,000+
+ratings :  21452
+reviews :  92
+
+title :  Spider Fighter Man Hero
+appId :  com.starplay.spiderfighter.games
+score :  3.8333333
+installs : 100,000+
+ratings :  663
+reviews :  3
+
+title :  Wifi Speed Test - Speed Test
+appId :  com.topzonestudio.internet.speed.test.meter.speedx
+score :  3.835821
+installs : 100,000+
+ratings :  1235
+reviews :  22
+
+title :  Barber Shop Hair Cutting Games
+appId :  com.asg.barbershop.games.beard.cutting.salon.hair.style
+score :  3.5714285
+installs : 500,000+
+ratings :  1467
+reviews :  13
+
+title :  Weather forecast: Live Radar
+appId :  com.weather.weatherforcast.accurateweather.aleartwidget
+score :  4.4259257
+installs : 1,000,000+
+ratings :  24884
+reviews :  339
+
+title :  Internet Speed Test Meter
+appId :  com.nas.internet.speedtest.meter.speed.test.meter.app
+score :  4.64
+installs : 1,000,000+
+ratings :  15959
+reviews :  144
+
+title :  Multi Robot Transforming Games
+appId :  com.wz.fast.moto.pizza.delivery
+score :  3.5
+installs : 500,000+
+ratings :  423
+reviews :  1
+
+title :  Weather
+appId :  com.weatherteam.rainy.forecast.radar.widgets
+score :  4.4225354
+installs : 10,000,000+
+ratings :  82162
+reviews :  1283
+
+title :  Weather Forecast
+appId :  com.info.weather.forecast
+score :  4.771812
+installs : 5,000,000+
+ratings :  84236
+reviews :  1743
+
+title :  Weather Radar - Windy, rain ra
+appId :  com.meteo.weather.forecast.radar.v2
+score :  4.6130652
+installs : 1,000,000+
+ratings :  100184
+reviews :  4666
+
+title :  Fire Truck Games - Truck Game
+appId :  com.bekids.fire.truck.resuce.games
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Mech Robot Transforming Games
+appId :  com.wz.dragon.robot.car.games
+score :  4.5641026
+installs : 1,000,000+
+ratings :  702
+reviews :  30
+
+title :  Local Weather Alerts - Widget
+appId :  live.weather.vitality.studio.forecast.widget
+score :  4.909985
+installs : 1,000,000+
+ratings :  184684
+reviews :  5538
+
+title :  Live Weather: Weather Forecast
+appId :  com.weather.nold.forecast
+score :  5
+installs : 10,000+
+ratings :  170
+reviews :  2
+
+title :  Subway Runner Surfer- Tom Run
+appId :  com.infotechgamez.classicboy.run.games
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Weather Live - Radar & Widget
+appId :  com.accurate.live.weather.forecast.pro
+score :  4.7251053
+installs : 5,000,000+
+ratings :  81575
+reviews :  2593
+
+title :  Phases of the Moon
+appId :  com.universetoday.moon.free
+score :  4.5413437
+installs : 10,000,000+
+ratings :  89288
+reviews :  4885
+
+title :  Weather Live Wallpapers
+appId :  com.skysky.livewallpapers
+score :  4.53
+installs : 500,000+
+ratings :  13923
+reviews :  302
+
+title :  Maruti 800: Extreme Modern Cit
+appId :  com.bg.city.extreme.drive.drift.stunts.suzuki.maruti800
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Tuk Tuk Auto Rickshaw Games
+appId :  com.gaminglegends.mega.ramp.car.stunts
+score :  3.2857144
+installs : 500,000+
+ratings :  1076
+reviews :  3
+
+title :  Weather Focus
+appId :  com.focuson.weather
+score :  4.2444444
+installs : 100,000+
+ratings :  680
+reviews :  8
+
+title :  Weather More：Weather Forecast
+appId :  com.lite.accurate.weather.forecast.channel.more
+score :  4.831683
+installs : 100,000+
+ratings :  6637
+reviews :  96
+
+title :  Weather Station
+appId :  com.arf.weatherstation
+score :  3.7923076
+installs : 5,000,000+
+ratings :  17573
+reviews :  560
+
+title :  Digital Compass: Smart Compass
+appId :  com.entertaininglogixapps.free.digital.compass.forandroid
+score :  3.83
+installs : 1,000,000+
+ratings :  7579
+reviews :  122
+
+title :  Brazilian Ship Games Simulator
+appId :  com.gamad.shipgamessimulator
+score :  3.71
+installs : 5,000,000+
+ratings :  30131
+reviews :  244
+
+title :  AccuWeather: Weather Radar
+appId :  com.accuweather.android
+score :  3.7456944
+installs : 100,000,000+
+ratings :  2556874
+reviews :  350666
+
+title :  Live Weather: Daily Forecast
+appId :  com.MobileLab.LiveWeather
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Spider Rope Hero Man Game
+appId :  com.spider.rope.hero.man.game
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Weather Forecast
+appId :  com.droidteam.weather
+score :  4.672811
+installs : 5,000,000+
+ratings :  164684
+reviews :  4166
+
+title :  FPS Shooting Games - Gun Games
+appId :  com.maritime.commando.shooting.battlefield
+score :  4.010638
+installs : 10,000,000+
+ratings :  8548
+reviews :  45
+
+title :  Windy.com - Weather Forecast
+appId :  com.windyty.android
+score :  4.645876
+installs : 10,000,000+
+ratings :  568850
+reviews :  7906
+
+title :  Weather Forecast
+appId :  weather.forecast.alert.storm.radar
+score :  4.634021
+installs : 5,000,000+
+ratings :  101610
+reviews :  2364
+
+title :  Live Weather & Weather Radar
+appId :  weather.radar.live
+score :  4.60771
+installs : 10,000,000+
+ratings :  253740
+reviews :  3374
+
+title :  Live Weather:Forecast & Widget
+appId :  com.TraffX.LiveWeather
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Weather & Radar Live – Alerts
+appId :  accurate.weather.forecast.radar.alerts
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Weather forecast
+appId :  com.wftab.weather.forecast
+score :  4.688406
+installs : 100,000+
+ratings :  10697
+reviews :  686
+
+title :  Weather & Radar - Storm radar
+appId :  de.wetteronline.wetterapp
+score :  4.436298
+installs : 50,000,000+
+ratings :  1797080
+reviews :  10217
+
+title :  Wild Animal Transport Truck
+appId :  com.ls.zoo.animal.simulator
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Black spider Rope Hero Battle
+appId :  com.black.spider.hero.rope.hero.superhero.venumgame
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Weather & Clock Widget
+appId :  com.devexpert.weather
+score :  4.4097376
+installs : 50,000,000+
+ratings :  2524858
+reviews :  109770
+
+title :  Pakistan Weather
+appId :  ovh.sauzanaprod.meteopakistan
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Police Truck Transport Game
+appId :  com.bdg.robotsuperhero.robogame
+score :  4.95
+installs : 500,000+
+ratings :  624
+reviews :  17
+
+title :  Room Temperature Thermometer
+appId :  com.room.temperature.meter
+score :  4.2533336
+installs : 1,000,000+
+ratings :  13225
+reviews :  1493
+
+title :  The Weather Channel - Radar
+appId :  com.weather.Weather
+score :  4.625739
+installs : 100,000,000+
+ratings :  2842349
+reviews :  521947
+
+title :  Cake Bake Shop:Real Cake Maker
+appId :  com.bekids.cake.maker.games.girls
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Local Weather Forecast
+appId :  tools.weather.forecast
+score :  4.607038
+installs : 5,000,000+
+ratings :  34242
+reviews :  2488
+
+title :  Thermometer - Indoor & Outdoor
+appId :  com.bti.tempMeter
+score :  2.7789474
+installs : 5,000,000+
+ratings :  23011
+reviews :  610
+
+title :  Motocross Dirt Bike Freestyle
+appId :  com.gps.dirt.bike.racing.motocross
+score :  2
+installs : 50,000+
+ratings :  95
+reviews :  3
+
+title :  My Earthquake Alerts - Map
+appId :  com.jrustonapps.myearthquakealerts
+score :  4.652225
+installs : 1,000,000+
+ratings :  89798
+reviews :  5651
+
+title :  Police Car Tank Transport Sim
+appId :  com.max.us.police.limo.car.transport.game
+score :  5
+installs : 50,000+
+ratings :  110
+reviews :  11
+
+title :  Weather
+appId :  com.macropinch.swan
+score :  4.47164
+installs : 10,000,000+
+ratings :  1341950
+reviews :  55434
+
+title :  Local Weather：Weather Forecast
+appId :  life.channel.accurate.local.weather.forecast
+score :  4.889232
+installs : 5,000,000+
+ratings :  234780
+reviews :  6586
+
+title :  QR Code Reader - QR Scanner
+appId :  com.entertaininglogixapps.qr.code.reader.barcode.scanner
+score :  3.9135802
+installs : 1,000,000+
+ratings :  3114
+reviews :  28
+
+title :  Pak Truck Driver
+appId :  com.crownartstudios.pak.truck.driving
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Weather Online
+appId :  com.goodweather.online.amazing
+score :  4.3846154
+installs : 100,000+
+ratings :  507
+reviews :  16
+
+title :  Nice Weather-Weather Forecast
+appId :  com.niceforecast.niceweather
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  My Weather: Radar & Forecast
+appId :  com.weatherforecast.liveweather
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Weather Live: Weather Forecast
+appId :  weather.radar.alert
+score :  4.5972223
+installs : 5,000,000+
+ratings :  57041
+reviews :  662
+
+title :  Weather for Wear OS
+appId :  mobi.byss.instaweather.watchface
+score :  3.9853747
+installs : 1,000,000+
+ratings :  24330
+reviews :  1837
+
+title :  Weather App - Weather Forecast
+appId :  com.channel.weather.forecast.live.radar
+score :  4.5790887
+installs : 1,000,000+
+ratings :  41345
+reviews :  1353
+
+title :  Tank Robot Transforming Games
+appId :  com.wz.tank.robot.car.game
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Weather XS PRO
+appId :  com.exovoid.weatherxs
+score :  4.66
+installs : 500,000+
+ratings :  15676
+reviews :  77
+
+title :  Crazy Taxi Driver: Taxi Game
+appId :  com.teetoo.crazy.taxi.simulator.offline.car.games
+score :  4.0895524
+installs : 1,000,000+
+ratings :  2784
+reviews :  47
+
+title :  Moon Phase Calendar
+appId :  com.probadosoft.moonphasecalendar
+score :  4.8104115
+installs : 1,000,000+
+ratings :  40547
+reviews :  6025
+
+title :  Sweet Cake Maker Cake Game
+appId :  com.irs.real.cake.making.cakeBaking.cooking.game.icecreamCakeMaker
+score :  3.8333333
+installs : 100,000+
+ratings :  209
+reviews :  3
+
+title :  Gorilla king kong vs Godzilla
+appId :  com.gorilla.king.kong.vs.godzilla.city.smasher
+score :  3.764706
+installs : 100,000+
+ratings :  194
+reviews :  5
+
+title :  Truck Games - Build a House 3D
+appId :  com.bekids.truck.construction.game.build.a.house
+score :  3.8333333
+installs : 1,000,000+
+ratings :  632
+reviews :  1
+
+title :  Weather Widget - Live Forecast
+appId :  com.TraffX.LiveForecast
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Weather app
+appId :  com.weather.forecast.weatherchannel
+score :  4.6423755
+installs : 10,000,000+
+ratings :  166324
+reviews :  18285
+
+title :  Weather Forecast：Local Weather
+appId :  com.weather.radar.liveforecast.livewidget
+score :  3.5
+installs : 50,000+
+ratings :  111
+reviews :  0
+
+title :  Weather Forecast
+appId :  com.weather.forecast.accurate
+score :  4.4117646
+installs : 1,000,000+
+ratings :  81007
+reviews :  496
+
+title :  Room Temperature Thermometer
+appId :  asav.roomtemprature
+score :  4.4958677
+installs : 1,000,000+
+ratings :  27489
+reviews :  2502
+
+title :  Thermometer Room Temperature
+appId :  com.temperature.room.meter.thermometer
+score :  4.2966104
+installs : 1,000,000+
+ratings :  9201
+reviews :  735
+
+title :  Local Weather Forecast& Widget
+appId :  life.widget.accurate.channel.local.weather.forecast
+score :  4.84
+installs : 1,000,000+
+ratings :  19128
+reviews :  148
+
+title :  Weather XL PRO
+appId :  com.exovoid.weather.app
+score :  4.4593463
+installs : 10,000,000+
+ratings :  473431
+reviews :  4190
+
+title :  Iron Hero Man: Superhero Fight
+appId :  com.iron.hero.man.superhero.fighting
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  weather forecast
+appId :  com.realtimeforecast.weather
+score :  4.704828
+installs : 5,000,000+
+ratings :  70387
+reviews :  3867
+
+title :  Yahoo Weather
+appId :  com.yahoo.mobile.client.android.weather
+score :  4.479272
+installs : 10,000,000+
+ratings :  1450982
+reviews :  107960
+
+title :  Offline Fire Games : Gun Fire
+appId :  com.mr360gamingstudio.shooting.games
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Clime: NOAA Weather Radar Live
+appId :  com.apalon.weatherradar.free
+score :  4.3148084
+installs : 10,000,000+
+ratings :  388051
+reviews :  44316
+
+title :  Mini Adventure Car Racing Game
+appId :  com.alp.minicarracing
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Weather Accurate - Live Radar
+appId :  com.weather.radar_maps.accurate.chanel
+score :  4.5833335
+installs : 10,000+
+ratings :  611
+reviews :  9
+
+title :  Transparent clock and weather
+appId :  com.droid27.transparentclockweather
+score :  4.461071
+installs : 50,000,000+
+ratings :  971738
+reviews :  35064
+
+title :  Weather Live Wallpaper
+appId :  ru.bastion7.livewallpapers
+score :  3.1437125
+installs : 1,000,000+
+ratings :  29923
+reviews :  797
+
+title :  Crazy Car Driving - Stunt Game
+appId :  com.teetoo.crazycardriving.impossibletracks.car.stunt.game
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Weather Radar: Forecast & Maps
+appId :  weatherradar.livemaps.free
+score :  4.451897
+installs : 5,000,000+
+ratings :  131850
+reviews :  6992
+
+title :  US Police Car Transport Cargo
+appId :  com.Therealsuperherogames.USpoliceCarTransport
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Uphill Bus Game Simulator
+appId :  com.alp.uphillbusdriving
+score :  4
+installs : 1,000,000+
+ratings :  2683
+reviews :  5
+
+title :  Weather Forecast Daily Live
+appId :  com.bestfriends.live.weather.app
+score :  3.9375
+installs : 500,000+
+ratings :  3906
+reviews :  19
+
+title :  Thermometer For Room Temp
+appId :  com.temperature.checker.thermometer.app
+score :  4.039604
+installs : 100,000+
+ratings :  2127
+reviews :  79
+
+title :  Incredible Monster City Battle
+appId :  com.incredible.monster.city.battle.green.hero.miami.vegas.theft
+score :  3.4444444
+installs : 100,000+
+ratings :  254
+reviews :  3
+
+title :  3D EARTH - weather forecast
+appId :  com.livingearth.free
+score :  4.1929827
+installs : 1,000,000+
+ratings :  15792
+reviews :  367
+
+title :  Weather
+appId :  com.bvl.weatherapp
+score :  4.471223
+installs : 10,000,000+
+ratings :  161348
+reviews :  1066
+
+title :  Weather Forecast & Widget
+appId :  com.accurate.forecast.live.weather.channel
+score :  4.81982
+installs : 1,000,000+
+ratings :  29575
+reviews :  422
+
+title :  Flying Dragon Game- Dragon Sim
+appId :  com.legends.dragon.games.city.attack
+score :  4.11
+installs : 1,000,000+
+ratings :  4654
+reviews :  89
+
+title :  Weather - By Xiaomi
+appId :  com.miui.weather2
+score :  4.3721356
+installs : 1,000,000,000+
+ratings :  1112824
+reviews :  2300
+
+title :  Weather app - eWeather HDF
+appId :  com.Elecont.WeatherClock.free
+score :  4.571429
+installs : 500,000+
+ratings :  10434
+reviews :  882
+
+title :  Weather Forecast - Weather Liv
+appId :  com.myapp.forecast.weather
+score :  4.7
+installs : 500,000+
+ratings :  8605
+reviews :  205
+
+title :  Army Vehicle Transport Games
+appId :  com.sgh.uspolice.cargoplane.transport
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Rope Spider Super Hero Fight
+appId :  com.etg.spider.superhero
+score :  3.6363637
+installs : 500,000+
+ratings :  678
+reviews :  3
+
+title :  6x6 Off Road Monster Jam Truck
+appId :  com.AlienKing.DMTrucks
+score :  3.19
+installs : 100,000+
+ratings :  1450
+reviews :  89
+
+title :  Weather Forecast
+appId :  weather.forecast.barometer.storm.radar
+score :  4.5820894
+installs : 5,000,000+
+ratings :  37229
+reviews :  511
+
+title :  Miami Spider Hero Fighter Game
+appId :  com.sdaabdev.rhg.spider.rope.hero.man.gangstercrime.superhero.fighting
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Robot Kite Flying : kite game
+appId :  com.KiteFlyingGames.Robots.KiteFlying
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Angry Dinosaur City Rampage
+appId :  com.ew.dino.city.attack
+score :  4.62
+installs : 10,000,000+
+ratings :  7421
+reviews :  195
+
+title :  Virtual Mother Pregnant Game
+appId :  com.cw.pragnant.mother.simulator
+score :  3.4285715
+installs : 100,000+
+ratings :  220
+reviews :  5
+
+title :  Flying Iron Rope Hero Vegas Ga
+appId :  com.iron.spider.vegas.gta.gtastickman.city.crime.robot
+score :  3.0666666
+installs : 100,000+
+ratings :  765
+reviews :  10
+
+title :  Weather Live°
+appId :  com.apalon.weatherlive.free
+score :  4.419202
+installs : 10,000,000+
+ratings :  923003
+reviews :  30298
+
+title :  YoWindow Weather and wallpaper
+appId :  yo.app.free
+score :  4.6727943
+installs : 10,000,000+
+ratings :  391761
+reviews :  4048
+
+title :  King Kong Games: Dino Attack
+appId :  com.godzillakingkonggodzilla.kingkonggodzillawahhhsagodzillakaijuuu
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Weather: Live Weather Forecast
+appId :  yong.tools.life.weather
+score :  4.576923
+installs : 5,000,000+
+ratings :  80018
+reviews :  1273
+
+title :  Weather Radar & Weather Live
+appId :  com.weatherradar.liveradar.weathermap
+score :  4.5148516
+installs : 500,000+
+ratings :  5397
+reviews :  197
+
+title :  Weather - Weather Forecast
+appId :  com.weather.weatherforcast.aleart.widget
+score :  4.21
+installs : 1,000,000+
+ratings :  14469
+reviews :  358
+
+title :  Weather & Widget - Weawow
+appId :  com.weawow
+score :  4.86717
+installs : 5,000,000+
+ratings :  540811
+reviews :  38699
+
+title :  Weather by WeatherBug
+appId :  com.aws.android
+score :  4.708865
+installs : 10,000,000+
+ratings :  1769294
+reviews :  408889
+
+title :  Temple Running 3
+appId :  com.egs.princess.runner
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Weather Forecast
+appId :  weather.forecast.storm.radar
+score :  4.5689654
+installs : 5,000,000+
+ratings :  69092
+reviews :  1247
+
+title :  Scary Siren Head Horror Games
+appId :  com.scary.sirenhead.horrorgames
+score :  3.9333334
+installs : 100,000+
+ratings :  157
+reviews :  2
+
+title :  Live Weather Forecast - Radar
+appId :  forecast.weather
+score :  4.57
+installs : 1,000,000+
+ratings :  9006
+reviews :  87
+
+title :  Offroad Heavy Excavator Sim
+appId :  com.sgh.offroadroad.constructiongame
+score :  4.6666665
+installs : 100,000+
+ratings :  437
+reviews :  17
+
+title :  Weather US
+appId :  com.tennumbers.weatherapp
+score :  4.5555553
+installs : 1,000,000+
+ratings :  68587
+reviews :  607
+
+title :  Foree Madad
+appId :  com.nitb.forimadad
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Weather Forecast: Weather Live
+appId :  com.accurate.weather.forecast.weather.live
+score :  4.647059
+installs : 500,000+
+ratings :  10055
+reviews :  9
+
+title :  Thermometer Room Temperature
+appId :  digital.thermometer.room.temperature
+score :  3.81
+installs : 500,000+
+ratings :  6206
+reviews :  586
+
+title :  Dragon Wars - Robot Game
+appId :  com.appstrend.dragon.robot.formula.car
+score :  4.3
+installs : 10,000,000+
+ratings :  24621
+reviews :  189
+
+title :  Hammer Hero - Superhero Games
+appId :  com.hammer.man.thunder.adventure
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Monster Jam Steel Titans Truck
+appId :  com.AlienKing.MTrucks2AFG
+score :  3.8
+installs : 100,000+
+ratings :  272
+reviews :  9
+
+title :  Windy.app: wind forecast
+appId :  co.windyapp.android
+score :  4.844348
+installs : 5,000,000+
+ratings :  133661
+reviews :  2730
+
+title :  Amazing Swing Hero Vice town
+appId :  com.vicetown.thanose.crime.gangaster.gta
+score :  3.9
+installs : 1,000,000+
+ratings :  6866
+reviews :  65
+
+title :  Flying Snake Robot Car Games
+appId :  com.superHero.dinorobot.superhero.transform
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Ventusky: Weather Maps & Radar
+appId :  cz.ackee.ventusky
+score :  4.32
+installs : 1,000,000+
+ratings :  10519
+reviews :  368
+
+title :  Compass - Direction Compass
+appId :  com.compass.digitalcompass.smartcompass.qiblacompass.compassapp
+score :  3.3333333
+installs : 500,000+
+ratings :  697
+reviews :  4
+
+title :  Superhero Car Stunt Car Racing
+appId :  com.ls.top.formula.car.racing.stunt.game
+score :  5
+installs : 10,000+
+ratings :  117
+reviews :  15
+
+title :  Super Vice Town Rope hero
+appId :  com.superboy.vicetown.rope.hero
+score :  2.3023255
+installs : 500,000+
+ratings :  2343
+reviews :  28
+
+title :  US Army Counter Attack: FPS Sh
+appId :  com.ga.us.army.counter.attack.fps.shooting.game
+score :  4.1923075
+installs : 1,000,000+
+ratings :  1818
+reviews :  14
+
+title :  Robot Games 3D: Robot Car Game
+appId :  com.dead.zombies.shooting.game
+score :  3.8070176
+installs : 1,000,000+
+ratings :  996
+reviews :  32
+
+title :  Prado Parking Games - Prado
+appId :  com.parking.prado
+score :  5
+installs : 5,000+
+ratings :  310
+reviews :  15
+
+title :  Quad Bike Parking - Bike Park
+appId :  com.parking.quad.bike
+score :  5
+installs : 10,000+
+ratings :  287
+reviews :  11
+
+title :  Rope Hero: Spider Superhero 3D
+appId :  com.piXelfuN.blackspider.superherogames
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Weather
+appId :  com.saevio.weather
+score :  4.55
+installs : 1,000,000+
+ratings :  33746
+reviews :  279
+
+title :  Live Weather Widget & Radar
+appId :  alerts.climate.widget.radar.forecast.live.local.weather
+score :  3.7692308
+installs : 1,000,000+
+ratings :  2320
+reviews :  20
+
+title :  My Moon Phase - Lunar Calendar
+appId :  com.jrustonapps.mymoonphase
+score :  4.817284
+installs : 1,000,000+
+ratings :  35246
+reviews :  1870
+
+title :  Scary Baby in horror House
+appId :  com.deviod.scary.baby.in.horror.house.kilostudio
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Temperature Today - Weather Fo
+appId :  com.jayazone.temperature.today
+score :  4
+installs : 100,000+
+ratings :  566
+reviews :  16
+
+title :  1Weather Forecasts & Radar
+appId :  com.handmark.expressweather
+score :  4.5004888
+installs : 100,000,000+
+ratings :  1013294
+reviews :  253343
+
+title :  Big Cruise Ship Simulator
+appId :  com.gcg.bigCruiseShip_GCG
+score :  4.03
+installs : 1,000,000+
+ratings :  7584
+reviews :  71
+
+title :  Local Weather - Weather Widget
+appId :  com.perfectly.lightweather.advanced.weather
+score :  4.8279862
+installs : 5,000,000+
+ratings :  111954
+reviews :  5224
+
+title :  Dirt Bike Freestyle Motocross
+appId :  com.AlienKing.HRMotocross
+score :  2.910891
+installs : 500,000+
+ratings :  3757
+reviews :  331
+
+title :  Flying Car Robot Games 3D
+appId :  com.flying.car.simulator.extreme.driver.cardriving
+score :  3.6119404
+installs : 1,000,000+
+ratings :  7210
+reviews :  34
+
+title :  Live Weather Forecast
+appId :  com.accurate.channel.forecast.live.weather
+score :  4.772109
+installs : 5,000,000+
+ratings :  73513
+reviews :  1184
+
+title :  Spider Super Hero Games:GTIRON
+appId :  com.spider.hero.superherogame
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Sense Flip Clock & Weather
+appId :  com.droid27.senseflipclockweather
+score :  4.3560977
+installs : 10,000,000+
+ratings :  153782
+reviews :  8734
+
+title :  Today's attire -  What are you
+appId :  com.lakue.todaysclothes
+score :  4.285714
+installs : 10,000+
+ratings :  811
+reviews :  1
+
+title :  Swift: Extreme Real Modern Sup
+appId :  com.bg.city.extreme.drive.drift.stunts.suzuki.swift
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Black Spider Rope Hero: Spider
+appId :  com.ivy.spider.rope.hero.blackspiderropehero.superhero.venumgame
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Extreme Car Crash Simulator 3D
+appId :  com.dcg.extreme.car.crash.sim
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Bike Stunt Game: Bike Games
+appId :  com.infotechgamez.atv.quad.bike.stunt.racing.crazybike.games
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Weather Forecast
+appId :  com.nice.accurate.weather
+score :  4.7491527
+installs : 5,000,000+
+ratings :  140201
+reviews :  4560
+
+title :  Weather Chart: Tomorrow, Today
+appId :  com.weather.weatherforecast.weathertimeline
+score :  4.15
+installs : 1,000,000+
+ratings :  6485
+reviews :  76
+
+title :  Humidity and Temperature Meter
+appId :  com.humidity.checker.intouch
+score :  3.7391305
+installs : 50,000+
+ratings :  575
+reviews :  38
+
+title :  Weather Radar - Live Forecast
+appId :  live.local.weather.forecast.radar
+score :  4.4615383
+installs : 50,000+
+ratings :  601
+reviews :  3
+
+title :  US Army Commando FPS Counter G
+appId :  com.cg.fps.ops.strike.battleground.survival.offline.shooting.games
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Army Car Transport Truck Sim
+appId :  com.sg.army.car.transport.truck
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Local Weather - Live Radar
+appId :  com.weather.forecast.channel.local
+score :  4.6116505
+installs : 100,000+
+ratings :  681
+reviews :  84
+
+title :  Thermometer
+appId :  com.monirapps.thermometer
+score :  4.12
+installs : 1,000,000+
+ratings :  8602
+reviews :  26
+
+title :  Crazy Car Driving School Games
+appId :  com.police.transport.helicopter.simulator.games
+score :  3.4
+installs : 100,000+
+ratings :  354
+reviews :  3
+
+title :  Weather Radar - Live Radar Map
+appId :  weather.radar.live.radar.map
+score :  4.4444447
+installs : 100,000+
+ratings :  1326
+reviews :  16
+
+title :  Moon Calendar
+appId :  com.polyariz.moon_calendar_lite
+score :  4.6025643
+installs : 100,000+
+ratings :  1053
+reviews :  29
+
+title :  Live Weather: Weather Forecast
+appId :  weather.local.weather.forecast.channel
+score :  4.6237626
+installs : 1,000,000+
+ratings :  13168
+reviews :  221
+
+title :  Cargo Tractor Trolley Game
+appId :  com.cargo.tractor.trolley.game
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Offroad Hard Driving Simulator
+appId :  com.tough.driving.simulator.offroad.mountain.climb
+score :  3.2666667
+installs : 100,000+
+ratings :  810
+reviews :  7
+
+title :  Live Weather&Local Weather
+appId :  mobi.infolife.ezweather.widget.storm
+score :  4.230415
+installs : 5,000,000+
+ratings :  56848
+reviews :  655
+
+title :  Bus Simulator 3D Bus Games
+appId :  com.superhero.robot.ring.fighting.games
+score :  4.68
+installs : 500,000+
+ratings :  762
+reviews :  19
+
+title :  Windfinder: Wind & Weather map
+appId :  com.studioeleven.windfinder
+score :  4.6157517
+installs : 5,000,000+
+ratings :  58860
+reviews :  917
+
+title :  6x6 Off Road Mudrunner Trucks
+appId :  com.AlienKing.Desert2OffCars
+score :  3.452381
+installs : 100,000+
+ratings :  859
+reviews :  21
+
+title :  Weather data & microclimate : 
+appId :  com.wunderground.android.weather
+score :  4.7172947
+installs : 10,000,000+
+ratings :  525112
+reviews :  136503
+
+title :  Weather
+appId :  com.wea.climate.clock.widget
+score :  4.2094016
+installs : 5,000,000+
+ratings :  80951
+reviews :  814
+
+title :  Offroad Car Games Racing 4x4
+appId :  com.AlienKing.AFG2Offroad
+score :  2.9298246
+installs : 100,000+
+ratings :  676
+reviews :  32
+
+title :  WhatWeather - Weather Station
+appId :  com.kolov.weatherstation
+score :  4.35
+installs : 500,000+
+ratings :  3673
+reviews :  114
+
+title :  Live Weather: Radar & Forecast
+appId :  com.appsinnova.weatherforecast.liveweather
+score :  4.625
+installs : 1,000,000+
+ratings :  4658
+reviews :  388
+
+title :  Angry Goat Robot Simulator 3D
+appId :  com.pa.angry.robot.goat
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Real Taxi Driving : Grand City
+appId :  com.supersmashact.citytaxidriver3d
+score :  3.8823528
+installs : 500,000+
+ratings :  4042
+reviews :  103
+
+title :  Room Temperature Thermometer
+appId :  com.room.inside_outside_accurate_temperatureapp.digitalmeter
+score :  4.1538463
+installs : 10,000+
+ratings :  139
+reviews :  20
+
+title :  Spider Rope Hero- Spider Games
+appId :  com.spider.rope.hero.spider.games.dragonaab
+score :  4.4
+installs : 100,000+
+ratings :  577
+reviews :  4
+

@@ -1,0 +1,1400 @@
+title :  Xray Body Scanner Camera Real
+appId :  com.xray_bodyscanner.camera_real.full_body_scanner
+score :  3.3333333
+installs : 100,000+
+ratings :  708
+reviews :  14
+
+title :  DVAGO - Pharmacy & Healthcare
+appId :  com.dvago
+score :  3.6666667
+installs : 100,000+
+ratings :  555
+reviews :  3
+
+title :  Find a Doctor - MARHAM
+appId :  controllers.marham.marhammed
+score :  4.185185
+installs : 1,000,000+
+ratings :  8472
+reviews :  19
+
+title :  Lexicomp
+appId :  com.lexi.android
+score :  3.27
+installs : 1,000,000+
+ratings :  2778
+reviews :  308
+
+title :  oladoc - Find & book best doct
+appId :  com.mediconnect.oladoc
+score :  4.130435
+installs : 1,000,000+
+ratings :  6972
+reviews :  41
+
+title :  Xray Scanner : Body Scanner
+appId :  xray.body.scanner.simulator.filter.camera
+score :  3.5833333
+installs : 100,000+
+ratings :  484
+reviews :  3
+
+title :  Microphone Amplifier
+appId :  com.ronasoftstudios.earmaxfxpro
+score :  3.6078432
+installs : 500,000+
+ratings :  10594
+reviews :  85
+
+title :  Pharmapedia Info
+appId :  com.akapphub.pharmamadicaldictionary
+score :  4.6190476
+installs : 10,000+
+ratings :  1531
+reviews :  17
+
+title :  Dawaai - Medicine & Healthcare
+appId :  com.dawaai.app
+score :  3.39
+installs : 1,000,000+
+ratings :  12106
+reviews :  52
+
+title :  MedShr: Discuss Clinical Cases
+appId :  net.medshr.android
+score :  4.44
+installs : 5,000,000+
+ratings :  11635
+reviews :  56
+
+title :  Tabiyat.pk - Online Pharmacy
+appId :  exp.mnm.tabiyat
+score :  4.3421054
+installs : 100,000+
+ratings :  3787
+reviews :  19
+
+title :  Pharmapedia Pakistan
+appId :  com.binops.pharma.pk
+score :  3.82
+installs : 1,000,000+
+ratings :  24713
+reviews :  74
+
+title :  My IDC
+appId :  com.patient.myidc
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Pharmapedia Pro
+appId :  com.pharmapedia.pharmapediapro
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Blood Pressure App: BP Monitor
+appId :  com.sp02_apps.bp_recorder
+score :  4.0983605
+installs : 100,000+
+ratings :  1943
+reviews :  52
+
+title :  Anatomy Learning - 3D Anatomy
+appId :  com.AnatomyLearning.Anatomy3DViewer3
+score :  4.4383907
+installs : 5,000,000+
+ratings :  116939
+reviews :  3365
+
+title :  Dictionary Diseases&Disorders
+appId :  com.soft24hours.directorys.medical.diseasemulti.free
+score :  4.792079
+installs : 1,000,000+
+ratings :  19243
+reviews :  236
+
+title :  Blood Sugar : Diabetes Tracker
+appId :  com.blood.sugar.tracker.glucometer.Diary.test.diabetes.checker.info.glucose.convert.logger.health.fitness.monitor.history
+score :  4.3
+installs : 500,000+
+ratings :  2362
+reviews :  437
+
+title :  PharmaPlus
+appId :  com.nishat.pharmaplus
+score :  3.4
+installs : 100,000+
+ratings :  925
+reviews :  1
+
+title :  Blood Pressure
+appId :  com.szyk.myheart
+score :  4.0614285
+installs : 10,000,000+
+ratings :  56180
+reviews :  2611
+
+title :  PAK Covid-19 Vaccination Pass
+appId :  pk.gov.nadra.nims.certificate
+score :  4.0833335
+installs : 500,000+
+ratings :  1752
+reviews :  7
+
+title :  AKUH Patient Care
+appId :  com.akuh.pakistan
+score :  1.7222222
+installs : 100,000+
+ratings :  1129
+reviews :  11
+
+title :  vet-Anatomy
+appId :  net.imaios.vetanatomy
+score :  3.6231885
+installs : 100,000+
+ratings :  1138
+reviews :  28
+
+title :  Body Temperature Thermometer
+appId :  com.bodytemperatureThermometer.feverRecordsdiary
+score :  4.207254
+installs : 1,000,000+
+ratings :  9993
+reviews :  1116
+
+title :  Internal Organs in 3D Anatomy
+appId :  com.androiddevelopermx.blogspot.organos3d
+score :  4.493671
+installs : 5,000,000+
+ratings :  44610
+reviews :  687
+
+title :  Surgery Doctor Hospital Games
+appId :  com.es.surgery.emergency.doctor.games.hospital.games.surgeon.simulator
+score :  3.7272727
+installs : 100,000+
+ratings :  386
+reviews :  8
+
+title :  Drugs.com Medication Guide
+appId :  com.drugscom.app
+score :  4.7010975
+installs : 1,000,000+
+ratings :  30077
+reviews :  5082
+
+title :  Anatomy 3D Atlas
+appId :  com.catfishanimationstudio.MuscularSystemLite
+score :  3.91
+installs : 1,000,000+
+ratings :  15355
+reviews :  179
+
+title :  Blood Pressure Tracker App
+appId :  bloodpressure.tracker.pressionesanguigna.blutdruck.tension
+score :  4.625
+installs : 10,000+
+ratings :  313
+reviews :  1
+
+title :  Xray Scanner : X-Ray Simulator
+appId :  com.xray_scanner.bodyscanner_doctor_games
+score :  2.3157895
+installs : 100,000+
+ratings :  323
+reviews :  9
+
+title :  XRay Body Scanner: Real Camera
+appId :  realcamera.xray.body.scanner.simulator
+score :  2.3333333
+installs : 50,000+
+ratings :  111
+reviews :  6
+
+title :  Medscape
+appId :  com.medscape.android
+score :  4.290793
+installs : 5,000,000+
+ratings :  62773
+reviews :  4364
+
+title :  X-Ray Body Scanner : Simulator
+appId :  com.girlbodyscan.scanyourgfbody
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  LetsUpDoc
+appId :  com.letsupdoc.mobile
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Drug Information Store
+appId :  com.pakistan.druginfostorepakistannew
+score :  3.5714285
+installs : 50,000+
+ratings :  400
+reviews :  4
+
+title :  Clinical Sense
+appId :  com.medicaljoyworks.clinicalsense
+score :  4.376623
+installs : 1,000,000+
+ratings :  12648
+reviews :  385
+
+title :  Pharma Medicine Info & Price
+appId :  com.insoulce_solutions.pharma_medicine
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  My Calendar - Period Tracker
+appId :  com.lbrc.PeriodCalendar
+score :  4.843213
+installs : 10,000,000+
+ratings :  421099
+reviews :  11432
+
+title :  ALHOSN UAE
+appId :  doh.health.shield
+score :  3.8811882
+installs : 10,000,000+
+ratings :  52057
+reviews :  202
+
+title :  Blood Pressure Tracker BP Reco
+appId :  com.innovationmobileapps.bloodpressure
+score :  4
+installs : 100,000+
+ratings :  2296
+reviews :  10
+
+title :  Doktor.se – Vård nära dig
+appId :  se.doktor.doktorse.production
+score :  4.3968253
+installs : 500,000+
+ratings :  24817
+reviews :  21
+
+title :  PharmaGuide
+appId :  com.pg.pharmaguide
+score :  3.8
+installs : 100,000+
+ratings :  1788
+reviews :  77
+
+title :  Sehat Kahani Corporate
+appId :  com.sehatkahani.corp.app
+score :  4.4
+installs : 50,000+
+ratings :  2989
+reviews :  1
+
+title :  X ray scanner body real camera
+appId :  com.xray.body.scanner.real.mobile.camera.simulator.ray.transparent.thermal.cam.scanning.through.phone
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  mySugr - Diabetes Tracker Log
+appId :  com.mysugr.android.companion
+score :  4.47734
+installs : 1,000,000+
+ratings :  78838
+reviews :  11432
+
+title :  케어네이션 - 간병인, 병원 동행인, 요양보호사 찾기
+appId :  kr.carenation.protector
+score :  4.5263157
+installs : 100,000+
+ratings :  1976
+reviews :  34
+
+title :  Hvil®
+appId :  com.enversion.hvil.android
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Circulatory System 3D Anatomy
+appId :  com.anatomyapps3d.circulatory3d
+score :  4.57
+installs : 500,000+
+ratings :  2817
+reviews :  42
+
+title :  Full Code Medical Simulation
+appId :  com.minerva_medical.minerva
+score :  4.6633663
+installs : 500,000+
+ratings :  2847
+reviews :  246
+
+title :  Shaukat Khanum App
+appId :  org.skm.medicareskm
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Medical Dictionary Offline
+appId :  com.dorular.medicaldictionary
+score :  4.2173915
+installs : 50,000+
+ratings :  405
+reviews :  10
+
+title :  Ultrasound pregnancy guide
+appId :  com.mypregnancyuss.myapp
+score :  4.45
+installs : 100,000+
+ratings :  453
+reviews :  5
+
+title :  Drugs Dictionary Offline
+appId :  com.medical.drugdictionary
+score :  4.46
+installs : 100,000+
+ratings :  2829
+reviews :  101
+
+title :  Marham Connect
+appId :  com.ts.marham_connect
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  BloodPressureDB
+appId :  net.klier.blutdruck
+score :  3.81
+installs : 500,000+
+ratings :  4878
+reviews :  64
+
+title :  Blood Pressure Diary
+appId :  com.interactivespecializedsoftware.bloodpressurediary
+score :  4.23
+installs : 1,000,000+
+ratings :  18477
+reviews :  74
+
+title :  Pharmapedia Pak 2022 Info
+appId :  com.roshiappstudio.pharmamedicineinformation
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Pregnancy Due Date Calculator
+appId :  com.amikulich.pregnancycalculator
+score :  4.4356437
+installs : 1,000,000+
+ratings :  13201
+reviews :  224
+
+title :  Pak Life Saver
+appId :  com.PITB.RVMS.CPR
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Drug Info Pakistan: Medical di
+appId :  com.pharmapedia.pakistan.druginfo
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Body Temperature Check & Diary
+appId :  sumair.body_tempreture.fever_diary.tempreture_checker.fever_tempreture.fever_checker
+score :  2.6923077
+installs : 50,000+
+ratings :  321
+reviews :  32
+
+title :  Eye exam
+appId :  andrei.brusentcov.eyecheck.free
+score :  4.1
+installs : 1,000,000+
+ratings :  10847
+reviews :  276
+
+title :  Ehad Health
+appId :  com.instacare.ehadhealth
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  e-Anatomy
+appId :  net.imaios.eanatomy
+score :  4.16
+installs : 500,000+
+ratings :  3123
+reviews :  113
+
+title :  Nursing Exam
+appId :  com.gktalk.nursing_examination_app
+score :  4.55
+installs : 500,000+
+ratings :  4810
+reviews :  43
+
+title :  Microphone Amplifier
+appId :  com.ronasoftstudios.soundmagnifier
+score :  3.87
+installs : 100,000+
+ratings :  3896
+reviews :  56
+
+title :  MDCalc Medical Calculator
+appId :  com.mdaware.mdcalc
+score :  4.826316
+installs : 1,000,000+
+ratings :  14021
+reviews :  265
+
+title :  Qarshi
+appId :  com.ono.qarshi
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Manual MSD versión pro
+appId :  com.msd.professionalSpanish
+score :  4.86
+installs : 500,000+
+ratings :  4821
+reviews :  44
+
+title :  Teach Me Anatomy
+appId :  com.atomengineapps.teachmeanatomy
+score :  4.606635
+installs : 1,000,000+
+ratings :  25551
+reviews :  662
+
+title :  Shen-Acupuncture
+appId :  com.digitalbithub.shen
+score :  3.625
+installs : 100,000+
+ratings :  938
+reviews :  8
+
+title :  Model Dermatol – Wiki
+appId :  com.phonegap.whichderm
+score :  4.481013
+installs : 100,000+
+ratings :  1500
+reviews :  21
+
+title :  Plabable for PLAB
+appId :  com.plabable.plabablev2
+score :  4.2340426
+installs : 50,000+
+ratings :  2533
+reviews :  24
+
+title :  Momsco Molfix Anne-Bebek
+appId :  momsco.molfix.anne.bebek
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Manual MSD para Profissionais
+appId :  com.msd.professionalPortugese
+score :  4.818182
+installs : 100,000+
+ratings :  1965
+reviews :  1
+
+title :  UpToDate
+appId :  com.uptodate.android
+score :  4.40873
+installs : 1,000,000+
+ratings :  10250
+reviews :  662
+
+title :  Thermometer For Fever Diary
+appId :  com.thermometerforfever.bloodpressurechecker
+score :  3.91
+installs : 500,000+
+ratings :  2989
+reviews :  158
+
+title :  Vet Pharmapedia Pakistan
+appId :  vet.pharmapedia.vetpharmapediapakistan
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  CURRENT Med Diag & Treatment
+appId :  com.medpresso.Lonestar.cmdt
+score :  4.3421054
+installs : 100,000+
+ratings :  925
+reviews :  21
+
+title :  All Skin Diseases & Treatment
+appId :  com.studyspring.all.skin.diseases.dermatology.alldiseases
+score :  3.4166667
+installs : 10,000+
+ratings :  95
+reviews :  3
+
+title :  Hikmat And Homeopathy
+appId :  com.learning.homeopathy
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Drugs & Drugs
+appId :  ca.basnak.d_and_d
+score :  4.0869565
+installs : 50,000+
+ratings :  140
+reviews :  6
+
+title :  Pediatric Disease & Treatment
+appId :  com.patrikat.pediatricdiseaseandtreatment
+score :  4.5384617
+installs : 100,000+
+ratings :  783
+reviews :  11
+
+title :  X Ray Body Scanner Real Camera
+appId :  com.xray.body.scanner.doctor.game.full.audery
+score :  2
+installs : 10,000+
+ratings :  50
+reviews :  6
+
+title :  myAster
+appId :  com.aster.virtualcare.patient
+score :  2.5714285
+installs : 100,000+
+ratings :  856
+reviews :  5
+
+title :  Ward Companion
+appId :  com.medicoshare.medical.book
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Skeleton | 3D Anatomy
+appId :  com.catfishanimationstudio.SkeletalSystemPreview
+score :  4.15
+installs : 1,000,000+
+ratings :  5776
+reviews :  68
+
+title :  ICE Emergency- Medical Reports
+appId :  inc.techxonia.icemedicalreportsemergency
+score :  4.025
+installs : 10,000+
+ratings :  86
+reviews :  33
+
+title :  Blood Test Results & Guideline
+appId :  com.studyspring.blood.test.results.guide
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Sehat Kahani App
+appId :  com.sehatkahani.app
+score :  3.5384614
+installs : 500,000+
+ratings :  1007
+reviews :  8
+
+title :  Shifaam HealthApp – Your Healt
+appId :  com.shifaam.patient
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Tintinalli's Emergency Med Man
+appId :  com.medpresso.Lonestar.emergmed
+score :  4.5
+installs : 50,000+
+ratings :  151
+reviews :  4
+
+title :  Doctor in mianwali
+appId :  com.dim_by_ak
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Diseases Treatments Dictionary
+appId :  com.medical.diseasesdictionary
+score :  4.72
+installs : 500,000+
+ratings :  7553
+reviews :  134
+
+title :  Goli Monthly Pharmacy
+appId :  pk.goli
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  BioDigital Human - 3D Anatomy
+appId :  com.biodigitalhuman.humanAndroid
+score :  4.29
+installs : 500,000+
+ratings :  5074
+reviews :  250
+
+title :  MyNextcare
+appId :  com.nextcare.app
+score :  3.7083333
+installs : 500,000+
+ratings :  4574
+reviews :  22
+
+title :  MediCall
+appId :  themedicall.com
+score :  4.3333335
+installs : 50,000+
+ratings :  1140
+reviews :  6
+
+title :  Blood Type Checker Blood Group
+appId :  com.tr.bloodtypecalculator
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Complete Anatomy 2023
+appId :  com.a3d4medical.completeanatomy
+score :  4.1
+installs : 1,000,000+
+ratings :  7944
+reviews :  344
+
+title :  Daily Anatomy Flashcards
+appId :  com.kenhub.dailyanatomy.musclesandbones
+score :  4.6449275
+installs : 100,000+
+ratings :  6703
+reviews :  494
+
+title :  Diseases Dictionary Medical
+appId :  com.atomic.apps.medical.disease.condition.dictionary
+score :  4.48366
+installs : 1,000,000+
+ratings :  28425
+reviews :  2462
+
+title :  Diseases Dictionary Offline
+appId :  com.ufo.disease
+score :  4.6837606
+installs : 1,000,000+
+ratings :  51661
+reviews :  961
+
+title :  Human Anatomy
+appId :  com.visual3dscience.humananatomy
+score :  3.41
+installs : 500,000+
+ratings :  3291
+reviews :  84
+
+title :  All Diseases Treatments 2023
+appId :  com.soft_solutions.alldieasesandtreatment
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  X-Ray Interpretation Guide
+appId :  com.andromo.dev706301.app757834
+score :  3.3125
+installs : 100,000+
+ratings :  764
+reviews :  13
+
+title :  Lybrate: Online Doctor Consult
+appId :  com.lybrate.phoenix
+score :  4.14
+installs : 5,000,000+
+ratings :  67037
+reviews :  78
+
+title :  Ovia Pregnancy & Baby Tracker
+appId :  com.ovuline.pregnancy
+score :  4.702897
+installs : 1,000,000+
+ratings :  142559
+reviews :  23493
+
+title :  Medical Terminology Dictionary
+appId :  com.soft24hours.medical.terminology.dictionary.search.terms.vocabulary
+score :  4.462963
+installs : 100,000+
+ratings :  958
+reviews :  14
+
+title :  Schwabe India - Homeopathy
+appId :  com.schwabeindia.android
+score :  3.6666667
+installs : 100,000+
+ratings :  3272
+reviews :  4
+
+title :  Pharmapedia Medical Guide Drug
+appId :  com.samylab.pharmapediadrug.infostoremedicinedawaai
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Livestock Punjab SPMS-9211
+appId :  pitb.com.pk.livestock
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  3D Bones and Organs (Anatomy)
+appId :  com.hssn.anatomy3dlite
+score :  4.610577
+installs : 1,000,000+
+ratings :  21578
+reviews :  602
+
+title :  Daman
+appId :  ae.damanhealth.daman
+score :  4.2
+installs : 500,000+
+ratings :  14957
+reviews :  50
+
+title :  Blood Pressure Checker Tracker
+appId :  com.temar.bloodpressurecheckerfree.readings.waterfullrainbow.bloodpressureanalyze.spo2.bp.bloodpressureinfo
+score :  4.2363634
+installs : 500,000+
+ratings :  5030
+reviews :  16
+
+title :  Fever Check Thermometer Diary
+appId :  com.fever.check.thermometer.bodytemperature.fevercheck
+score :  3.9454546
+installs : 50,000+
+ratings :  586
+reviews :  49
+
+title :  Plant Diseases and Treatment
+appId :  com.mappsstudio.plantdiseaseandtreatment
+score :  2.5833333
+installs : 10,000+
+ratings :  69
+reviews :  8
+
+title :  Homeopathy Medicines Directory
+appId :  ca.homeo.medicine.english
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Medical Records
+appId :  com.cliniconline
+score :  4.03
+installs : 100,000+
+ratings :  2239
+reviews :  128
+
+title :  Medical Lab Tests
+appId :  com.westsamoaconsult.labtests
+score :  4.4761906
+installs : 100,000+
+ratings :  362
+reviews :  14
+
+title :  Oxford Medical Dictionary
+appId :  com.mobisystems.msdict.embedded.wireless.oxford.concisemedical
+score :  4.18
+installs : 1,000,000+
+ratings :  9586
+reviews :  139
+
+title :  Practo : Online Doctor App
+appId :  com.practo.fabric
+score :  4.545
+installs : 10,000,000+
+ratings :  241198
+reviews :  335
+
+title :  Ailaaj -Speak to Online Doctor
+appId :  com.augmentcare.patient
+score :  5
+installs : 50,000+
+ratings :  489
+reviews :  3
+
+title :  RIC Patient Care
+appId :  com.techovative.ric
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Diseases & Disorders: Nursing
+appId :  com.medpresso.Lonestar.rndiseases
+score :  4.3809524
+installs : 10,000+
+ratings :  87
+reviews :  6
+
+title :  Hamdard Fehrist-e-Advia
+appId :  hamdard.fehrist.iproum
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Ali Medical Patient App
+appId :  com.AliMedicalCenter.patientapp
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Davis's Drug Guide
+appId :  com.unbound.android.cqddl
+score :  4.7192984
+installs : 100,000+
+ratings :  1355
+reviews :  194
+
+title :  SmartBP Blood Pressure Tracker
+appId :  com.smartbloodpressure
+score :  3.5
+installs : 500,000+
+ratings :  3301
+reviews :  213
+
+title :  Dr.Galen : Online Doctor App
+appId :  com.drgalen.org.dr_galen
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  WikiMed - Offline Encyclopedia
+appId :  org.kiwix.kiwixcustomwikimed
+score :  4.64
+installs : 100,000+
+ratings :  24511
+reviews :  309
+
+title :  AMBOSS Knowledge Library
+appId :  com.amboss.medical.knowledge
+score :  4.792079
+installs : 100,000+
+ratings :  5742
+reviews :  154
+
+title :  Ada – check your health
+appId :  com.ada.app
+score :  4.6635365
+installs : 5,000,000+
+ratings :  330478
+reviews :  8786
+
+title :  MedPlus Mart - Online Pharmacy
+appId :  com.medplus.mobile.android
+score :  4.38
+installs : 1,000,000+
+ratings :  28369
+reviews :  47
+
+title :  Wiri Salud
+appId :  com.wiri.la
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  MSD Manual Professional
+appId :  com.msd.professional
+score :  4.6
+installs : 1,000,000+
+ratings :  5608
+reviews :  40
+
+title :  NMP Pharmacy - Online Pharmacy
+appId :  com.nmppharmacy
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Saunders Comp Review NCLEX RN
+appId :  com.medpresso.testzapp.crnclex_rn
+score :  4.6138616
+installs : 100,000+
+ratings :  1790
+reviews :  230
+
+title :  Muscular System 3D (anatomy)
+appId :  com.androiddevelopermx.blogspot.muscles3d
+score :  4.1504426
+installs : 1,000,000+
+ratings :  13852
+reviews :  245
+
+title :  Drugs and Disease Dictionary
+appId :  com.ac.medicaldictionary
+score :  4.4375
+installs : 50,000+
+ratings :  381
+reviews :  3
+
+title :  Abdominal Ultrasound Guide
+appId :  com.studyspring.abdominal.ultrasound.info
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Breast Anatomy
+appId :  com.visual3dscience.Breast
+score :  4.266667
+installs : 100,000+
+ratings :  192
+reviews :  13
+
+title :  Medicine Dictionary
+appId :  com.medicinee.dictionary
+score :  4.612903
+installs : 100,000+
+ratings :  914
+reviews :  18
+
+title :  weZoom Magnifier
+appId :  de.stoehr.loviapps.wezoom
+score :  4.37
+installs : 100,000+
+ratings :  876
+reviews :  79
+
+title :  Medicos Pdf :Get Medical Book,
+appId :  com.rjl.bookapp
+score :  4.428571
+installs : 100,000+
+ratings :  3365
+reviews :  18
+
+title :  Manual MSD público general
+appId :  com.msd.consumerSpanish
+score :  4.6
+installs : 500,000+
+ratings :  1703
+reviews :  12
+
+title :  Teach Me Surgery
+appId :  com.teachmeseries.tmsurgery
+score :  4.5652175
+installs : 100,000+
+ratings :  929
+reviews :  6
+
+title :  Color Blindness Test: Ishihara
+appId :  com.divinememorygames.ishihara.color.blindness.test
+score :  4.34
+installs : 500,000+
+ratings :  1712
+reviews :  102
+
+title :  Blood Pressure Diary
+appId :  org.fruct.yar.bloodpressurediary
+score :  4.62
+installs : 1,000,000+
+ratings :  5556
+reviews :  144
+
+title :  Blood Pressure Diary
+appId :  com.rizapp.bloodpressureRecorder
+score :  4.253521
+installs : 100,000+
+ratings :  2528
+reviews :  52
+
+title :  Dental 3D Illustrations
+appId :  com.alexmit.dentalillustrations
+score :  4.394737
+installs : 100,000+
+ratings :  1082
+reviews :  10
+
+title :  medr
+appId :  com.kaveshan.medr
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Medical Guide App Pakistan
+appId :  com.medicalguideapp.www.medicalguideapp
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Your Doctors - Online Doctor
+appId :  com.ydo.smartapp
+score :  3.6666667
+installs : 100,000+
+ratings :  4402
+reviews :  591
+
+title :  Medical Dictionary by Farlex
+appId :  com.farlex.dictionary.medical
+score :  4.571429
+installs : 100,000+
+ratings :  7669
+reviews :  675
+
+title :  Drugs Dictionary Medical
+appId :  com.atomic.apps.medical.drug.dictionary
+score :  4.305
+installs : 1,000,000+
+ratings :  15524
+reviews :  1115
+
+title :  Fever Thermometer Body Temp
+appId :  com.crestknightstudio.bodytempreaturediaryandtracker
+score :  4.285714
+installs : 5,000+
+ratings :  926
+reviews :  54
+
+title :  myNAS
+appId :  nas.logicbeanzs.com.mynas
+score :  3.5172415
+installs : 100,000+
+ratings :  3920
+reviews :  19
+
+title :  AVAX Blood Pressure Diary
+appId :  app.avax.health
+score :  4.68
+installs : 100,000+
+ratings :  7389
+reviews :  105
+
+title :  TakeYourPills Pill Reminder
+appId :  com.bestfuncoolapps.TakeYourPills
+score :  4.7928176
+installs : 100,000+
+ratings :  6999
+reviews :  1531
+
+title :  Eye exercises and Vision test
+appId :  com.novadosoft.eyesight
+score :  3.4
+installs : 10,000+
+ratings :  117
+reviews :  2
+
+title :  All Blood Disease & Treatment
+appId :  com.patrikat.allblooddiseases
+score :  4.09434
+installs : 100,000+
+ratings :  504
+reviews :  21
+
+title :  Body Temperature Fever Tracker
+appId :  com.body.temperature.fever.thermomter
+score :  3.86
+installs : 100,000+
+ratings :  2027
+reviews :  95
+
+title :  Osseous System in 3D (Anatomy)
+appId :  com.androiddevelopermx.blogspot.bones3d
+score :  4.2819147
+installs : 1,000,000+
+ratings :  21331
+reviews :  438
+
+title :  Dr. Blood Pressure
+appId :  com.zeroapp.bloodpresshelp.app
+score :  4.0652175
+installs : 100,000+
+ratings :  1677
+reviews :  4
+
+title :  Medical Terminology Dictionary
+appId :  com.medicalgroupsoft.medical.directorymedtermsmultilang.free
+score :  4.608187
+installs : 1,000,000+
+ratings :  20309
+reviews :  462
+
+title :  iRelease Relieve Stress Now
+appId :  main.irelease.com.irelease
+score :  5
+installs : 100,000+
+ratings :  235
+reviews :  11
+
+title :  QuitNow: Quit smoking for good
+appId :  com.EAGINsoftware.dejaloYa
+score :  4.5634027
+installs : 1,000,000+
+ratings :  61925
+reviews :  2093
+
+title :  Blood Pressure Checker Monitor
+appId :  com.crestknightstudio.bloodpressurediaryandtracker
+score :  4.7777777
+installs : 100+
+ratings :  477
+reviews :  10
+
+title :  Medgic - AI Skin Analysis
+appId :  co.medgic.medgic
+score :  3.57
+installs : 500,000+
+ratings :  5425
+reviews :  251
+
+title :  IDV - IMAIOS DICOM Viewer
+appId :  com.imaios.imaiosdicomviewer
+score :  3.8611112
+installs : 100,000+
+ratings :  405
+reviews :  22
+
+title :  MyMountSinai
+appId :  org.mountsinai.MyChart
+score :  4.457143
+installs : 100,000+
+ratings :  1001
+reviews :  409
+
+title :  Immune مناعة
+appId :  com.mohkuwait.immune
+score :  3.735294
+installs : 1,000,000+
+ratings :  14659
+reviews :  70
+
+title :  Doctolib
+appId :  fr.doctolib.www
+score :  4.455446
+installs : 10,000,000+
+ratings :  429104
+reviews :  212
+
+title :  SAKOON - Pharmacy & Healthcare
+appId :  com.healthcaremartpharmacy.sakoon
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Davis Clinical Nursing Skills
+appId :  com.medpresso.Lonestar.cnskills
+score :  4.655738
+installs : 100,000+
+ratings :  434
+reviews :  19
+
+title :  Pregnancy and ultrasound guide
+appId :  com.ultrasoundpregnancy.pregnancyultrasound
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  AHA eBook Reader
+appId :  com.impelsys.aha.android.ebookstore
+score :  2.8
+installs : 100,000+
+ratings :  1265
+reviews :  114
+
+title :  Gestational Age
+appId :  pt.statoscope.gestationalage
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  KIH Mobile App
+appId :  com.kihmobile.kih
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Pediatric Oncall
+appId :  com.pediatriconcall
+score :  4.27
+installs : 100,000+
+ratings :  2523
+reviews :  55
+
+title :  Saunders Nursing Drug Handbook
+appId :  com.medpresso.Lonestar.saundersdx
+score :  4.2987013
+installs : 100,000+
+ratings :  332
+reviews :  23
+
+title :  Cell biology
+appId :  com.soft24hours.encyclopedia.cell.biology.free.offline
+score :  4.3448277
+installs : 100,000+
+ratings :  764
+reviews :  10
+
+title :  Laboratory Diagnostic Tests
+appId :  com.medpresso.Lonestar.rndxtests
+score :  3.8
+installs : 50,000+
+ratings :  107
+reviews :  4
+
+title :  Eye exercises
+appId :  andrei.brusentcov.eye_exercises.free
+score :  4.48
+installs : 1,000,000+
+ratings :  17885
+reviews :  188
+
+title :  MREP
+appId :  com.sameelenterprises.mrep
+score :  3.857143
+installs : 10,000+
+ratings :  2495
+reviews :  1
+
+title :  Tarassud +
+appId :  om.gov.moh.tarassudapplication
+score :  2.88
+installs : 1,000,000+
+ratings :  10313
+reviews :  94
+
+title :  MDapp: certified doctors & ai
+appId :  com.mdapp.ai
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  WebMD: Symptom Checker
+appId :  com.webmd.android
+score :  4.2805033
+installs : 10,000,000+
+ratings :  64844
+reviews :  10475
+
+title :  Microphone Amplifier Recorder
+appId :  microphone.amplifier.callingfree
+score :  4.6769233
+installs : 10,000+
+ratings :  309
+reviews :  7
+
+title :  Child Height Calculator
+appId :  co.mdapp.bchp
+score :  1.7142857
+installs : 10,000+
+ratings :  42
+reviews :  5
+
+title :  Prescription Maker
+appId :  com.mohitatray.prescriptionmaker
+score :  4.111111
+installs : 100,000+
+ratings :  301
+reviews :  6
+
+title :  Healthians -Full Body Checkup
+appId :  com.healthians.main.healthians
+score :  4.53
+installs : 1,000,000+
+ratings :  38743
+reviews :  37
+
+title :  Netter's Anatomy Flash Cards
+appId :  com.medpresso.Lonestar.netterflash
+score :  2.4
+installs : 10,000+
+ratings :  34
+reviews :  2
+
+title :  Gynecology and Obstetrics
+appId :  com.unbound.android.ubgol
+score :  4.1666665
+installs : 50,000+
+ratings :  115
+reviews :  2
+
+title :  Period and Ovulation Tracker
+appId :  com.smsrobot.period
+score :  4.807025
+installs : 5,000,000+
+ratings :  173979
+reviews :  7224
+
+title :  NCLEX RN Q&A Tutoring Saunders
+appId :  com.medpresso.testzapp.qanclex_rn
+score :  4.75
+installs : 100,000+
+ratings :  2655
+reviews :  197
+
+title :  touchControl
+appId :  com.hearing.healthcare.siemens.touchcontrol
+score :  3.1877935
+installs : 1,000,000+
+ratings :  22561
+reviews :  2252
+
+title :  NMC - Consultant App
+appId :  com.cloudtenants.consultant.nmc
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Offline Medical Dictionary
+appId :  com.learningapp.medicaldictionary
+score :  4.4
+installs : 10,000+
+ratings :  126
+reviews :  1
+

@@ -1,0 +1,1400 @@
+title :  Pak Rail Live - Tracking app o
+appId :  com.pakraillive.PakRailLive
+score :  4.25
+installs : 5,000,000+
+ratings :  24732
+reviews :  40
+
+title :  Pakistan Railways Official
+appId :  pk.gov.railways
+score :  3.48
+installs : 1,000,000+
+ratings :  62158
+reviews :  125
+
+title :  Bykea: Moving People & Parcels
+appId :  com.bykea.pk
+score :  3.85
+installs : 5,000,000+
+ratings :  94770
+reviews :  175
+
+title :  Google Earth
+appId :  com.google.earth
+score :  4.26203
+installs : 100,000,000+
+ratings :  2922849
+reviews :  102565
+
+title :  Bus, Flights Booking - Bookme
+appId :  com.macropaks.bookme
+score :  4.54
+installs : 1,000,000+
+ratings :  30562
+reviews :  95
+
+title :  Jazz Mosafir
+appId :  pk.mosafir.travsol
+score :  3.857143
+installs : 500,000+
+ratings :  599
+reviews :  1
+
+title :  Nusuk (Eatmarna Previously)
+appId :  com.sejel.eatamrna
+score :  2.639706
+installs : 10,000,000+
+ratings :  126717
+reviews :  492
+
+title :  Airbnb
+appId :  com.airbnb.android
+score :  4.4733777
+installs : 100,000,000+
+ratings :  1437266
+reviews :  80225
+
+title :  Sastaticket Flight, Hotel, Bus
+appId :  com.pk.sastaticket
+score :  3.8333333
+installs : 500,000+
+ratings :  3070
+reviews :  13
+
+title :  BOOKKARU - Ticket Bookings
+appId :  com.bookkaru
+score :  3.0133333
+installs : 500,000+
+ratings :  7261
+reviews :  32
+
+title :  ConfirmTkt: Book Train Tickets
+appId :  com.confirmtkt.lite
+score :  4.753623
+installs : 50,000,000+
+ratings :  622773
+reviews :  485
+
+title :  Pakistan Railways All_in_one
+appId :  com.rail.liv.tarick
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Flightradar24 Flight Tracker
+appId :  com.flightradar24free
+score :  4.6515765
+installs : 50,000,000+
+ratings :  508546
+reviews :  11779
+
+title :  flydubai
+appId :  com.flydubai.booking
+score :  3.9186046
+installs : 1,000,000+
+ratings :  5028
+reviews :  23
+
+title :  GPS Navigation Live Map Road
+appId :  com.mapzonestudio.gps.navigation.live.map.voice.translator
+score :  4.28
+installs : 10,000,000+
+ratings :  27247
+reviews :  206
+
+title :  Skyscanner Flights Hotels Cars
+appId :  net.skyscanner.android.main
+score :  4.7185903
+installs : 50,000,000+
+ratings :  942593
+reviews :  16090
+
+title :  Pak Train Tickets Booking App
+appId :  com.wPakTrainTicketsBookingApp_15134722
+score :  3.78125
+installs : 50,000+
+ratings :  1213
+reviews :  4
+
+title :  Booking.com: Hotels and more
+appId :  com.booking
+score :  4.57951
+installs : 500,000,000+
+ratings :  3708252
+reviews :  79989
+
+title :  M-TAG One Network
+appId :  com.ls.onenetwork.mtag
+score :  3.7272727
+installs : 100,000+
+ratings :  14649
+reviews :  3
+
+title :  Google Maps
+appId :  com.google.android.apps.maps
+score :  4.0675387
+installs : 10,000,000,000+
+ratings :  16928324
+reviews :  622978
+
+title :  GPS Live Navigation, Road Maps
+appId :  com.attractiveapps.gps.alarm.route.finder.map.alarm.route.planner
+score :  4.39
+installs : 1,000,000+
+ratings :  8202
+reviews :  72
+
+title :  Pearl Continental Hotels
+appId :  app.pc.hotels
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Google Maps Go
+appId :  com.google.android.apps.mapslite
+score :  4.3419642
+installs : 500,000,000+
+ratings :  260666
+reviews :  5408
+
+title :  GPS Photo: With Location & Map
+appId :  com.gonext.gpsphotolocation
+score :  4.1153846
+installs : 1,000,000+
+ratings :  4386
+reviews :  29
+
+title :  Rent a Car・Rent80
+appId :  com.rent80.rentalcars
+score :  4.475
+installs : 100,000+
+ratings :  500
+reviews :  22
+
+title :  PIA App
+appId :  com.piac.thepiaapp.android
+score :  3.6885245
+installs : 1,000,000+
+ratings :  5310
+reviews :  26
+
+title :  GPS Navigation: Route Planner
+appId :  com.entertaininglogixapps.gps.navigation.currency.converter.weather.map
+score :  4.2970295
+installs : 5,000,000+
+ratings :  10752
+reviews :  119
+
+title :  GO Yakıt - Akaryakıt & Otogaz
+appId :  com.ipraenerji.go
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Location Map
+appId :  info.swappdevmobile.lbgooglemap
+score :  4.25
+installs : 1,000,000+
+ratings :  8846
+reviews :  64
+
+title :  Wego - Flights, Hotels, Travel
+appId :  com.wego.android
+score :  4.4927955
+installs : 10,000,000+
+ratings :  156549
+reviews :  994
+
+title :  Navigation for Google Maps Go
+appId :  com.google.android.apps.navlite
+score :  4.2864294
+installs : 500,000,000+
+ratings :  353706
+reviews :  8412
+
+title :  Pakistan Railway's Live
+appId :  com.playstore.pakraillive
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  City Prosmatec: Extreme New Dr
+appId :  com.bg.city.extreme.drive.drift.stunts.honda.city
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Baloch Transport Official
+appId :  com.brikmas.balochtransport
+score :  3.9
+installs : 100,000+
+ratings :  919
+reviews :  6
+
+title :  Satellite View Earth Globe Map
+appId :  com.earthmap.location.tracker.shareaddress.routefinder
+score :  3.960396
+installs : 1,000,000+
+ratings :  1914
+reviews :  32
+
+title :  GPS Maps - Navigation, Traffic
+appId :  com.live.maps.gps.navigation.traffic.gps.location.route.driving.directions
+score :  4.318182
+installs : 500,000+
+ratings :  973
+reviews :  5
+
+title :  Agoda
+appId :  com.agoda.mobile.consumer
+score :  4.735973
+installs : 50,000,000+
+ratings :  1232872
+reviews :  9772
+
+title :  Phone Number Tracker & Locator
+appId :  com.phonenumbertracker.location.mobile.call.locator.callerid
+score :  4.128342
+installs : 10,000,000+
+ratings :  26295
+reviews :  853
+
+title :  Live Earth Maps GPS Navigation
+appId :  com.driving.guide.earth.navigationmap.trackingfree
+score :  4.02
+installs : 1,000,000+
+ratings :  3676
+reviews :  76
+
+title :  GPS Navigation Live Earth Map
+appId :  com.hstechapps.gps.map.navigation.locations
+score :  4.29
+installs : 5,000,000+
+ratings :  10722
+reviews :  66
+
+title :  Easy Rout Map: Navigation Path
+appId :  com.easypath.maproute.drivingdirection.streetview
+score :  4.4761906
+installs : 500,000+
+ratings :  636
+reviews :  9
+
+title :  Airblue
+appId :  com.airblue.airblue
+score :  3.5
+installs : 100,000+
+ratings :  621
+reviews :  1
+
+title :  Grab - Taxi & Food Delivery
+appId :  com.grabtaxi.passenger
+score :  4.8021173
+installs : 100,000,000+
+ratings :  11099596
+reviews :  8734
+
+title :  NiaziExpress
+appId :  com.niazi_express.pk
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Road Master
+appId :  com.roadmaster.roadmasterapp
+score :  4.7058825
+installs : 100,000+
+ratings :  8441
+reviews :  8
+
+title :  Zu Peshawar
+appId :  com.lmkt.zupeshawar
+score :  2.25
+installs : 100,000+
+ratings :  1658
+reviews :  5
+
+title :  Find my Phone - Family Locator
+appId :  com.sygic.familywhere.android
+score :  4.1560626
+installs : 10,000,000+
+ratings :  413008
+reviews :  4474
+
+title :  Emirates
+appId :  com.emirates.ek.android
+score :  4.47013
+installs : 5,000,000+
+ratings :  68775
+reviews :  1095
+
+title :  All Flight Tickets Booking App
+appId :  com.allflightbooking.app
+score :  4.2916665
+installs : 100,000+
+ratings :  1474
+reviews :  60
+
+title :  Currency Converter Plus
+appId :  com.digitalchemy.currencyconverter
+score :  4.685233
+installs : 10,000,000+
+ratings :  148278
+reviews :  2685
+
+title :  Peppa Pig Theme Park Florida
+appId :  com.peppapigthemepark.florida
+score :  4.4827585
+installs : 100,000+
+ratings :  148
+reviews :  8
+
+title :  Qatar Airways
+appId :  com.m.qr
+score :  4.3453817
+installs : 5,000,000+
+ratings :  51225
+reviews :  811
+
+title :  Air Force Shooter 3D
+appId :  com.freegames.airshooter
+score :  3.5841122
+installs : 10,000,000+
+ratings :  37815
+reviews :  746
+
+title :  Live Flight Tracker
+appId :  com.live.flighttracker
+score :  3.6
+installs : 1,000,000+
+ratings :  10881
+reviews :  446
+
+title :  Trip.com: Book Flights, Hotels
+appId :  ctrip.english
+score :  4.4964705
+installs : 10,000,000+
+ratings :  178028
+reviews :  2014
+
+title :  Pak Rail Ticket Booking
+appId :  com.playstore.PRTB
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Omio: Europe & U.S. Travel App
+appId :  com.goeuro.rosie
+score :  4.715596
+installs : 10,000,000+
+ratings :  139205
+reviews :  960
+
+title :  GPS Navigation: Live Earth Map
+appId :  com.gpsdistance.speedometer.tripguide.locationfinder.satellitemap.free
+score :  4.3
+installs : 5,000,000+
+ratings :  7846
+reviews :  215
+
+title :  SAUDIA
+appId :  com.saudia.SaudiaApp
+score :  2.96
+installs : 1,000,000+
+ratings :  29302
+reviews :  232
+
+title :  Real Tractor Pulling Simulator
+appId :  com.rs.real.offroad.tractor.pulling.simulator
+score :  4.25
+installs : 1,000,000+
+ratings :  2816
+reviews :  3
+
+title :  FlySister
+appId :  com.flysister
+score :  4
+installs : 50,000+
+ratings :  2173
+reviews :  4
+
+title :  Flights, railways, hotels
+appId :  ru.tutu.tutu_emp
+score :  4.84
+installs : 10,000,000+
+ratings :  205199
+reviews :  24
+
+title :  Digital Compass: Smart Compass
+appId :  com.compassfree.digitalcompass.forandroid.app
+score :  4.45
+installs : 5,000,000+
+ratings :  17048
+reviews :  449
+
+title :  AirSial
+appId :  com.airsail
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  CORAL TRAVEL ТУРАГЕНТСТВО ТУРЫ
+appId :  my.ctravell
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Get Gaari - Rental Car Sharing
+appId :  com.roboart.getgaari
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Hijri calendar (Islamic Date)
+appId :  com.islamicapp.calandar.hijri
+score :  4.3
+installs : 1,000,000+
+ratings :  2476
+reviews :  8
+
+title :  Book Train Ticket - Trainman
+appId :  in.trainman.trainmanandroidapp
+score :  4.26
+installs : 10,000,000+
+ratings :  145864
+reviews :  109
+
+title :  Flexiroam X: eSIM & Data Plans
+appId :  com.flexiroamx
+score :  3.7
+installs : 1,000,000+
+ratings :  2935
+reviews :  56
+
+title :  Turkish Airlines Flight Ticket
+appId :  com.turkishairlines.mobile
+score :  4.59375
+installs : 5,000,000+
+ratings :  73222
+reviews :  701
+
+title :  Etihad Airways
+appId :  com.mttnow.android.etihad
+score :  3.375
+installs : 1,000,000+
+ratings :  22282
+reviews :  403
+
+title :  GPS Map Camera Geotag Location
+appId :  com.app.tools.town.gps.camera.live.map
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  CarbitLink-EasyConnection
+appId :  net.easyconn.carman.wws
+score :  3.02
+installs : 1,000,000+
+ratings :  9882
+reviews :  404
+
+title :  Apni Sawari - Book Cab & Ride
+appId :  com.apnisawari.customerApp
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  FlightAware Flight Tracker
+appId :  com.flightaware.android.liveFlightTracker
+score :  4.0117745
+installs : 10,000,000+
+ratings :  43453
+reviews :  3511
+
+title :  Live Train - Where Is My Train
+appId :  livetrainstatus.pnrcheckstatus.trainstatus.mytrain.livetrain
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  NoteCam Lite - GPS memo camera
+appId :  com.derekr.NoteCam
+score :  4.3846154
+installs : 10,000,000+
+ratings :  15270
+reviews :  17
+
+title :  Speedbot. GPS/OBD2 Speedometer
+appId :  com.vialsoft.speedbot_gps_obd_speedometer
+score :  4.213592
+installs : 1,000,000+
+ratings :  8521
+reviews :  401
+
+title :  HHR Train
+appId :  com.indra.haramain.pro
+score :  3.4333334
+installs : 100,000+
+ratings :  1321
+reviews :  14
+
+title :  Air Arabia (official app)
+appId :  com.winit.airarabia
+score :  3.58
+installs : 1,000,000+
+ratings :  16832
+reviews :  114
+
+title :  UCPlaces, the tour guide app.
+appId :  com.ucplaces.app
+score :  3.85
+installs : 100,000+
+ratings :  358
+reviews :  6
+
+title :  Geo Tracker - GPS tracker
+appId :  com.ilyabogdanovich.geotracker
+score :  4.466216
+installs : 5,000,000+
+ratings :  81291
+reviews :  2073
+
+title :  Flight Tracker - Plane Radar24
+appId :  com.flighttrackerapps.airtraffic.flightstatus.liveflightschedule.traveltours
+score :  3.65
+installs : 100,000+
+ratings :  1093
+reviews :  119
+
+title :  Ramp Monster Truck Stunts
+appId :  com.gp.ramp.monster.truck.stunts
+score :  3.8421052
+installs : 1,000,000+
+ratings :  2839
+reviews :  5
+
+title :  Meet Pakistan | TG from TDAP
+appId :  com.tdap.fluttertravelapp
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Lingvanex Translate Text Voice
+appId :  com.nordicwise.translator
+score :  4.01
+installs : 100,000+
+ratings :  1240
+reviews :  50
+
+title :  People Bus Service Karachi BRT
+appId :  com.karachibreeze.mertosystem.app
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Sim Owner Details Pakistan
+appId :  com.apps.simsverification_allsimsinfoasbhi
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Cheap Flights App - FareFirst
+appId :  com.cheapflightsapp.flightbooking
+score :  4.2277226
+installs : 1,000,000+
+ratings :  11914
+reviews :  374
+
+title :  TaxiF - A Better Way to Ride
+appId :  com.taxif.passenger
+score :  4.5576925
+installs : 1,000,000+
+ratings :  57563
+reviews :  256
+
+title :  Hi Translate Voice
+appId :  com.collo.translateapp
+score :  4.5348835
+installs : 500,000+
+ratings :  2172
+reviews :  16
+
+title :  Experience Makkah Vol.2
+appId :  com.vhorus.makkah
+score :  4.125
+installs : 50,000+
+ratings :  301
+reviews :  5
+
+title :  Pak Railway
+appId :  com.islamicfeedapps.pakrailway
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Live GPS Satellite - Earth Map
+appId :  com.live.gps.map.route.traffic.finder.streetview.locations
+score :  3.9166667
+installs : 100,000+
+ratings :  195
+reviews :  3
+
+title :  Currency converter offline
+appId :  com.mezhevikin.converter
+score :  4.5837836
+installs : 5,000,000+
+ratings :  139575
+reviews :  573
+
+title :  Car Racing Games - Car Games
+appId :  com.racing.car.racing.game.apps
+score :  4.73
+installs : 500,000+
+ratings :  1947
+reviews :  90
+
+title :  DB Navigator
+appId :  de.hafas.android.db
+score :  3.6363637
+installs : 10,000,000+
+ratings :  186140
+reviews :  632
+
+title :  Terzo Millennio Car Simulator:
+appId :  com.EGT.terzo.millenio.car.simulator.real.city.drift.games
+score :  4.642857
+installs : 100,000+
+ratings :  352
+reviews :  3
+
+title :  The Flight Tracker
+appId :  com.flistholding.flightplus
+score :  4.3204746
+installs : 1,000,000+
+ratings :  31450
+reviews :  2843
+
+title :  Online Ticket Booking USA
+appId :  com.ronstech.onlineticket
+score :  3.75
+installs : 1,000,000+
+ratings :  5109
+reviews :  2
+
+title :  ezBike - Bike Sharing App
+appId :  com.ezbikepk
+score :  4.05
+installs : 100,000+
+ratings :  1626
+reviews :  6
+
+title :  Tripadvisor: Plan & Book Trips
+appId :  com.tripadvisor.tripadvisor
+score :  4.4422135
+installs : 100,000,000+
+ratings :  1431657
+reviews :  68130
+
+title :  flynas
+appId :  com.flynas.android.app
+score :  3.25
+installs : 1,000,000+
+ratings :  27726
+reviews :  149
+
+title :  Verify Driving Licence - Pakis
+appId :  com.knotcode.dlv
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Wizz Air - Book, Travel & Save
+appId :  com.wizzair.WizzAirApp
+score :  4.569697
+installs : 10,000,000+
+ratings :  159185
+reviews :  257
+
+title :  Extreme Car Driving Simulator 
+appId :  com.dsg.range.rover.drive.simulator
+score :  3.6470587
+installs : 500,000+
+ratings :  1458
+reviews :  8
+
+title :  Benazir Income Support 2023
+appId :  com.apps.benazirIncomebisp_supportsbispdetails
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Visit Qatar
+appId :  qa.visitqatar.app
+score :  4.6363635
+installs : 100,000+
+ratings :  252
+reviews :  5
+
+title :  Social Deal - The best deals
+appId :  app.nl.socialdeal
+score :  4.05
+installs : 1,000,000+
+ratings :  30830
+reviews :  16
+
+title :  Car Simulator 2021 : Terzo Dri
+appId :  com.dsg.TerzoMillineo.extreme.cardriving.simulator
+score :  3.7575758
+installs : 500,000+
+ratings :  1284
+reviews :  16
+
+title :  Motorway Conditions Today
+appId :  com.atrule.weatherhighway
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  MAPS.ME: Offline maps GPS Nav
+appId :  com.mapswithme.maps.pro
+score :  4.2114925
+installs : 50,000,000+
+ratings :  1237596
+reviews :  12790
+
+title :  Celebrity Cruises
+appId :  com.rccl.celebrity
+score :  4.0941706
+installs : 100,000+
+ratings :  3208
+reviews :  1261
+
+title :  Travelot
+appId :  com.app.pk.travelot
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Bilal Travels
+appId :  com.bookme.bilaltravels
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  eZhire - Rental Car On-demand
+appId :  com.ionicframework.conference463383
+score :  3.97
+installs : 100,000+
+ratings :  5668
+reviews :  46
+
+title :  GPS Navigation Live Earth Maps
+appId :  com.appslogix.drivingroute.gps.map
+score :  3.7272727
+installs : 500,000+
+ratings :  1197
+reviews :  14
+
+title :  Waltravel - Travel Mates & AI
+appId :  io.whitematter.waltravel
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Live Street View Map HD
+appId :  com.live.earth.gpstracking.panorama.view.streetviewmap
+score :  3.55
+installs : 1,000,000+
+ratings :  2901
+reviews :  231
+
+title :  GPS Maps Live Earth Satellite
+appId :  com.gpsview.offlineearth.maps.routenavigation.street
+score :  4.15
+installs : 1,000,000+
+ratings :  6085
+reviews :  157
+
+title :  Peekaboo Guru - Deals & Bank C
+appId :  com.fetchsky.peekaboo
+score :  4.647059
+installs : 100,000+
+ratings :  3145
+reviews :  6
+
+title :  Chutti
+appId :  com.newtravel
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Karachi Breeze
+appId :  com.kentkart.karachiapp
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Planes Live - Flight Tracker
+appId :  com.apalon.flight.tracker
+score :  4.37234
+installs : 5,000,000+
+ratings :  50304
+reviews :  541
+
+title :  iVisa: Online Travel Visa & ID
+appId :  com.ivisa.services
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  ixigo Train Status Ticket Book
+appId :  com.ixigo.train.ixitrain
+score :  4.516023
+installs : 100,000,000+
+ratings :  2686202
+reviews :  6570
+
+title :  PHVG Razakar
+appId :  com.emersive.phvgrazakar
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  M-TAG Motorway Pakistan
+appId :  com.pakistanmotorway.mtag
+score :  1
+installs : 10,000+
+ratings :  111
+reviews :  4
+
+title :  Book Bus, Train Tickets & Cabs
+appId :  in.redbus.android
+score :  4.576122
+installs : 50,000,000+
+ratings :  2250620
+reviews :  4789
+
+title :  Cheap Flights
+appId :  trilok.flights.cheapflights.bookings
+score :  4.455446
+installs : 100,000+
+ratings :  1986
+reviews :  104
+
+title :  Cargo Tractor Trolley Game - T
+appId :  com.racing.tractor.trolley
+score :  5
+installs : 1,000,000+
+ratings :  2374
+reviews :  87
+
+title :  Gulf Air
+appId :  com.gulfair.android
+score :  3.2857144
+installs : 100,000+
+ratings :  724
+reviews :  9
+
+title :  KAYAK: Flights, Hotels & Cars
+appId :  com.kayak.android
+score :  4.5420575
+installs : 10,000,000+
+ratings :  257641
+reviews :  38064
+
+title :  Cheapflights: Flights & Hotels
+appId :  com.cf.flightsearch
+score :  4.3856654
+installs : 10,000,000+
+ratings :  62298
+reviews :  1574
+
+title :  Saudia Umrah
+appId :  com.saudia.umrah
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Instant Voice Translate
+appId :  com.erudite.translator
+score :  4.804014
+installs : 1,000,000+
+ratings :  129305
+reviews :  1544
+
+title :  Jetcost: flights, hotels, cars
+appId :  com.jetcost.jetcost
+score :  4.15625
+installs : 1,000,000+
+ratings :  28993
+reviews :  1058
+
+title :  MakeMyTrip Hotels, Flight, Bus
+appId :  com.makemytrip
+score :  4.5520444
+installs : 50,000,000+
+ratings :  1594429
+reviews :  5098
+
+title :  World Chain Network Mining
+appId :  com.ahmedtodas.developer.Tesla
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  World Clock Widget
+appId :  net.hubalek.android.worldclock
+score :  4.5960593
+installs : 1,000,000+
+ratings :  26624
+reviews :  2500
+
+title :  Indian Oil Truck Simulator
+appId :  com.gcg.oiltanker
+score :  4.365854
+installs : 1,000,000+
+ratings :  3695
+reviews :  10
+
+title :  Atlys - Simplify Travel
+appId :  com.atlys.android
+score :  3.5652175
+installs : 50,000+
+ratings :  481
+reviews :  40
+
+title :  Airplane Robot Transformation
+appId :  com.aussieman.jet.robot.airplane
+score :  3.6153846
+installs : 1,000,000+
+ratings :  2572
+reviews :  38
+
+title :  Flying Helicopter Robot Car Tr
+appId :  com.grand.robot.fight.car.transform.robot.helicopter.shooting.mech.war.flying.helicopter.games
+score :  4.756098
+installs : 1,000,000+
+ratings :  1348
+reviews :  33
+
+title :  Book Flight Tickets by Pegasus
+appId :  com.pozitron.pegasus
+score :  3.57
+installs : 5,000,000+
+ratings :  59647
+reviews :  123
+
+title :  Mod Bussid Mobil Innova Travel
+appId :  com.modbussid.mobil.innovatravel
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Expedia: Hotels, Flights & Car
+appId :  com.expedia.bookings
+score :  4.4964213
+installs : 50,000,000+
+ratings :  345148
+reviews :  58699
+
+title :  trivago: Compare hotel prices
+appId :  com.trivago
+score :  4.4604945
+installs : 50,000,000+
+ratings :  329396
+reviews :  5109
+
+title :  Visa Check Online Pakistan
+appId :  com.visacheck.online.pakistan
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Wallet Cards | Digital Wallet
+appId :  io.walletcards.android
+score :  4.05
+installs : 1,000,000+
+ratings :  4212
+reviews :  160
+
+title :  Railway Time Table (Offline)
+appId :  com.appmatrix.indian.railway.offline
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  GoZayaan
+appId :  com.gozayaan.app
+score :  3.6756756
+installs : 100,000+
+ratings :  1233
+reviews :  18
+
+title :  Thai Airways
+appId :  com.thaiairways.mobile
+score :  4.015625
+installs : 1,000,000+
+ratings :  3536
+reviews :  31
+
+title :  Plane Finder - Flight Tracker
+appId :  com.pinkfroot.planefinderfree
+score :  3.19
+installs : 1,000,000+
+ratings :  7396
+reviews :  301
+
+title :  Viator: Tours & Tickets
+appId :  com.viator.mobile.android
+score :  4.753915
+installs : 1,000,000+
+ratings :  17296
+reviews :  1649
+
+title :  شب | اجاره ویلا سوئیت بومگردی
+appId :  travel.shab
+score :  4.142857
+installs : 100,000+
+ratings :  268
+reviews :  6
+
+title :  Booking Counter
+appId :  pk.bookingcounter
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Digital Speedometer - GPS
+appId :  com.mnappsstudio.speedometer.speedcamera.detector
+score :  4.4035716
+installs : 1,000,000+
+ratings :  20016
+reviews :  1332
+
+title :  Reserveem - Book now
+appId :  com.reserveem
+score :  0
+installs : 100+
+ratings :  0
+reviews :  0
+
+title :  Lime - #RideGreen
+appId :  com.limebike
+score :  4.805872
+installs : 10,000,000+
+ratings :  423027
+reviews :  21543
+
+title :  PK BUSES: Bus Info in Pakistan
+appId :  com.rankcodes.pkbuses
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Train Info - Where is My Train
+appId :  train.info.rsa.pnr
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Benz E Class: Extreme Super Mo
+appId :  com.bg.city.car.simulator.mercedes.benz.eclass
+score :  3.5555556
+installs : 500,000+
+ratings :  1101
+reviews :  3
+
+title :  Country Code
+appId :  com.feniworks.countrycodenew
+score :  4.4736843
+installs : 100,000+
+ratings :  694
+reviews :  8
+
+title :  Hopper: Hotels, Flights & Cars
+appId :  com.hopper.mountainview.play
+score :  3.7429986
+installs : 10,000,000+
+ratings :  120166
+reviews :  23456
+
+title :  Cheap Flights & Tickets
+appId :  com.flightsbooking.tickets.app
+score :  4.58
+installs : 100,000+
+ratings :  4744
+reviews :  88
+
+title :  Pickup Truck - Racing Truck
+appId :  com.racing.pickup.truck
+score :  4.53
+installs : 500,000+
+ratings :  2123
+reviews :  87
+
+title :  Ticket price check app
+appId :  all.air.ts
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Zee TV Serials - Zeetv Guide
+appId :  com.second.alwinu009.developer.Zeetv
+score :  0
+installs : 500+
+ratings :  0
+reviews :  0
+
+title :  Oman Air
+appId :  com.omanair.android
+score :  3.36
+installs : 500,000+
+ratings :  3899
+reviews :  32
+
+title :  Visa Check All Country
+appId :  com.coupon.country
+score :  3.4
+installs : 100,000+
+ratings :  229
+reviews :  1
+
+title :  Cheap Flights
+appId :  com.flightina.flights
+score :  4.4
+installs : 100,000+
+ratings :  2787
+reviews :  106
+
+title :  Pak Truck Driver 2020: Offroad
+appId :  com.canvas.pakistani.cultrual.truck.simulator
+score :  4.625
+installs : 500,000+
+ratings :  1207
+reviews :  2
+
+title :  FlightStats
+appId :  com.conducivetech.android.traveler
+score :  4.197183
+installs : 1,000,000+
+ratings :  25313
+reviews :  1458
+
+title :  Book Tickets:Train status, PNR
+appId :  com.railyatri.in.mobile
+score :  4.5927835
+installs : 50,000,000+
+ratings :  1444517
+reviews :  1735
+
+title :  LoungeKey
+appId :  com.loungekey.android
+score :  4.52
+installs : 1,000,000+
+ratings :  9712
+reviews :  98
+
+title :  Wanderlog - Trip Planner App
+appId :  com.wanderlog.android
+score :  4.6680326
+installs : 500,000+
+ratings :  6207
+reviews :  1085
+
+title :  Instabridge eSIM: Global Data
+appId :  com.instabridge.android.mobiledata
+score :  4
+installs : 10,000+
+ratings :  273
+reviews :  16
+
+title :  Couchsurfing Travel App
+appId :  com.couchsurfing.mobile.android
+score :  3.0143027
+installs : 5,000,000+
+ratings :  109986
+reviews :  3030
+
+title :  Private Bus Mod Bussid
+appId :  com.monstermod.privatebusmodbussid
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Live Camera
+appId :  com.sigmamarine.webcams
+score :  4.18
+installs : 1,000,000+
+ratings :  6431
+reviews :  211
+
+title :  nol Pay
+appId :  com.snowballtech.rta
+score :  4.142857
+installs : 100,000+
+ratings :  345
+reviews :  4
+
+title :  FlixBus: Book Bus Tickets
+appId :  de.flixbus.app
+score :  4.6349497
+installs : 10,000,000+
+ratings :  383677
+reviews :  4107
+
+title :  Live Train : Locate My Train
+appId :  com.webnewsapp.indianrailways
+score :  4.72
+installs : 1,000,000+
+ratings :  35630
+reviews :  46
+
+title :  Hajj App
+appId :  com.elm.shaaer.applicant.mobile
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  СУТОЧНО.РУ: отели, квартиры
+appId :  ru.sutochno_redesign
+score :  4.4915257
+installs : 1,000,000+
+ratings :  11564
+reviews :  12
+
+title :  World Clock : All Country Time
+appId :  com.angel.world.clock
+score :  3.44
+installs : 500,000+
+ratings :  1451
+reviews :  52
+
+title :  GPS Map Camera
+appId :  com.jkfantasy.gpsmapcamera
+score :  4.524272
+installs : 10,000,000+
+ratings :  76882
+reviews :  304
+
+title :  Train Enquiry Live Train PNR
+appId :  com.skbose11.Train
+score :  0
+installs : 1,000,000+
+ratings :  0
+reviews :  0
+
+title :  Al-Nusuk Guide | مرشد النسك
+appId :  org.riotulab.alnusuk_guide
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Live Earth Map: Street View 3D
+appId :  com.live.earth.map.cam.street.view
+score :  4.32
+installs : 5,000,000+
+ratings :  16853
+reviews :  226
+
+title :  almatar: Book Flights & Hotels
+appId :  com.almatar
+score :  4.133333
+installs : 500,000+
+ratings :  6800
+reviews :  42
+
+title :  AlpineQuest Explorer Lite
+appId :  psyberia.alpinequest.free
+score :  4.49
+installs : 1,000,000+
+ratings :  15012
+reviews :  448
+
+title :  Cleartrip Flights, Hotels, Bus
+appId :  com.cleartrip.android
+score :  4.294044
+installs : 10,000,000+
+ratings :  301884
+reviews :  3324
+
+title :  Yandex Navigator
+appId :  ru.yandex.yandexnavi
+score :  4.1386433
+installs : 100,000,000+
+ratings :  1676733
+reviews :  972
+
+title :  QuBED Hospitality
+appId :  com.qubed
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  BusCaro
+appId :  com.buscaro.passenger
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Canada Visa Apply
+appId :  com.visaapp.canadavisaapply
+score :  4.2
+installs : 10,000+
+ratings :  116
+reviews :  2
+
+title :  Lahore Bus Guide
+appId :  com.devstudio.busguide
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Jazeera Airways
+appId :  com.winit.jazeeraairways
+score :  4.13
+installs : 500,000+
+ratings :  4417
+reviews :  36
+

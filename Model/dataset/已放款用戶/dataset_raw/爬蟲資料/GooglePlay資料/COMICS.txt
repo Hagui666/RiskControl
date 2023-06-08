@@ -1,0 +1,1106 @@
+title :  Comikey - Manga & Webcomics
+appId :  com.comikey.banagher
+score :  3.580247
+installs : 100,000+
+ratings :  793
+reviews :  37
+
+title :  Tapas – Comics and Novels
+appId :  com.tapastic
+score :  4.259792
+installs : 5,000,000+
+ratings :  104474
+reviews :  12358
+
+title :  Marvel Unlimited
+appId :  com.marvel.unlimited
+score :  4.672012
+installs : 5,000,000+
+ratings :  73524
+reviews :  8920
+
+title :  WEBTOON
+appId :  com.naver.linewebtoon
+score :  4.7491355
+installs : 100,000,000+
+ratings :  3074805
+reviews :  86373
+
+title :  Ice Princess Makeup Salon
+appId :  air.com.winkypinky.iceprincessmakeupsalonforsisters
+score :  4.1034484
+installs : 1,000,000+
+ratings :  4153
+reviews :  12
+
+title :  BILIBILI COMICS - Manga Reader
+appId :  com.bilibili.comic.intl
+score :  4.5323234
+installs : 10,000,000+
+ratings :  261813
+reviews :  4018
+
+title :  Cloud Gaming Station-PC Games
+appId :  com.cloudgaming.station.android.project
+score :  4.54
+installs : 10,000+
+ratings :  2342
+reviews :  43
+
+title :  MANGA Plus by SHUEISHA
+appId :  jp.co.shueisha.mangaplus
+score :  3.948097
+installs : 10,000,000+
+ratings :  61579
+reviews :  1107
+
+title :  MangaToon - Manga Reader
+appId :  mobi.mangatoon.comics.aphone
+score :  4.1683216
+installs : 10,000,000+
+ratings :  657214
+reviews :  5571
+
+title :  Draw Cartoons 2
+appId :  com.zalivka.animation2
+score :  4.4507284
+installs : 10,000,000+
+ratings :  345555
+reviews :  15259
+
+title :  Animal Farm Sim Farming Games
+appId :  com.legendary.farm.animal.sim
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Green Forest Hell Wallpaper
+appId :  com.Green_Hell.Green_Hell_Wallpaper
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  WebComics - Webtoon & Manga
+appId :  com.webcomics.manga
+score :  4.1800385
+installs : 5,000,000+
+ratings :  214252
+reviews :  25380
+
+title :  Freedom Fighter
+appId :  com.freedomfighter.sniper.shootinggame
+score :  2.7777777
+installs : 100,000+
+ratings :  675
+reviews :  6
+
+title :  IGI: Military Commando Shooter
+appId :  com.xtreme.Military.IGI.Commando3D
+score :  4.2647057
+installs : 1,000,000+
+ratings :  8560
+reviews :  11
+
+title :  Manga US!
+appId :  com.qubitart.mangaus
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Super Hero Us Vice Town Gangst
+appId :  us.heroman.mafia.crime.rope.heros.superheros
+score :  4.5841584
+installs : 1,000,000+
+ratings :  5671
+reviews :  106
+
+title :  Imran Series - Urdu Novels
+appId :  com.app.imranseries
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Translator Woman's Voice - TTS
+appId :  br.com.escolhatecnologia.voztradutor
+score :  4.072581
+installs : 10,000,000+
+ratings :  465347
+reviews :  1142
+
+title :  Superhero Flying speedster
+appId :  com.Pygmies.superhero.flash.rescue.free
+score :  4.071429
+installs : 500,000+
+ratings :  547
+reviews :  16
+
+title :  Cover Hunter - 3v3 Team Battle
+appId :  com.bl.cod.black.ops
+score :  4.3294797
+installs : 10,000,000+
+ratings :  58149
+reviews :  474
+
+title :  Watch Anime Series Online
+appId :  manga.anime.toon
+score :  2.27
+installs : 100,000+
+ratings :  1329
+reviews :  55
+
+title :  Lezhin Comics - Daily Releases
+appId :  com.lezhin.comics
+score :  3.7612903
+installs : 5,000,000+
+ratings :  50014
+reviews :  5234
+
+title :  US President Security Car Game
+appId :  com.us.president.security.car.game
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Battle Royale Chapter4 Season2
+appId :  com.epicgame.battleroyaleseason6
+score :  3.9384165
+installs : 1,000,000+
+ratings :  12384
+reviews :  586
+
+title :  Picasso : Live Tv show, Movies
+appId :  com.livetvallchannels.tvallchannel.freetv.allchannelsguide.livelifeapp
+score :  3.8214285
+installs : 1,000,000+
+ratings :  4493
+reviews :  3
+
+title :  Manta: Comics & Graphic Novels
+appId :  net.manta.comic
+score :  4.5530663
+installs : 1,000,000+
+ratings :  45591
+reviews :  2829
+
+title :  Scary Lion Crime City Attack
+appId :  com.vgs.scary.lion.city.attack.game
+score :  4
+installs : 500,000+
+ratings :  1127
+reviews :  4
+
+title :  네이버 웹툰 - Naver Webtoon
+appId :  com.nhn.android.webtoon
+score :  4.7487683
+installs : 10,000,000+
+ratings :  271938
+reviews :  672
+
+title :  SelfComic: Super Saiyan Photo
+appId :  photo.smile.comic.dragonz
+score :  4
+installs : 500,000+
+ratings :  2011
+reviews :  33
+
+title :  US Army Missile Attack & Ultim
+appId :  com.mayhem.us.army.missile.attack.ultimate.war
+score :  3
+installs : 100,000+
+ratings :  669
+reviews :  6
+
+title :  Fake Battery Charge Animation
+appId :  com.fakebattery.charginganimation.animations.prank
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Border Police Dog Duty: Sniffe
+appId :  com.eg.border.police.dog.duty.game
+score :  3.5
+installs : 100,000+
+ratings :  280
+reviews :  2
+
+title :  Crayon Shin Chan Video Call
+appId :  com.Crayon.Shin.Chan
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Real Gangster Crime Open World
+appId :  com.gamingsqaure.Real.Gangster.Crime.City.Third.Person.Shooter
+score :  4.3
+installs : 100,000+
+ratings :  842
+reviews :  2
+
+title :  Toomics - Read Premium Comics
+appId :  com.toomics.global.google
+score :  4.142373
+installs : 1,000,000+
+ratings :  25711
+reviews :  1211
+
+title :  Racing Dog Simulator: Crazy Do
+appId :  com.xgs.dog.racing.games.dog.simulator
+score :  3
+installs : 100,000+
+ratings :  429
+reviews :  5
+
+title :  4 Anime: Anime Watching App
+appId :  four.anime.watch.anime.gogoanime
+score :  4.181818
+installs : 5,000+
+ratings :  93
+reviews :  10
+
+title :  Manga UP!
+appId :  com.square_enix.android_googleplay.mangaup_global
+score :  4.4451613
+installs : 100,000+
+ratings :  6970
+reviews :  280
+
+title :  FoxAnime Watch kissanime hd
+appId :  xyz.fox.animefree
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Pro Blue Hedgehog - Ultimate A
+appId :  com.bitzstudionewgame.probluehedgehogsonicruns
+score :  3.7297297
+installs : 1,000,000+
+ratings :  1533
+reviews :  17
+
+title :  Lion Vs Tiger Wild Animal Simu
+appId :  com.animalfs.lion.vs.tiger
+score :  3.1666667
+installs : 500,000+
+ratings :  1027
+reviews :  9
+
+title :  Urdu Lateefay
+appId :  com.rangli.lateefay
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Magnifier Camera: Microscope
+appId :  com.skyskraper.magnifier.magnifyingglass.zoomer.magnifying
+score :  3.2
+installs : 5,000+
+ratings :  38
+reviews :  6
+
+title :  Iron Stickman Rope Hero Gangst
+appId :  com.ironboy.stickman.rope.hero
+score :  3.68
+installs : 1,000,000+
+ratings :  5552
+reviews :  152
+
+title :  Deadly Shores Dinosaur Hunting
+appId :  com.Tycoon.best.sniper.shooting.dino.hunt
+score :  3.826087
+installs : 1,000,000+
+ratings :  3563
+reviews :  10
+
+title :  Connected Glass Addon
+appId :  com.GlazierCompany.ConnectedGlassAddon
+score :  3.7272727
+installs : 10,000+
+ratings :  847
+reviews :  13
+
+title :  Jason Calling - Fake Friday 13
+appId :  us.fakevideocallingprank.jasonfriday
+score :  3.8695652
+installs : 100,000+
+ratings :  110
+reviews :  4
+
+title :  Dark Blue Hedgehog Rope Hero
+appId :  com.khurogames.bluehedgehog.ropehero
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  POCKET COMICS: Premium Webtoon
+appId :  io.comico
+score :  4.4471316
+installs : 1,000,000+
+ratings :  29579
+reviews :  3498
+
+title :  Manga Guys
+appId :  com.qubitart.mangaguys
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Insult-o-Matic
+appId :  de.casparwre.insult
+score :  3.85
+installs : 500,000+
+ratings :  4610
+reviews :  455
+
+title :  Temple Princess Endless Royal 
+appId :  com.ngs.amazing.endless.temple.princess.finaljunglerunninggame
+score :  3.857143
+installs : 500,000+
+ratings :  1509
+reviews :  4
+
+title :  scp 096 mod for garry's mod
+appId :  com.garrysscpmod.modforgarry0scp
+score :  3.375
+installs : 10,000+
+ratings :  62
+reviews :  3
+
+title :  Iron Man Arc Reactor Tshirt Ch
+appId :  com.lionosur.ironmanarcreactor
+score :  4.4
+installs : 100,000+
+ratings :  3315
+reviews :  49
+
+title :  Fart Sounds
+appId :  br.com.meiatech.sonsdepeido
+score :  4.4972973
+installs : 1,000,000+
+ratings :  10724
+reviews :  988
+
+title :  Pashto Lateefay - Jokes
+appId :  com.innovativefriends.pashtolateefay
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Dark Horse Comics
+appId :  com.darkhorse.digital
+score :  3.5106382
+installs : 1,000,000+
+ratings :  12870
+reviews :  1071
+
+title :  Wednesday Addams Call Prank
+appId :  com.wednesday.prankcall
+score :  3.4
+installs : 10,000+
+ratings :  6
+reviews :  2
+
+title :  INKR — Comics, Manga, Webtoons
+appId :  com.inkr.comics
+score :  4.0743804
+installs : 500,000+
+ratings :  6469
+reviews :  330
+
+title :  Army Toys War Attack Shooting
+appId :  com.hv.army.toys.war.attack.shooting.game
+score :  4.5555553
+installs : 100,000+
+ratings :  452
+reviews :  5
+
+title :  Mighty Raju
+appId :  com.magzter.mightyraju
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Virtual Air Hostess  Simulator
+appId :  com.papasgamingcrush.virtual.airhostess.modern.sky.attendant.simulator
+score :  3.4
+installs : 10,000+
+ratings :  108
+reviews :  3
+
+title :  Wild Animal Hunting Games
+appId :  com.capstonestudio.expert.hunter.animals.hunting.sniper.safari.survival.freegame
+score :  4.3384614
+installs : 100,000+
+ratings :  390
+reviews :  16
+
+title :  Pickup Truck Parking - Truck
+appId :  com.parking.pickup.truck
+score :  4.75
+installs : 5,000+
+ratings :  294
+reviews :  10
+
+title :  Super Car Robot Transformer: F
+appId :  com.superrobot.robot.car.transform.gta.gangaster.Crime
+score :  4.7777777
+installs : 50,000+
+ratings :  134
+reviews :  3
+
+title :  ComicScreen - PDF, ComicReader
+appId :  com.viewer.comicscreen
+score :  4.6422763
+installs : 1,000,000+
+ratings :  64786
+reviews :  1301
+
+title :  Sounds of Letters: ABC
+appId :  com.remind4u2.sounds.of.letters.alphabet.kids
+score :  3.6831684
+installs : 100,000+
+ratings :  1363
+reviews :  47
+
+title :  Comic Book Reader (cbz/cbr)
+appId :  ru.androidtools.comic_book_magazine_reader_cbr_cbz
+score :  4.0625
+installs : 100,000+
+ratings :  1340
+reviews :  21
+
+title :  temple lost oz run 3
+appId :  com.ssg.endless.real.temple.princess.royal.oz.castle.snow.dragon.escape.game
+score :  4.8333335
+installs : 500,000+
+ratings :  985
+reviews :  2
+
+title :  Pepi fake call
+appId :  com.pepi.wonder.call.mboulou
+score :  1
+installs : 10,000+
+ratings :  121
+reviews :  6
+
+title :  Pratilipi Comics
+appId :  com.pratilipi.comics
+score :  4.12
+installs : 10,000,000+
+ratings :  55194
+reviews :  37
+
+title :  Super Light Speed Robot Superh
+appId :  com.ogs.flashhero.lighthero.flashcrime.cityrescue
+score :  3.2970297
+installs : 1,000,000+
+ratings :  2707
+reviews :  59
+
+title :  I Survived 100 DAYS as a Santa
+appId :  com.minecraft_Robot.modsformcpe_Roblox.pixelmonmod_Pikae
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  garry's mod weapons mod
+appId :  com.weaponsforgarrys.modgarrys
+score :  4.3333335
+installs : 50,000+
+ratings :  56
+reviews :  1
+
+title :  Desi Hot Hindi Kahaniya
+appId :  com.ourbestkahani.hindidesikahani.hindidesikahaniya
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  SelfComic: Sasuke Ninja Photo
+appId :  photo.smile.comic.ninja
+score :  4.28
+installs : 1,000,000+
+ratings :  4478
+reviews :  82
+
+title :  Flight Simulator Pilot Games
+appId :  com.xtreme.flight.pilot.simulator.ultimate
+score :  2.5454545
+installs : 100,000+
+ratings :  758
+reviews :  21
+
+title :  Marines Army Mafia Crime Simul
+appId :  us.marines.army.gta.armygranny.city.crime
+score :  4.2459016
+installs : 100,000+
+ratings :  1271
+reviews :  33
+
+title :  Ghost Hunter Shooting Games
+appId :  com.pt.ghost.hunter.shooter.shooting.games
+score :  2.5
+installs : 100,000+
+ratings :  415
+reviews :  9
+
+title :  Ultimate Robot Lion Vs Tiger R
+appId :  com.kablamgames.ultimate.robot.lion.tigertranform
+score :  4
+installs : 500,000+
+ratings :  627
+reviews :  3
+
+title :  kungfu city fighting game
+appId :  com.pygmies.fighting.rescue.hero.extreme.city
+score :  3.18
+installs : 500,000+
+ratings :  969
+reviews :  46
+
+title :  Beat Em Up Women Wrestling Rum
+appId :  com.mtech.beatem.up.women.wrestling.rumble
+score :  3.5238094
+installs : 100,000+
+ratings :  584
+reviews :  11
+
+title :  Lalatoon - Comics & Webtoon
+appId :  com.lalatoon.android
+score :  3.340909
+installs : 100,000+
+ratings :  798
+reviews :  17
+
+title :  Astonishing Comic Reader
+appId :  com.aerilys.acr.android
+score :  4.4473686
+installs : 1,000,000+
+ratings :  27379
+reviews :  2239
+
+title :  Crazycraft mod
+appId :  com.crazymodcraftm
+score :  1.96
+installs : 10,000+
+ratings :  190
+reviews :  14
+
+title :  Cartoon Comic Strip Maker
+appId :  com.csmart.cartooncomic.stripmaker
+score :  4.09
+installs : 500,000+
+ratings :  6269
+reviews :  89
+
+title :  Horse Racing Derby Horse Games
+appId :  com.coresolhub.TheRider
+score :  3.4
+installs : 500,000+
+ratings :  655
+reviews :  6
+
+title :  Photo talks: speech bubbles
+appId :  com.fueneco.talking.photos
+score :  4.3418803
+installs : 1,000,000+
+ratings :  11341
+reviews :  382
+
+title :  Horse Carriage Offroad Transpo
+appId :  com.tigs.horse.carriage.offroad.transport.game.stable.horsehotel.horsegames.horseracing
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Funny Jokes And Riddles
+appId :  marcostudios.funnyjokes
+score :  4.4158416
+installs : 50,000+
+ratings :  1114
+reviews :  85
+
+title :  Funny Jokes offline
+appId :  com.hrghazali.developer.tenkplusjokescleanpdirty01
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  izneo: Manga, Webtoon, Comics
+appId :  fr.airweb.izneo
+score :  2.9
+installs : 1,000,000+
+ratings :  5093
+reviews :  70
+
+title :  Sexy Anime Girl Wallpaper Pro
+appId :  yanyan.sexy.anime.girl.wallpaper
+score :  4.5
+installs : 10,000+
+ratings :  97
+reviews :  4
+
+title :  Manga World
+appId :  man.appworld.eight
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Roblox rainbow friend mod
+appId :  com.robloxrainbowmodforgarrys.modroblox
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Simple Sitting Mod
+appId :  com.mcpempe.abilitytosit
+score :  2.6
+installs : 5,000+
+ratings :  77
+reviews :  3
+
+title :  WeComics TH: Webtoon
+appId :  com.ookbee.ookbeecomics.android
+score :  2.33
+installs : 1,000,000+
+ratings :  65406
+reviews :  158
+
+title :  ACG Girl Sexy Anime Wallpaper
+appId :  galjobs.sexy.anime.girl.wallpaper
+score :  4.5
+installs : 5,000+
+ratings :  72
+reviews :  2
+
+title :  Animeflv - Anime tv sub & dub
+appId :  net.animeflv.player
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Angry munci nextbot for Roblox
+appId :  com.robloxnextbot.angrymuncigarrys
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Unicorn Comics
+appId :  pl.netigen.unicorn.comics
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Tractor Parking Game - Tractor
+appId :  com.parking.tractor
+score :  5
+installs : 10,000+
+ratings :  291
+reviews :  12
+
+title :  Bunny mod for Garry's mod
+appId :  com.bunnymod.attacksgram
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Manga Translator
+appId :  com.ismanga.ismanga
+score :  3
+installs : 10,000+
+ratings :  74
+reviews :  3
+
+title :  delitoon
+appId :  com.delitoon
+score :  3.1470587
+installs : 500,000+
+ratings :  8062
+reviews :  16
+
+title :  봄툰 - Bomtoon Webtoon
+appId :  com.bomcomics.bomtoon.playstore
+score :  3.5555556
+installs : 100,000+
+ratings :  705
+reviews :  7
+
+title :  CDisplayEx Comic Reader Lite
+appId :  com.progdigy.cdisplay.free
+score :  4.36
+installs : 500,000+
+ratings :  10815
+reviews :  207
+
+title :  Ultimate Futuristic flying bus
+appId :  com.mk.ultimate.futuristic.flying.real.bus.driving.games
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  How To Draw Comics
+appId :  com.creative.Learn.to.draw.comics
+score :  4.3209877
+installs : 1,000,000+
+ratings :  18639
+reviews :  914
+
+title :  VoyceMe
+appId :  com.io.voyceme
+score :  3.2
+installs : 50,000+
+ratings :  234
+reviews :  22
+
+title :  Cat Juan Talking Fake Call
+appId :  com.catjuan.talking.fakecall
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Animal Stickers for WhatsApp
+appId :  com.hutapp.animalstickers
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Cat Stickers for WhatsApp
+appId :  com.hutappid.catstickers
+score :  4.395349
+installs : 1,000,000+
+ratings :  2869
+reviews :  15
+
+title :  Data Recovery - File Recovery
+appId :  com.tubertech.datarecovery.media.recovery
+score :  3.5614035
+installs : 10,000+
+ratings :  286
+reviews :  43
+
+title :  Sniper Animal Hunting 2019
+appId :  com.gv.sniper.animal.hunting
+score :  3.5
+installs : 1,000,000+
+ratings :  1976
+reviews :  9
+
+title :  Stickers Macacos Animados
+appId :  com.CleanCode.WAStickerAppsStickersMacacosAnimados
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  WeRead
+appId :  com.novelss.weread
+score :  4.3
+installs : 1,000,000+
+ratings :  65748
+reviews :  64
+
+title :  Baby Car Wash Garage Games
+appId :  com.kids.car.wash.auto.workshop
+score :  5
+installs : 100,000+
+ratings :  452
+reviews :  20
+
+title :  Spider Stickman Panther Rope H
+appId :  com.multiPanther.stickman.ropehero.avengers.crime
+score :  3.2183907
+installs : 100,000+
+ratings :  1484
+reviews :  50
+
+title :  Medieval Kingdom Map
+appId :  com.medieval.medievalKingdomMapforminecraft
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Cartoon tv - Cartoon Online HD
+appId :  com.cartoontv.cartoononline.hd
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Ficbook: Read Fictions Anytime
+appId :  dmw.comicworld.app
+score :  4.24
+installs : 500,000+
+ratings :  3461
+reviews :  427
+
+title :  Tinyview Comics
+appId :  com.newput.tinyview
+score :  4.5742574
+installs : 100,000+
+ratings :  2306
+reviews :  75
+
+title :  DELITOON DE - Manga & Comics
+appId :  de.delitoon
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Manga Translator
+appId :  com.wiryaimd.mangatranslator
+score :  2.9166667
+installs : 100,000+
+ratings :  554
+reviews :  27
+
+title :  Baby Elephant - Circus Star
+appId :  com.sangames.baby.elephant.circus.star
+score :  4.5238094
+installs : 50,000+
+ratings :  288
+reviews :  10
+
+title :  Beauty Anime Girls Wallpapers 
+appId :  alpha.hd.anime.girls.wallpapers
+score :  4.8
+installs : 100,000+
+ratings :  1781
+reviews :  65
+
+title :  comico การ์ตูนและนิยายออนไลน์
+appId :  com.toast.comico.th
+score :  3.445946
+installs : 5,000,000+
+ratings :  111690
+reviews :  46
+
+title :  Comic Books - CBZ, CBR Reader
+appId :  apps.android.books.comicx.comicbooks
+score :  3.7058823
+installs : 10,000+
+ratings :  231
+reviews :  7
+
+title :  Little Nightmares Comics
+appId :  eu.bandainamcoent.LNDC
+score :  4.815534
+installs : 500,000+
+ratings :  11632
+reviews :  438
+
+title :  Impossible Car Parking
+appId :  com.mk.top.games.real.extreme.car.parking.impossible.drive.track.crazy
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Battle Survival Desert Shootin
+appId :  com.sooting.survival.desert.game
+score :  3
+installs : 100,000+
+ratings :  510
+reviews :  5
+
+title :  MPCPE Stumble Guys Wallpaper
+appId :  com.rampokdolarlcc.stumbleguys
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+
+title :  Animated Ninja Cartoon Maker
+appId :  com.avatarmaker.ninja
+score :  4.31
+installs : 100,000+
+ratings :  878
+reviews :  75
+
+title :  Magical Mod
+appId :  com.addonmcpemodpe.modformcpeMagicalModaddon
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  DC Characters
+appId :  com.dccharacters.android
+score :  4
+installs : 50,000+
+ratings :  522
+reviews :  31
+
+title :  ToryComics –Webtoon & Comics
+appId :  com.toryworks.torycomics
+score :  3.75
+installs : 1,000,000+
+ratings :  19190
+reviews :  169
+
+title :  US Soldier Jungle Survival Las
+appId :  com.tigs.army.commando.jungle.survival.battlegrounds.tiptaptoe.ww2.war.tps.fps
+score :  1.5714285
+installs : 50,000+
+ratings :  191
+reviews :  6
+
+title :  Counter Strike CS Gun Game
+appId :  com.play.vertex.counter.terrorist.strike.cs.critical.attack.ops.fps.apps
+score :  3.857143
+installs : 50,000+
+ratings :  290
+reviews :  5
+
+title :  Home Security Mod
+appId :  com.mpemods.sechome
+score :  2.4285715
+installs : 10,000+
+ratings :  47
+reviews :  4
+
+title :  Key Collector Comics Database
+appId :  com.keycollectorcomics.keycollector
+score :  4.537396
+installs : 100,000+
+ratings :  4476
+reviews :  1671
+
+title :  Card Maker for PKM
+appId :  co.pamobile.pokemon.cardmaker
+score :  4.1242604
+installs : 1,000,000+
+ratings :  21002
+reviews :  4041
+
+title :  Haircut prank, air horn & fart
+appId :  com.iprankstudio.fartingsounds
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Dinosaur Game: Hunting Clash
+appId :  com.royalgames.dinosaur.game.jurassic.dino.hunter.world.survival
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Flood Rescue Games - Swimming 
+appId :  com.flood.rescue.mission.games
+score :  0
+installs : 10,000+
+ratings :  0
+reviews :  0
+
+title :  Airplane Fire Fighter  Ambulan
+appId :  com.crownarts.airportfiretruckrescue
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Challenger Comics Viewer
+appId :  org.kill.geek.bdviewer
+score :  4.1766233
+installs : 1,000,000+
+ratings :  21844
+reviews :  687
+
+title :  iCollect Comic Books
+appId :  com.icollect.comic
+score :  3.3714285
+installs : 10,000+
+ratings :  116
+reviews :  33
+
+title :  CALL WEDNSADY VIDEO
+appId :  com.wednesday_video.call_addams
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Cartoon Video & Gif Maker
+appId :  com.avatarmaker.cartoonmaker
+score :  3.74
+installs : 1,000,000+
+ratings :  8611
+reviews :  482
+
+title :  Mazaia Urdu Shayri SMS Status
+appId :  com.innovativefriends.mazaiashayri
+score :  0
+installs : 1,000+
+ratings :  0
+reviews :  0
+
+title :  Spider Hunter Assassin Game
+appId :  com.royalgames.hunter.assassin.spiderman.rope.hero
+score :  0
+installs : 50,000+
+ratings :  0
+reviews :  0
+
+title :  Zip Image Viewer
+appId :  com.soywiz.zipimagegallery
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Ultimate Lion Family Simulator
+appId :  com.axondevgames.ultimate.lion.family.simulator
+score :  3
+installs : 100,000+
+ratings :  326
+reviews :  7
+
+title :  Draw Glow Comics
+appId :  com.colorjoy.learn.to.draw.glow.comics
+score :  4.4072165
+installs : 5,000,000+
+ratings :  20147
+reviews :  1092
+
+title :  Necronomicon- العزيف صوت الجن
+appId :  com.booker.necronomicon
+score :  0
+installs : 5,000+
+ratings :  0
+reviews :  0
+
+title :  Hindi Comics
+appId :  gd.lu.ck.comic
+score :  0
+installs : 100,000+
+ratings :  0
+reviews :  0
+

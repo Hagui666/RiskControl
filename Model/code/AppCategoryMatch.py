@@ -68,12 +68,12 @@ def AppList(folder_path):
 
 # %% # TODO 爬蟲資料讀取&欄位字串處理
 # ** 第一次爬蟲資料
-folder = r"D:\Model\dataset\已放款用戶\dataset_raw\爬蟲資料\GooglePlay資料"
+folder = r"C:\Users\NiuNi\OneDrive\桌面\RiskControl\Model\dataset\已放款用戶\dataset_raw\爬蟲資料\GooglePlay資料"
 
 GooglePlayData_raw = AppList(folder)
 
 # ** 第二次爬蟲
-ScrapyData = pd.read_excel(r"D:\Model\dataset\已放款用戶\dataset_raw\爬蟲資料\output_file.xlsx")
+ScrapyData = pd.read_excel(r"C:\Users\NiuNi\OneDrive\桌面\RiskControl\Model\dataset\已放款用戶\dataset_raw\爬蟲資料\output_file.xlsx")
 
 ScrapyData.rename(columns={'genreId':'category'},inplace=True)
 ScrapyData['appId'] = ScrapyData['appId'].str.replace(' ', '')
@@ -183,13 +183,13 @@ AppCategory.duplicated(subset=['appId']).sum()
 # ** 暫時無 appId 有跨類別
 
 AppCategory.rename(columns={'title':'name'},inplace=True)
-AppCategory.to_excel(r"D:\Model\dataset\已放款用戶\dataset_processed\AppCategory.xlsx",index=False)
+# AppCategory.to_excel(r"C:\Users\NiuNi\OneDrive\桌面\RiskControl\Model\dataset\已放款用戶\dataset_processed\AppCategory.xlsx",index=False)
 AppCategory
 
 
 
 # %% # TODO 讀取全部app list raw data
-app_list_folder = r"D:\Model\dataset\已放款用戶\dataset_raw\app_list"
+app_list_folder = r"C:\Users\NiuNi\OneDrive\桌面\RiskControl\Model\dataset\已放款用戶\dataset_raw\app_list"
 
 items = os.listdir(app_list_folder)
 AppsLogRaw = pd.DataFrame()
@@ -300,22 +300,22 @@ AppsLogRaw.isna().sum()
 
 # %% # TODO 已歸類、未歸類 appId export
 AppIdCategory = AppsLogRaw[['appId','name','category']].drop_duplicates(subset=['appId'],keep='first')
-AppIdCategory.to_excel(r"D:\Model\dataset\已放款用戶\dataset_processed\AppIdCategory.xlsx",index=False)
+# AppIdCategory.to_excel(r"C:\Users\NiuNi\OneDrive\桌面\RiskControl\Model\dataset\已放款用戶\dataset_processed\AppIdCategory.xlsx",index=False)
 AppIdCategory
 
 
 
 # %% # TODO 對已歸類&未歸類 appId 進行演算法匹配 進一步歸類
-AppIdMatch = AppsLogRaw[~AppsLogRaw['category'].isna()][['appId','category']].drop_duplicates(subset=['appId','category'],keep='first')
+# AppIdMatch = AppsLogRaw[~AppsLogRaw['category'].isna()][['appId','category']].drop_duplicates(subset=['appId','category'],keep='first')
 # AppIdMatch
 
-AppIdNoMatch = AppsLogRaw[AppsLogRaw['category'].isna()][['appId','category']].drop_duplicates(subset=['appId','category'],keep='first')
+# AppIdNoMatch = AppsLogRaw[AppsLogRaw['category'].isna()][['appId','category']].drop_duplicates(subset=['appId','category'],keep='first')
 # AppIdNoMatch
 
-df_A = AppIdNoMatch[['appId']] # 未歸類 appId
-df_B = AppIdMatch[['appId']] # 已歸類 appId
+# df_A = AppIdNoMatch[['appId']] # 未歸類 appId
+# df_B = AppIdMatch[['appId']] # 已歸類 appId
 
-df_C = pd.DataFrame(columns=['appId_A', 'appId_B', 'similarity']) # appId匹配表
+# df_C = pd.DataFrame(columns=['appId_A', 'appId_B', 'similarity']) # appId匹配表
 
 # 對 A表 的每一筆資料進行遍歷
 # 對 B表 的每一筆資料進行遍歷
@@ -325,58 +325,58 @@ df_C = pd.DataFrame(columns=['appId_A', 'appId_B', 'similarity']) # appId匹配�
 
 
 
-total_iterations = len(df_A['appId'])
-progress_val = math.ceil(total_iterations*0.2)
+# total_iterations = len(df_A['appId'])
+# progress_val = math.ceil(total_iterations*0.2)
 
 # TODO levenshtein distance matching
 
-df_levenshtein = df_C.copy()
+# df_levenshtein = df_C.copy()
 
-for i, appId_A in enumerate(df_A['appId']):
-    max_similarity = 0
-    max_appId_B = ''
+# for i, appId_A in enumerate(df_A['appId']):
+#     max_similarity = 0
+#     max_appId_B = ''
 
-    for appId_B in df_B['appId']:
-        similarity = 1 - levenshtein_distance(appId_A, appId_B) / max(len(appId_A), len(appId_B))
+#     for appId_B in df_B['appId']:
+#         similarity = 1 - levenshtein_distance(appId_A, appId_B) / max(len(appId_A), len(appId_B))
 
-        if similarity > max_similarity:
-            max_similarity = similarity
-            max_appId_B = appId_B
+#         if similarity > max_similarity:
+#             max_similarity = similarity
+#             max_appId_B = appId_B
 
-    df_levenshtein = df_levenshtein.append({'appId_A': appId_A, 'appId_B': max_appId_B, 'similarity': max_similarity}, ignore_index=True)
+#     df_levenshtein = df_levenshtein.append({'appId_A': appId_A, 'appId_B': max_appId_B, 'similarity': max_similarity}, ignore_index=True)
 
-    if (i + 1) % progress_val == 0:
-        progress = (i + 1) / total_iterations * 100
-        print(f"匹配進度:{progress}%")
+#     if (i + 1) % progress_val == 0:
+#         progress = (i + 1) / total_iterations * 100
+#         print(f"匹配進度:{progress}%")
 
-df_levenshtein.sort_values(by='similarity', ascending=False, inplace=True)
-df_levenshtein.to_excel(r"D:\Model\dataset\已放款用戶\dataset_processed\LevenshteinDistance_MatchingResult.xlsx",index=False)
-print(df_levenshtein.head(10))
+# df_levenshtein.sort_values(by='similarity', ascending=False, inplace=True)
+# df_levenshtein.to_excel(r"C:\Users\NiuNi\OneDrive\桌面\RiskControl\Model\dataset\已放款用戶\dataset_processed\LevenshteinDistance_MatchingResult.xlsx",index=False)
+# print(df_levenshtein.head(10))
 
 
 
 # TODO fuzzywuzzy matching
 # https://towardsdatascience.com/string-matching-with-fuzzywuzzy-e982c61f8a84
 
-df_fuzzy = df_C.copy()
+# df_fuzzy = df_C.copy()
 
-for i, appId_A in enumerate(df_A['appId']):
-    max_similarity = 0
-    max_appId_B = ''
+# for i, appId_A in enumerate(df_A['appId']):
+#     max_similarity = 0
+#     max_appId_B = ''
 
-    for appId_B in df_B['appId']:
-        similarity = fuzz.ratio(appId_A,appId_B)
+#     for appId_B in df_B['appId']:
+#         similarity = fuzz.ratio(appId_A,appId_B)
 
-        if similarity > max_similarity:
-            max_similarity = similarity
-            max_appId_B = appId_B
+#         if similarity > max_similarity:
+#             max_similarity = similarity
+#             max_appId_B = appId_B
 
-    df_fuzzy = df_fuzzy.append({'appId_A': appId_A, 'appId_B': max_appId_B, 'similarity': max_similarity}, ignore_index=True)
+#     df_fuzzy = df_fuzzy.append({'appId_A': appId_A, 'appId_B': max_appId_B, 'similarity': max_similarity}, ignore_index=True)
 
-    if (i + 1) % progress_val == 0:
-        progress = (i + 1) / total_iterations * 100
-        print(f"匹配進度:{progress}%")
+#     if (i + 1) % progress_val == 0:
+#         progress = (i + 1) / total_iterations * 100
+#         print(f"匹配進度:{progress}%")
 
-df_fuzzy.sort_values(by='similarity', ascending=False, inplace=True)
-df_fuzzy.to_excel(r"D:\Model\dataset\已放款用戶\dataset_processed\FuzzyWuzzy_MatchingResult.xlsx",index=False)
-print(df_fuzzy.head(10))
+# df_fuzzy.sort_values(by='similarity', ascending=False, inplace=True)
+# df_fuzzy.to_excel(r"C:\Users\NiuNi\OneDrive\桌面\RiskControl\Model\dataset\已放款用戶\dataset_processed\FuzzyWuzzy_MatchingResult.xlsx",index=False)
+# print(df_fuzzy.head(10))

@@ -11,6 +11,7 @@ import pandas as pd
 import os
 import re
 import math
+import numpy as np
 
 import matplotlib.pyplot as plt
 import plotly.express as px
@@ -380,3 +381,54 @@ AppIdCategory
 # df_fuzzy.sort_values(by='similarity', ascending=False, inplace=True)
 # df_fuzzy.to_excel(r"C:\Users\NiuNi\OneDrive\桌面\RiskControl\Model\dataset\已放款用戶\dataset_processed\FuzzyWuzzy_MatchingResult.xlsx",index=False)
 # print(df_fuzzy.head(10))
+
+
+
+# %%
+# Levenshtein Distance 匹配相似度數值在 75 以上會比較吻合，歸類準確度相對較好
+
+LevenshteinDistance_MatchingResult = pd.read_excel(r"C:\Users\NiuNi\OneDrive\桌面\RiskControl\Model\dataset\已放款用戶\dataset_processed\LevenshteinDistance_MatchingResult.xlsx")
+LevenshteinDistance_MatchingResult['similarity'] = LevenshteinDistance_MatchingResult['similarity'] * 100
+print('LevenshteinDistance 匹配相似度至少 75的匹配數量 =', len(LevenshteinDistance_MatchingResult[LevenshteinDistance_MatchingResult['similarity']>=75]))
+
+# ** 相似度大於 0.75 能夠歸類出 3870個 appId 的類別
+
+# FuzzyWuzzy 匹配相似度數值在 76 以上會比較吻合，歸類值準確度相對較好
+FuzzyWuzzy_MatchingResult = pd.read_excel(r"C:\Users\NiuNi\OneDrive\桌面\RiskControl\Model\dataset\已放款用戶\dataset_processed\FuzzyWuzzy_MatchingResult.xlsx")
+print('FuzzyWuzzy 匹配相似度至少 76的匹配數量 =', len(FuzzyWuzzy_MatchingResult[FuzzyWuzzy_MatchingResult['similarity']>=76]))
+# ** 相似度大於 76 能夠歸類出 7226個 appId 的類別
+
+
+
+# TODO 採用 FuzzyWuzzy 匹配方法的結果將未歸類的 appId歸類
+
+
+# %%
+FuzzyWuzzyPlot = FuzzyWuzzy_MatchingResult.groupby(pd.cut(FuzzyWuzzy_MatchingResult['similarity'], bins=range(0, 105, 5))).size()
+LevenshteinPlot = LevenshteinDistance_MatchingResult.groupby(pd.cut(LevenshteinDistance_MatchingResult['similarity'], bins=range(0, 105, 5))).size()
+
+x = np.arange(len(FuzzyWuzzyPlot))
+width = 0.35
+fig, ax = plt.subplots(figsize=(15, 12))
+rects1 = ax.bar(x - width/2, FuzzyWuzzyPlot.values, width, label='FuzzyWuzzy Matching', color='skyblue')
+rects2 = ax.bar(x + width/2, LevenshteinPlot.values, width, label='Levenshtein Distance Matching', color='lightgreen')
+
+for rects in [rects1, rects2]:
+    for rect in rects:
+        height = rect.get_height()
+        ax.annotate(f'{height}', xy=(rect.get_x() + rect.get_width() / 2, height), xytext=(0, 5),
+                    textcoords="offset points", ha='center', va='bottom', fontsize=10, fontweight='bold')
+
+ax.set_xticks(x)
+ax.set_xticklabels(FuzzyWuzzyPlot.index.astype(str), rotation=45, ha='right', fontsize=10)
+ax.set_ylabel('Count', fontsize=12)
+ax.set_title('Number of AppIDs in Similarity Intervals', fontsize=14, fontweight='bold')
+ax.legend()
+
+ax.spines['top'].set_visible(False)
+ax.spines['right'].set_visible(False)
+ax.set_facecolor('lightgray')
+
+fig.tight_layout()
+plt.show()
+# %%
